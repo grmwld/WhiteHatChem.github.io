@@ -8,29 +8,34 @@ import Card from '../components/Card.astro';
 	<Main active="home">
 		<main>
 			<section class="
+				flex flex-col items-center
 				main-width text-center
 				md:py-40
 			">
-				<h1 class="mx-auto md:text-6xl max-w-4xl font-bold">
+				<h1 class="md:text-6xl max-w-4xl font-bold">
 					Lorem ipsum <span class="text-indigo-400">dolor sit amet</span>, consectetur adipiscing elit.
 				</h1>
-				<p class="mx-auto md:text-lg max-w-2xl text-neutral-600 mt-6">
+				<p class="md:text-lg max-w-2xl text-neutral-600 mt-6">
 					Pellentesque accumsan risus tellus, vel consequat magna pharetra vitae. Nam in orci iaculis, consequat est nec, tristique nisi.
 				</p>
-				<div class="mx-auto mt-10">
-					<button
+				<div class="mt-10 flex items-center">
+					<a
+						href="/about"
 						class="py-1 px-3 rounded-xl text-white bg-indigo-400 hover:bg-indigo-600 transition duration-150"
 					>
 						Our Mission
-					</button>
-					<button class="
-						py-1 px-3 ml-2
-						rounded-xl text-neutral-600 hover:text-neutral-800
-						border border-2 border-neutral-200 hover:border-neutral-400 
-						transition duration-150
-					">
+					</a>
+					<a
+						href="/compounds?order=latest"
+						class="
+							py-1 px-3 ml-2
+							rounded-xl text-neutral-600 hover:text-neutral-800
+							border border-2 border-neutral-200 hover:border-neutral-400
+							transition duration-150
+						"
+					>
 						Latest Research
-					</button>
+					</a>
 				</div>
 			</section>
 
