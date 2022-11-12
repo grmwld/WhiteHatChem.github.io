@@ -9,12 +9,12 @@ import Main from '../layouts/Main.astro';
 			<section class="
 				flex flex-col items-center
 				main-width text-center
-				md:py-40
+				py-28 lg:py-40
 			">
-				<h1 class="md:text-6xl max-w-4xl font-bold">
+				<h1 class="text-5xl lg:text-6xl max-w-4xl font-bold tracking-tight">
 					Lorem ipsum <span class="text-indigo-400">dolor sit amet</span>, consectetur adipiscing elit.
 				</h1>
-				<p class="md:text-lg max-w-2xl text-neutral-600 mt-6">
+				<p class="text-normal lg:text-lg max-w-2xl text-neutral-600 mt-6">
 					Pellentesque accumsan risus tellus, vel consequat magna pharetra vitae. Nam in orci iaculis, consequat est nec, tristique nisi.
 				</p>
 				<div class="mt-10 flex items-center">
@@ -39,13 +39,14 @@ import Main from '../layouts/Main.astro';
 			</section>
 
 			<section class="
-				md:pt-32 overflow-hidden
+				pt-28 lg:pt-32 overflow-hidden
 				bg-gradient-to-b from-transparent via-fuchsia-100/30 to-indigo-100/50
 				flex justify-center
+				px-4
 			">
-				<div class="grid grid-cols-3 ">
-					<div class="flex flex-col gap-6 justify-center lg:pr-12 w-96">
-						<h1 class="md:text-xl max-w-4xl font-bold text-neutral-800 flex flex-col">
+				<div class="grid lg:grid-cols-3 gap-y-8 lg:gap-x-16">
+					<div class="flex flex-col gap-6 justify-center lg:w-96">
+						<h1 class="text-xl lg:text-xl lg:max-w-4xl font-bold text-neutral-800 flex flex-col">
 							<span>State-of-the-art analysis</span>
 							<span>of latest discoveries</span>
 						</h1>
@@ -59,8 +60,8 @@ import Main from '../layouts/Main.astro';
 							Explore
 						</a>
 					</div>
-					<div class="rounded-t-xl shadow-lg lg:col-span-2 relative bg-white w-[800px] h-[500px]">
-						<div class="m-40 text-lg text-neutral-600">
+					<div class="rounded-t-xl shadow-lg lg:col-span-2 relative bg-white lg:w-[800px] lg:h-[500px]">
+						<div class="m-8 mb-24 lg:m-40 text-lg text-neutral-600">
 							screenshot d'une page
 						</div>
 					</div>
@@ -68,8 +69,8 @@ import Main from '../layouts/Main.astro';
 			</section>
 
 			<section class="
-				border-t border-b
-				md:py-32
+				border-t border-b border-neutral-200
+				py-28 lg:py-32
 			">
 				<div class="main-width text-center h-96">
 
@@ -77,7 +78,7 @@ import Main from '../layouts/Main.astro';
 			</section>
 
 			<section class="
-				md:pt-32 overflow-hidden
+				pt-28 lg:pt-32 overflow-hidden
 				bg-gradient-to-t from-transparent via-fuchsia-100/30 to-indigo-100/50
 				flex justify-center
 			">
@@ -87,42 +88,3 @@ import Main from '../layouts/Main.astro';
 		</main>
 	</Main>
 </Base>
-
-<style>
-	h1 {
-		font-size: 3rem;
-		margin: 0;
-	}
-	.text-gradient {
-		background-image: var(--accent-gradient);
-		-webkit-background-clip: text;
-		-webkit-text-fill-color: transparent;
-		background-size: 400%;
-		background-position: 0%;
-	}
-	.instructions {
-		line-height: 1.6;
-		margin: 1rem 0;
-		border: 1px solid rgba(var(--accent), 25%);
-		background-color: white;
-		padding: 1rem;
-		border-radius: 0.4rem;
-	}
-	.instructions code {
-		font-size: 0.875em;
-		font-weight: bold;
-		background: rgba(var(--accent), 12%);
-		color: rgb(var(--accent));
-		border-radius: 4px;
-		padding: 0.3em 0.45em;
-	}
-	.instructions strong {
-		color: rgb(var(--accent));
-	}
-	.link-card-grid {
-		display: grid;
-		grid-template-columns: repeat(auto-fit, minmax(24ch, 1fr));
-		gap: 1rem;
-		padding: 0;
-	}
-</style>
