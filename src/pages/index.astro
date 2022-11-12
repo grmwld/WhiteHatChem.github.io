@@ -7,46 +7,98 @@ import Card from '../components/Card.astro';
 <Base title="Welcome to Astro.">
 	<Main active="home">
 		<main>
-			<h1>Welcome to <span class="text-gradient">Astro</span></h1>
-			<p class="instructions">
-				To get started, open the directory <code>src/pages</code> in your project.<br />
-				<strong>Code Challenge:</strong> Tweak the "Welcome to Astro" message above.
-			</p>
-			<ul role="list" class="link-card-grid">
-				<Card
-					href="https://docs.astro.build/"
-					title="Documentation"
-					body="Learn how Astro works and explore the official API docs."
-				/>
-				<Card
-					href="https://astro.build/integrations/"
-					title="Integrations"
-					body="Supercharge your project with new frameworks and libraries."
-				/>
-				<Card
-					href="https://astro.build/themes/"
-					title="Themes"
-					body="Explore a galaxy of community-built starter themes."
-				/>
-				<Card
-					href="https://astro.build/chat/"
-					title="Community"
-					body="Come say hi to our amazing Discord community. ❤️"
-				/>
-			</ul>
+			<section class="
+				main-width text-center
+				md:py-32
+			">
+				<h1 class="mx-auto md:text-6xl max-w-4xl font-bold">
+					Lorem ipsum <span class="text-indigo-400">dolor sit amet</span>, consectetur adipiscing elit.
+				</h1>
+				<p class="mx-auto md:text-lg max-w-2xl text-neutral-600 mt-6">
+					Pellentesque accumsan risus tellus, vel consequat magna pharetra vitae. Nam in orci iaculis, consequat est nec, tristique nisi.
+				</p>
+				<div class="mx-auto mt-10">
+					<button
+						class="py-1 px-3 rounded-xl text-white bg-indigo-400 hover:bg-indigo-600 transition duration-150"
+					>
+						Our Mission
+					</button>
+					<button class="
+						py-1 px-3 ml-2
+						rounded-xl text-neutral-600 hover:text-neutral-800
+						border border-2 border-neutral-200 hover:border-neutral-400 
+						transition duration-150
+					">
+						Latest Research
+					</button>
+				</div>
+			</section>
+
+			<section class="
+				md:pt-32 overflow-hidden
+				bg-gradient-to-b from-transparent via-fuchsia-100/30 to-indigo-100/50
+				flex justify-center
+			">
+				<div class="grid grid-cols-3 ">
+					<div class="flex flex-col gap-6 justify-center lg:pr-12 w-96">
+						<h1 class="md:text-xl max-w-4xl font-bold text-neutral-800 flex flex-col">
+							<span>State-of-the-art analysis</span>
+							<span>of latest discoveries</span>
+						</h1>
+						<p class="text-neutral-500 text-sm leading-snug">
+							Deep-Learning tools blabla Cras sed pulvinar lectus. Mauris egestas fermentum pellentesque. Nullam sed varius urna. Morbi pulvinar pellentesque ultricies. Donec ac eros dui.
+						</p>
+						<a
+							href="/compounds"
+							class="text-neutral-800 hover:text-neutral-400 underline underline-offset-4"
+						>
+							Explore
+						</a>
+					</div>
+					<div class="rounded-t-xl shadow-lg lg:col-span-2 relative bg-white w-[800px] h-[500px]">
+						<div class="m-40 text-lg text-neutral-600">
+							screenshot d'une page
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<section class="main-width">
+				<h1>Welcome to <span class="text-gradient">Astro</span></h1>
+				<p class="instructions">
+					To get started, open the directory <code>src/pages</code> in your project.<br />
+					<strong>Code Challenge:</strong> Tweak the "Welcome to Astro" message above.
+				</p>
+				<ul role="list" class="link-card-grid">
+					<Card
+						href="https://docs.astro.build/"
+						title="Documentation"
+						body="Learn how Astro works and explore the official API docs."
+					/>
+					<Card
+						href="https://astro.build/integrations/"
+						title="Integrations"
+						body="Supercharge your project with new frameworks and libraries."
+					/>
+					<Card
+						href="https://astro.build/themes/"
+						title="Themes"
+						body="Explore a galaxy of community-built starter themes."
+					/>
+					<Card
+						href="https://astro.build/chat/"
+						title="Community"
+						body="Come say hi to our amazing Discord community. ❤️"
+					/>
+				</ul>
+			</section>
 		</main>
 	</Main>
 </Base>
 
 <style>
-	main {
-		margin: auto;
-		padding: 1.5rem;
-		max-width: 60ch;
-	}
 	h1 {
 		font-size: 3rem;
-		font-weight: 800;
 		margin: 0;
 	}
 	.text-gradient {
