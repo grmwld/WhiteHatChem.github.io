@@ -1,26 +1,89 @@
 ---
 import HeaderButton from '../components/HeaderButton.astro';
+import HamburgerButton from '../components/HamburgerButton.astro';
+import MainLogo from '../icons/main.svg';
+import Hamburger from '../icons/Hamburger.astro';
+
 export interface Props {
 	active: 'home' | 'blog'
 }
-
+"absolute inset-x-0 top-full mt-4 flex origin-top flex-col rounded-2xl bg-white p-4 text-lg tracking-tight text-neutral-900 shadow-xl ring-1 ring-slate-900/5 opacity-100 scale-100"
 const { active } = Astro.props;
 ---
 
-<header class="py-10">
-	<nav class="flex justify-between max-w-4xl mx-auto items-center">
+<style>
+	html:has(.mobile-menu-toggler:checked) {
+		overflow: hidden;
+	}
+
+	.mobile-menu-toggler:checked ~ .mobile-menu {
+		display: block;
+	}
+	.mobile-menu {
+		z-index: 1;
+		display: none;
+	}
+</style>
+
+<header class="py-6 md:py-10">
+	<nav class="flex justify-between max-w-4xl mx-auto items-center px-4">
 		<div>
 			<a
 				href="/"
-				class=""
+				class="flex flex-row items-center md:gap-4 gap-2"
 			>
-				whitehatchemistry
+				<img
+					src={MainLogo}
+					class="w-14"
+					alt="whitehatchemistry"
+				/>
+				<div
+					class="flex flex-col items-center text-neutral-800 leading-snug font-bold"
+				>
+					<span>White<span class="text-indigo-600">Hat</span></span>
+					<span class="">Chemistry</span>
+				</div>
 			</a>
 		</div>
-		<div class="flex gap-1">
+		<!-- desktop -->
+		<div class="gap-2 items-center hidden md:flex">
 			<HeaderButton href="/blog">Blog</HeaderButton>
-			<HeaderButton href="/contact">Compounds</HeaderButton>
-			<HeaderButton href="/">About</HeaderButton>
+			<HeaderButton href="/about">About</HeaderButton>
+			<a
+				href="/compounds"
+				class="py-1 px-3 rounded-xl text-white bg-indigo-400 hover:bg-indigo-600 transition duration-150"
+			>
+				Compounds
+			</a>
+		</div>
+		<!-- mobile -->
+		<div class="flex md:hidden">
+			<input class="mobile-menu-toggler hidden" type="checkbox" id="side-menu"/>
+			<label class="hamburger" for="side-menu"><Hamburger style="cursor-pointer w-6 h-6"/></label>
+
+			<div class="mobile-menu" aria-modal="true" role="dialog">
+				<!-- background blur -->
+				<div class="fixed inset-0 flex content-start p-4">
+					<label
+						class="absolute inset-0 cursor-pointer backdrop-blur bg-neutral-900/10 z-10"
+						for="side-menu"
+						aria-hidden="true"
+					/>
+					<div class="
+						absolute inset-x-0 mx-4 mt-16 
+						flex flex-col p-4 
+						rounded-2xl bg-white
+						tracking-tight text-neutral-800 shadow-xl text-lg
+						ring-1 ring-slate-900/5
+						z-20
+					">
+						<HamburgerButton href="/blog">Blog</HamburgerButton>
+						<HamburgerButton href="/compounds">Compounds</HamburgerButton>
+						<hr class="m-2 border-neutral-400/20">
+						<HamburgerButton href="/about">About</HamburgerButton>
+					</div>
+				</div>
+			</div>
 		</div>
 	</nav>
 </header>

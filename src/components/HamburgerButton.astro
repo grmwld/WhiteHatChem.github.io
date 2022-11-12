@@ -1,0 +1,14 @@
+---
+export interface Props {
+	href: string;
+}
+
+const { href } = Astro.props;
+---
+
+<a
+    href={href}
+    class="block p-2 w-full"
+>
+    <slot />
+</a>
