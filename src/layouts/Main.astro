@@ -1,0 +1,28 @@
+---
+import HeaderButton from '../components/HeaderButton.astro';
+export interface Props {
+	active: 'home' | 'blog'
+}
+
+const { active } = Astro.props;
+---
+
+<header class="py-10">
+	<nav class="flex justify-between max-w-4xl mx-auto items-center">
+		<div>
+			<a
+				href="/"
+				class=""
+			>
+				whitehatchemistry
+			</a>
+		</div>
+		<div class="flex gap-1">
+			<HeaderButton href="/blog">Blog</HeaderButton>
+			<HeaderButton href="/contact">Compounds</HeaderButton>
+			<HeaderButton href="/">About</HeaderButton>
+		</div>
+	</nav>
+</header>
+
+<slot />
