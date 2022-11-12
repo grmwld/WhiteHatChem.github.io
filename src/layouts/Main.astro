@@ -1,13 +1,13 @@
 ---
 import HeaderButton from '../components/HeaderButton.astro';
 import HamburgerButton from '../components/HamburgerButton.astro';
-import MainLogo from '../icons/main.svg';
-import Hamburger from '../icons/Hamburger.astro';
+import MainLogo from '../assets/icons/main.svg';
+import Hamburger from '../assets/icons/Hamburger.astro';
 
 export interface Props {
 	active: 'home' | 'blog'
 }
-"absolute inset-x-0 top-full mt-4 flex origin-top flex-col rounded-2xl bg-white p-4 text-lg tracking-tight text-neutral-900 shadow-xl ring-1 ring-slate-900/5 opacity-100 scale-100"
+
 const { active } = Astro.props;
 ---
 
@@ -89,3 +89,11 @@ const { active } = Astro.props;
 </header>
 
 <slot />
+
+<footer class="border-t border-neutral-400/20 max-w-4xl mx-auto px-4 mt-10">
+	<div class="flex flex-row py-10">
+		<span class="text-sm text-neutral-600">
+			Copyright © 2022 WhiteHatChemistry. All rights reserved.
+		</span>
+	</div>
+</footer>
