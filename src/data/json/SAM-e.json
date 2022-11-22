@@ -444,5 +444,6 @@
     "S-Adenosyl-L-Methtonine",
     "S-(5'desoxyadenosin-5'yl)-L-methionine",
     "S-adenosylmethionine"
-  ]
+  ],
+  "svg": "SAM-e.svg"
 }

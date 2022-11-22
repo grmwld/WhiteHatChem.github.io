@@ -464,5 +464,6 @@
     "Benzeneethanamine,4-bromo-2,5-dimethoxy-.alpha.-methyl-(.+/-.)-",
     "(+/-)-4-BROMO-2,5-DIMETHOXY-.ALPHA.-METHYLPHENETHYLAMINE",
     "2-(4-Bromo-2,5-dimethoxy-phenyl)-1-methyl-ethylamine((-)-DOB)"
-  ]
+  ],
+  "svg": "DOB.svg"
 }
