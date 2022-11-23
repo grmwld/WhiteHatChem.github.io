@@ -10,7 +10,7 @@ interface IParams {
 
 
 export async function getStaticPaths({ paginate } : any) {
-	const allNPS = await Astro.glob<IParams>('../../data/json/*.json');
+	const allNPS = await Astro.glob<IParams>('../../../data/json/*.json');
     return paginate(allNPS, { pageSize: 12 });
 }
 

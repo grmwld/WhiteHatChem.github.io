@@ -11,7 +11,7 @@ interface NPSJsonFile {
 }
 
 export async function getStaticPaths({ paginate } : any) {
-	const allNPS = await Astro.glob<{ name : string }>('../../data/json/*.json');
+	const allNPS = await Astro.glob<{ name : string }>('../../../data/json/*.json');
     return allNPS.map((x) => ({
         params: { molecule: x.name },
         props: x

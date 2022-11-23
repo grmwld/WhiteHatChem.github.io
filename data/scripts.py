@@ -10,7 +10,7 @@ from rdkit.Chem.Draw.MolDrawing import DrawingOptions
 def generate_json_from_normalized(
     input_path='normalized.json',
     output_path='json/',
-    img_path='img/'
+    img_path='../public/svg'
 ):
     with open(input_path, 'r') as fi:
         data = json.load(fi)
@@ -50,7 +50,7 @@ def inchi_to_svg(inchi, path):
     d.FinishDrawing()
     svg = d.GetDrawingText()
 
-    with open(path, "w") as f:
+    with open(path, "w+") as f:
         f.write(svg)
 
 if __name__ == "__main__":
