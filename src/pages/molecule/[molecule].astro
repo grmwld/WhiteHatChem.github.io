@@ -1,0 +1,50 @@
+---
+import Base from '../../layouts/Base.astro';
+import Main from '../../layouts/Main.astro';
+
+interface NPSJsonFile {
+    name: string
+    effects: Array<string>
+    synonyms: Array<string>
+    svg: string
+}
+
+export async function getStaticPaths({ paginate } : any) {
+	const allNPS = await Astro.glob<{ name : string }>('../../data/json/*.json');
+    return allNPS.map((x) => ({
+        params: { molecule: x.name },
+        props: x
+    }))
+}
+
+const { name, effects, synonyms, svg } = Astro.props as NPSJsonFile
+---
+
+<Base title="Compounds.">
+	<Main active="home">
+        <section class="main-width mt-8">
+            <div class="w-full flex flex-col items-center">
+                <h1 class="font-bold text-4xl">
+                    { name }
+                </h1>
+                <img
+                    class="w-96"
+                    src={`../src/data/img/${svg}`}
+                    alt={`depiction of ${name}`}
+                >
+            </div>
+
+            <div class="flex flex-col gap-8">
+                <p class="leading-snug">
+                    <span class="font-bold">Known effects:</span>
+                    <span class="font-gray font-light text-neutral-800 text-sm">{effects.join(',')}</span>
+                </p>
+    
+                <p class="leading-snug">
+                    <span class="font-bold">Synonyms:</span>
+                    <span class="font-gray font-light text-neutral-800 text-sm">{synonyms.join(',')}</span>
+                </p>
+            </div>
+        </section>
+	</Main>
+</Base>

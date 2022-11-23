@@ -3,17 +3,14 @@ import Base from '../../layouts/Base.astro';
 import Main from '../../layouts/Main.astro';
 import CompoundCard from '../../components/CompoundCard.astro';
 
-const PAGE_SIZE = 12;
-
-interface NPSJsonFile {
-    name: string,
-    effects: Array<string>,
+interface IParams {
+    name: string
     svg: string
 }
 
 
 export async function getStaticPaths({ paginate } : any) {
-	const allNPS = await Astro.glob<NPSJsonFile>('../../data/json/*.json');
+	const allNPS = await Astro.glob<IParams>('../../data/json/*.json');
     return paginate(allNPS, { pageSize: 12 });
 }
 
@@ -30,7 +27,7 @@ const { page } = Astro.props;
             <!-- NPS grid -->
             <div class="grid grid-cols-2 lg:grid-cols-4 lg:gap-16 gap-8">
                 {
-                    page.data.map((x: NPSJsonFile) =>
+                    page.data.map((x: IParams) =>
                         <CompoundCard name={x.name} svg={x.svg}/>
                     )
                 }
