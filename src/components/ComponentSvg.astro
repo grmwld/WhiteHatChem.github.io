@@ -1,0 +1,17 @@
+---
+export interface Props {
+	name: string;
+    svg: string
+}
+
+const { name, svg } = Astro.props;
+---
+
+{
+    svg ? <img
+        src={`../src/data/img/${svg}`}
+        alt={`depiction of ${name}`}
+    > : <span class="text-sm font-light text-red-400">
+        img not found
+    </span>
+}
