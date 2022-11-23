@@ -45,6 +45,7 @@ def inchi_to_svg(inchi, path):
 
     d = rdMolDraw2D.MolDraw2DSVG(400, 400)
     d.drawOptions().useBWAtomPalette()
+    d.drawOptions().setBackgroundColour((0, 0, 0, 0))
     rdMolDraw2D.PrepareAndDrawMolecule(d, m)
     d.FinishDrawing()
     svg = d.GetDrawingText()
