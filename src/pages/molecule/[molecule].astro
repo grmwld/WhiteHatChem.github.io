@@ -24,23 +24,27 @@ const { name, effects, synonyms, svg } = Astro.props as NPSJsonFile
 <Base title="Compounds.">
 	<Main active="home">
         <section class="main-width mt-8">
-            <div class="w-full flex flex-col items-center">
+            <div class="w-full flex flex-col items-center mb-8">
                 <h1 class="font-bold text-4xl">
                     { name }
                 </h1>
-                <ComponentSvg svg={svg} name={name}/>
+                { svg && <ComponentSvg svg={svg} name={name}/> }
             </div>
 
             <div class="flex flex-col gap-8">
-                <p class="leading-snug">
-                    <span class="font-bold">Known effects:</span>
-                    <span class="font-gray font-light text-neutral-800 text-sm">{effects.join(',')}</span>
-                </p>
-    
-                <p class="leading-snug">
-                    <span class="font-bold">Synonyms:</span>
-                    <span class="font-gray font-light text-neutral-800 text-sm">{synonyms.join(',')}</span>
-                </p>
+                {
+                    effects && <p class="leading-snug">
+                        <span class="font-bold">Known effects:</span>
+                        <span class="font-gray font-light text-neutral-800 text-sm">{effects.join(',')}</span>
+                    </p>
+                }
+
+                {
+                    synonyms && <p class="leading-snug">
+                        <span class="font-bold">Synonyms:</span>
+                        <span class="font-gray font-light text-neutral-800 text-sm">{synonyms.join(',')}</span>
+                    </p>
+                }
             </div>
         </section>
 	</Main>
