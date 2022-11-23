@@ -1,0 +1,20 @@
+---
+export interface Props {
+	name: string;
+    svg: string
+}
+
+const { name, svg } = Astro.props;
+---
+
+<a
+    href={`/molecule/${name}`}
+    class="flex flex-col items-center group"
+>
+    <h2 class="transition delay-150 group-hover:text-indigo-600">{name}</h2>
+    <div class="w-full border-t border-neutral-400/20 mt-2"/>
+    <img
+        src={`../src/data/img/${svg}`}
+        alt={`depiction of ${name}`}
+    >
+</a>
