@@ -29,7 +29,7 @@ def generate_json_from_normalized(
             svg_path = os.path.join(img_path, f_name)
             inchi_to_svg(v['inchi'], svg_path)
         else:
-            f_name = 'null.svg'
+            f_name = None
         v['svg'] = f_name
 
     # save jsons
