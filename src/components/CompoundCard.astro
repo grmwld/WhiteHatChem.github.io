@@ -11,8 +11,8 @@ const { name, svg } = Astro.props;
     href={`/molecule/${name}`}
     class="flex flex-col items-center group"
 >
-    <h2 class="transition delay-150 group-hover:text-indigo-600">{name}</h2>
-    <div class="w-full border-t border-neutral-400/20 mt-2"/>
+    <h2 class="group-hover:text-indigo-600">{name}</h2>
+    <div class="w-full border-t border-neutral-400/20 mt-2 group-hover:border-indigo-400/50"/>
     <img
         src={`../src/data/img/${svg}`}
         alt={`depiction of ${name}`}
