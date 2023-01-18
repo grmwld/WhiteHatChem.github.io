@@ -57,7 +57,7 @@ const { name, psychonaut_name, tripsit_name, synonyms, svg, sim } = Astro.props 
                     <span class="text-xl font-bold">Most similar drugs:</span>
                     <div class="flex flex-col mt-4 gap-1">
                         { sim.map((x) => {
-                            const sim = 1./(1.+x.dist);
+                            const sim = Math.pow(Math.max(100-x.dist, 0)/100, 4.);
                             const green = Math.round(255 * sim);
                             const red = Math.round(255 * (1-sim));
                             return <a href={`/molecule/${x.name}`} class="flex lg:flex-row flex-col items-center justify-between">
