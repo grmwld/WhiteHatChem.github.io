@@ -10,7 +10,6 @@
   ],
   "distances": [
     2.336e-06,
-    2.336e-06,
     7.6013098241,
     7.6013098241,
     8.0848278224,
@@ -21,7 +20,6 @@
     11.1752146178
   ],
   "indices": [
-    378,
     103,
     691,
     312,
@@ -35,12 +33,6 @@
   "name": "psyc_alprazolam",
   "svg": "psyc_alprazolam.svg",
   "sim": [
-    {
-      "name": "psyc_alprazolam",
-      "psychonaut_name": null,
-      "tripsit_name": "alprazolam",
-      "dist": 2.336e-06
-    },
     {
       "name": "trip_Alprazolam",
       "psychonaut_name": "Alprazolam",

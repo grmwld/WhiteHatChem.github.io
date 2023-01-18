@@ -49,7 +49,6 @@
     "SCHEMBL431423"
   ],
   "distances": [
-    3.0158e-06,
     25.3913809984,
     25.3913809984,
     25.871439076,
@@ -61,7 +60,6 @@
     28.50138343
   ],
   "indices": [
-    253,
     17,
     503,
     505,
@@ -75,12 +73,6 @@
   "name": "trip_Oroxylin A",
   "svg": "trip_Oroxylin A.svg",
   "sim": [
-    {
-      "name": "trip_Oroxylin A",
-      "psychonaut_name": "Oroxylin A",
-      "tripsit_name": null,
-      "dist": 3.0158e-06
-    },
     {
       "name": "trip_25B-NBOH",
       "psychonaut_name": "25B-NBOH",

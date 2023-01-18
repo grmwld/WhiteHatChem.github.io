@@ -4,7 +4,6 @@
   "tripsit_name": "afloqualone",
   "synonyms": null,
   "distances": [
-    1.9073e-06,
     15.6378550635,
     15.6378550635,
     15.6378550635,
@@ -16,7 +15,6 @@
     22.5338903565
   ],
   "indices": [
-    710,
     224,
     369,
     647,
@@ -30,12 +28,6 @@
   "name": "psyc_afloqualone",
   "svg": "psyc_afloqualone.svg",
   "sim": [
-    {
-      "name": "psyc_afloqualone",
-      "psychonaut_name": null,
-      "tripsit_name": "afloqualone",
-      "dist": 1.9073e-06
-    },
     {
       "name": "trip_Methaqualone",
       "psychonaut_name": "Methaqualone",

@@ -6,7 +6,6 @@
     "restas"
   ],
   "distances": [
-    2.336e-06,
     8.0848282942,
     18.1115361159,
     18.8291299006,
@@ -18,7 +17,6 @@
     21.1220990057
   ],
   "indices": [
-    574,
     486,
     414,
     605,
@@ -32,12 +30,6 @@
   "name": "psyc_flutoprazepam",
   "svg": "psyc_flutoprazepam.svg",
   "sim": [
-    {
-      "name": "psyc_flutoprazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "flutoprazepam",
-      "dist": 2.336e-06
-    },
     {
       "name": "psyc_prazepam",
       "psychonaut_name": null,

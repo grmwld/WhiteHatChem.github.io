@@ -9,7 +9,6 @@
   ],
   "distances": [
     1.6518e-06,
-    1.6518e-06,
     10.8272977791,
     10.8272977791,
     12.2170290308,
@@ -20,7 +19,6 @@
     16.514172565
   ],
   "indices": [
-    280,
     496,
     92,
     822,
@@ -34,12 +32,6 @@
   "name": "psyc_prolintane",
   "svg": "psyc_prolintane.svg",
   "sim": [
-    {
-      "name": "trip_Prolintane",
-      "psychonaut_name": "Prolintane",
-      "tripsit_name": null,
-      "dist": 1.6518e-06
-    },
     {
       "name": "psyc_prolintane",
       "psychonaut_name": null,

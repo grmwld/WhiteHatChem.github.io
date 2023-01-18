@@ -7,7 +7,6 @@
     "seroxat"
   ],
   "distances": [
-    2.6974e-06,
     29.137495643,
     29.2762698373,
     30.1611880672,
@@ -19,7 +18,6 @@
     31.8630731746
   ],
   "indices": [
-    768,
     628,
     574,
     456,
@@ -33,12 +31,6 @@
   "name": "psyc_paroxetine",
   "svg": "psyc_paroxetine.svg",
   "sim": [
-    {
-      "name": "psyc_paroxetine",
-      "psychonaut_name": null,
-      "tripsit_name": "paroxetine",
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_diclofensine",
       "psychonaut_name": null,

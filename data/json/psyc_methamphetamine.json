@@ -9,7 +9,6 @@
   ],
   "distances": [
     1.5079e-06,
-    1.5079e-06,
     7.9459601544,
     8.3042368726,
     8.3042368726,
@@ -20,7 +19,6 @@
     10.6638947303
   ],
   "indices": [
-    223,
     684,
     508,
     14,
@@ -34,12 +32,6 @@
   "name": "psyc_methamphetamine",
   "svg": "psyc_methamphetamine.svg",
   "sim": [
-    {
-      "name": "trip_Methamphetamine",
-      "psychonaut_name": "Methamphetamine",
-      "tripsit_name": null,
-      "dist": 1.5079e-06
-    },
     {
       "name": "psyc_methamphetamine",
       "psychonaut_name": null,

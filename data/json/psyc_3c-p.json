@@ -7,7 +7,6 @@
   ],
   "distances": [
     0.0,
-    0.0,
     7.094386673,
     7.094386673,
     7.9014965137,
@@ -18,7 +17,6 @@
     13.549780159
   ],
   "indices": [
-    55,
     489,
     506,
     54,
@@ -32,12 +30,6 @@
   "name": "psyc_3c-p",
   "svg": "psyc_3c-p.svg",
   "sim": [
-    {
-      "name": "trip_3C-P",
-      "psychonaut_name": "3C-P",
-      "tripsit_name": null,
-      "dist": 0.0
-    },
     {
       "name": "psyc_3c-p",
       "psychonaut_name": null,

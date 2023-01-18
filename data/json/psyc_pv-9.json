@@ -4,7 +4,6 @@
   "tripsit_name": "pv-9",
   "synonyms": null,
   "distances": [
-    1.3487e-06,
     5.8999270548,
     5.8999280246,
     11.7998547561,
@@ -16,7 +15,6 @@
     18.4518655966
   ],
   "indices": [
-    727,
     734,
     619,
     91,
@@ -30,12 +28,6 @@
   "name": "psyc_pv-9",
   "svg": "psyc_pv-9.svg",
   "sim": [
-    {
-      "name": "psyc_pv-9",
-      "psychonaut_name": null,
-      "tripsit_name": "pv-9",
-      "dist": 1.3487e-06
-    },
     {
       "name": "psyc_pv-10",
       "psychonaut_name": null,

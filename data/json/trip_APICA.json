@@ -25,7 +25,6 @@
     "SDB-001"
   ],
   "distances": [
-    4.672e-06,
     11.3210369797,
     21.7848869363,
     21.7848869363,
@@ -37,7 +36,6 @@
     42.5873355863
   ],
   "indices": [
-    96,
     290,
     413,
     86,
@@ -51,12 +49,6 @@
   "name": "trip_APICA",
   "svg": "trip_APICA.svg",
   "sim": [
-    {
-      "name": "trip_APICA",
-      "psychonaut_name": "APICA",
-      "tripsit_name": null,
-      "dist": 4.672e-06
-    },
     {
       "name": "trip_STS-135",
       "psychonaut_name": "STS-135",

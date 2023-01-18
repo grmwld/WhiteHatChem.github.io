@@ -6,7 +6,6 @@
     "4-fluorotropacocaine"
   ],
   "distances": [
-    1.6518e-06,
     34.4949257478,
     34.4949257478,
     34.7663851743,
@@ -18,7 +17,6 @@
     36.0539197846
   ],
   "indices": [
-    668,
     752,
     12,
     42,
@@ -32,12 +30,6 @@
   "name": "psyc_pfbt",
   "svg": "psyc_pfbt.svg",
   "sim": [
-    {
-      "name": "psyc_pfbt",
-      "psychonaut_name": null,
-      "tripsit_name": "pfbt",
-      "dist": 1.6518e-06
-    },
     {
       "name": "psyc_2-fa",
       "psychonaut_name": null,

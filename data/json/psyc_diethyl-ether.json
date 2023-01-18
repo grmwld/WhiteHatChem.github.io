@@ -6,7 +6,6 @@
     "ether"
   ],
   "distances": [
-    0.0,
     14.8613048949,
     14.8613048949,
     20.6724566481,
@@ -18,7 +17,6 @@
     23.7623438831
   ],
   "indices": [
-    757,
     546,
     99,
     474,
@@ -32,12 +30,6 @@
   "name": "psyc_diethyl-ether",
   "svg": "psyc_diethyl-ether.svg",
   "sim": [
-    {
-      "name": "psyc_diethyl-ether",
-      "psychonaut_name": null,
-      "tripsit_name": "diethyl-ether",
-      "dist": 0.0
-    },
     {
       "name": "psyc_alcohol",
       "psychonaut_name": null,

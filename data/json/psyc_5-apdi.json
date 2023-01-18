@@ -6,7 +6,6 @@
     "iap"
   ],
   "distances": [
-    1.6518e-06,
     8.6649086954,
     8.6649086954,
     8.6649086954,
@@ -18,7 +17,6 @@
     16.7459329251
   ],
   "indices": [
-    832,
     89,
     497,
     771,
@@ -32,12 +30,6 @@
   "name": "psyc_5-apdi",
   "svg": "psyc_5-apdi.svg",
   "sim": [
-    {
-      "name": "psyc_5-apdi",
-      "psychonaut_name": null,
-      "tripsit_name": "5-apdi",
-      "dist": 1.6518e-06
-    },
     {
       "name": "trip_6-APDB",
       "psychonaut_name": "6-APDB",

@@ -4,7 +4,6 @@
   "tripsit_name": "benzodioxole-fentanyl",
   "synonyms": null,
   "distances": [
-    1.9073e-06,
     22.4444579491,
     29.017595938,
     29.3134338621,
@@ -16,7 +15,6 @@
     33.8294078134
   ],
   "indices": [
-    331,
     834,
     746,
     407,
@@ -30,12 +28,6 @@
   "name": "psyc_benzodioxole-fentanyl",
   "svg": "psyc_benzodioxole-fentanyl.svg",
   "sim": [
-    {
-      "name": "psyc_benzodioxole-fentanyl",
-      "psychonaut_name": null,
-      "tripsit_name": "benzodioxole-fentanyl",
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_furanylfentanyl",
       "psychonaut_name": null,

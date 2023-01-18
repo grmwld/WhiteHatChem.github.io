@@ -4,7 +4,6 @@
   "tripsit_name": "clomethiazole",
   "synonyms": null,
   "distances": [
-    1.5079e-06,
     19.4417511931,
     21.559901338,
     21.559901338,
@@ -16,7 +15,6 @@
     24.5588506652
   ],
   "indices": [
-    399,
     731,
     575,
     270,
@@ -30,12 +28,6 @@
   "name": "psyc_clomethiazole",
   "svg": "psyc_clomethiazole.svg",
   "sim": [
-    {
-      "name": "psyc_clomethiazole",
-      "psychonaut_name": null,
-      "tripsit_name": "clomethiazole",
-      "dist": 1.5079e-06
-    },
     {
       "name": "psyc_thiopropamine",
       "psychonaut_name": null,

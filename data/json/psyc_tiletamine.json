@@ -6,7 +6,6 @@
     "telazol"
   ],
   "distances": [
-    1.9073e-06,
     12.1421902898,
     12.1421902898,
     15.1371723722,
@@ -18,7 +17,6 @@
     16.880966827
   ],
   "indices": [
-    806,
     251,
     517,
     141,
@@ -32,12 +30,6 @@
   "name": "psyc_tiletamine",
   "svg": "psyc_tiletamine.svg",
   "sim": [
-    {
-      "name": "psyc_tiletamine",
-      "psychonaut_name": null,
-      "tripsit_name": "tiletamine",
-      "dist": 1.9073e-06
-    },
     {
       "name": "trip_O-PCE",
       "psychonaut_name": "O-PCE",

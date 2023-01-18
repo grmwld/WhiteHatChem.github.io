@@ -6,7 +6,6 @@
     "bdpc"
   ],
   "distances": [
-    2.6974e-06,
     26.2482816588,
     29.0003283252,
     29.0003283252,
@@ -18,7 +17,6 @@
     32.2928929119
   ],
   "indices": [
-    534,
     185,
     295,
     673,
@@ -32,12 +30,6 @@
   "name": "psyc_bromadol",
   "svg": "psyc_bromadol.svg",
   "sim": [
-    {
-      "name": "psyc_bromadol",
-      "psychonaut_name": null,
-      "tripsit_name": "bromadol",
-      "dist": 2.6974e-06
-    },
     {
       "name": "trip_Haloperidol",
       "psychonaut_name": "Haloperidol",

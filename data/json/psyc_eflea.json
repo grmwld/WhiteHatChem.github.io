@@ -4,7 +4,6 @@
   "tripsit_name": "eflea",
   "synonyms": null,
   "distances": [
-    9.537e-07,
     15.2850753895,
     15.8328600896,
     17.5347015737,
@@ -16,7 +15,6 @@
     18.7220437745
   ],
   "indices": [
-    744,
     452,
     573,
     207,
@@ -30,12 +28,6 @@
   "name": "psyc_eflea",
   "svg": "psyc_eflea.svg",
   "sim": [
-    {
-      "name": "psyc_eflea",
-      "psychonaut_name": null,
-      "tripsit_name": "eflea",
-      "dist": 9.537e-07
-    },
     {
       "name": "psyc_dimethylone",
       "psychonaut_name": null,

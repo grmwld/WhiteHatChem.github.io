@@ -25,7 +25,6 @@
   ],
   "distances": [
     0.0,
-    0.0,
     7.9876272368,
     9.2249974693,
     9.2249974693,
@@ -36,7 +35,6 @@
     11.497214602
   ],
   "indices": [
-    166,
     700,
     169,
     115,
@@ -50,12 +48,6 @@
   "name": "trip_Ethylone",
   "svg": "trip_Ethylone.svg",
   "sim": [
-    {
-      "name": "trip_Ethylone",
-      "psychonaut_name": "Ethylone",
-      "tripsit_name": null,
-      "dist": 0.0
-    },
     {
       "name": "psyc_ethylone",
       "psychonaut_name": null,

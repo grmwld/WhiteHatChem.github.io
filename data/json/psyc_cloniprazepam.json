@@ -4,7 +4,6 @@
   "tripsit_name": "cloniprazepam",
   "synonyms": null,
   "distances": [
-    2.6974e-06,
     18.1018069551,
     18.1018069551,
     18.1115361159,
@@ -16,7 +15,6 @@
     22.1777948349
   ],
   "indices": [
-    414,
     382,
     177,
     574,
@@ -30,12 +28,6 @@
   "name": "psyc_cloniprazepam",
   "svg": "psyc_cloniprazepam.svg",
   "sim": [
-    {
-      "name": "psyc_cloniprazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "cloniprazepam",
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_flunitrazepam",
       "psychonaut_name": null,

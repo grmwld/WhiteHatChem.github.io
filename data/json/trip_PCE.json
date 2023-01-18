@@ -10,7 +10,6 @@
   ],
   "distances": [
     1.9073e-06,
-    1.9073e-06,
     8.709614004,
     8.709614004,
     10.6498689312,
@@ -21,7 +20,6 @@
     14.7776008602
   ],
   "indices": [
-    259,
     688,
     46,
     778,
@@ -35,12 +33,6 @@
   "name": "trip_PCE",
   "svg": "trip_PCE.svg",
   "sim": [
-    {
-      "name": "trip_PCE",
-      "psychonaut_name": "PCE",
-      "tripsit_name": null,
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_pce",
       "psychonaut_name": null,

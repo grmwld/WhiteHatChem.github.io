@@ -7,7 +7,6 @@
     "3-Cl-PCP"
   ],
   "distances": [
-    3.0158e-06,
     7.6015906025,
     7.9492206695,
     7.9492206695,
@@ -19,7 +18,6 @@
     10.7451334739
   ],
   "indices": [
-    41,
     49,
     571,
     260,
@@ -33,12 +31,6 @@
   "name": "trip_3-Cl-PCP",
   "svg": "trip_3-Cl-PCP.svg",
   "sim": [
-    {
-      "name": "trip_3-Cl-PCP",
-      "psychonaut_name": "3-Cl-PCP",
-      "tripsit_name": null,
-      "dist": 3.0158e-06
-    },
     {
       "name": "trip_3-Me-PCP",
       "psychonaut_name": "3-Me-PCP",

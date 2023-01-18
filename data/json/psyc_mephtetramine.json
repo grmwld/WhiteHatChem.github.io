@@ -6,7 +6,6 @@
     "mtta"
   ],
   "distances": [
-    1.3487e-06,
     16.5449798623,
     16.5449798623,
     17.9088880583,
@@ -18,7 +17,6 @@
     19.3162494464
   ],
   "indices": [
-    328,
     245,
     693,
     430,
@@ -32,12 +30,6 @@
   "name": "psyc_mephtetramine",
   "svg": "psyc_mephtetramine.svg",
   "sim": [
-    {
-      "name": "psyc_mephtetramine",
-      "psychonaut_name": null,
-      "tripsit_name": "mephtetramine",
-      "dist": 1.3487e-06
-    },
     {
       "name": "trip_NM-2-AI",
       "psychonaut_name": "NM-2-AI",

@@ -8,7 +8,6 @@
   ],
   "distances": [
     0.0,
-    0.0,
     6.8037700188,
     6.8037700188,
     6.8037705795,
@@ -19,7 +18,6 @@
     9.9335000487
   ],
   "indices": [
-    743,
     155,
     577,
     133,
@@ -33,12 +31,6 @@
   "name": "psyc_ept",
   "svg": "psyc_ept.svg",
   "sim": [
-    {
-      "name": "psyc_ept",
-      "psychonaut_name": null,
-      "tripsit_name": "ept",
-      "dist": 0.0
-    },
     {
       "name": "trip_EPT",
       "psychonaut_name": "EPT",

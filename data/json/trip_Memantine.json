@@ -127,7 +127,6 @@
   ],
   "distances": [
     1.9073e-06,
-    1.9073e-06,
     27.7812016662,
     40.8289352436,
     41.9971210765,
@@ -138,7 +137,6 @@
     44.6592909763
   ],
   "indices": [
-    217,
     324,
     104,
     309,
@@ -152,12 +150,6 @@
   "name": "trip_Memantine",
   "svg": "trip_Memantine.svg",
   "sim": [
-    {
-      "name": "trip_Memantine",
-      "psychonaut_name": "Memantine",
-      "tripsit_name": null,
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_memantine",
       "psychonaut_name": null,

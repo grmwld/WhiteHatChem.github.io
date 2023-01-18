@@ -9,7 +9,6 @@
   ],
   "distances": [
     9.537e-07,
-    9.537e-07,
     20.8665944611,
     20.8665944611,
     23.0573096082,
@@ -20,7 +19,6 @@
     26.8778205279
   ],
   "indices": [
-    759,
     126,
     812,
     204,
@@ -34,12 +32,6 @@
   "name": "psyc_clonidine",
   "svg": "psyc_clonidine.svg",
   "sim": [
-    {
-      "name": "psyc_clonidine",
-      "psychonaut_name": null,
-      "tripsit_name": "clonidine",
-      "dist": 9.537e-07
-    },
     {
       "name": "trip_Clonidine",
       "psychonaut_name": "Clonidine",

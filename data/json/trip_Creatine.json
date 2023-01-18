@@ -95,7 +95,6 @@
     "EINECS 200-306-6"
   ],
   "distances": [
-    1.168e-06,
     19.0157654255,
     20.7051163547,
     20.7051163547,
@@ -107,7 +106,6 @@
     24.3794980325
   ],
   "indices": [
-    130,
     450,
     180,
     353,
@@ -121,12 +119,6 @@
   "name": "trip_Creatine",
   "svg": "trip_Creatine.svg",
   "sim": [
-    {
-      "name": "trip_Creatine",
-      "psychonaut_name": "Creatine",
-      "tripsit_name": null,
-      "dist": 1.168e-06
-    },
     {
       "name": "psyc_gaba",
       "psychonaut_name": null,

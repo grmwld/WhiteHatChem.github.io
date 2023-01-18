@@ -5,7 +5,6 @@
   "synonyms": null,
   "distances": [
     1.9073e-06,
-    1.9073e-06,
     19.3920634287,
     19.9160768217,
     20.4491661443,
@@ -16,7 +15,6 @@
     21.1535559873
   ],
   "indices": [
-    419,
     216,
     819,
     781,
@@ -30,12 +28,6 @@
   "name": "psyc_melatonin",
   "svg": "psyc_melatonin.svg",
   "sim": [
-    {
-      "name": "psyc_melatonin",
-      "psychonaut_name": null,
-      "tripsit_name": "melatonin",
-      "dist": 1.9073e-06
-    },
     {
       "name": "trip_Melatonin",
       "psychonaut_name": "Melatonin",

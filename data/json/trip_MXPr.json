@@ -16,7 +16,6 @@
     "3-MeO-2\u2032-Oxo-PCPr"
   ],
   "distances": [
-    1.9073e-06,
     8.0604836952,
     8.0604836952,
     10.6498689312,
@@ -28,7 +27,6 @@
     16.18232886
   ],
   "indices": [
-    213,
     227,
     669,
     520,
@@ -42,12 +40,6 @@
   "name": "trip_MXPr",
   "svg": "trip_MXPr.svg",
   "sim": [
-    {
-      "name": "trip_MXPr",
-      "psychonaut_name": "MXPr",
-      "tripsit_name": null,
-      "dist": 1.9073e-06
-    },
     {
       "name": "trip_Methoxetamine",
       "psychonaut_name": "Methoxetamine",

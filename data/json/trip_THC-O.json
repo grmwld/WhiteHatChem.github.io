@@ -9,7 +9,6 @@
     "\u03949-THC acetate"
   ],
   "distances": [
-    1.9073e-06,
     17.3390319455,
     27.5117007246,
     33.1155757525,
@@ -21,7 +20,6 @@
     35.6331233885
   ],
   "indices": [
-    296,
     404,
     118,
     186,
@@ -35,12 +33,6 @@
   "name": "trip_THC-O",
   "svg": "trip_THC-O.svg",
   "sim": [
-    {
-      "name": "trip_THC-O",
-      "psychonaut_name": "THC-O",
-      "tripsit_name": null,
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_marinol",
       "psychonaut_name": null,

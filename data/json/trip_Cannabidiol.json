@@ -99,7 +99,6 @@
     "Cannabidiol solution, ~10 mg/mL in ethanol, analytical standard, for drug analysis"
   ],
   "distances": [
-    2.336e-06,
     21.7695393106,
     27.5117007246,
     30.9345612951,
@@ -111,7 +110,6 @@
     34.7777542044
   ],
   "indices": [
-    118,
     404,
     296,
     840,
@@ -125,12 +123,6 @@
   "name": "trip_Cannabidiol",
   "svg": "trip_Cannabidiol.svg",
   "sim": [
-    {
-      "name": "trip_Cannabidiol",
-      "psychonaut_name": "Cannabidiol",
-      "tripsit_name": null,
-      "dist": 2.336e-06
-    },
     {
       "name": "psyc_marinol",
       "psychonaut_name": null,

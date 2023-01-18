@@ -6,7 +6,6 @@
     "strattera"
   ],
   "distances": [
-    1.3487e-06,
     14.8490435668,
     15.4840887295,
     15.4840887295,
@@ -18,7 +17,6 @@
     20.4249777972
   ],
   "indices": [
-    554,
     525,
     411,
     160,
@@ -32,12 +30,6 @@
   "name": "psyc_atomoxetine",
   "svg": "psyc_atomoxetine.svg",
   "sim": [
-    {
-      "name": "psyc_atomoxetine",
-      "psychonaut_name": null,
-      "tripsit_name": "atomoxetine",
-      "dist": 1.3487e-06
-    },
     {
       "name": "psyc_2-chloro-ephenidine",
       "psychonaut_name": null,

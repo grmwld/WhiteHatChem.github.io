@@ -72,7 +72,6 @@
     "Myristicin (6CI)"
   ],
   "distances": [
-    9.537e-07,
     22.2180117285,
     24.0063506307,
     24.0063506307,
@@ -84,7 +83,6 @@
     26.0195450312
   ],
   "indices": [
-    240,
     211,
     658,
     205,
@@ -98,12 +96,6 @@
   "name": "trip_Myristicin",
   "svg": "trip_Myristicin.svg",
   "sim": [
-    {
-      "name": "trip_Myristicin",
-      "psychonaut_name": "Myristicin",
-      "tripsit_name": null,
-      "dist": 9.537e-07
-    },
     {
       "name": "trip_MMDA",
       "psychonaut_name": "MMDA",

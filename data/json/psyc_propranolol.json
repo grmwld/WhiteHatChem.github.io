@@ -8,7 +8,6 @@
     "innopran"
   ],
   "distances": [
-    2.6974e-06,
     18.205056228,
     19.9828104536,
     20.7416247275,
@@ -20,7 +19,6 @@
     23.3575001861
   ],
   "indices": [
-    614,
     554,
     819,
     525,
@@ -34,12 +32,6 @@
   "name": "psyc_propranolol",
   "svg": "psyc_propranolol.svg",
   "sim": [
-    {
-      "name": "psyc_propranolol",
-      "psychonaut_name": null,
-      "tripsit_name": "propranolol",
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_atomoxetine",
       "psychonaut_name": null,

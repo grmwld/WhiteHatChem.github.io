@@ -4,7 +4,6 @@
   "tripsit_name": "glaucine",
   "synonyms": null,
   "distances": [
-    1.9073e-06,
     28.405648371,
     30.6951166401,
     31.8186935661,
@@ -16,7 +15,6 @@
     32.5640013599
   ],
   "indices": [
-    811,
     368,
     511,
     365,
@@ -30,12 +28,6 @@
   "name": "psyc_glaucine",
   "svg": "psyc_glaucine.svg",
   "sim": [
-    {
-      "name": "psyc_glaucine",
-      "psychonaut_name": null,
-      "tripsit_name": "glaucine",
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_c30-nbome",
       "psychonaut_name": null,

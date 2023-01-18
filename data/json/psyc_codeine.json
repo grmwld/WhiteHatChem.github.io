@@ -5,7 +5,6 @@
   "synonyms": null,
   "distances": [
     2.6974e-06,
-    2.6974e-06,
     8.7069401212,
     8.7069401212,
     10.7443232962,
@@ -16,7 +15,6 @@
     20.5426868652
   ],
   "indices": [
-    128,
     650,
     709,
     165,
@@ -30,12 +28,6 @@
   "name": "psyc_codeine",
   "svg": "psyc_codeine.svg",
   "sim": [
-    {
-      "name": "trip_Codeine",
-      "psychonaut_name": "Codeine",
-      "tripsit_name": null,
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_codeine",
       "psychonaut_name": null,

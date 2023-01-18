@@ -8,7 +8,6 @@
     "4f-pentedrone"
   ],
   "distances": [
-    1.3487e-06,
     8.1420475455,
     8.4945180831,
     8.4945180831,
@@ -20,7 +19,6 @@
     11.1011113203
   ],
   "indices": [
-    381,
     655,
     265,
     633,
@@ -34,12 +32,6 @@
   "name": "psyc_4-fluoropentedrone",
   "svg": "psyc_4-fluoropentedrone.svg",
   "sim": [
-    {
-      "name": "psyc_4-fluoropentedrone",
-      "psychonaut_name": null,
-      "tripsit_name": "4-fluoropentedrone",
-      "dist": 1.3487e-06
-    },
     {
       "name": "psyc_4-mpd",
       "psychonaut_name": null,

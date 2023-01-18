@@ -13,7 +13,6 @@
     "3-hydroxyphenazepam"
   ],
   "distances": [
-    2.6974e-06,
     8.5584417597,
     8.5584417597,
     8.9752530968,
@@ -25,7 +24,6 @@
     17.9643617264
   ],
   "indices": [
-    788,
     203,
     697,
     719,
@@ -39,12 +37,6 @@
   "name": "psyc_3-oh-phenazepam",
   "svg": "psyc_3-oh-phenazepam.svg",
   "sim": [
-    {
-      "name": "psyc_3-oh-phenazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "3-oh-phenazepam",
-      "dist": 2.6974e-06
-    },
     {
       "name": "trip_Lorazepam",
       "psychonaut_name": "Lorazepam",

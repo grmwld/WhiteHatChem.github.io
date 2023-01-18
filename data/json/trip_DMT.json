@@ -83,7 +83,6 @@
   ],
   "distances": [
     1.6518e-06,
-    1.6518e-06,
     8.709614004,
     8.7560264543,
     8.7560264543,
@@ -94,7 +93,6 @@
     13.0000581006
   ],
   "indices": [
-    134,
     796,
     113,
     285,
@@ -108,12 +106,6 @@
   "name": "trip_DMT",
   "svg": "trip_DMT.svg",
   "sim": [
-    {
-      "name": "trip_DMT",
-      "psychonaut_name": "DMT",
-      "tripsit_name": null,
-      "dist": 1.6518e-06
-    },
     {
       "name": "psyc_dmt",
       "psychonaut_name": null,

@@ -13,7 +13,6 @@
   ],
   "distances": [
     2.6974e-06,
-    2.6974e-06,
     8.5277821406,
     8.5277821406,
     9.2407035507,
@@ -24,7 +23,6 @@
     18.3972224586
   ],
   "indices": [
-    4,
     558,
     3,
     683,
@@ -38,12 +36,6 @@
   "name": "trip_1P-ETH-LAD",
   "svg": "trip_1P-ETH-LAD.svg",
   "sim": [
-    {
-      "name": "trip_1P-ETH-LAD",
-      "psychonaut_name": "1P-ETH-LAD",
-      "tripsit_name": null,
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_1p-eth-lad",
       "psychonaut_name": null,

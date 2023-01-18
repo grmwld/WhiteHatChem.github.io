@@ -8,7 +8,6 @@
   ],
   "distances": [
     2.336e-06,
-    2.336e-06,
     8.0604836952,
     10.0541415359,
     10.6498689312,
@@ -19,7 +18,6 @@
     11.9728869268
   ],
   "indices": [
-    227,
     669,
     213,
     599,
@@ -33,12 +31,6 @@
   "name": "psyc_mxe",
   "svg": "psyc_mxe.svg",
   "sim": [
-    {
-      "name": "trip_Methoxetamine",
-      "psychonaut_name": "Methoxetamine",
-      "tripsit_name": null,
-      "dist": 2.336e-06
-    },
     {
       "name": "psyc_mxe",
       "psychonaut_name": null,

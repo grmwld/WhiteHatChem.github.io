@@ -7,7 +7,6 @@
     "4,4-dmap"
   ],
   "distances": [
-    0.0,
     16.7923013395,
     19.2439621213,
     19.8317177165,
@@ -19,7 +18,6 @@
     23.7317042502
   ],
   "indices": [
-    512,
     327,
     451,
     761,
@@ -33,12 +31,6 @@
   "name": "psyc_4,4-dmar",
   "svg": "psyc_4,4-dmar.svg",
   "sim": [
-    {
-      "name": "psyc_4,4-dmar",
-      "psychonaut_name": null,
-      "tripsit_name": "4,4-dmar",
-      "dist": 0.0
-    },
     {
       "name": "psyc_4-methylaminorex",
       "psychonaut_name": null,

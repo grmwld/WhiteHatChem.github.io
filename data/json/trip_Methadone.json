@@ -112,7 +112,6 @@
   ],
   "distances": [
     3.5683e-06,
-    3.5683e-06,
     10.5651122706,
     16.4852932209,
     16.4852932209,
@@ -123,7 +122,6 @@
     26.0878069112
   ],
   "indices": [
-    586,
     221,
     582,
     754,
@@ -137,12 +135,6 @@
   "name": "trip_Methadone",
   "svg": "trip_Methadone.svg",
   "sim": [
-    {
-      "name": "psyc_methadone",
-      "psychonaut_name": null,
-      "tripsit_name": "methadone",
-      "dist": 3.5683e-06
-    },
     {
       "name": "trip_Methadone",
       "psychonaut_name": "Methadone",

@@ -114,7 +114,6 @@
   "distances": [
     2.6974e-06,
     2.6974e-06,
-    2.6974e-06,
     29.0538556112,
     31.7570629524,
     31.7570629524,
@@ -124,7 +123,6 @@
     33.3855667817
   ],
   "indices": [
-    426,
     319,
     380,
     625,
@@ -138,12 +136,6 @@
   "name": "trip_Zopiclone",
   "svg": "trip_Zopiclone.svg",
   "sim": [
-    {
-      "name": "psyc_zopiclone",
-      "psychonaut_name": null,
-      "tripsit_name": "zopiclone",
-      "dist": 2.6974e-06
-    },
     {
       "name": "trip_Zopiclone",
       "psychonaut_name": "Zopiclone",

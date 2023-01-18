@@ -6,7 +6,6 @@
     "acetylsalicylate"
   ],
   "distances": [
-    2.1325e-06,
     18.4461579248,
     18.4461579248,
     18.8774145742,
@@ -18,7 +17,6 @@
     19.3549977081
   ],
   "indices": [
-    737,
     808,
     156,
     716,
@@ -32,12 +30,6 @@
   "name": "psyc_aspirin",
   "svg": "psyc_aspirin.svg",
   "sim": [
-    {
-      "name": "psyc_aspirin",
-      "psychonaut_name": null,
-      "tripsit_name": "aspirin",
-      "dist": 2.1325e-06
-    },
     {
       "name": "psyc_ethylcathinone",
       "psychonaut_name": null,

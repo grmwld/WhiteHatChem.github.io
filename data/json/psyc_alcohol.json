@@ -11,7 +11,6 @@
   ],
   "distances": [
     3.372e-07,
-    3.372e-07,
     14.8613048949,
     19.2902118747,
     19.2902118747,
@@ -22,7 +21,6 @@
     20.797812655
   ],
   "indices": [
-    99,
     546,
     757,
     2,
@@ -36,12 +34,6 @@
   "name": "psyc_alcohol",
   "svg": "psyc_alcohol.svg",
   "sim": [
-    {
-      "name": "trip_Alcohol",
-      "psychonaut_name": "Alcohol",
-      "tripsit_name": null,
-      "dist": 3.372e-07
-    },
     {
       "name": "psyc_alcohol",
       "psychonaut_name": null,

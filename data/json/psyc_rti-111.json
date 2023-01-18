@@ -6,7 +6,6 @@
     "dichloropane"
   ],
   "distances": [
-    2.336e-06,
     15.0197674518,
     16.7074573062,
     16.7074573062,
@@ -18,7 +17,6 @@
     24.7588207826
   ],
   "indices": [
-    340,
     149,
     313,
     782,
@@ -32,12 +30,6 @@
   "name": "psyc_rti-111",
   "svg": "psyc_rti-111.svg",
   "sim": [
-    {
-      "name": "psyc_rti-111",
-      "psychonaut_name": null,
-      "tripsit_name": "rti-111",
-      "dist": 2.336e-06
-    },
     {
       "name": "trip_Dichloropane",
       "psychonaut_name": "Dichloropane",

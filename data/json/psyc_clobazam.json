@@ -6,7 +6,6 @@
     "frisium"
   ],
   "distances": [
-    2.336e-06,
     15.9658835987,
     15.9658835987,
     16.8707306159,
@@ -18,7 +17,6 @@
     20.8618400346
   ],
   "indices": [
-    749,
     600,
     148,
     605,
@@ -32,12 +30,6 @@
   "name": "psyc_clobazam",
   "svg": "psyc_clobazam.svg",
   "sim": [
-    {
-      "name": "psyc_clobazam",
-      "psychonaut_name": null,
-      "tripsit_name": "clobazam",
-      "dist": 2.336e-06
-    },
     {
       "name": "psyc_diazepam",
       "psychonaut_name": null,

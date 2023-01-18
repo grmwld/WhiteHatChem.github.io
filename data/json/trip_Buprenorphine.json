@@ -83,7 +83,6 @@
   ],
   "distances": [
     2.6974e-06,
-    2.6974e-06,
     53.7873167155,
     55.8434046226,
     57.9649762923,
@@ -94,7 +93,6 @@
     60.8945842471
   ],
   "indices": [
-    114,
     393,
     292,
     291,
@@ -108,12 +106,6 @@
   "name": "trip_Buprenorphine",
   "svg": "trip_Buprenorphine.svg",
   "sim": [
-    {
-      "name": "trip_Buprenorphine",
-      "psychonaut_name": "Buprenorphine",
-      "tripsit_name": null,
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_buprenorphine",
       "psychonaut_name": null,

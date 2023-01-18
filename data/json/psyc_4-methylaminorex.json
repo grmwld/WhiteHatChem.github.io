@@ -4,7 +4,6 @@
   "tripsit_name": "4-methylaminorex",
   "synonyms": [],
   "distances": [
-    1.6518e-06,
     14.5018225215,
     16.0392166182,
     16.0392166182,
@@ -16,7 +15,6 @@
     18.8713593667
   ],
   "indices": [
-    327,
     451,
     272,
     706,
@@ -30,12 +28,6 @@
   "name": "psyc_4-methylaminorex",
   "svg": "psyc_4-methylaminorex.svg",
   "sim": [
-    {
-      "name": "psyc_4-methylaminorex",
-      "psychonaut_name": null,
-      "tripsit_name": "4-methylaminorex",
-      "dist": 1.6518e-06
-    },
     {
       "name": "psyc_aminorex",
       "psychonaut_name": null,

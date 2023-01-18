@@ -4,7 +4,6 @@
   "tripsit_name": "metaclazepam",
   "synonyms": null,
   "distances": [
-    3.0158e-06,
     19.2205037627,
     19.2205037627,
     19.3914000966,
@@ -16,7 +15,6 @@
     21.2170758268
   ],
   "indices": [
-    457,
     605,
     150,
     486,
@@ -30,12 +28,6 @@
   "name": "psyc_metaclazepam",
   "svg": "psyc_metaclazepam.svg",
   "sim": [
-    {
-      "name": "psyc_metaclazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "metaclazepam",
-      "dist": 3.0158e-06
-    },
     {
       "name": "psyc_diclazepam",
       "psychonaut_name": null,

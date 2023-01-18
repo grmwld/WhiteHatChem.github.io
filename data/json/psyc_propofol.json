@@ -7,7 +7,6 @@
     "diprivan"
   ],
   "distances": [
-    0.0,
     20.6905600137,
     21.149692167,
     21.1509301669,
@@ -19,7 +18,6 @@
     21.7248691638
   ],
   "indices": [
-    844,
     758,
     447,
     690,
@@ -33,12 +31,6 @@
   "name": "psyc_propofol",
   "svg": "psyc_propofol.svg",
   "sim": [
-    {
-      "name": "psyc_propofol",
-      "psychonaut_name": null,
-      "tripsit_name": "propofol",
-      "dist": 0.0
-    },
     {
       "name": "psyc_ibuprofen",
       "psychonaut_name": null,

@@ -6,7 +6,6 @@
     "n-desalkylflurazepam"
   ],
   "distances": [
-    1.9073e-06,
     6.8041526681,
     8.0848278224,
     8.474461055,
@@ -18,7 +17,6 @@
     17.3571167171
   ],
   "indices": [
-    539,
     725,
     442,
     269,
@@ -32,12 +30,6 @@
   "name": "psyc_norflurazepam",
   "svg": "psyc_norflurazepam.svg",
   "sim": [
-    {
-      "name": "psyc_norflurazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "norflurazepam",
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_delorazepam",
       "psychonaut_name": null,

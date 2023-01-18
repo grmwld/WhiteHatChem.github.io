@@ -5,7 +5,6 @@
   "synonyms": null,
   "distances": [
     3.8147e-06,
-    3.8147e-06,
     10.9389619559,
     12.6137379185,
     15.61548343,
@@ -16,7 +15,6 @@
     29.1531903623
   ],
   "indices": [
-    587,
     87,
     432,
     298,
@@ -30,12 +28,6 @@
   "name": "psyc_5f-pb-22",
   "svg": "psyc_5f-pb-22.svg",
   "sim": [
-    {
-      "name": "psyc_5f-pb-22",
-      "psychonaut_name": null,
-      "tripsit_name": "5f-pb-22",
-      "dist": 3.8147e-06
-    },
     {
       "name": "trip_5F-PB-22",
       "psychonaut_name": "5F-PB-22",

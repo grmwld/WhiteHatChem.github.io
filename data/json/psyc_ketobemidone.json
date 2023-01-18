@@ -6,7 +6,6 @@
     "kbd"
   ],
   "distances": [
-    2.6974e-06,
     13.0715458408,
     13.0715458408,
     17.4213853981,
@@ -18,7 +17,6 @@
     19.3894138988
   ],
   "indices": [
-    566,
     769,
     268,
     778,
@@ -32,12 +30,6 @@
   "name": "psyc_ketobemidone",
   "svg": "psyc_ketobemidone.svg",
   "sim": [
-    {
-      "name": "psyc_ketobemidone",
-      "psychonaut_name": null,
-      "tripsit_name": "ketobemidone",
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_demerol",
       "psychonaut_name": null,

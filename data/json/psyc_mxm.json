@@ -6,7 +6,6 @@
     "methoxmetamine"
   ],
   "distances": [
-    0.0,
     4.6438026723,
     10.0541415359,
     10.0541415359,
@@ -18,7 +17,6 @@
     11.9728856524
   ],
   "indices": [
-    599,
     671,
     669,
     227,
@@ -32,12 +30,6 @@
   "name": "psyc_mxm",
   "svg": "psyc_mxm.svg",
   "sim": [
-    {
-      "name": "psyc_mxm",
-      "psychonaut_name": null,
-      "tripsit_name": "mxm",
-      "dist": 0.0
-    },
     {
       "name": "psyc_methoxyketamine",
       "psychonaut_name": null,

@@ -6,7 +6,6 @@
     "dextromoramide"
   ],
   "distances": [
-    3.3036e-06,
     24.3253939841,
     25.5188756158,
     26.8836729737,
@@ -18,7 +17,6 @@
     32.1895251183
   ],
   "indices": [
-    720,
     632,
     714,
     407,
@@ -32,12 +30,6 @@
   "name": "psyc_palfium",
   "svg": "psyc_palfium.svg",
   "sim": [
-    {
-      "name": "psyc_palfium",
-      "psychonaut_name": null,
-      "tripsit_name": "palfium",
-      "dist": 3.3036e-06
-    },
     {
       "name": "psyc_mt-45",
       "psychonaut_name": null,

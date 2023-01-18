@@ -6,7 +6,6 @@
     "3cmc"
   ],
   "distances": [
-    2.1325e-06,
     1.9697516179,
     7.2015522131,
     7.4590380742,
@@ -18,7 +17,6 @@
     7.9025911452
   ],
   "indices": [
-    630,
     760,
     384,
     750,
@@ -32,12 +30,6 @@
   "name": "psyc_3-cmc",
   "svg": "psyc_3-cmc.svg",
   "sim": [
-    {
-      "name": "psyc_3-cmc",
-      "psychonaut_name": null,
-      "tripsit_name": "3-cmc",
-      "dist": 2.1325e-06
-    },
     {
       "name": "psyc_4-cmc",
       "psychonaut_name": null,

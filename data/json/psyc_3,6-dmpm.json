@@ -4,7 +4,6 @@
   "tripsit_name": "3,6-dmpm",
   "synonyms": null,
   "distances": [
-    1.9073e-06,
     12.252025826,
     12.252025826,
     14.4547021943,
@@ -16,7 +15,6 @@
     17.7370179749
   ],
   "indices": [
-    553,
     272,
     706,
     466,
@@ -30,12 +28,6 @@
   "name": "psyc_3,6-dmpm",
   "svg": "psyc_3,6-dmpm.svg",
   "sim": [
-    {
-      "name": "psyc_3,6-dmpm",
-      "psychonaut_name": null,
-      "tripsit_name": "3,6-dmpm",
-      "dist": 1.9073e-06
-    },
     {
       "name": "trip_Phenmetrazine",
       "psychonaut_name": "Phenmetrazine",

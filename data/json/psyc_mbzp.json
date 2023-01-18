@@ -6,7 +6,6 @@
     "methylbenylpiperazine"
   ],
   "distances": [
-    1.3487e-06,
     13.0762376597,
     16.6306298841,
     16.6306298841,
@@ -18,7 +17,6 @@
     18.9899900068
   ],
   "indices": [
-    484,
     396,
     812,
     204,
@@ -32,12 +30,6 @@
   "name": "psyc_mbzp",
   "svg": "psyc_mbzp.svg",
   "sim": [
-    {
-      "name": "psyc_mbzp",
-      "psychonaut_name": null,
-      "tripsit_name": "mbzp",
-      "dist": 1.3487e-06
-    },
     {
       "name": "psyc_bzp",
       "psychonaut_name": null,

@@ -6,7 +6,6 @@
     "skelaxin"
   ],
   "distances": [
-    0.0,
     23.3407482173,
     23.5820982197,
     23.6841616732,
@@ -18,7 +17,6 @@
     24.3610637243
   ],
   "indices": [
-    721,
     482,
     436,
     662,
@@ -32,12 +30,6 @@
   "name": "psyc_metaxalone",
   "svg": "psyc_metaxalone.svg",
   "sim": [
-    {
-      "name": "psyc_metaxalone",
-      "psychonaut_name": null,
-      "tripsit_name": "metaxalone",
-      "dist": 0.0
-    },
     {
       "name": "psyc_dimemebfe",
       "psychonaut_name": null,

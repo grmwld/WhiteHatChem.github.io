@@ -6,7 +6,6 @@
     "4acodalt"
   ],
   "distances": [
-    1.3487e-06,
     13.3749383943,
     13.3749383943,
     19.8101308471,
@@ -18,7 +17,6 @@
     35.163776972
   ],
   "indices": [
-    464,
     711,
     79,
     480,
@@ -32,12 +30,6 @@
   "name": "psyc_4-aco-dalt",
   "svg": "psyc_4-aco-dalt.svg",
   "sim": [
-    {
-      "name": "psyc_4-aco-dalt",
-      "psychonaut_name": null,
-      "tripsit_name": "4-aco-dalt",
-      "dist": 1.3487e-06
-    },
     {
       "name": "psyc_5-meo-dalt",
       "psychonaut_name": null,

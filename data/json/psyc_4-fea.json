@@ -6,7 +6,6 @@
     "4-fluoroethylamphetamine"
   ],
   "distances": [
-    1.3487e-06,
     1.9697517995,
     1.9697517995,
     4.1688717666,
@@ -18,7 +17,6 @@
     10.8774537574
   ],
   "indices": [
-    795,
     43,
     639,
     820,
@@ -32,12 +30,6 @@
   "name": "psyc_4-fea",
   "svg": "psyc_4-fea.svg",
   "sim": [
-    {
-      "name": "psyc_4-fea",
-      "psychonaut_name": null,
-      "tripsit_name": "4-fea",
-      "dist": 1.3487e-06
-    },
     {
       "name": "trip_3-FEA",
       "psychonaut_name": "3-FEA",

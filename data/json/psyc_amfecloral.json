@@ -4,7 +4,6 @@
   "tripsit_name": "amfecloral",
   "synonyms": null,
   "distances": [
-    1.6518e-06,
     35.1118608655,
     35.171258949,
     35.6727441856,
@@ -16,7 +15,6 @@
     36.8448582451
   ],
   "indices": [
-    745,
     630,
     760,
     508,
@@ -30,12 +28,6 @@
   "name": "psyc_amfecloral",
   "svg": "psyc_amfecloral.svg",
   "sim": [
-    {
-      "name": "psyc_amfecloral",
-      "psychonaut_name": null,
-      "tripsit_name": "amfecloral",
-      "dist": 1.6518e-06
-    },
     {
       "name": "psyc_3-cmc",
       "psychonaut_name": null,

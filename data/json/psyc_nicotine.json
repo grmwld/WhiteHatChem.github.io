@@ -5,7 +5,6 @@
   "synonyms": null,
   "distances": [
     1.6518e-06,
-    1.6518e-06,
     15.7470191678,
     16.8983219194,
     17.135537574,
@@ -16,7 +15,6 @@
     18.0715621866
   ],
   "indices": [
-    763,
     247,
     552,
     484,
@@ -30,12 +28,6 @@
   "name": "psyc_nicotine",
   "svg": "psyc_nicotine.svg",
   "sim": [
-    {
-      "name": "psyc_nicotine",
-      "psychonaut_name": null,
-      "tripsit_name": "nicotine",
-      "dist": 1.6518e-06
-    },
     {
       "name": "trip_Nicotine",
       "psychonaut_name": "Nicotine",

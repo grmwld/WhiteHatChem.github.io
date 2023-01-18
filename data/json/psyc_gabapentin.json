@@ -7,7 +7,6 @@
   ],
   "distances": [
     9.537e-07,
-    9.537e-07,
     24.382825016,
     24.382825016,
     24.5474655304,
@@ -18,7 +17,6 @@
     26.6522381213
   ],
   "indices": [
-    181,
     401,
     494,
     276,
@@ -32,12 +30,6 @@
   "name": "psyc_gabapentin",
   "svg": "psyc_gabapentin.svg",
   "sim": [
-    {
-      "name": "trip_Gabapentin",
-      "psychonaut_name": "Gabapentin",
-      "tripsit_name": null,
-      "dist": 9.537e-07
-    },
     {
       "name": "psyc_gabapentin",
       "psychonaut_name": null,

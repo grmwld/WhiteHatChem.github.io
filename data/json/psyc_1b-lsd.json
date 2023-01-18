@@ -7,7 +7,6 @@
   ],
   "distances": [
     3.8147e-06,
-    3.8147e-06,
     5.8999283479,
     7.9052909903,
     7.9052909903,
@@ -18,7 +17,6 @@
     16.4113440752
   ],
   "indices": [
-    683,
     3,
     6,
     5,
@@ -32,12 +30,6 @@
   "name": "psyc_1b-lsd",
   "svg": "psyc_1b-lsd.svg",
   "sim": [
-    {
-      "name": "psyc_1b-lsd",
-      "psychonaut_name": null,
-      "tripsit_name": "1b-lsd",
-      "dist": 3.8147e-06
-    },
     {
       "name": "trip_1B-LSD",
       "psychonaut_name": "1B-LSD",

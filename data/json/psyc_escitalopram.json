@@ -8,7 +8,6 @@
   ],
   "distances": [
     3.8147e-06,
-    3.8147e-06,
     29.1227429215,
     29.3068285175,
     29.3068285175,
@@ -19,7 +18,6 @@
     31.8461180041
   ],
   "indices": [
-    637,
     694,
     534,
     317,
@@ -33,12 +31,6 @@
   "name": "psyc_escitalopram",
   "svg": "psyc_escitalopram.svg",
   "sim": [
-    {
-      "name": "psyc_citalopram",
-      "psychonaut_name": null,
-      "tripsit_name": "citalopram",
-      "dist": 3.8147e-06
-    },
     {
       "name": "psyc_escitalopram",
       "psychonaut_name": null,

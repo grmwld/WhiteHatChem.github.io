@@ -4,7 +4,6 @@
   "tripsit_name": "gaba",
   "synonyms": null,
   "distances": [
-    9.537e-07,
     9.7736732461,
     9.7736732461,
     17.2313246323,
@@ -16,7 +15,6 @@
     21.5139895325
   ],
   "indices": [
-    450,
     353,
     180,
     2,
@@ -30,12 +28,6 @@
   "name": "psyc_gaba",
   "svg": "psyc_gaba.svg",
   "sim": [
-    {
-      "name": "psyc_gaba",
-      "psychonaut_name": null,
-      "tripsit_name": "gaba",
-      "dist": 9.537e-07
-    },
     {
       "name": "psyc_ghb",
       "psychonaut_name": null,

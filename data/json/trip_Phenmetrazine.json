@@ -51,7 +51,6 @@
   ],
   "distances": [
     2.1325e-06,
-    2.1325e-06,
     8.4945185321,
     8.5037461048,
     8.5037461048,
@@ -62,7 +61,6 @@
     16.0392166182
   ],
   "indices": [
-    272,
     706,
     466,
     45,
@@ -76,12 +74,6 @@
   "name": "trip_Phenmetrazine",
   "svg": "trip_Phenmetrazine.svg",
   "sim": [
-    {
-      "name": "trip_Phenmetrazine",
-      "psychonaut_name": "Phenmetrazine",
-      "tripsit_name": null,
-      "dist": 2.1325e-06
-    },
     {
       "name": "psyc_phenmetrazine",
       "psychonaut_name": null,

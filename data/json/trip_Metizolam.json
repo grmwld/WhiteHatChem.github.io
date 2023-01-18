@@ -21,7 +21,6 @@
   ],
   "distances": [
     2.336e-06,
-    2.336e-06,
     9.9695164496,
     9.9695164496,
     11.7020251747,
@@ -32,7 +31,6 @@
     15.237971831
   ],
   "indices": [
-    784,
     232,
     333,
     168,
@@ -46,12 +44,6 @@
   "name": "trip_Metizolam",
   "svg": "trip_Metizolam.svg",
   "sim": [
-    {
-      "name": "psyc_metizolam",
-      "psychonaut_name": null,
-      "tripsit_name": "metizolam",
-      "dist": 2.336e-06
-    },
     {
       "name": "trip_Metizolam",
       "psychonaut_name": "Metizolam",

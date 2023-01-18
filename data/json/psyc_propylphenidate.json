@@ -6,7 +6,6 @@
     "pph"
   ],
   "distances": [
-    0.0,
     7.0943864041,
     7.0943864041,
     9.9934522173,
@@ -18,7 +17,6 @@
     13.8370298173
   ],
   "indices": [
-    591,
     504,
     167,
     74,
@@ -32,12 +30,6 @@
   "name": "psyc_propylphenidate",
   "svg": "psyc_propylphenidate.svg",
   "sim": [
-    {
-      "name": "psyc_propylphenidate",
-      "psychonaut_name": null,
-      "tripsit_name": "propylphenidate",
-      "dist": 0.0
-    },
     {
       "name": "psyc_ethylphenidate",
       "psychonaut_name": null,

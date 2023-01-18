@@ -8,7 +8,6 @@
     "4-metmp"
   ],
   "distances": [
-    1.9073e-06,
     7.6058050472,
     7.6058050472,
     7.6737100617,
@@ -20,7 +19,6 @@
     11.357265859
   ],
   "indices": [
-    360,
     427,
     231,
     672,
@@ -34,12 +32,6 @@
   "name": "psyc_4-methylmethylphenidate",
   "svg": "psyc_4-methylmethylphenidate.svg",
   "sim": [
-    {
-      "name": "psyc_4-methylmethylphenidate",
-      "psychonaut_name": null,
-      "tripsit_name": "4-methylmethylphenidate",
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_methylphenidate",
       "psychonaut_name": null,

@@ -176,7 +176,6 @@
     "Propanoic acid, 2-amino-3-(4-hydroxyphenyl)-(S)-"
   ],
   "distances": [
-    9.537e-07,
     15.1155169054,
     15.1155169054,
     15.4001626142,
@@ -188,7 +187,6 @@
     16.3444119205
   ],
   "indices": [
-    315,
     785,
     271,
     364,
@@ -202,12 +200,6 @@
   "name": "trip_Tyrosine",
   "svg": "trip_Tyrosine.svg",
   "sim": [
-    {
-      "name": "trip_Tyrosine",
-      "psychonaut_name": "Tyrosine",
-      "tripsit_name": null,
-      "dist": 9.537e-07
-    },
     {
       "name": "psyc_phenibut",
       "psychonaut_name": null,

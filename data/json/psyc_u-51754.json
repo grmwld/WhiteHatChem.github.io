@@ -7,7 +7,6 @@
     "methene-u-47700"
   ],
   "distances": [
-    3.5683e-06,
     7.7551405071,
     7.7551405071,
     15.3386231848,
@@ -19,7 +18,6 @@
     32.2962589141
   ],
   "indices": [
-    349,
     358,
     316,
     398,
@@ -33,12 +31,6 @@
   "name": "psyc_u-51754",
   "svg": "psyc_u-51754.svg",
   "sim": [
-    {
-      "name": "psyc_u-51754",
-      "psychonaut_name": null,
-      "tripsit_name": "u-51754",
-      "dist": 3.5683e-06
-    },
     {
       "name": "psyc_u-47700",
       "psychonaut_name": null,

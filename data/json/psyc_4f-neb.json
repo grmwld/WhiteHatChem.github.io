@@ -4,7 +4,6 @@
   "tripsit_name": "4f-neb",
   "synonyms": null,
   "distances": [
-    1.3487e-06,
     8.494517634,
     9.6143244209,
     10.3277645077,
@@ -16,7 +15,6 @@
     12.0990839588
   ],
   "indices": [
-    825,
     680,
     381,
     244,
@@ -30,12 +28,6 @@
   "name": "psyc_4f-neb",
   "svg": "psyc_4f-neb.svg",
   "sim": [
-    {
-      "name": "psyc_4f-neb",
-      "psychonaut_name": null,
-      "tripsit_name": "4f-neb",
-      "dist": 1.3487e-06
-    },
     {
       "name": "psyc_neb",
       "psychonaut_name": null,

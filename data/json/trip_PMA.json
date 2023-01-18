@@ -152,7 +152,6 @@
   ],
   "distances": [
     3.8147e-06,
-    3.8147e-06,
     69.3302783782,
     69.3302783782,
     82.3531600411,
@@ -163,7 +162,6 @@
     96.4801479337
   ],
   "indices": [
-    261,
     483,
     119,
     773,
@@ -177,12 +175,6 @@
   "name": "trip_PMA",
   "svg": "trip_PMA.svg",
   "sim": [
-    {
-      "name": "trip_PMA",
-      "psychonaut_name": "PMA",
-      "tripsit_name": null,
-      "dist": 3.8147e-06
-    },
     {
       "name": "psyc_pma",
       "psychonaut_name": null,

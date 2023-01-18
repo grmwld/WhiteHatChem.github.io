@@ -30,7 +30,6 @@
   ],
   "distances": [
     2.6974e-06,
-    2.6974e-06,
     17.0886771923,
     17.0886771923,
     17.9136544941,
@@ -41,7 +40,6 @@
     23.9671991635
   ],
   "indices": [
-    624,
     94,
     704,
     157,
@@ -55,12 +53,6 @@
   "name": "trip_AL-LAD",
   "svg": "trip_AL-LAD.svg",
   "sim": [
-    {
-      "name": "psyc_al-lad",
-      "psychonaut_name": null,
-      "tripsit_name": "al-lad",
-      "dist": 2.6974e-06
-    },
     {
       "name": "trip_AL-LAD",
       "psychonaut_name": "AL-LAD",

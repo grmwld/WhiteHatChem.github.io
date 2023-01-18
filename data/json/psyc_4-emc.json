@@ -6,7 +6,6 @@
     "4-ethylmethcathinone"
   ],
   "distances": [
-    1.3487e-06,
     8.1998202979,
     8.1998202979,
     8.4503857587,
@@ -18,7 +17,6 @@
     9.1804703789
   ],
   "indices": [
-    373,
     218,
     547,
     48,
@@ -32,12 +30,6 @@
   "name": "psyc_4-emc",
   "svg": "psyc_4-emc.svg",
   "sim": [
-    {
-      "name": "psyc_4-emc",
-      "psychonaut_name": null,
-      "tripsit_name": "4-emc",
-      "dist": 1.3487e-06
-    },
     {
       "name": "trip_Mephedrone",
       "psychonaut_name": "Mephedrone",

@@ -12,7 +12,6 @@
   ],
   "distances": [
     0.0,
-    0.0,
     6.8037700188,
     6.8037700188,
     8.7560268899,
@@ -23,7 +22,6 @@
     12.1344202945
   ],
   "indices": [
-    133,
     577,
     155,
     743,
@@ -37,12 +35,6 @@
   "name": "trip_DET",
   "svg": "trip_DET.svg",
   "sim": [
-    {
-      "name": "trip_DET",
-      "psychonaut_name": "DET",
-      "tripsit_name": null,
-      "dist": 0.0
-    },
     {
       "name": "psyc_det",
       "psychonaut_name": null,

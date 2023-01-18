@@ -10,7 +10,6 @@
     "Ethyl pentedrone"
   ],
   "distances": [
-    1.3487e-06,
     5.8999270548,
     5.8999270548,
     7.3651530591,
@@ -22,7 +21,6 @@
     10.2090805922
   ],
   "indices": [
-    244,
     242,
     493,
     680,
@@ -36,12 +34,6 @@
   "name": "trip_NEP",
   "svg": "trip_NEP.svg",
   "sim": [
-    {
-      "name": "trip_NEP",
-      "psychonaut_name": "NEP",
-      "tripsit_name": null,
-      "dist": 1.3487e-06
-    },
     {
       "name": "trip_N-Ethylhexedrone",
       "psychonaut_name": "N-Ethylhexedrone",

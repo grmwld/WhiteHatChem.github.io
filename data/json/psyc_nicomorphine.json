@@ -4,7 +4,6 @@
   "tripsit_name": "nicomorphine",
   "synonyms": null,
   "distances": [
-    0.0,
     46.5324357639,
     48.4471109417,
     48.4471109417,
@@ -16,7 +15,6 @@
     52.5914034124
   ],
   "indices": [
-    646,
     331,
     186,
     397,
@@ -30,12 +28,6 @@
   "name": "psyc_nicomorphine",
   "svg": "psyc_nicomorphine.svg",
   "sim": [
-    {
-      "name": "psyc_nicomorphine",
-      "psychonaut_name": null,
-      "tripsit_name": "nicomorphine",
-      "dist": 0.0
-    },
     {
       "name": "psyc_benzodioxole-fentanyl",
       "psychonaut_name": null,

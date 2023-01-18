@@ -6,7 +6,6 @@
     "nordiclazepam"
   ],
   "distances": [
-    1.9073e-06,
     6.8041526681,
     7.6013098241,
     8.5584422054,
@@ -18,7 +17,6 @@
     16.3661200055
   ],
   "indices": [
-    725,
     539,
     442,
     269,
@@ -32,12 +30,6 @@
   "name": "psyc_delorazepam",
   "svg": "psyc_delorazepam.svg",
   "sim": [
-    {
-      "name": "psyc_delorazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "delorazepam",
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_norflurazepam",
       "psychonaut_name": null,

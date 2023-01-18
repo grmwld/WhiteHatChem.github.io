@@ -26,7 +26,6 @@
     "(+/-)-1-(1,3-benzodioxol-5-yl)-2-(ethylamino)pentan-1-one"
   ],
   "distances": [
-    2.336e-06,
     7.3651533181,
     9.92525164,
     9.92525164,
@@ -38,7 +37,6 @@
     16.8046466396
   ],
   "indices": [
-    161,
     169,
     267,
     567,
@@ -52,12 +50,6 @@
   "name": "trip_Ephylone",
   "svg": "trip_Ephylone.svg",
   "sim": [
-    {
-      "name": "trip_Ephylone",
-      "psychonaut_name": "Ephylone",
-      "tripsit_name": null,
-      "dist": 2.336e-06
-    },
     {
       "name": "trip_Eutylone",
       "psychonaut_name": "Eutylone",

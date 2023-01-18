@@ -24,7 +24,6 @@
   ],
   "distances": [
     3.3036e-06,
-    3.3036e-06,
     8.6730032522,
     8.6730032522,
     10.7443236512,
@@ -35,7 +34,6 @@
     13.401026991
   ],
   "indices": [
-    17,
     503,
     19,
     505,
@@ -49,12 +47,6 @@
   "name": "trip_25B-NBOH",
   "svg": "trip_25B-NBOH.svg",
   "sim": [
-    {
-      "name": "trip_25B-NBOH",
-      "psychonaut_name": "25B-NBOH",
-      "tripsit_name": null,
-      "dist": 3.3036e-06
-    },
     {
       "name": "psyc_25b-nboh",
       "psychonaut_name": null,

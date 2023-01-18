@@ -58,7 +58,6 @@
     "1-PHENYL-1-OXO-2-METHYLAMINOPROPANE"
   ],
   "distances": [
-    9.537e-07,
     7.2985093045,
     7.2985093045,
     7.6058050472,
@@ -70,7 +69,6 @@
     7.987626998
   ],
   "indices": [
-    225,
     580,
     16,
     547,
@@ -84,12 +82,6 @@
   "name": "trip_Methcathinone",
   "svg": "trip_Methcathinone.svg",
   "sim": [
-    {
-      "name": "trip_Methcathinone",
-      "psychonaut_name": "Methcathinone",
-      "tripsit_name": null,
-      "dist": 9.537e-07
-    },
     {
       "name": "psyc_2-mmc",
       "psychonaut_name": null,

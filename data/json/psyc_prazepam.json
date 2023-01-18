@@ -14,7 +14,6 @@
     "trepidan"
   ],
   "distances": [
-    2.6974e-06,
     8.0848282942,
     16.7347014295,
     16.7347014295,
@@ -26,7 +25,6 @@
     19.6903054797
   ],
   "indices": [
-    486,
     574,
     605,
     150,
@@ -40,12 +38,6 @@
   "name": "psyc_prazepam",
   "svg": "psyc_prazepam.svg",
   "sim": [
-    {
-      "name": "psyc_prazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "prazepam",
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_flutoprazepam",
       "psychonaut_name": null,

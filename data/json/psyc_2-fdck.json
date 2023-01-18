@@ -13,7 +13,6 @@
   ],
   "distances": [
     0.0,
-    0.0,
     6.8041521074,
     6.8041521074,
     8.5598880097,
@@ -24,7 +23,6 @@
     12.4001738998
   ],
   "indices": [
-    15,
     510,
     196,
     590,
@@ -38,12 +36,6 @@
   "name": "psyc_2-fdck",
   "svg": "psyc_2-fdck.svg",
   "sim": [
-    {
-      "name": "trip_2-Fluorodeschloroketamine",
-      "psychonaut_name": "2-Fluorodeschloroketamine",
-      "tripsit_name": null,
-      "dist": 0.0
-    },
     {
       "name": "psyc_2-fdck",
       "psychonaut_name": null,

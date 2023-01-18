@@ -6,7 +6,6 @@
     "N-Methyl-Cyclazodone"
   ],
   "distances": [
-    0.0,
     21.8494158424,
     23.8439240656,
     24.0201623784,
@@ -18,7 +17,6 @@
     25.1195736619
   ],
   "indices": [
-    305,
     131,
     552,
     448,
@@ -32,12 +30,6 @@
   "name": "trip_N-Methyl-Cyclazodone",
   "svg": "trip_N-Methyl-Cyclazodone.svg",
   "sim": [
-    {
-      "name": "trip_N-Methyl-Cyclazodone",
-      "psychonaut_name": "N-Methyl-Cyclazodone",
-      "tripsit_name": null,
-      "dist": 0.0
-    },
     {
       "name": "trip_Cyclazodone",
       "psychonaut_name": "Cyclazodone",

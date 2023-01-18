@@ -52,7 +52,6 @@
     "JWH-018 ((Naphthalen-1-yl)(1-pentylindol-3-yl)methanone)"
   ],
   "distances": [
-    1.9073e-06,
     5.8999273781,
     8.3815286725,
     11.3210383275,
@@ -64,7 +63,6 @@
     24.6615877164
   ],
   "indices": [
-    193,
     194,
     297,
     432,
@@ -78,12 +76,6 @@
   "name": "trip_JWH-018",
   "svg": "trip_JWH-018.svg",
   "sim": [
-    {
-      "name": "trip_JWH-018",
-      "psychonaut_name": "JWH-018",
-      "tripsit_name": null,
-      "dist": 1.9073e-06
-    },
     {
       "name": "trip_JWH-073",
       "psychonaut_name": "JWH-073",

@@ -5,7 +5,6 @@
   "synonyms": null,
   "distances": [
     1.9073e-06,
-    1.9073e-06,
     32.6664065396,
     32.9589588542,
     33.7458131807,
@@ -16,7 +15,6 @@
     35.8508398067
   ],
   "indices": [
-    129,
     445,
     357,
     818,
@@ -30,12 +28,6 @@
   "name": "psyc_coluracetam",
   "svg": "psyc_coluracetam.svg",
   "sim": [
-    {
-      "name": "trip_Coluracetam",
-      "psychonaut_name": "Coluracetam",
-      "tripsit_name": null,
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_coluracetam",
       "psychonaut_name": null,

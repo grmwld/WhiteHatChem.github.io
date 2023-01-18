@@ -54,7 +54,6 @@
   ],
   "distances": [
     1.5079e-06,
-    1.5079e-06,
     10.9856070944,
     11.4516973712,
     11.4516973712,
@@ -65,7 +64,6 @@
     19.256942488
   ],
   "indices": [
-    416,
     11,
     589,
     245,
@@ -79,12 +77,6 @@
   "name": "trip_2-Aminoindane",
   "svg": "trip_2-Aminoindane.svg",
   "sim": [
-    {
-      "name": "psyc_2-ai",
-      "psychonaut_name": null,
-      "tripsit_name": "2-ai",
-      "dist": 1.5079e-06
-    },
     {
       "name": "trip_2-Aminoindane",
       "psychonaut_name": "2-Aminoindane",

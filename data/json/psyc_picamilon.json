@@ -5,7 +5,6 @@
   "synonyms": null,
   "distances": [
     1.6518e-06,
-    1.6518e-06,
     21.2616939905,
     21.9095458246,
     21.9095458246,
@@ -16,7 +15,6 @@
     22.3023839934
   ],
   "indices": [
-    275,
     649,
     364,
     370,
@@ -30,12 +28,6 @@
   "name": "psyc_picamilon",
   "svg": "psyc_picamilon.svg",
   "sim": [
-    {
-      "name": "trip_Picamilon",
-      "psychonaut_name": "Picamilon",
-      "tripsit_name": null,
-      "dist": 1.6518e-06
-    },
     {
       "name": "psyc_picamilon",
       "psychonaut_name": null,

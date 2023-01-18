@@ -9,7 +9,6 @@
     "2clephenidine"
   ],
   "distances": [
-    0.0,
     7.9529281022,
     7.9529281022,
     14.8490435668,
@@ -21,7 +20,6 @@
     21.8988026191
   ],
   "indices": [
-    525,
     411,
     160,
     554,
@@ -35,12 +33,6 @@
   "name": "psyc_2-chloro-ephenidine",
   "svg": "psyc_2-chloro-ephenidine.svg",
   "sim": [
-    {
-      "name": "psyc_2-chloro-ephenidine",
-      "psychonaut_name": null,
-      "tripsit_name": "2-chloro-ephenidine",
-      "dist": 0.0
-    },
     {
       "name": "psyc_ephenidine",
       "psychonaut_name": null,

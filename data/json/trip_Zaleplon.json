@@ -102,7 +102,6 @@
   ],
   "distances": [
     2.6974e-06,
-    2.6974e-06,
     23.0079822787,
     23.0079822787,
     27.2194081346,
@@ -113,7 +112,6 @@
     29.3068285175
   ],
   "indices": [
-    422,
     317,
     677,
     318,
@@ -127,12 +125,6 @@
   "name": "trip_Zaleplon",
   "svg": "trip_Zaleplon.svg",
   "sim": [
-    {
-      "name": "psyc_sonata",
-      "psychonaut_name": null,
-      "tripsit_name": "sonata",
-      "dist": 2.6974e-06
-    },
     {
       "name": "trip_Zaleplon",
       "psychonaut_name": "Zaleplon",

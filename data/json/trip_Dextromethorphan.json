@@ -112,7 +112,6 @@
   ],
   "distances": [
     2.336e-06,
-    2.336e-06,
     18.8237044214,
     19.2887239237,
     20.3965194426,
@@ -123,7 +122,6 @@
     20.7294658492
   ],
   "indices": [
-    642,
     145,
     142,
     391,
@@ -137,12 +135,6 @@
   "name": "trip_Dextromethorphan",
   "svg": "trip_Dextromethorphan.svg",
   "sim": [
-    {
-      "name": "psyc_dxm",
-      "psychonaut_name": null,
-      "tripsit_name": "dxm",
-      "dist": 2.336e-06
-    },
     {
       "name": "trip_Dextromethorphan",
       "psychonaut_name": "Dextromethorphan",

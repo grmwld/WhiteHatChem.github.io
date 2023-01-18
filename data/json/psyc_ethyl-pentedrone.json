@@ -8,7 +8,6 @@
   ],
   "distances": [
     1.3487e-06,
-    1.3487e-06,
     8.1998198327,
     8.4081021789,
     8.4081021789,
@@ -19,7 +18,6 @@
     11.1592500644
   ],
   "indices": [
-    718,
     375,
     655,
     187,
@@ -33,12 +31,6 @@
   "name": "psyc_ethyl-pentedrone",
   "svg": "psyc_ethyl-pentedrone.svg",
   "sim": [
-    {
-      "name": "psyc_ethyl-pentedrone",
-      "psychonaut_name": null,
-      "tripsit_name": "ethyl-pentedrone",
-      "dist": 1.3487e-06
-    },
     {
       "name": "psyc_4-epd",
       "psychonaut_name": null,

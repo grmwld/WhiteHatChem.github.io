@@ -122,7 +122,6 @@
     0.0,
     0.0,
     0.0,
-    0.0,
     12.6268635498,
     12.6268635498,
     13.9802728358,
@@ -131,7 +130,6 @@
     14.0161394006
   ],
   "indices": [
-    530,
     284,
     645,
     159,
@@ -145,12 +143,6 @@
   "name": "trip_Pseudoephedrine",
   "svg": "trip_Pseudoephedrine.svg",
   "sim": [
-    {
-      "name": "psyc_pseudoephedrine",
-      "psychonaut_name": null,
-      "tripsit_name": "pseudoephedrine",
-      "dist": 0.0
-    },
     {
       "name": "trip_Pseudoephedrine",
       "psychonaut_name": "Pseudoephedrine",

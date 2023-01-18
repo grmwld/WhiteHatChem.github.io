@@ -25,7 +25,6 @@
     "2-Hydroxy-N,N,N-trimethylethanaminium 3-carboxy-2,3-dihydroxypropanoate"
   ],
   "distances": [
-    2.6974e-06,
     40.729735783,
     47.5428928459,
     47.5428928459,
@@ -37,7 +36,6 @@
     49.7722179699
   ],
   "indices": [
-    121,
     102,
     307,
     325,
@@ -51,12 +49,6 @@
   "name": "trip_Choline bitartrate",
   "svg": "trip_Choline bitartrate.svg",
   "sim": [
-    {
-      "name": "trip_Choline bitartrate",
-      "psychonaut_name": "Choline bitartrate",
-      "tripsit_name": null,
-      "dist": 2.6974e-06
-    },
     {
       "name": "trip_Alpha-GPC",
       "psychonaut_name": "Alpha-GPC",

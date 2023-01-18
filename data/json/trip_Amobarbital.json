@@ -123,7 +123,6 @@
   ],
   "distances": [
     2.6974e-06,
-    2.6974e-06,
     11.1441673864,
     11.1441673864,
     16.538921343,
@@ -134,7 +133,6 @@
     25.4450138626
   ],
   "indices": [
-    105,
     775,
     660,
     266,
@@ -148,12 +146,6 @@
   "name": "trip_Amobarbital",
   "svg": "trip_Amobarbital.svg",
   "sim": [
-    {
-      "name": "trip_Amobarbital",
-      "psychonaut_name": "Amobarbital",
-      "tripsit_name": null,
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_amobarbital",
       "psychonaut_name": null,

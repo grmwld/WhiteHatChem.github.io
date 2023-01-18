@@ -7,7 +7,6 @@
     "mt45"
   ],
   "distances": [
-    3.8147e-06,
     21.8219508817,
     22.1724289979,
     24.3253939841,
@@ -19,7 +18,6 @@
     28.9798966806
   ],
   "indices": [
-    632,
     739,
     407,
     720,
@@ -33,12 +31,6 @@
   "name": "psyc_mt-45",
   "svg": "psyc_mt-45.svg",
   "sim": [
-    {
-      "name": "psyc_mt-45",
-      "psychonaut_name": null,
-      "tripsit_name": "mt-45",
-      "dist": 3.8147e-06
-    },
     {
       "name": "psyc_indapyrophenidone",
       "psychonaut_name": null,

@@ -5,7 +5,6 @@
   "synonyms": null,
   "distances": [
     3.0158e-06,
-    3.0158e-06,
     10.4776631687,
     22.2421593728,
     22.4512186854,
@@ -16,7 +15,6 @@
     26.5681370397
   ],
   "indices": [
-    281,
     826,
     100,
     254,
@@ -30,12 +28,6 @@
   "name": "psyc_promethazine",
   "svg": "psyc_promethazine.svg",
   "sim": [
-    {
-      "name": "trip_Promethazine",
-      "psychonaut_name": "Promethazine",
-      "tripsit_name": null,
-      "dist": 3.0158e-06
-    },
     {
       "name": "psyc_promethazine",
       "psychonaut_name": null,

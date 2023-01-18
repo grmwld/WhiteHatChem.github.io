@@ -189,7 +189,6 @@
   ],
   "distances": [
     1.3487e-06,
-    1.3487e-06,
     11.571525062,
     11.571525062,
     21.8145334777,
@@ -200,7 +199,6 @@
     23.4234267644
   ],
   "indices": [
-    494,
     276,
     255,
     674,
@@ -214,12 +212,6 @@
   "name": "trip_Piracetam",
   "svg": "trip_Piracetam.svg",
   "sim": [
-    {
-      "name": "psyc_piracetam",
-      "psychonaut_name": null,
-      "tripsit_name": "piracetam",
-      "dist": 1.3487e-06
-    },
     {
       "name": "trip_Piracetam",
       "psychonaut_name": "Piracetam",

@@ -50,7 +50,6 @@
     "6-Deoxy-7,8-dihydromorphine"
   ],
   "distances": [
-    3.5683e-06,
     11.4025585315,
     11.4025585315,
     15.0573397459,
@@ -62,7 +61,6 @@
     18.8237044214
   ],
   "indices": [
-    142,
     388,
     189,
     151,
@@ -76,12 +74,6 @@
   "name": "trip_Desomorphine",
   "svg": "trip_Desomorphine.svg",
   "sim": [
-    {
-      "name": "trip_Desomorphine",
-      "psychonaut_name": "Desomorphine",
-      "tripsit_name": null,
-      "dist": 3.5683e-06
-    },
     {
       "name": "psyc_hydromorphone",
       "psychonaut_name": null,

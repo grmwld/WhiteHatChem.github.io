@@ -294,7 +294,6 @@
     "VU0239704-10"
   ],
   "distances": [
-    1.9073e-06,
     23.1625526489,
     23.2995012877,
     24.9485921642,
@@ -306,7 +305,6 @@
     27.1145584472
   ],
   "indices": [
-    185,
     839,
     687,
     746,
@@ -320,12 +318,6 @@
   "name": "trip_Haloperidol",
   "svg": "trip_Haloperidol.svg",
   "sim": [
-    {
-      "name": "trip_Haloperidol",
-      "psychonaut_name": "Haloperidol",
-      "tripsit_name": null,
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_flutazolam",
       "psychonaut_name": null,

@@ -4,7 +4,6 @@
   "tripsit_name": "2-mec",
   "synonyms": null,
   "distances": [
-    1.9073e-06,
     3.748410333,
     4.0127249016,
     4.0127249016,
@@ -16,7 +15,6 @@
     9.9252520243
   ],
   "indices": [
-    339,
     389,
     70,
     603,
@@ -30,12 +28,6 @@
   "name": "psyc_2-mec",
   "svg": "psyc_2-mec.svg",
   "sim": [
-    {
-      "name": "psyc_2-mec",
-      "psychonaut_name": null,
-      "tripsit_name": "2-mec",
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_3-mec",
       "psychonaut_name": null,

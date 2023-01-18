@@ -6,7 +6,6 @@
     "h-a"
   ],
   "distances": [
-    1.9073e-06,
     30.461448444,
     31.2249284192,
     31.3928385932,
@@ -18,7 +17,6 @@
     32.3059901869
   ],
   "indices": [
-    588,
     462,
     671,
     599,
@@ -32,12 +30,6 @@
   "name": "psyc_huperzine-a",
   "svg": "psyc_huperzine-a.svg",
   "sim": [
-    {
-      "name": "psyc_huperzine-a",
-      "psychonaut_name": null,
-      "tripsit_name": "huperzine-a",
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_glutethimide",
       "psychonaut_name": null,

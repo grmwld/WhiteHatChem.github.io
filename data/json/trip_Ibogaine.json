@@ -41,7 +41,6 @@
   "distances": [
     3.5683e-06,
     3.5683e-06,
-    3.5683e-06,
     19.6504215884,
     24.2132617269,
     26.1784273514,
@@ -51,7 +50,6 @@
     27.5591770513
   ],
   "indices": [
-    190,
     651,
     302,
     386,
@@ -65,12 +63,6 @@
   "name": "trip_Ibogaine",
   "svg": "trip_Ibogaine.svg",
   "sim": [
-    {
-      "name": "trip_Ibogaine",
-      "psychonaut_name": "Ibogaine",
-      "tripsit_name": null,
-      "dist": 3.5683e-06
-    },
     {
       "name": "psyc_ibogaine",
       "psychonaut_name": null,

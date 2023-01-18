@@ -6,7 +6,6 @@
     "n-ethylbuphedrone"
   ],
   "distances": [
-    1.3487e-06,
     7.3651530591,
     7.9876267592,
     7.9876267592,
@@ -18,7 +17,6 @@
     10.2429487584
   ],
   "indices": [
-    680,
     244,
     808,
     156,
@@ -32,12 +30,6 @@
   "name": "psyc_neb",
   "svg": "psyc_neb.svg",
   "sim": [
-    {
-      "name": "psyc_neb",
-      "psychonaut_name": null,
-      "tripsit_name": "neb",
-      "dist": 1.3487e-06
-    },
     {
       "name": "trip_NEP",
       "psychonaut_name": "NEP",

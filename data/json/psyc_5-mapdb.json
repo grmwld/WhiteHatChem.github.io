@@ -6,7 +6,6 @@
     "5mapdb"
   ],
   "distances": [
-    0.0,
     8.9216757517,
     8.9216757517,
     12.0991501691,
@@ -18,7 +17,6 @@
     13.7011583716
   ],
   "indices": [
-    430,
     609,
     208,
     89,
@@ -32,12 +30,6 @@
   "name": "psyc_5-mapdb",
   "svg": "psyc_5-mapdb.svg",
   "sim": [
-    {
-      "name": "psyc_5-mapdb",
-      "psychonaut_name": null,
-      "tripsit_name": "5-mapdb",
-      "dist": 0.0
-    },
     {
       "name": "psyc_mdma",
       "psychonaut_name": null,

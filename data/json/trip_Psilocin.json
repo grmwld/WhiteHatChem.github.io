@@ -69,7 +69,6 @@
   ],
   "distances": [
     1.3487e-06,
-    1.3487e-06,
     4.4137906961,
     8.4429647198,
     8.4429647198,
@@ -80,7 +79,6 @@
     11.5310687126
   ],
   "indices": [
-    285,
     423,
     113,
     631,
@@ -94,12 +92,6 @@
   "name": "trip_Psilocin",
   "svg": "trip_Psilocin.svg",
   "sim": [
-    {
-      "name": "trip_Psilocin",
-      "psychonaut_name": "Psilocin",
-      "tripsit_name": null,
-      "dist": 1.3487e-06
-    },
     {
       "name": "psyc_psilocin",
       "psychonaut_name": null,

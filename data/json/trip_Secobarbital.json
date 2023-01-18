@@ -96,7 +96,6 @@
   ],
   "distances": [
     1.9073e-06,
-    1.9073e-06,
     17.6028792714,
     17.6028792714,
     21.1992694945,
@@ -107,7 +106,6 @@
     31.0186671997
   ],
   "indices": [
-    293,
     593,
     660,
     266,
@@ -121,12 +119,6 @@
   "name": "trip_Secobarbital",
   "svg": "trip_Secobarbital.svg",
   "sim": [
-    {
-      "name": "trip_Secobarbital",
-      "psychonaut_name": "Secobarbital",
-      "tripsit_name": null,
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_secobarbital",
       "psychonaut_name": null,

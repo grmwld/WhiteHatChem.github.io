@@ -4,7 +4,6 @@
   "tripsit_name": "3-meomc",
   "synonyms": null,
   "distances": [
-    1.3487e-06,
     1.9697514969,
     8.6635090382,
     8.6635090382,
@@ -16,7 +15,6 @@
     9.6178768602
   ],
   "indices": [
-    831,
     716,
     48,
     377,
@@ -30,12 +28,6 @@
   "name": "psyc_3-meomc",
   "svg": "psyc_3-meomc.svg",
   "sim": [
-    {
-      "name": "psyc_3-meomc",
-      "psychonaut_name": null,
-      "tripsit_name": "3-meomc",
-      "dist": 1.3487e-06
-    },
     {
       "name": "psyc_methedrone",
       "psychonaut_name": null,

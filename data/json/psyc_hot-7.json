@@ -6,7 +6,6 @@
     "hot7"
   ],
   "distances": [
-    2.336e-06,
     7.9594236363,
     11.7389396394,
     11.7389396394,
@@ -18,7 +17,6 @@
     16.3009670603
   ],
   "indices": [
-    476,
     791,
     38,
     729,
@@ -32,12 +30,6 @@
   "name": "psyc_hot-7",
   "svg": "psyc_hot-7.svg",
   "sim": [
-    {
-      "name": "psyc_hot-7",
-      "psychonaut_name": null,
-      "tripsit_name": "hot-7",
-      "dist": 2.336e-06
-    },
     {
       "name": "psyc_hot-2",
       "psychonaut_name": null,

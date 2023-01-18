@@ -6,7 +6,6 @@
     "diphenylprolinol"
   ],
   "distances": [
-    3.0158e-06,
     19.9768558103,
     19.9768558103,
     24.2478202548,
@@ -18,7 +17,6 @@
     26.3887307824
   ],
   "indices": [
-    371,
     783,
     143,
     550,
@@ -32,12 +30,6 @@
   "name": "psyc_d2pm",
   "svg": "psyc_d2pm.svg",
   "sim": [
-    {
-      "name": "psyc_d2pm",
-      "psychonaut_name": null,
-      "tripsit_name": "d2pm",
-      "dist": 3.0158e-06
-    },
     {
       "name": "psyc_2-dpmp",
       "psychonaut_name": null,

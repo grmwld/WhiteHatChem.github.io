@@ -7,7 +7,6 @@
   ],
   "distances": [
     3.5683e-06,
-    3.5683e-06,
     7.6013108277,
     16.1576005087,
     16.2912506024,
@@ -18,7 +17,6 @@
     16.9757957935
   ],
   "indices": [
-    304,
     695,
     545,
     719,
@@ -32,12 +30,6 @@
   "name": "psyc_temazepam",
   "svg": "psyc_temazepam.svg",
   "sim": [
-    {
-      "name": "trip_Temazepam",
-      "psychonaut_name": "Temazepam",
-      "tripsit_name": null,
-      "dist": 3.5683e-06
-    },
     {
       "name": "psyc_temazepam",
       "psychonaut_name": null,

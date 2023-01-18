@@ -119,7 +119,6 @@
   ],
   "distances": [
     3.0158e-06,
-    3.0158e-06,
     19.1572177761,
     19.2936184626,
     22.1913660254,
@@ -130,7 +129,6 @@
     23.6100497298
   ],
   "indices": [
-    408,
     154,
     254,
     152,
@@ -144,12 +142,6 @@
   "name": "trip_Doxylamine",
   "svg": "trip_Doxylamine.svg",
   "sim": [
-    {
-      "name": "psyc_doxylamine",
-      "psychonaut_name": null,
-      "tripsit_name": "doxylamine",
-      "dist": 3.0158e-06
-    },
     {
       "name": "trip_Doxylamine",
       "psychonaut_name": "Doxylamine",

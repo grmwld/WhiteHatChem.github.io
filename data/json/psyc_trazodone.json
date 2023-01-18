@@ -4,7 +4,6 @@
   "tripsit_name": "trazodone",
   "synonyms": [],
   "distances": [
-    0.0,
     20.6555090698,
     23.4808817262,
     27.1754912415,
@@ -16,7 +15,6 @@
     28.6108256732
   ],
   "indices": [
-    625,
     279,
     345,
     185,
@@ -30,12 +28,6 @@
   "name": "psyc_trazodone",
   "svg": "psyc_trazodone.svg",
   "sim": [
-    {
-      "name": "psyc_trazodone",
-      "psychonaut_name": null,
-      "tripsit_name": "trazodone",
-      "dist": 0.0
-    },
     {
       "name": "trip_Prochlorperazine",
       "psychonaut_name": "Prochlorperazine",

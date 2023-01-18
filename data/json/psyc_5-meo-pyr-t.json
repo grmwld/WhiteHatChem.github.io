@@ -4,7 +4,6 @@
   "tripsit_name": "5-meo-pyr-t",
   "synonyms": null,
   "distances": [
-    1.9073e-06,
     17.3513136309,
     18.8386851221,
     20.1967457482,
@@ -16,7 +15,6 @@
     22.3833946805
   ],
   "indices": [
-    440,
     424,
     435,
     526,
@@ -30,12 +28,6 @@
   "name": "psyc_5-meo-pyr-t",
   "svg": "psyc_5-meo-pyr-t.svg",
   "sim": [
-    {
-      "name": "psyc_5-meo-pyr-t",
-      "psychonaut_name": null,
-      "tripsit_name": "5-meo-pyr-t",
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_4-ho-mpmi",
       "psychonaut_name": null,

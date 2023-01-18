@@ -10,7 +10,6 @@
     "youvitan"
   ],
   "distances": [
-    5.3948e-06,
     81.1465988678,
     90.6325535645,
     91.9924366371,
@@ -22,7 +21,6 @@
     100.1109833354
   ],
   "indices": [
-    753,
     532,
     813,
     116,
@@ -36,12 +34,6 @@
   "name": "psyc_sulbutiamine",
   "svg": "psyc_sulbutiamine.svg",
   "sim": [
-    {
-      "name": "psyc_sulbutiamine",
-      "psychonaut_name": null,
-      "tripsit_name": "sulbutiamine",
-      "dist": 5.3948e-06
-    },
     {
       "name": "psyc_viagra",
       "psychonaut_name": null,

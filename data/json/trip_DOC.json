@@ -123,7 +123,6 @@
   ],
   "distances": [
     2.6974e-06,
-    2.6974e-06,
     43.6263361073,
     43.6263361073,
     43.9047402988,
@@ -134,7 +133,6 @@
     45.3206027238
   ],
   "indices": [
-    136,
     732,
     827,
     151,
@@ -148,12 +146,6 @@
   "name": "trip_DOC",
   "svg": "trip_DOC.svg",
   "sim": [
-    {
-      "name": "trip_DOC",
-      "psychonaut_name": "DOC",
-      "tripsit_name": null,
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_doc",
       "psychonaut_name": null,

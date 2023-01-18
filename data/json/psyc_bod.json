@@ -4,7 +4,6 @@
   "tripsit_name": "bod",
   "synonyms": null,
   "distances": [
-    2.336e-06,
     13.2903823152,
     13.3297374327,
     13.3297374327,
@@ -16,7 +15,6 @@
     13.9591219703
   ],
   "indices": [
-    607,
     299,
     667,
     138,
@@ -30,12 +28,6 @@
   "name": "psyc_bod",
   "svg": "psyc_bod.svg",
   "sim": [
-    {
-      "name": "psyc_bod",
-      "psychonaut_name": null,
-      "tripsit_name": "bod",
-      "dist": 2.336e-06
-    },
     {
       "name": "trip_TMA",
       "psychonaut_name": "TMA",

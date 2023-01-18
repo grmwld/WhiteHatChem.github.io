@@ -4,7 +4,6 @@
   "tripsit_name": "5-meo-met",
   "synonyms": null,
   "distances": [
-    1.3487e-06,
     8.442964268,
     8.442964268,
     10.9353398397,
@@ -16,7 +15,6 @@
     12.7432915486
   ],
   "indices": [
-    528,
     80,
     519,
     212,
@@ -30,12 +28,6 @@
   "name": "psyc_5-meo-met",
   "svg": "psyc_5-meo-met.svg",
   "sim": [
-    {
-      "name": "psyc_5-meo-met",
-      "psychonaut_name": null,
-      "tripsit_name": "5-meo-met",
-      "dist": 1.3487e-06
-    },
     {
       "name": "trip_5-MeO-DMT",
       "psychonaut_name": "5-MeO-DMT",

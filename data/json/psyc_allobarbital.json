@@ -4,7 +4,6 @@
   "tripsit_name": "allobarbital",
   "synonyms": null,
   "distances": [
-    0.0,
     24.3969427476,
     24.3969427476,
     35.2057602764,
@@ -16,7 +15,6 @@
     39.1160507936
   ],
   "indices": [
-    767,
     293,
     593,
     524,
@@ -30,12 +28,6 @@
   "name": "psyc_allobarbital",
   "svg": "psyc_allobarbital.svg",
   "sim": [
-    {
-      "name": "psyc_allobarbital",
-      "psychonaut_name": null,
-      "tripsit_name": "allobarbital",
-      "dist": 0.0
-    },
     {
       "name": "trip_Secobarbital",
       "psychonaut_name": "Secobarbital",

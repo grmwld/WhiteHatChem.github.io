@@ -6,7 +6,6 @@
   "distances": [
     0.0,
     0.0,
-    0.0,
     9.9252524087,
     9.9252524087,
     11.3927554217,
@@ -16,7 +15,6 @@
     12.0991501691
   ],
   "indices": [
-    78,
     418,
     640,
     354,
@@ -30,12 +28,6 @@
   "name": "psyc_6-mapb",
   "svg": "psyc_6-mapb.svg",
   "sim": [
-    {
-      "name": "trip_5-MAPB",
-      "psychonaut_name": "5-MAPB",
-      "tripsit_name": null,
-      "dist": 0.0
-    },
     {
       "name": "psyc_5-mapb",
       "psychonaut_name": null,

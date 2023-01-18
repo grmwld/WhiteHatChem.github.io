@@ -11,7 +11,6 @@
   ],
   "distances": [
     1.3487e-06,
-    1.3487e-06,
     33.2521806733,
     34.8486473576,
     36.1780704737,
@@ -22,7 +21,6 @@
     38.271044558
   ],
   "indices": [
-    471,
     195,
     491,
     588,
@@ -36,12 +34,6 @@
   "name": "trip_Kava",
   "svg": "trip_Kava.svg",
   "sim": [
-    {
-      "name": "psyc_kava",
-      "psychonaut_name": null,
-      "tripsit_name": "kava",
-      "dist": 1.3487e-06
-    },
     {
       "name": "trip_Kava",
       "psychonaut_name": "Kava",

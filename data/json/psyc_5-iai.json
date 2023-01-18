@@ -6,7 +6,6 @@
     "5iai"
   ],
   "distances": [
-    1.3487e-06,
     10.9856070944,
     10.9856070944,
     15.7715645557,
@@ -18,7 +17,6 @@
     21.305328505
   ],
   "indices": [
-    589,
     416,
     11,
     245,
@@ -32,12 +30,6 @@
   "name": "psyc_5-iai",
   "svg": "psyc_5-iai.svg",
   "sim": [
-    {
-      "name": "psyc_5-iai",
-      "psychonaut_name": null,
-      "tripsit_name": "5-iai",
-      "dist": 1.3487e-06
-    },
     {
       "name": "psyc_2-ai",
       "psychonaut_name": null,

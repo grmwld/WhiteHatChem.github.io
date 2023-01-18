@@ -59,7 +59,6 @@
   ],
   "distances": [
     1.6518e-06,
-    1.6518e-06,
     8.0604832219,
     9.7559448116,
     9.925252793,
@@ -70,7 +69,6 @@
     12.7648079843
   ],
   "indices": [
-    492,
     207,
     472,
     488,
@@ -84,12 +82,6 @@
   "name": "trip_MDEA",
   "svg": "trip_MDEA.svg",
   "sim": [
-    {
-      "name": "psyc_mdea",
-      "psychonaut_name": null,
-      "tripsit_name": "mdea",
-      "dist": 1.6518e-06
-    },
     {
       "name": "trip_MDEA",
       "psychonaut_name": "MDEA",

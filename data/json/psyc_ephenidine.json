@@ -5,7 +5,6 @@
   "synonyms": null,
   "distances": [
     1.3487e-06,
-    1.3487e-06,
     7.9529281022,
     15.4840887295,
     15.9834461408,
@@ -16,7 +15,6 @@
     21.2922704005
   ],
   "indices": [
-    160,
     411,
     525,
     554,
@@ -30,12 +28,6 @@
   "name": "psyc_ephenidine",
   "svg": "psyc_ephenidine.svg",
   "sim": [
-    {
-      "name": "trip_Ephenidine",
-      "psychonaut_name": "Ephenidine",
-      "tripsit_name": null,
-      "dist": 1.3487e-06
-    },
     {
       "name": "psyc_ephenidine",
       "psychonaut_name": null,

@@ -93,7 +93,6 @@
   ],
   "distances": [
     9.537e-07,
-    9.537e-07,
     11.9260614527,
     11.9260614527,
     17.2313246323,
@@ -104,7 +103,6 @@
     23.9559710679
   ],
   "indices": [
-    2,
     579,
     353,
     180,
@@ -118,12 +116,6 @@
   "name": "trip_1,4-Butanediol",
   "svg": "trip_1,4-Butanediol.svg",
   "sim": [
-    {
-      "name": "trip_1,4-Butanediol",
-      "psychonaut_name": "1,4-Butanediol",
-      "tripsit_name": null,
-      "dist": 9.537e-07
-    },
     {
       "name": "psyc_1,4-butanediol",
       "psychonaut_name": null,

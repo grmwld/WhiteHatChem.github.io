@@ -4,7 +4,6 @@
   "tripsit_name": "pipt",
   "synonyms": null,
   "distances": [
-    3.3036e-06,
     10.9353401885,
     10.9353401885,
     12.900718113,
@@ -16,7 +15,6 @@
     13.9330199016
   ],
   "indices": [
-    522,
     521,
     83,
     743,
@@ -30,12 +28,6 @@
   "name": "psyc_pipt",
   "svg": "psyc_pipt.svg",
   "sim": [
-    {
-      "name": "psyc_pipt",
-      "psychonaut_name": null,
-      "tripsit_name": "pipt",
-      "dist": 3.3036e-06
-    },
     {
       "name": "psyc_5-meo-eipt",
       "psychonaut_name": null,

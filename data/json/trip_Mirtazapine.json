@@ -153,7 +153,6 @@
     "MIRTAZAPINE [USAN]"
   ],
   "distances": [
-    3.0158e-06,
     21.46654658,
     22.1475708054,
     22.7317733692,
@@ -165,7 +164,6 @@
     24.079738397
   ],
   "indices": [
-    237,
     814,
     435,
     628,
@@ -179,12 +177,6 @@
   "name": "trip_Mirtazapine",
   "svg": "trip_Mirtazapine.svg",
   "sim": [
-    {
-      "name": "trip_Mirtazapine",
-      "psychonaut_name": "Mirtazapine",
-      "tripsit_name": null,
-      "dist": 3.0158e-06
-    },
     {
       "name": "psyc_cyclizine",
       "psychonaut_name": null,

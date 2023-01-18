@@ -63,7 +63,6 @@
   ],
   "distances": [
     1.9073e-06,
-    1.9073e-06,
     10.8645154903,
     10.8645154903,
     10.9933111488,
@@ -74,7 +73,6 @@
     13.6628357395
   ],
   "indices": [
-    137,
     597,
     135,
     581,
@@ -88,12 +86,6 @@
   "name": "trip_DOI",
   "svg": "trip_DOI.svg",
   "sim": [
-    {
-      "name": "trip_DOI",
-      "psychonaut_name": "DOI",
-      "tripsit_name": null,
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_doi",
       "psychonaut_name": null,

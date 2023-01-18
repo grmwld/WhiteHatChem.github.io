@@ -85,7 +85,6 @@
   ],
   "distances": [
     4.265e-06,
-    4.265e-06,
     34.3672310113,
     36.5870160195,
     37.5970050674,
@@ -96,7 +95,6 @@
     38.4472897848
   ],
   "indices": [
-    500,
     310,
     838,
     692,
@@ -110,12 +108,6 @@
   "name": "trip_Tianeptine",
   "svg": "trip_Tianeptine.svg",
   "sim": [
-    {
-      "name": "psyc_tianeptine",
-      "psychonaut_name": null,
-      "tripsit_name": "tianeptine",
-      "dist": 4.265e-06
-    },
     {
       "name": "trip_Tianeptine",
       "psychonaut_name": "Tianeptine",

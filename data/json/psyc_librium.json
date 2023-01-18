@@ -6,7 +6,6 @@
     "chlordiazepoxide"
   ],
   "distances": [
-    1.3487e-06,
     26.1343375863,
     26.1343375863,
     26.975359941,
@@ -18,7 +17,6 @@
     27.7672197681
   ],
   "indices": [
-    804,
     600,
     148,
     304,
@@ -32,12 +30,6 @@
   "name": "psyc_librium",
   "svg": "psyc_librium.svg",
   "sim": [
-    {
-      "name": "psyc_librium",
-      "psychonaut_name": null,
-      "tripsit_name": "librium",
-      "dist": 1.3487e-06
-    },
     {
       "name": "psyc_diazepam",
       "psychonaut_name": null,

@@ -6,7 +6,6 @@
     "2-phenylacetamide"
   ],
   "distances": [
-    1.9073e-06,
     25.9783963168,
     25.9783963168,
     26.5192524773,
@@ -18,7 +17,6 @@
     29.6831349587
   ],
   "indices": [
-    385,
     294,
     837,
     628,
@@ -32,12 +30,6 @@
   "name": "psyc_2-pa",
   "svg": "psyc_2-pa.svg",
   "sim": [
-    {
-      "name": "psyc_2-pa",
-      "psychonaut_name": null,
-      "tripsit_name": "2-pa",
-      "dist": 1.9073e-06
-    },
     {
       "name": "trip_Sertraline",
       "psychonaut_name": "Sertraline",

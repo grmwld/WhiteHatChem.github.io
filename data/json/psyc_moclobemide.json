@@ -4,7 +4,6 @@
   "tripsit_name": "moclobemide",
   "synonyms": null,
   "distances": [
-    2.6974e-06,
     18.7428453146,
     19.2705871676,
     19.9580133316,
@@ -16,7 +15,6 @@
     21.3081494139
   ],
   "indices": [
-    526,
     405,
     435,
     458,
@@ -30,12 +28,6 @@
   "name": "psyc_moclobemide",
   "svg": "psyc_moclobemide.svg",
   "sim": [
-    {
-      "name": "psyc_moclobemide",
-      "psychonaut_name": null,
-      "tripsit_name": "moclobemide",
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_4f-pvp",
       "psychonaut_name": null,

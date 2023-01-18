@@ -6,7 +6,6 @@
     "methiopropamine"
   ],
   "distances": [
-    1.9073e-06,
     4.3265501387,
     11.2240528548,
     11.3120208133,
@@ -18,7 +17,6 @@
     11.7866729479
   ],
   "indices": [
-    690,
     262,
     831,
     508,
@@ -32,12 +30,6 @@
   "name": "psyc_mpa",
   "svg": "psyc_mpa.svg",
   "sim": [
-    {
-      "name": "psyc_mpa",
-      "psychonaut_name": null,
-      "tripsit_name": "mpa",
-      "dist": 1.9073e-06
-    },
     {
       "name": "trip_PMMA",
       "psychonaut_name": "PMMA",

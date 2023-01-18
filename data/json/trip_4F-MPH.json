@@ -8,7 +8,6 @@
   ],
   "distances": [
     2.336e-06,
-    2.336e-06,
     8.142048014,
     8.291845374,
     8.4945189812,
@@ -19,7 +18,6 @@
     11.858085713
   ],
   "indices": [
-    75,
     780,
     360,
     672,
@@ -33,12 +31,6 @@
   "name": "trip_4F-MPH",
   "svg": "trip_4F-MPH.svg",
   "sim": [
-    {
-      "name": "trip_4F-MPH",
-      "psychonaut_name": "4F-MPH",
-      "tripsit_name": null,
-      "dist": 2.336e-06
-    },
     {
       "name": "psyc_4-fluoromethylphenidate",
       "psychonaut_name": null,

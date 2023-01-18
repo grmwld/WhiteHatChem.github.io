@@ -7,7 +7,6 @@
     "tiadipona"
   ],
   "distances": [
-    1.3487e-06,
     24.3764848306,
     24.5598025018,
     24.6994173668,
@@ -19,7 +18,6 @@
     25.48976199
   ],
   "indices": [
-    390,
     527,
     442,
     539,
@@ -33,12 +31,6 @@
   "name": "psyc_bentazepam",
   "svg": "psyc_bentazepam.svg",
   "sim": [
-    {
-      "name": "psyc_bentazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "bentazepam",
-      "dist": 1.3487e-06
-    },
     {
       "name": "psyc_bromazepam",
       "psychonaut_name": null,

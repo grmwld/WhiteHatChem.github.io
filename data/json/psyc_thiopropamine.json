@@ -8,7 +8,6 @@
     "a-methyl-2-thipheneethanamine"
   ],
   "distances": [
-    1.3487e-06,
     11.7519120629,
     11.7519120629,
     11.7519120629,
@@ -20,7 +19,6 @@
     15.0074169895
   ],
   "indices": [
-    731,
     741,
     144,
     703,
@@ -34,12 +32,6 @@
   "name": "psyc_thiopropamine",
   "svg": "psyc_thiopropamine.svg",
   "sim": [
-    {
-      "name": "psyc_thiopropamine",
-      "psychonaut_name": null,
-      "tripsit_name": "thiopropamine",
-      "dist": 1.3487e-06
-    },
     {
       "name": "psyc_amphetamine",
       "psychonaut_name": null,

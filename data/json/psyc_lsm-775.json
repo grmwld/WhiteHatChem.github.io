@@ -7,7 +7,6 @@
   ],
   "distances": [
     0.0,
-    0.0,
     21.0560434107,
     21.0560434107,
     28.4084136105,
@@ -18,7 +17,6 @@
     29.2954582991
   ],
   "indices": [
-    598,
     200,
     635,
     201,
@@ -32,12 +30,6 @@
   "name": "psyc_lsm-775",
   "svg": "psyc_lsm-775.svg",
   "sim": [
-    {
-      "name": "psyc_lsm-775",
-      "psychonaut_name": null,
-      "tripsit_name": "lsm-775",
-      "dist": 0.0
-    },
     {
       "name": "trip_LSM-775",
       "psychonaut_name": "LSM-775",

@@ -8,7 +8,6 @@
   "distances": [
     1.9073e-06,
     1.9073e-06,
-    1.9073e-06,
     7.688532318,
     8.8242978603,
     8.8242978603,
@@ -18,7 +17,6 @@
     21.4033657386
   ],
   "indices": [
-    224,
     647,
     369,
     330,
@@ -32,12 +30,6 @@
   "name": "psyc_ethaqualone",
   "svg": "psyc_ethaqualone.svg",
   "sim": [
-    {
-      "name": "trip_Methaqualone",
-      "psychonaut_name": "Methaqualone",
-      "tripsit_name": null,
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_methaqualone",
       "psychonaut_name": null,

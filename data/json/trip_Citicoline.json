@@ -95,7 +95,6 @@
     "CDP-choline (neutral charge)"
   ],
   "distances": [
-    3.8147e-06,
     76.2674992727,
     79.8515223712,
     95.3347617445,
@@ -107,7 +106,6 @@
     100.9336831709
   ],
   "indices": [
-    123,
     102,
     289,
     121,
@@ -121,12 +119,6 @@
   "name": "trip_Citicoline",
   "svg": "trip_Citicoline.svg",
   "sim": [
-    {
-      "name": "trip_Citicoline",
-      "psychonaut_name": "Citicoline",
-      "tripsit_name": null,
-      "dist": 3.8147e-06
-    },
     {
       "name": "trip_Alpha-GPC",
       "psychonaut_name": "Alpha-GPC",

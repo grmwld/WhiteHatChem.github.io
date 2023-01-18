@@ -7,7 +7,6 @@
   ],
   "distances": [
     2.6974e-06,
-    2.6974e-06,
     21.0965051731,
     24.4666970124,
     27.2286618183,
@@ -18,7 +17,6 @@
     31.0125706934
   ],
   "indices": [
-    713,
     287,
     279,
     345,
@@ -32,12 +30,6 @@
   "name": "psyc_quetiapine",
   "svg": "psyc_quetiapine.svg",
   "sim": [
-    {
-      "name": "psyc_quetiapine",
-      "psychonaut_name": null,
-      "tripsit_name": "quetiapine",
-      "dist": 2.6974e-06
-    },
     {
       "name": "trip_Quetiapine",
       "psychonaut_name": "Quetiapine",

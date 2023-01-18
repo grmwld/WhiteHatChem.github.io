@@ -4,7 +4,6 @@
   "tripsit_name": "pagoclone",
   "synonyms": null,
   "distances": [
-    4.265e-06,
     26.7740507298,
     26.7740507298,
     28.8393926997,
@@ -16,7 +15,6 @@
     31.2430675904
   ],
   "indices": [
-    838,
     802,
     93,
     297,
@@ -30,12 +28,6 @@
   "name": "psyc_pagoclone",
   "svg": "psyc_pagoclone.svg",
   "sim": [
-    {
-      "name": "psyc_pagoclone",
-      "psychonaut_name": null,
-      "tripsit_name": "pagoclone",
-      "dist": 4.265e-06
-    },
     {
       "name": "psyc_ab-fubinaca",
       "psychonaut_name": null,

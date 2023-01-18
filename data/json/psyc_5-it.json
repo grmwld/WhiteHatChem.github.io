@@ -6,7 +6,6 @@
     "5-api"
   ],
   "distances": [
-    1.6518e-06,
     6.55253382,
     6.55253382,
     12.5510158903,
@@ -18,7 +17,6 @@
     13.5192733515
   ],
   "indices": [
-    509,
     321,
     627,
     613,
@@ -32,12 +30,6 @@
   "name": "psyc_5-it",
   "svg": "psyc_5-it.svg",
   "sim": [
-    {
-      "name": "psyc_5-it",
-      "psychonaut_name": null,
-      "tripsit_name": "5-it",
-      "dist": 1.6518e-06
-    },
     {
       "name": "trip_\u0391MT",
       "psychonaut_name": "\u0391MT",

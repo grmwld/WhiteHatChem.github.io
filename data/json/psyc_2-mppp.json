@@ -6,7 +6,6 @@
     "n-piperidinecathinone"
   ],
   "distances": [
-    1.9073e-06,
     22.2060586171,
     22.3482594881,
     22.3482594881,
@@ -18,7 +17,6 @@
     23.8765708846
   ],
   "indices": [
-    429,
     726,
     411,
     160,
@@ -32,12 +30,6 @@
   "name": "psyc_2-mppp",
   "svg": "psyc_2-mppp.svg",
   "sim": [
-    {
-      "name": "psyc_2-mppp",
-      "psychonaut_name": null,
-      "tripsit_name": "2-mppp",
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_naproxen",
       "psychonaut_name": null,

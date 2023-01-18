@@ -8,7 +8,6 @@
     "n-ethylnorketamine"
   ],
   "distances": [
-    1.3487e-06,
     8.0729411332,
     8.0729411332,
     10.0541419153,
@@ -20,7 +19,6 @@
     13.5452568733
   ],
   "indices": [
-    563,
     251,
     517,
     590,
@@ -34,12 +32,6 @@
   "name": "psyc_ethketamine",
   "svg": "psyc_ethketamine.svg",
   "sim": [
-    {
-      "name": "psyc_ethketamine",
-      "psychonaut_name": null,
-      "tripsit_name": "ethketamine",
-      "dist": 1.3487e-06
-    },
     {
       "name": "trip_O-PCE",
       "psychonaut_name": "O-PCE",

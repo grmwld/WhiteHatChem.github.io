@@ -6,7 +6,6 @@
     "2-meo-ketamine"
   ],
   "distances": [
-    1.3487e-06,
     4.6438026723,
     10.9383314416,
     10.9383314416,
@@ -18,7 +17,6 @@
     12.3128482363
   ],
   "indices": [
-    671,
     599,
     590,
     196,
@@ -32,12 +30,6 @@
   "name": "psyc_methoxyketamine",
   "svg": "psyc_methoxyketamine.svg",
   "sim": [
-    {
-      "name": "psyc_methoxyketamine",
-      "psychonaut_name": null,
-      "tripsit_name": "methoxyketamine",
-      "dist": 1.3487e-06
-    },
     {
       "name": "psyc_mxm",
       "psychonaut_name": null,

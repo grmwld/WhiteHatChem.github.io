@@ -7,7 +7,6 @@
     "N-Methyl-N-propyltryptamine"
   ],
   "distances": [
-    2.336e-06,
     8.7560273256,
     8.7560273256,
     9.2376775371,
@@ -19,7 +18,6 @@
     10.9353398397
   ],
   "indices": [
-    212,
     576,
     68,
     577,
@@ -33,12 +31,6 @@
   "name": "trip_MPT",
   "svg": "trip_MPT.svg",
   "sim": [
-    {
-      "name": "trip_MPT",
-      "psychonaut_name": "MPT",
-      "tripsit_name": null,
-      "dist": 2.336e-06
-    },
     {
       "name": "psyc_4-ho-mpt",
       "psychonaut_name": null,

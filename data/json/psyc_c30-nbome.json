@@ -4,7 +4,6 @@
   "tripsit_name": "c30-nbome",
   "synonyms": null,
   "distances": [
-    0.0,
     21.9204710159,
     22.5304068356,
     22.6343131946,
@@ -16,7 +15,6 @@
     24.4802153754
   ],
   "indices": [
-    368,
     536,
     511,
     847,
@@ -30,12 +28,6 @@
   "name": "psyc_c30-nbome",
   "svg": "psyc_c30-nbome.svg",
   "sim": [
-    {
-      "name": "psyc_c30-nbome",
-      "psychonaut_name": null,
-      "tripsit_name": "c30-nbome",
-      "dist": 0.0
-    },
     {
       "name": "psyc_25ip-nbome",
       "psychonaut_name": null,

@@ -103,7 +103,6 @@
     "S-adenosylmethionine"
   ],
   "distances": [
-    0.0,
     54.293797125,
     58.890550378,
     61.4753864935,
@@ -115,7 +114,6 @@
     62.1617389325
   ],
   "indices": [
-    289,
     564,
     502,
     404,
@@ -129,12 +127,6 @@
   "name": "trip_SAM-e",
   "svg": "trip_SAM-e.svg",
   "sim": [
-    {
-      "name": "trip_SAM-e",
-      "psychonaut_name": "SAM-e",
-      "tripsit_name": null,
-      "dist": 0.0
-    },
     {
       "name": "psyc_scopolamine",
       "psychonaut_name": null,

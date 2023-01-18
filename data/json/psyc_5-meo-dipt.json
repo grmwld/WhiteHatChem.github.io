@@ -9,7 +9,6 @@
   ],
   "distances": [
     0.0,
-    0.0,
     11.5310680509,
     11.5310680509,
     11.9728856524,
@@ -20,7 +19,6 @@
     13.3749383943
   ],
   "indices": [
-    82,
     585,
     487,
     65,
@@ -34,12 +32,6 @@
   "name": "psyc_5-meo-dipt",
   "svg": "psyc_5-meo-dipt.svg",
   "sim": [
-    {
-      "name": "trip_5-MeO-DiPT",
-      "psychonaut_name": "5-MeO-DiPT",
-      "tripsit_name": null,
-      "dist": 0.0
-    },
     {
       "name": "psyc_5-meo-dipt",
       "psychonaut_name": null,

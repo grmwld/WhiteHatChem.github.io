@@ -4,7 +4,6 @@
   "tripsit_name": "u-49900",
   "synonyms": null,
   "distances": [
-    2.336e-06,
     15.3386231848,
     17.2827068356,
     17.2827068356,
@@ -16,7 +15,6 @@
     31.5721017264
   ],
   "indices": [
-    398,
     349,
     358,
     316,
@@ -30,12 +28,6 @@
   "name": "psyc_u-49900",
   "svg": "psyc_u-49900.svg",
   "sim": [
-    {
-      "name": "psyc_u-49900",
-      "psychonaut_name": null,
-      "tripsit_name": "u-49900",
-      "dist": 2.336e-06
-    },
     {
       "name": "psyc_u-51754",
       "psychonaut_name": null,

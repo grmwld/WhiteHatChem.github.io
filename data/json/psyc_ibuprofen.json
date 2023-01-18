@@ -4,7 +4,6 @@
   "tripsit_name": "ibuprofen",
   "synonyms": null,
   "distances": [
-    1.6518e-06,
     15.1375982607,
     17.816456352,
     18.5617856489,
@@ -16,7 +15,6 @@
     19.4174929376
   ],
   "indices": [
-    758,
     447,
     373,
     339,
@@ -30,12 +28,6 @@
   "name": "psyc_ibuprofen",
   "svg": "psyc_ibuprofen.svg",
   "sim": [
-    {
-      "name": "psyc_ibuprofen",
-      "psychonaut_name": null,
-      "tripsit_name": "ibuprofen",
-      "dist": 1.6518e-06
-    },
     {
       "name": "psyc_4-cic",
       "psychonaut_name": null,

@@ -40,7 +40,6 @@
   ],
   "distances": [
     0.0,
-    0.0,
     3.275390625,
     3.6767636485,
     3.6767636485,
@@ -51,7 +50,6 @@
     9.2289502626
   ],
   "indices": [
-    538,
     300,
     299,
     301,
@@ -65,12 +63,6 @@
   "name": "trip_TMA-2",
   "svg": "trip_TMA-2.svg",
   "sim": [
-    {
-      "name": "psyc_tma-2",
-      "psychonaut_name": null,
-      "tripsit_name": "tma-2",
-      "dist": 0.0
-    },
     {
       "name": "trip_TMA-2",
       "psychonaut_name": "TMA-2",

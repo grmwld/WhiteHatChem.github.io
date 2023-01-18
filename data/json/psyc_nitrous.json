@@ -10,7 +10,6 @@
   ],
   "distances": [
     4.768e-07,
-    4.768e-07,
     22.5058274246,
     22.5058274246,
     25.9265790262,
@@ -21,7 +20,6 @@
     30.5498030486
   ],
   "indices": [
-    766,
     249,
     99,
     546,
@@ -35,12 +33,6 @@
   "name": "psyc_nitrous",
   "svg": "psyc_nitrous.svg",
   "sim": [
-    {
-      "name": "psyc_nitrous",
-      "psychonaut_name": null,
-      "tripsit_name": "nitrous",
-      "dist": 4.768e-07
-    },
     {
       "name": "trip_Nitrous",
       "psychonaut_name": "Nitrous",

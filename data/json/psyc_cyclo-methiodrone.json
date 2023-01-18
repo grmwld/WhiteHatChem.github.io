@@ -4,7 +4,6 @@
   "tripsit_name": "cyclo-methiodrone",
   "synonyms": null,
   "distances": [
-    9.537e-07,
     17.0264659637,
     18.8686892842,
     19.9567770248,
@@ -16,7 +15,6 @@
     21.0505627047
   ],
   "indices": [
-    789,
     656,
     396,
     247,
@@ -30,12 +28,6 @@
   "name": "psyc_cyclo-methiodrone",
   "svg": "psyc_cyclo-methiodrone.svg",
   "sim": [
-    {
-      "name": "psyc_cyclo-methiodrone",
-      "psychonaut_name": null,
-      "tripsit_name": "cyclo-methiodrone",
-      "dist": 9.537e-07
-    },
     {
       "name": "psyc_4-benzylpiperidine",
       "psychonaut_name": null,

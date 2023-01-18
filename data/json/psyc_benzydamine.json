@@ -7,7 +7,6 @@
   ],
   "distances": [
     3.3036e-06,
-    3.3036e-06,
     17.7891474183,
     21.1722548109,
     22.4197584476,
@@ -18,7 +17,6 @@
     23.6564396356
   ],
   "indices": [
-    810,
     109,
     469,
     254,
@@ -32,12 +30,6 @@
   "name": "psyc_benzydamine",
   "svg": "psyc_benzydamine.svg",
   "sim": [
-    {
-      "name": "psyc_benzydamine",
-      "psychonaut_name": null,
-      "tripsit_name": "benzydamine",
-      "dist": 3.3036e-06
-    },
     {
       "name": "trip_Benzydamine",
       "psychonaut_name": "Benzydamine",

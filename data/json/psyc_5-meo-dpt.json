@@ -6,7 +6,6 @@
     "5meodpt"
   ],
   "distances": [
-    3.0158e-06,
     11.5310680509,
     11.5310680509,
     11.9728856524,
@@ -18,7 +17,6 @@
     15.3965055588
   ],
   "indices": [
-    406,
     64,
     485,
     793,
@@ -32,12 +30,6 @@
   "name": "psyc_5-meo-dpt",
   "svg": "psyc_5-meo-dpt.svg",
   "sim": [
-    {
-      "name": "psyc_5-meo-dpt",
-      "psychonaut_name": null,
-      "tripsit_name": "5-meo-dpt",
-      "dist": 3.0158e-06
-    },
     {
       "name": "trip_4-HO-DPT",
       "psychonaut_name": "4-HO-DPT",

@@ -89,7 +89,6 @@
     "84-96-8"
   ],
   "distances": [
-    2.336e-06,
     10.4776631687,
     10.4776631687,
     21.05673329,
@@ -101,7 +100,6 @@
     25.7039050509
   ],
   "indices": [
-    100,
     281,
     826,
     254,
@@ -115,12 +113,6 @@
   "name": "trip_Alimemazine",
   "svg": "trip_Alimemazine.svg",
   "sim": [
-    {
-      "name": "trip_Alimemazine",
-      "psychonaut_name": "Alimemazine",
-      "tripsit_name": null,
-      "dist": 2.336e-06
-    },
     {
       "name": "trip_Promethazine",
       "psychonaut_name": "Promethazine",

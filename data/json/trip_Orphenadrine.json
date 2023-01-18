@@ -131,7 +131,6 @@
     "ORPHENADRINE [WHO-DD]"
   ],
   "distances": [
-    2.6974e-06,
     7.7110559827,
     18.2943888082,
     19.1572177761,
@@ -143,7 +142,6 @@
     22.2421593728
   ],
   "indices": [
-    254,
     152,
     554,
     408,
@@ -157,12 +155,6 @@
   "name": "trip_Orphenadrine",
   "svg": "trip_Orphenadrine.svg",
   "sim": [
-    {
-      "name": "trip_Orphenadrine",
-      "psychonaut_name": "Orphenadrine",
-      "tripsit_name": null,
-      "dist": 2.6974e-06
-    },
     {
       "name": "trip_Diphenhydramine",
       "psychonaut_name": "Diphenhydramine",

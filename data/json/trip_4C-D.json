@@ -13,7 +13,6 @@
     "Dimoxamine"
   ],
   "distances": [
-    1.3487e-06,
     8.015846294,
     9.2794384971,
     9.2794384971,
@@ -25,7 +24,6 @@
     11.9385653515
   ],
   "indices": [
-    72,
     412,
     138,
     667,
@@ -39,12 +37,6 @@
   "name": "trip_4C-D",
   "svg": "trip_4C-D.svg",
   "sim": [
-    {
-      "name": "trip_4C-D",
-      "psychonaut_name": "4C-D",
-      "tripsit_name": null,
-      "dist": 1.3487e-06
-    },
     {
       "name": "psyc_doet",
       "psychonaut_name": null,

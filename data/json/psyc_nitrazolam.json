@@ -4,7 +4,6 @@
   "tripsit_name": "nitrazolam",
   "synonyms": null,
   "distances": [
-    3.0158e-06,
     7.6013098241,
     7.6013098241,
     8.0848282942,
@@ -16,7 +15,6 @@
     17.6615580724
   ],
   "indices": [
-    356,
     434,
     125,
     178,
@@ -30,12 +28,6 @@
   "name": "psyc_nitrazolam",
   "svg": "psyc_nitrazolam.svg",
   "sim": [
-    {
-      "name": "psyc_nitrazolam",
-      "psychonaut_name": null,
-      "tripsit_name": "nitrazolam",
-      "dist": 3.0158e-06
-    },
     {
       "name": "psyc_clonazolam",
       "psychonaut_name": null,

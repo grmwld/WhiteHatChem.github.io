@@ -4,7 +4,6 @@
   "tripsit_name": "isophenmetrazine",
   "synonyms": null,
   "distances": [
-    0.0,
     11.0386101481,
     11.0386101481,
     13.464887946,
@@ -16,7 +15,6 @@
     16.1432065866
   ],
   "indices": [
-    477,
     706,
     272,
     448,
@@ -30,12 +28,6 @@
   "name": "psyc_isophenmetrazine",
   "svg": "psyc_isophenmetrazine.svg",
   "sim": [
-    {
-      "name": "psyc_isophenmetrazine",
-      "psychonaut_name": null,
-      "tripsit_name": "isophenmetrazine",
-      "dist": 0.0
-    },
     {
       "name": "psyc_phenmetrazine",
       "psychonaut_name": null,

@@ -6,7 +6,6 @@
     "2cbflynbome"
   ],
   "distances": [
-    0.0,
     22.487864973,
     28.3843779674,
     28.3843779674,
@@ -18,7 +17,6 @@
     30.4072355795
   ],
   "indices": [
-    456,
     341,
     17,
     503,
@@ -32,12 +30,6 @@
   "name": "psyc_2c-b-fly-nbome",
   "svg": "psyc_2c-b-fly-nbome.svg",
   "sim": [
-    {
-      "name": "psyc_2c-b-fly-nbome",
-      "psychonaut_name": null,
-      "tripsit_name": "2c-b-fly-nbome",
-      "dist": 0.0
-    },
     {
       "name": "psyc_25i-nbmd",
       "psychonaut_name": null,

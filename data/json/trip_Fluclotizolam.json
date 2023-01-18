@@ -18,7 +18,6 @@
   ],
   "distances": [
     3.3036e-06,
-    3.3036e-06,
     8.9039792027,
     11.638718253,
     11.638718253,
@@ -29,7 +28,6 @@
     13.9454087882
   ],
   "indices": [
-    843,
     176,
     654,
     333,
@@ -43,12 +41,6 @@
   "name": "trip_Fluclotizolam",
   "svg": "trip_Fluclotizolam.svg",
   "sim": [
-    {
-      "name": "psyc_fluclotizolam",
-      "psychonaut_name": null,
-      "tripsit_name": "fluclotizolam",
-      "dist": 3.3036e-06
-    },
     {
       "name": "trip_Fluclotizolam",
       "psychonaut_name": "Fluclotizolam",

@@ -24,7 +24,6 @@
     "UNII-AC6WQQ5Y4B"
   ],
   "distances": [
-    1.3487e-06,
     17.4621635126,
     17.4621635126,
     17.4621635126,
@@ -36,7 +35,6 @@
     24.7313606127
   ],
   "indices": [
-    234,
     199,
     191,
     722,
@@ -50,12 +48,6 @@
   "name": "trip_MiPLA",
   "svg": "trip_MiPLA.svg",
   "sim": [
-    {
-      "name": "trip_MiPLA",
-      "psychonaut_name": "MiPLA",
-      "tripsit_name": null,
-      "dist": 1.3487e-06
-    },
     {
       "name": "trip_LSD",
       "psychonaut_name": "LSD",

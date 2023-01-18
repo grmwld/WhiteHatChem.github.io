@@ -7,7 +7,6 @@
     "pfpvp"
   ],
   "distances": [
-    1.3487e-06,
     5.8999280246,
     8.4945185321,
     8.4945185321,
@@ -19,7 +18,6 @@
     14.4755168605
   ],
   "indices": [
-    405,
     458,
     822,
     92,
@@ -33,12 +31,6 @@
   "name": "psyc_4f-pvp",
   "svg": "psyc_4f-pvp.svg",
   "sim": [
-    {
-      "name": "psyc_4f-pvp",
-      "psychonaut_name": null,
-      "tripsit_name": "4f-pvp",
-      "dist": 1.3487e-06
-    },
     {
       "name": "psyc_4f-php",
       "psychonaut_name": null,

@@ -8,7 +8,6 @@
     "amfebutamone"
   ],
   "distances": [
-    1.3487e-06,
     17.3925271309,
     20.238170795,
     20.274275934,
@@ -20,7 +19,6 @@
     20.677456818
   ],
   "indices": [
-    516,
     447,
     389,
     603,
@@ -34,12 +32,6 @@
   "name": "psyc_bupropion",
   "svg": "psyc_bupropion.svg",
   "sim": [
-    {
-      "name": "psyc_bupropion",
-      "psychonaut_name": null,
-      "tripsit_name": "bupropion",
-      "dist": 1.3487e-06
-    },
     {
       "name": "psyc_4-cic",
       "psychonaut_name": null,

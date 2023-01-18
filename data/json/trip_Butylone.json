@@ -31,7 +31,6 @@
   ],
   "distances": [
     1.6518e-06,
-    1.6518e-06,
     7.365153577,
     7.365153577,
     7.987626998,
@@ -42,7 +41,6 @@
     10.6511880704
   ],
   "indices": [
-    115,
     531,
     267,
     567,
@@ -56,12 +54,6 @@
   "name": "trip_Butylone",
   "svg": "trip_Butylone.svg",
   "sim": [
-    {
-      "name": "trip_Butylone",
-      "psychonaut_name": "Butylone",
-      "tripsit_name": null,
-      "dist": 1.6518e-06
-    },
     {
       "name": "psyc_butylone",
       "psychonaut_name": null,

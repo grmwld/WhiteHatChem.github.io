@@ -213,7 +213,6 @@
     "AB00514010_14"
   ],
   "distances": [
-    2.6974e-06,
     33.3855667817,
     33.3855667817,
     33.3855667817,
@@ -225,7 +224,6 @@
     36.0789268804
   ],
   "indices": [
-    288,
     380,
     319,
     426,
@@ -239,12 +237,6 @@
   "name": "trip_Risperidone",
   "svg": "trip_Risperidone.svg",
   "sim": [
-    {
-      "name": "trip_Risperidone",
-      "psychonaut_name": "Risperidone",
-      "tripsit_name": null,
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_eszopiclone",
       "psychonaut_name": null,

@@ -7,7 +7,6 @@
   ],
   "distances": [
     2.6974e-06,
-    2.6974e-06,
     7.0943864041,
     8.4945189812,
     8.4945189812,
@@ -18,7 +17,6 @@
     11.858085713
   ],
   "indices": [
-    167,
     504,
     591,
     751,
@@ -32,12 +30,6 @@
   "name": "psyc_ethylphenidate",
   "svg": "psyc_ethylphenidate.svg",
   "sim": [
-    {
-      "name": "trip_Ethylphenidate",
-      "psychonaut_name": "Ethylphenidate",
-      "tripsit_name": null,
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_ethylphenidate",
       "psychonaut_name": null,

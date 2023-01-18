@@ -6,7 +6,6 @@
     "diconal"
   ],
   "distances": [
-    0.0,
     23.8741422968,
     23.8741422968,
     24.1075091428,
@@ -18,7 +17,6 @@
     25.7399444205
   ],
   "indices": [
-    714,
     348,
     172,
     687,
@@ -32,12 +30,6 @@
   "name": "psyc_dipipanone",
   "svg": "psyc_dipipanone.svg",
   "sim": [
-    {
-      "name": "psyc_dipipanone",
-      "psychonaut_name": null,
-      "tripsit_name": "dipipanone",
-      "dist": 0.0
-    },
     {
       "name": "psyc_fentanyl",
       "psychonaut_name": null,

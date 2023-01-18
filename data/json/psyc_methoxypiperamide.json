@@ -4,7 +4,6 @@
   "tripsit_name": "methoxypiperamide",
   "synonyms": null,
   "distances": [
-    1.3487e-06,
     13.445068499,
     13.445068499,
     17.1725618678,
@@ -16,7 +15,6 @@
     20.2126965194
   ],
   "indices": [
-    435,
     678,
     106,
     484,
@@ -30,12 +28,6 @@
   "name": "psyc_methoxypiperamide",
   "svg": "psyc_methoxypiperamide.svg",
   "sim": [
-    {
-      "name": "psyc_methoxypiperamide",
-      "psychonaut_name": null,
-      "tripsit_name": "methoxypiperamide",
-      "dist": 1.3487e-06
-    },
     {
       "name": "psyc_aniracetam",
       "psychonaut_name": null,

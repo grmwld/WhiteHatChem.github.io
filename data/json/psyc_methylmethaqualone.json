@@ -6,7 +6,6 @@
     "mmq"
   ],
   "distances": [
-    0.0,
     7.688532318,
     7.688532318,
     7.688532318,
@@ -18,7 +17,6 @@
     22.729213063
   ],
   "indices": [
-    330,
     647,
     224,
     369,
@@ -32,12 +30,6 @@
   "name": "psyc_methylmethaqualone",
   "svg": "psyc_methylmethaqualone.svg",
   "sim": [
-    {
-      "name": "psyc_methylmethaqualone",
-      "psychonaut_name": null,
-      "tripsit_name": "methylmethaqualone",
-      "dist": 0.0
-    },
     {
       "name": "psyc_methaqualone",
       "psychonaut_name": null,

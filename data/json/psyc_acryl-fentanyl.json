@@ -4,7 +4,6 @@
   "tripsit_name": "acryl-fentanyl",
   "synonyms": null,
   "distances": [
-    3.3036e-06,
     15.1944082114,
     15.1944082114,
     16.2604364773,
@@ -16,7 +15,6 @@
     22.0777497148
   ],
   "indices": [
-    762,
     97,
     337,
     172,
@@ -30,12 +28,6 @@
   "name": "psyc_acryl-fentanyl",
   "svg": "psyc_acryl-fentanyl.svg",
   "sim": [
-    {
-      "name": "psyc_acryl-fentanyl",
-      "psychonaut_name": null,
-      "tripsit_name": "acryl-fentanyl",
-      "dist": 3.3036e-06
-    },
     {
       "name": "trip_Acetylfentanyl",
       "psychonaut_name": "Acetylfentanyl",

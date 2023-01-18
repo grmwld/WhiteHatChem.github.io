@@ -9,7 +9,6 @@
   ],
   "distances": [
     1.9073e-06,
-    1.9073e-06,
     11.571525062,
     11.571525062,
     23.5932765888,
@@ -20,7 +19,6 @@
     24.5474655304
   ],
   "indices": [
-    255,
     674,
     276,
     494,
@@ -34,12 +32,6 @@
   "name": "psyc_oxiracetam",
   "svg": "psyc_oxiracetam.svg",
   "sim": [
-    {
-      "name": "trip_Oxiracetam",
-      "psychonaut_name": "Oxiracetam",
-      "tripsit_name": null,
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_oxiracetam",
       "psychonaut_name": null,

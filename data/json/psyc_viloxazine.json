@@ -4,7 +4,6 @@
   "tripsit_name": "viloxazine",
   "synonyms": null,
   "distances": [
-    1.9073e-06,
     22.4184605142,
     22.5082056977,
     23.4096449057,
@@ -16,7 +15,6 @@
     23.5820982197
   ],
   "indices": [
-    436,
     440,
     821,
     448,
@@ -30,12 +28,6 @@
   "name": "psyc_viloxazine",
   "svg": "psyc_viloxazine.svg",
   "sim": [
-    {
-      "name": "psyc_viloxazine",
-      "psychonaut_name": null,
-      "tripsit_name": "viloxazine",
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_5-meo-pyr-t",
       "psychonaut_name": null,

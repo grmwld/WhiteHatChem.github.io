@@ -4,7 +4,6 @@
   "tripsit_name": "fluorolintane",
   "synonyms": null,
   "distances": [
-    3.0158e-06,
     8.3905840825,
     8.3905840825,
     13.1234327561,
@@ -16,7 +15,6 @@
     19.7967254705
   ],
   "indices": [
-    550,
     403,
     153,
     228,
@@ -30,12 +28,6 @@
   "name": "psyc_fluorolintane",
   "svg": "psyc_fluorolintane.svg",
   "sim": [
-    {
-      "name": "psyc_fluorolintane",
-      "psychonaut_name": null,
-      "tripsit_name": "fluorolintane",
-      "dist": 3.0158e-06
-    },
     {
       "name": "psyc_diphenidine",
       "psychonaut_name": null,

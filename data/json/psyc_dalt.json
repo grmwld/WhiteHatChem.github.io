@@ -7,7 +7,6 @@
     "diallyltryptamine"
   ],
   "distances": [
-    2.336e-06,
     11.9728869268,
     11.9728869268,
     19.8101308471,
@@ -19,7 +18,6 @@
     34.8303540673
   ],
   "indices": [
-    480,
     711,
     79,
     464,
@@ -33,12 +31,6 @@
   "name": "psyc_dalt",
   "svg": "psyc_dalt.svg",
   "sim": [
-    {
-      "name": "psyc_dalt",
-      "psychonaut_name": null,
-      "tripsit_name": "dalt",
-      "dist": 2.336e-06
-    },
     {
       "name": "psyc_5-meo-dalt",
       "psychonaut_name": null,

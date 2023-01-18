@@ -30,7 +30,6 @@
   ],
   "distances": [
     1.5079e-06,
-    1.5079e-06,
     3.7207326012,
     3.7207326012,
     4.168871309,
@@ -41,7 +40,6 @@
     8.4127172388
   ],
   "indices": [
-    752,
     12,
     352,
     42,
@@ -55,12 +53,6 @@
   "name": "trip_2-FA",
   "svg": "trip_2-FA.svg",
   "sim": [
-    {
-      "name": "psyc_2-fa",
-      "psychonaut_name": null,
-      "tripsit_name": "2-fa",
-      "dist": 1.5079e-06
-    },
     {
       "name": "trip_2-FA",
       "psychonaut_name": "2-FA",

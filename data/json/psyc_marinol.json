@@ -12,7 +12,6 @@
     "delta9-thc"
   ],
   "distances": [
-    1.9073e-06,
     17.3390319455,
     21.7695393106,
     29.2084436201,
@@ -24,7 +23,6 @@
     32.4741013847
   ],
   "indices": [
-    404,
     296,
     118,
     840,
@@ -38,12 +36,6 @@
   "name": "psyc_marinol",
   "svg": "psyc_marinol.svg",
   "sim": [
-    {
-      "name": "psyc_marinol",
-      "psychonaut_name": null,
-      "tripsit_name": "marinol",
-      "dist": 1.9073e-06
-    },
     {
       "name": "trip_THC-O",
       "psychonaut_name": "THC-O",

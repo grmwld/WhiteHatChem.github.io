@@ -4,7 +4,6 @@
   "tripsit_name": "viagra",
   "synonyms": null,
   "distances": [
-    6.0316e-06,
     58.7528506622,
     59.3152289612,
     67.7693266945,
@@ -16,7 +15,6 @@
     76.46695569
   ],
   "indices": [
-    532,
     454,
     515,
     162,
@@ -30,12 +28,6 @@
   "name": "psyc_viagra",
   "svg": "psyc_viagra.svg",
   "sim": [
-    {
-      "name": "psyc_viagra",
-      "psychonaut_name": null,
-      "tripsit_name": "viagra",
-      "dist": 6.0316e-06
-    },
     {
       "name": "psyc_acetildenafil",
       "psychonaut_name": null,

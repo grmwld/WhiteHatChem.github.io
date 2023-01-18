@@ -4,7 +4,6 @@
   "tripsit_name": "aminotadalafil",
   "synonyms": null,
   "distances": [
-    3.8147e-06,
     10.770489705,
     33.8567629213,
     34.1109281598,
@@ -16,7 +15,6 @@
     37.4406969237
   ],
   "indices": [
-    374,
     513,
     495,
     839,
@@ -30,12 +28,6 @@
   "name": "psyc_aminotadalafil",
   "svg": "psyc_aminotadalafil.svg",
   "sim": [
-    {
-      "name": "psyc_aminotadalafil",
-      "psychonaut_name": null,
-      "tripsit_name": "aminotadalafil",
-      "dist": 3.8147e-06
-    },
     {
       "name": "psyc_cialis",
       "psychonaut_name": null,

@@ -4,7 +4,6 @@
   "tripsit_name": "w-15",
   "synonyms": null,
   "distances": [
-    3.3036e-06,
     29.3973132508,
     29.4295361026,
     29.9545890438,
@@ -16,7 +15,6 @@
     31.0636936626
   ],
   "indices": [
-    670,
     486,
     279,
     228,
@@ -30,12 +28,6 @@
   "name": "psyc_w-15",
   "svg": "psyc_w-15.svg",
   "sim": [
-    {
-      "name": "psyc_w-15",
-      "psychonaut_name": null,
-      "tripsit_name": "w-15",
-      "dist": 3.3036e-06
-    },
     {
       "name": "psyc_prazepam",
       "psychonaut_name": null,

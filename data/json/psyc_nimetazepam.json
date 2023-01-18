@@ -6,7 +6,6 @@
     "erimin"
   ],
   "distances": [
-    3.0158e-06,
     8.0848282942,
     8.0848282942,
     16.2912506024,
@@ -18,7 +17,6 @@
     17.5592850427
   ],
   "indices": [
-    712,
     382,
     177,
     724,
@@ -32,12 +30,6 @@
   "name": "psyc_nimetazepam",
   "svg": "psyc_nimetazepam.svg",
   "sim": [
-    {
-      "name": "psyc_nimetazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "nimetazepam",
-      "dist": 3.0158e-06
-    },
     {
       "name": "psyc_flunitrazepam",
       "psychonaut_name": null,

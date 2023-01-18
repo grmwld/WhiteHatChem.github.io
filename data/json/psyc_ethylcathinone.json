@@ -9,7 +9,6 @@
   ],
   "distances": [
     1.3487e-06,
-    1.3487e-06,
     7.2985085205,
     7.6058040441,
     7.6058040441,
@@ -20,7 +19,6 @@
     10.2090809659
   ],
   "indices": [
-    808,
     156,
     339,
     70,
@@ -34,12 +32,6 @@
   "name": "psyc_ethylcathinone",
   "svg": "psyc_ethylcathinone.svg",
   "sim": [
-    {
-      "name": "psyc_ethylcathinone",
-      "psychonaut_name": null,
-      "tripsit_name": "ethylcathinone",
-      "dist": 1.3487e-06
-    },
     {
       "name": "trip_ETH-CAT",
       "psychonaut_name": "ETH-CAT",

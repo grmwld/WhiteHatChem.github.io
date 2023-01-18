@@ -27,7 +27,6 @@
   ],
   "distances": [
     2.6974e-06,
-    2.6974e-06,
     1.9697520416,
     1.9697520416,
     5.2403535776,
@@ -38,7 +37,6 @@
     10.8515136366
   ],
   "indices": [
-    478,
     53,
     71,
     343,
@@ -52,12 +50,6 @@
   "name": "trip_3-MeO-PCP",
   "svg": "trip_3-MeO-PCP.svg",
   "sim": [
-    {
-      "name": "psyc_3-meo-pcp",
-      "psychonaut_name": null,
-      "tripsit_name": "3-meo-pcp",
-      "dist": 2.6974e-06
-    },
     {
       "name": "trip_3-MeO-PCP",
       "psychonaut_name": "3-MeO-PCP",

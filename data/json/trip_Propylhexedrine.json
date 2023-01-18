@@ -94,7 +94,6 @@
   ],
   "distances": [
     1.3487e-06,
-    1.3487e-06,
     24.5960653492,
     24.5960653492,
     24.8015032405,
@@ -105,7 +104,6 @@
     25.5641223794
   ],
   "indices": [
-    772,
     282,
     494,
     276,
@@ -119,12 +117,6 @@
   "name": "trip_Propylhexedrine",
   "svg": "trip_Propylhexedrine.svg",
   "sim": [
-    {
-      "name": "psyc_propylhexedrine",
-      "psychonaut_name": null,
-      "tripsit_name": "propylhexedrine",
-      "dist": 1.3487e-06
-    },
     {
       "name": "trip_Propylhexedrine",
       "psychonaut_name": "Propylhexedrine",

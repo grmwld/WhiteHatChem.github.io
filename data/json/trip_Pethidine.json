@@ -98,7 +98,6 @@
   ],
   "distances": [
     1.9073e-06,
-    1.9073e-06,
     13.0715458408,
     16.9093951052,
     16.9093951052,
@@ -109,7 +108,6 @@
     18.8179611441
   ],
   "indices": [
-    769,
     268,
     566,
     362,
@@ -123,12 +121,6 @@
   "name": "trip_Pethidine",
   "svg": "trip_Pethidine.svg",
   "sim": [
-    {
-      "name": "psyc_demerol",
-      "psychonaut_name": null,
-      "tripsit_name": "demerol",
-      "dist": 1.9073e-06
-    },
     {
       "name": "trip_Pethidine",
       "psychonaut_name": "Pethidine",

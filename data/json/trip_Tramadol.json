@@ -110,7 +110,6 @@
   ],
   "distances": [
     1.3487e-06,
-    1.3487e-06,
     10.8515132851,
     10.8515132851,
     20.923028756,
@@ -121,7 +120,6 @@
     21.7340759213
   ],
   "indices": [
-    542,
     311,
     623,
     250,
@@ -135,12 +133,6 @@
   "name": "trip_Tramadol",
   "svg": "trip_Tramadol.svg",
   "sim": [
-    {
-      "name": "psyc_tramadol",
-      "psychonaut_name": null,
-      "tripsit_name": "tramadol",
-      "dist": 1.3487e-06
-    },
     {
       "name": "trip_Tramadol",
       "psychonaut_name": "Tramadol",

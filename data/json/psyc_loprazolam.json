@@ -6,7 +6,6 @@
     "dormonoct"
   ],
   "distances": [
-    3.8147e-06,
     34.3216756146,
     41.0468512086,
     41.0468512086,
@@ -18,7 +17,6 @@
     43.5349513861
   ],
   "indices": [
-    816,
     414,
     125,
     434,
@@ -32,12 +30,6 @@
   "name": "psyc_loprazolam",
   "svg": "psyc_loprazolam.svg",
   "sim": [
-    {
-      "name": "psyc_loprazolam",
-      "psychonaut_name": null,
-      "tripsit_name": "loprazolam",
-      "dist": 3.8147e-06
-    },
     {
       "name": "psyc_cloniprazepam",
       "psychonaut_name": null,

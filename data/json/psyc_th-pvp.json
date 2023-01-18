@@ -4,7 +4,6 @@
   "tripsit_name": "th-pvp",
   "synonyms": null,
   "distances": [
-    3.0158e-06,
     6.0009847469,
     10.472942549,
     11.3831368991,
@@ -16,7 +15,6 @@
     21.080443575
   ],
   "indices": [
-    357,
     830,
     455,
     846,
@@ -30,12 +28,6 @@
   "name": "psyc_th-pvp",
   "svg": "psyc_th-pvp.svg",
   "sim": [
-    {
-      "name": "psyc_th-pvp",
-      "psychonaut_name": null,
-      "tripsit_name": "th-pvp",
-      "dist": 3.0158e-06
-    },
     {
       "name": "psyc_5-bpdi",
       "psychonaut_name": null,

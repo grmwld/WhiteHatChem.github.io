@@ -14,7 +14,6 @@
     "R(-)PPAP"
   ],
   "distances": [
-    3.0158e-06,
     15.9834461408,
     15.9834461408,
     16.501451833,
@@ -26,7 +25,6 @@
     25.4839594636
   ],
   "indices": [
-    263,
     160,
     411,
     525,
@@ -40,12 +38,6 @@
   "name": "trip_PPAP",
   "svg": "trip_PPAP.svg",
   "sim": [
-    {
-      "name": "trip_PPAP",
-      "psychonaut_name": "PPAP",
-      "tripsit_name": null,
-      "dist": 3.0158e-06
-    },
     {
       "name": "trip_Ephenidine",
       "psychonaut_name": "Ephenidine",

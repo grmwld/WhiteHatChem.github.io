@@ -4,7 +4,6 @@
   "tripsit_name": "4-cbc",
   "synonyms": null,
   "distances": [
-    0.0,
     10.9726197462,
     11.1782399646,
     11.1782399646,
@@ -16,7 +15,6 @@
     13.1231095179
   ],
   "indices": [
-    361,
     244,
     242,
     493,
@@ -30,12 +28,6 @@
   "name": "psyc_4-cbc",
   "svg": "psyc_4-cbc.svg",
   "sim": [
-    {
-      "name": "psyc_4-cbc",
-      "psychonaut_name": null,
-      "tripsit_name": "4-cbc",
-      "dist": 0.0
-    },
     {
       "name": "trip_NEP",
       "psychonaut_name": "NEP",

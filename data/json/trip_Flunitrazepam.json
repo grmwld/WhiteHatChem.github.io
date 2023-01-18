@@ -100,7 +100,6 @@
   ],
   "distances": [
     3.3036e-06,
-    3.3036e-06,
     8.0848282942,
     16.4052743385,
     17.3458428847,
@@ -111,7 +110,6 @@
     18.0133337862
   ],
   "indices": [
-    177,
     382,
     712,
     774,
@@ -125,12 +123,6 @@
   "name": "trip_Flunitrazepam",
   "svg": "trip_Flunitrazepam.svg",
   "sim": [
-    {
-      "name": "trip_Flunitrazepam",
-      "psychonaut_name": "Flunitrazepam",
-      "tripsit_name": null,
-      "dist": 3.3036e-06
-    },
     {
       "name": "psyc_flunitrazepam",
       "psychonaut_name": null,

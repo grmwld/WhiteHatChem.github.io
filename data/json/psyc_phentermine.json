@@ -4,7 +4,6 @@
   "tripsit_name": "phentermine",
   "synonyms": null,
   "distances": [
-    1.6518e-06,
     18.6984382181,
     18.6984382181,
     18.6984382181,
@@ -16,7 +15,6 @@
     19.3948589316
   ],
   "indices": [
-    583,
     703,
     144,
     741,
@@ -30,12 +28,6 @@
   "name": "psyc_phentermine",
   "svg": "psyc_phentermine.svg",
   "sim": [
-    {
-      "name": "psyc_phentermine",
-      "psychonaut_name": null,
-      "tripsit_name": "phentermine",
-      "dist": 1.6518e-06
-    },
     {
       "name": "psyc_dexedrine",
       "psychonaut_name": null,

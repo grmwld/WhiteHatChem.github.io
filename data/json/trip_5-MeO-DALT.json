@@ -51,7 +51,6 @@
   ],
   "distances": [
     3.3036e-06,
-    3.3036e-06,
     11.9728869268,
     13.3749383943,
     19.1849311824,
@@ -62,7 +61,6 @@
     35.4220214625
   ],
   "indices": [
-    711,
     79,
     480,
     464,
@@ -76,12 +74,6 @@
   "name": "trip_5-MeO-DALT",
   "svg": "trip_5-MeO-DALT.svg",
   "sim": [
-    {
-      "name": "psyc_5-meo-dalt",
-      "psychonaut_name": null,
-      "tripsit_name": "5-meo-dalt",
-      "dist": 3.3036e-06
-    },
     {
       "name": "trip_5-MeO-DALT",
       "psychonaut_name": "5-MeO-DALT",

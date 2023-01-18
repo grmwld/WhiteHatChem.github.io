@@ -7,7 +7,6 @@
   ],
   "distances": [
     5.3948e-06,
-    5.3948e-06,
     69.3302783782,
     69.3302783782,
     72.6367043602,
@@ -18,7 +17,6 @@
     83.0379772397
   ],
   "indices": [
-    773,
     119,
     261,
     483,
@@ -32,12 +30,6 @@
   "name": "trip_Cannabis",
   "svg": "trip_Cannabis.svg",
   "sim": [
-    {
-      "name": "psyc_cannabis",
-      "psychonaut_name": null,
-      "tripsit_name": "cannabis",
-      "dist": 5.3948e-06
-    },
     {
       "name": "trip_Cannabis",
       "psychonaut_name": "Cannabis",

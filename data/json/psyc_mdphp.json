@@ -6,7 +6,6 @@
     "monkey-dust"
   ],
   "distances": [
-    3.0158e-06,
     5.8999280246,
     5.8999280246,
     10.5928857501,
@@ -18,7 +17,6 @@
     20.8108180744
   ],
   "indices": [
-    555,
     523,
     209,
     846,
@@ -32,12 +30,6 @@
   "name": "psyc_mdphp",
   "svg": "psyc_mdphp.svg",
   "sim": [
-    {
-      "name": "psyc_mdphp",
-      "psychonaut_name": null,
-      "tripsit_name": "mdphp",
-      "dist": 3.0158e-06
-    },
     {
       "name": "psyc_mdpv",
       "psychonaut_name": null,

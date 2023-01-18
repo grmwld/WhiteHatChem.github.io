@@ -8,7 +8,6 @@
   ],
   "distances": [
     1.9073e-06,
-    1.9073e-06,
     19.2996534563,
     19.2996534563,
     21.4739925197,
@@ -19,7 +18,6 @@
     22.8256557207
   ],
   "indices": [
-    561,
     274,
     106,
     678,
@@ -33,12 +31,6 @@
   "name": "psyc_carphedon",
   "svg": "psyc_carphedon.svg",
   "sim": [
-    {
-      "name": "psyc_carphedon",
-      "psychonaut_name": null,
-      "tripsit_name": "carphedon",
-      "dist": 1.9073e-06
-    },
     {
       "name": "trip_Phenylpiracetam",
       "psychonaut_name": "Phenylpiracetam",

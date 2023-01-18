@@ -6,7 +6,6 @@
     "nerfiracetam"
   ],
   "distances": [
-    2.336e-06,
     20.6683958417,
     20.6683958417,
     22.1755717276,
@@ -18,7 +17,6 @@
     24.7731048937
   ],
   "indices": [
-    818,
     678,
     106,
     561,
@@ -32,12 +30,6 @@
   "name": "psyc_nefiracetam",
   "svg": "psyc_nefiracetam.svg",
   "sim": [
-    {
-      "name": "psyc_nefiracetam",
-      "psychonaut_name": null,
-      "tripsit_name": "nefiracetam",
-      "dist": 2.336e-06
-    },
     {
       "name": "psyc_aniracetam",
       "psychonaut_name": null,

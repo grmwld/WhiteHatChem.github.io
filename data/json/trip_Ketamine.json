@@ -117,7 +117,6 @@
   ],
   "distances": [
     1.9073e-06,
-    1.9073e-06,
     6.8041521074,
     6.8041521074,
     8.0729401881,
@@ -128,7 +127,6 @@
     12.2082874354
   ],
   "indices": [
-    196,
     590,
     510,
     15,
@@ -142,12 +140,6 @@
   "name": "trip_Ketamine",
   "svg": "trip_Ketamine.svg",
   "sim": [
-    {
-      "name": "trip_Ketamine",
-      "psychonaut_name": "Ketamine",
-      "tripsit_name": null,
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_ketamine",
       "psychonaut_name": null,

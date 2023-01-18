@@ -7,7 +7,6 @@
     "faverin"
   ],
   "distances": [
-    3.3036e-06,
     31.7774136159,
     34.8675699831,
     34.8675699831,
@@ -19,7 +18,6 @@
     35.8110070042
   ],
   "indices": [
-    794,
     425,
     154,
     408,
@@ -33,12 +31,6 @@
   "name": "psyc_fluvoxamine",
   "svg": "psyc_fluvoxamine.svg",
   "sim": [
-    {
-      "name": "psyc_fluvoxamine",
-      "psychonaut_name": null,
-      "tripsit_name": "fluvoxamine",
-      "dist": 3.3036e-06
-    },
     {
       "name": "psyc_fluoxetine",
       "psychonaut_name": null,

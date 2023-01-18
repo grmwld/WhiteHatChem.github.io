@@ -8,7 +8,6 @@
   "distances": [
     1.6518e-06,
     1.6518e-06,
-    1.6518e-06,
     8.6649086954,
     8.9216761792,
     8.9216761792,
@@ -18,7 +17,6 @@
     14.3277634437
   ],
   "indices": [
-    497,
     771,
     89,
     832,
@@ -32,12 +30,6 @@
   "name": "psyc_6-apdb",
   "svg": "psyc_6-apdb.svg",
   "sim": [
-    {
-      "name": "psyc_6-apdb",
-      "psychonaut_name": null,
-      "tripsit_name": "6-apdb",
-      "dist": 1.6518e-06
-    },
     {
       "name": "psyc_5-apdb",
       "psychonaut_name": null,

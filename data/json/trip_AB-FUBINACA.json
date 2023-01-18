@@ -30,7 +30,6 @@
   ],
   "distances": [
     3.3036e-06,
-    3.3036e-06,
     26.7740507298,
     28.4921864289,
     29.0312090033,
@@ -41,7 +40,6 @@
     31.3317563357
   ],
   "indices": [
-    802,
     93,
     838,
     502,
@@ -55,12 +53,6 @@
   "name": "trip_AB-FUBINACA",
   "svg": "trip_AB-FUBINACA.svg",
   "sim": [
-    {
-      "name": "psyc_ab-fubinaca",
-      "psychonaut_name": null,
-      "tripsit_name": "ab-fubinaca",
-      "dist": 3.3036e-06
-    },
     {
       "name": "trip_AB-FUBINACA",
       "psychonaut_name": "AB-FUBINACA",

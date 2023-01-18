@@ -38,7 +38,6 @@
   ],
   "distances": [
     2.6974e-06,
-    2.6974e-06,
     3.932254749,
     7.6013095731,
     7.6013095731,
@@ -49,7 +48,6 @@
     16.7347014295
   ],
   "indices": [
-    150,
     605,
     653,
     148,
@@ -63,12 +61,6 @@
   "name": "trip_Diclazepam",
   "svg": "trip_Diclazepam.svg",
   "sim": [
-    {
-      "name": "trip_Diclazepam",
-      "psychonaut_name": "Diclazepam",
-      "tripsit_name": null,
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_diclazepam",
       "psychonaut_name": null,

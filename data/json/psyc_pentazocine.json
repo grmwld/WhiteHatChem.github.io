@@ -6,7 +6,6 @@
     "talwin"
   ],
   "distances": [
-    2.336e-06,
     27.5420222257,
     27.5546409838,
     27.5546409838,
@@ -18,7 +17,6 @@
     28.7496911074
   ],
   "indices": [
-    840,
     142,
     388,
     189,
@@ -32,12 +30,6 @@
   "name": "psyc_pentazocine",
   "svg": "psyc_pentazocine.svg",
   "sim": [
-    {
-      "name": "psyc_pentazocine",
-      "psychonaut_name": null,
-      "tripsit_name": "pentazocine",
-      "dist": 2.336e-06
-    },
     {
       "name": "trip_Desomorphine",
       "psychonaut_name": "Desomorphine",

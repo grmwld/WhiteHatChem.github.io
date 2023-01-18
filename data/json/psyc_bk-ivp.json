@@ -4,7 +4,6 @@
   "tripsit_name": "bk-ivp",
   "synonyms": null,
   "distances": [
-    0.0,
     16.8046466396,
     17.0716336016,
     17.0716336016,
@@ -16,7 +15,6 @@
     17.7978884012
   ],
   "indices": [
-    666,
     161,
     91,
     617,
@@ -30,12 +28,6 @@
   "name": "psyc_bk-ivp",
   "svg": "psyc_bk-ivp.svg",
   "sim": [
-    {
-      "name": "psyc_bk-ivp",
-      "psychonaut_name": null,
-      "tripsit_name": "bk-ivp",
-      "dist": 0.0
-    },
     {
       "name": "trip_Ephylone",
       "psychonaut_name": "Ephylone",

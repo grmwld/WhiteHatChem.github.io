@@ -6,7 +6,6 @@
     "ah7921"
   ],
   "distances": [
-    3.0158e-06,
     26.272236443,
     26.272236443,
     26.604978672,
@@ -18,7 +17,6 @@
     30.1570150486
   ],
   "indices": [
-    644,
     623,
     250,
     311,
@@ -32,12 +30,6 @@
   "name": "psyc_ah-7921",
   "svg": "psyc_ah-7921.svg",
   "sim": [
-    {
-      "name": "psyc_ah-7921",
-      "psychonaut_name": null,
-      "tripsit_name": "ah-7921",
-      "dist": 3.0158e-06
-    },
     {
       "name": "psyc_o-desmethyltramadol",
       "psychonaut_name": null,

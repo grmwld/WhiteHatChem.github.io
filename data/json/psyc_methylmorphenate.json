@@ -4,7 +4,6 @@
   "tripsit_name": "methylmorphenate",
   "synonyms": null,
   "distances": [
-    1.3487e-06,
     9.6351003784,
     9.6351003784,
     10.2982215753,
@@ -16,7 +15,6 @@
     15.4679006632
   ],
   "indices": [
-    821,
     231,
     427,
     672,
@@ -30,12 +28,6 @@
   "name": "psyc_methylmorphenate",
   "svg": "psyc_methylmorphenate.svg",
   "sim": [
-    {
-      "name": "psyc_methylmorphenate",
-      "psychonaut_name": null,
-      "tripsit_name": "methylmorphenate",
-      "dist": 1.3487e-06
-    },
     {
       "name": "trip_Methylphenidate",
       "psychonaut_name": "Methylphenidate",

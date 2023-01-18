@@ -4,7 +4,6 @@
   "tripsit_name": "nitracaine",
   "synonyms": null,
   "distances": [
-    3.3036e-06,
     27.8945889603,
     27.8945889603,
     30.0066256518,
@@ -16,7 +15,6 @@
     32.7220628695
   ],
   "indices": [
-    562,
     56,
     544,
     323,
@@ -30,12 +28,6 @@
   "name": "psyc_nitracaine",
   "svg": "psyc_nitracaine.svg",
   "sim": [
-    {
-      "name": "psyc_nitracaine",
-      "psychonaut_name": null,
-      "tripsit_name": "nitracaine",
-      "dist": 3.3036e-06
-    },
     {
       "name": "trip_4-AcO-DET",
       "psychonaut_name": "4-AcO-DET",

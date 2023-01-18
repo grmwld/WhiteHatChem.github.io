@@ -7,7 +7,6 @@
   ],
   "distances": [
     1.3487e-06,
-    1.3487e-06,
     14.9099853442,
     14.9099853442,
     17.805714168,
@@ -18,7 +17,6 @@
     19.0477009345
   ],
   "indices": [
-    332,
     101,
     222,
     636,
@@ -32,12 +30,6 @@
   "name": "psyc_allylescaline",
   "svg": "psyc_allylescaline.svg",
   "sim": [
-    {
-      "name": "psyc_allylescaline",
-      "psychonaut_name": null,
-      "tripsit_name": "allylescaline",
-      "dist": 1.3487e-06
-    },
     {
       "name": "trip_Allylescaline",
       "psychonaut_name": "Allylescaline",

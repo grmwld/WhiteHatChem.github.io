@@ -6,7 +6,6 @@
     "bk-pmma"
   ],
   "distances": [
-    2.1325e-06,
     1.9697514969,
     8.6635090382,
     8.6635090382,
@@ -18,7 +17,6 @@
     9.6361981929
   ],
   "indices": [
-    716,
     831,
     547,
     218,
@@ -32,12 +30,6 @@
   "name": "psyc_methedrone",
   "svg": "psyc_methedrone.svg",
   "sim": [
-    {
-      "name": "psyc_methedrone",
-      "psychonaut_name": null,
-      "tripsit_name": "methedrone",
-      "dist": 2.1325e-06
-    },
     {
       "name": "psyc_3-meomc",
       "psychonaut_name": null,

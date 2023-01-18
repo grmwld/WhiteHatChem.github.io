@@ -4,7 +4,6 @@
   "tripsit_name": "mexamine",
   "synonyms": null,
   "distances": [
-    9.537e-07,
     11.9728856524,
     12.6905321529,
     12.6905321529,
@@ -16,7 +15,6 @@
     15.5129532372
   ],
   "indices": [
-    781,
     314,
     85,
     764,
@@ -30,12 +28,6 @@
   "name": "psyc_mexamine",
   "svg": "psyc_mexamine.svg",
   "sim": [
-    {
-      "name": "psyc_mexamine",
-      "psychonaut_name": null,
-      "tripsit_name": "mexamine",
-      "dist": 9.537e-07
-    },
     {
       "name": "trip_Tryptamine (compound)",
       "psychonaut_name": "Tryptamine (compound)",

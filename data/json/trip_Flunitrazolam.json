@@ -16,7 +16,6 @@
   ],
   "distances": [
     2.6974e-06,
-    2.6974e-06,
     6.8041521074,
     6.8041521074,
     8.0848282942,
@@ -27,7 +26,6 @@
     17.6615580724
   ],
   "indices": [
-    178,
     394,
     434,
     125,
@@ -41,12 +39,6 @@
   "name": "trip_Flunitrazolam",
   "svg": "trip_Flunitrazolam.svg",
   "sim": [
-    {
-      "name": "trip_Flunitrazolam",
-      "psychonaut_name": "Flunitrazolam",
-      "tripsit_name": null,
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_flunitrazolam",
       "psychonaut_name": null,

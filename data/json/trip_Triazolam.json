@@ -89,7 +89,6 @@
   ],
   "distances": [
     2.6974e-06,
-    2.6974e-06,
     6.8041518271,
     6.8041518271,
     7.6013098241,
@@ -100,7 +99,6 @@
     12.9333029311
   ],
   "indices": [
-    312,
     691,
     738,
     173,
@@ -114,12 +112,6 @@
   "name": "trip_Triazolam",
   "svg": "trip_Triazolam.svg",
   "sim": [
-    {
-      "name": "trip_Triazolam",
-      "psychonaut_name": "Triazolam",
-      "tripsit_name": null,
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_triazolam",
       "psychonaut_name": null,

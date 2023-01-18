@@ -4,7 +4,6 @@
   "tripsit_name": "morpheridine",
   "synonyms": null,
   "distances": [
-    2.6974e-06,
     12.7054821047,
     28.2188159693,
     28.2188159693,
@@ -16,7 +15,6 @@
     30.3133658059
   ],
   "indices": [
-    705,
     518,
     52,
     611,
@@ -30,12 +28,6 @@
   "name": "psyc_morpheridine",
   "svg": "psyc_morpheridine.svg",
   "sim": [
-    {
-      "name": "psyc_morpheridine",
-      "psychonaut_name": null,
-      "tripsit_name": "morpheridine",
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_pre-084",
       "psychonaut_name": null,

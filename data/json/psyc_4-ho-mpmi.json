@@ -6,7 +6,6 @@
     "lucigenol"
   ],
   "distances": [
-    1.9073e-06,
     17.3513136309,
     22.2549858079,
     22.2549858079,
@@ -18,7 +17,6 @@
     23.3305698757
   ],
   "indices": [
-    424,
     440,
     106,
     678,
@@ -32,12 +30,6 @@
   "name": "psyc_4-ho-mpmi",
   "svg": "psyc_4-ho-mpmi.svg",
   "sim": [
-    {
-      "name": "psyc_4-ho-mpmi",
-      "psychonaut_name": null,
-      "tripsit_name": "4-ho-mpmi",
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_5-meo-pyr-t",
       "psychonaut_name": null,

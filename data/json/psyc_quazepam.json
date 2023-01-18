@@ -6,7 +6,6 @@
     "doral"
   ],
   "distances": [
-    2.6974e-06,
     12.8577071414,
     26.3889169722,
     26.7873251934,
@@ -18,7 +17,6 @@
     30.2490920254
   ],
   "indices": [
-    797,
     431,
     574,
     236,
@@ -32,12 +30,6 @@
   "name": "psyc_quazepam",
   "svg": "psyc_quazepam.svg",
   "sim": [
-    {
-      "name": "psyc_quazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "quazepam",
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_halazepam",
       "psychonaut_name": null,

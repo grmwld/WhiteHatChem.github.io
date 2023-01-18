@@ -25,7 +25,6 @@
   ],
   "distances": [
     3.3036e-06,
-    3.3036e-06,
     7.0435344619,
     7.0435344619,
     8.0848278224,
@@ -36,7 +35,6 @@
     11.8893269095
   ],
   "indices": [
-    111,
     664,
     286,
     748,
@@ -50,12 +48,6 @@
   "name": "trip_Bromazolam",
   "svg": "trip_Bromazolam.svg",
   "sim": [
-    {
-      "name": "trip_Bromazolam",
-      "psychonaut_name": "Bromazolam",
-      "tripsit_name": null,
-      "dist": 3.3036e-06
-    },
     {
       "name": "psyc_bromazolam",
       "psychonaut_name": null,

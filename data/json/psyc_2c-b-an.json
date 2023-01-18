@@ -4,7 +4,6 @@
   "tripsit_name": "2c-b-an",
   "synonyms": null,
   "distances": [
-    1.3487e-06,
     26.8782826393,
     26.8782826393,
     26.9196962083,
@@ -16,7 +15,6 @@
     27.9616283706
   ],
   "indices": [
-    541,
     147,
     747,
     499,
@@ -30,12 +28,6 @@
   "name": "psyc_2c-b-an",
   "svg": "psyc_2c-b-an.svg",
   "sim": [
-    {
-      "name": "psyc_2c-b-an",
-      "psychonaut_name": null,
-      "tripsit_name": "2c-b-an",
-      "dist": 1.3487e-06
-    },
     {
       "name": "trip_DiPT",
       "psychonaut_name": "DiPT",

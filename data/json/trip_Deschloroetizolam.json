@@ -28,7 +28,6 @@
   ],
   "distances": [
     2.6974e-06,
-    2.6974e-06,
     7.6013098241,
     7.6013098241,
     11.7020251747,
@@ -39,7 +38,6 @@
     15.7248067241
   ],
   "indices": [
-    140,
     809,
     168,
     333,
@@ -53,12 +51,6 @@
   "name": "trip_Deschloroetizolam",
   "svg": "trip_Deschloroetizolam.svg",
   "sim": [
-    {
-      "name": "trip_Deschloroetizolam",
-      "psychonaut_name": "Deschloroetizolam",
-      "tripsit_name": null,
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_deschloroetizolam",
       "psychonaut_name": null,

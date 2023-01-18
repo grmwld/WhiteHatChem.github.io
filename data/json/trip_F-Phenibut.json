@@ -32,7 +32,6 @@
   ],
   "distances": [
     1.3487e-06,
-    1.3487e-06,
     7.2015519483,
     7.2015519483,
     8.1420475455,
@@ -43,7 +42,6 @@
     18.9209524445
   ],
   "indices": [
-    170,
     420,
     370,
     108,
@@ -57,12 +55,6 @@
   "name": "trip_F-Phenibut",
   "svg": "trip_F-Phenibut.svg",
   "sim": [
-    {
-      "name": "trip_F-Phenibut",
-      "psychonaut_name": "F-Phenibut",
-      "tripsit_name": null,
-      "dist": 1.3487e-06
-    },
     {
       "name": "psyc_fluorophenibut",
       "psychonaut_name": null,

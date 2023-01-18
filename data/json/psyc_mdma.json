@@ -13,7 +13,6 @@
   ],
   "distances": [
     1.6518e-06,
-    1.6518e-06,
     8.0593459,
     8.9216757517,
     9.925252793,
@@ -24,7 +23,6 @@
     12.0991501691
   ],
   "indices": [
-    208,
     609,
     488,
     430,
@@ -38,12 +36,6 @@
   "name": "psyc_mdma",
   "svg": "psyc_mdma.svg",
   "sim": [
-    {
-      "name": "trip_MDMA",
-      "psychonaut_name": "MDMA",
-      "tripsit_name": null,
-      "dist": 1.6518e-06
-    },
     {
       "name": "psyc_mdma",
       "psychonaut_name": null,

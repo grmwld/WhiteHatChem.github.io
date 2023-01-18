@@ -7,7 +7,6 @@
   ],
   "distances": [
     1.9073e-06,
-    1.9073e-06,
     7.7551405071,
     17.2827068356,
     27.7726793145,
@@ -18,7 +17,6 @@
     31.4791626811
   ],
   "indices": [
-    316,
     358,
     349,
     398,
@@ -32,12 +30,6 @@
   "name": "psyc_u-47700",
   "svg": "psyc_u-47700.svg",
   "sim": [
-    {
-      "name": "trip_U-47700",
-      "psychonaut_name": "U-47700",
-      "tripsit_name": null,
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_u-47700",
       "psychonaut_name": null,

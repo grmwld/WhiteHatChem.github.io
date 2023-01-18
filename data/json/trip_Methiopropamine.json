@@ -22,7 +22,6 @@
     "1-(Thiophen-2-yl)-2-methylaminopropane"
   ],
   "distances": [
-    6.743e-07,
     11.7519127121,
     11.7519127121,
     12.0991507997,
@@ -34,7 +33,6 @@
     15.2497668639
   ],
   "indices": [
-    226,
     223,
     684,
     731,
@@ -48,12 +46,6 @@
   "name": "trip_Methiopropamine",
   "svg": "trip_Methiopropamine.svg",
   "sim": [
-    {
-      "name": "trip_Methiopropamine",
-      "psychonaut_name": "Methiopropamine",
-      "tripsit_name": null,
-      "dist": 6.743e-07
-    },
     {
       "name": "trip_Methamphetamine",
       "psychonaut_name": "Methamphetamine",

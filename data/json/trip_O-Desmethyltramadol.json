@@ -9,7 +9,6 @@
   ],
   "distances": [
     2.336e-06,
-    2.336e-06,
     10.8515132851,
     10.8515132851,
     20.0229825531,
@@ -20,7 +19,6 @@
     23.3837417331
   ],
   "indices": [
-    623,
     250,
     542,
     311,
@@ -34,12 +32,6 @@
   "name": "trip_O-Desmethyltramadol",
   "svg": "trip_O-Desmethyltramadol.svg",
   "sim": [
-    {
-      "name": "psyc_o-desmethyltramadol",
-      "psychonaut_name": null,
-      "tripsit_name": "o-desmethyltramadol",
-      "dist": 2.336e-06
-    },
     {
       "name": "trip_O-Desmethyltramadol",
       "psychonaut_name": "O-Desmethyltramadol",

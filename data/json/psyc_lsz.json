@@ -5,7 +5,6 @@
   "synonyms": null,
   "distances": [
     1.9073e-06,
-    1.9073e-06,
     21.0560434107,
     21.0560434107,
     24.7135777518,
@@ -16,7 +15,6 @@
     27.825904205
   ],
   "indices": [
-    201,
     635,
     598,
     200,
@@ -30,12 +28,6 @@
   "name": "psyc_lsz",
   "svg": "psyc_lsz.svg",
   "sim": [
-    {
-      "name": "trip_LSZ",
-      "psychonaut_name": "LSZ",
-      "tripsit_name": null,
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_lsz",
       "psychonaut_name": null,

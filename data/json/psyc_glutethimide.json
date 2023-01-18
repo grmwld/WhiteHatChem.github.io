@@ -9,7 +9,6 @@
     "glimid"
   ],
   "distances": [
-    1.9073e-06,
     19.0211313091,
     19.0211313091,
     20.0119250032,
@@ -21,7 +20,6 @@
     22.2209447536
   ],
   "indices": [
-    462,
     765,
     273,
     517,
@@ -35,12 +33,6 @@
   "name": "psyc_glutethimide",
   "svg": "psyc_glutethimide.svg",
   "sim": [
-    {
-      "name": "psyc_glutethimide",
-      "psychonaut_name": null,
-      "tripsit_name": "glutethimide",
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_phenobarbital",
       "psychonaut_name": null,

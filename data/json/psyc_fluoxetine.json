@@ -7,7 +7,6 @@
     "sarafem"
   ],
   "distances": [
-    4.0461e-06,
     26.3124234522,
     28.7024913172,
     29.1426922021,
@@ -19,7 +18,6 @@
     29.7084177951
   ],
   "indices": [
-    425,
     554,
     582,
     408,
@@ -33,12 +31,6 @@
   "name": "psyc_fluoxetine",
   "svg": "psyc_fluoxetine.svg",
   "sim": [
-    {
-      "name": "psyc_fluoxetine",
-      "psychonaut_name": null,
-      "tripsit_name": "fluoxetine",
-      "dist": 4.0461e-06
-    },
     {
       "name": "psyc_atomoxetine",
       "psychonaut_name": null,

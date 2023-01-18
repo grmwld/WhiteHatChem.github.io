@@ -8,7 +8,6 @@
     "desmethyldiazepam"
   ],
   "distances": [
-    2.6974e-06,
     7.6013098241,
     8.0848278224,
     8.9752539469,
@@ -20,7 +19,6 @@
     16.4052743385
   ],
   "indices": [
-    442,
     725,
     539,
     269,
@@ -34,12 +32,6 @@
   "name": "psyc_nordazepam",
   "svg": "psyc_nordazepam.svg",
   "sim": [
-    {
-      "name": "psyc_nordazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "nordazepam",
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_delorazepam",
       "psychonaut_name": null,

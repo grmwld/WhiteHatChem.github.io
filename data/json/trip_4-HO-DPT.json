@@ -27,7 +27,6 @@
   ],
   "distances": [
     1.9073e-06,
-    1.9073e-06,
     6.8037700188,
     6.8037700188,
     8.7560264543,
@@ -38,7 +37,6 @@
     13.5354561204
   ],
   "indices": [
-    64,
     485,
     776,
     66,
@@ -52,12 +50,6 @@
   "name": "trip_4-HO-DPT",
   "svg": "trip_4-HO-DPT.svg",
   "sim": [
-    {
-      "name": "trip_4-HO-DPT",
-      "psychonaut_name": "4-HO-DPT",
-      "tripsit_name": null,
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_4-ho-dpt",
       "psychonaut_name": null,

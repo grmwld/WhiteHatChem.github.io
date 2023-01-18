@@ -9,7 +9,6 @@
     "lisdexamfetamine"
   ],
   "distances": [
-    4.672e-06,
     49.4982515277,
     49.4982515277,
     49.8987231135,
@@ -21,7 +20,6 @@
     54.251604329
   ],
   "indices": [
-    383,
     93,
     802,
     202,
@@ -35,12 +33,6 @@
   "name": "psyc_vyvanse",
   "svg": "psyc_vyvanse.svg",
   "sim": [
-    {
-      "name": "psyc_vyvanse",
-      "psychonaut_name": null,
-      "tripsit_name": "vyvanse",
-      "dist": 4.672e-06
-    },
     {
       "name": "trip_AB-FUBINACA",
       "psychonaut_name": "AB-FUBINACA",

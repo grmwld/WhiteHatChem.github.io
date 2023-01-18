@@ -7,7 +7,6 @@
   ],
   "distances": [
     3.0158e-06,
-    3.0158e-06,
     17.1104924364,
     17.1104924364,
     21.4452086177,
@@ -18,7 +17,6 @@
     28.5891293654
   ],
   "indices": [
-    127,
     824,
     313,
     782,
@@ -32,12 +30,6 @@
   "name": "psyc_cocaine",
   "svg": "psyc_cocaine.svg",
   "sim": [
-    {
-      "name": "trip_Cocaine",
-      "psychonaut_name": "Cocaine",
-      "tripsit_name": null,
-      "dist": 3.0158e-06
-    },
     {
       "name": "psyc_cocaine",
       "psychonaut_name": null,

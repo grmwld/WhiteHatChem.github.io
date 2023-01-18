@@ -5,7 +5,6 @@
   "synonyms": null,
   "distances": [
     0.0,
-    0.0,
     18.8833991557,
     18.8833991557,
     20.2526710538,
@@ -16,7 +15,6 @@
     22.4033923169
   ],
   "indices": [
-    499,
     303,
     69,
     836,
@@ -30,12 +28,6 @@
   "name": "psyc_tapentadol",
   "svg": "psyc_tapentadol.svg",
   "sim": [
-    {
-      "name": "psyc_tapentadol",
-      "psychonaut_name": null,
-      "tripsit_name": "tapentadol",
-      "dist": 0.0
-    },
     {
       "name": "trip_Tapentadol",
       "psychonaut_name": "Tapentadol",

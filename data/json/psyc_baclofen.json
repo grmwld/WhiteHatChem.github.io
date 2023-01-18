@@ -7,7 +7,6 @@
   ],
   "distances": [
     1.6518e-06,
-    1.6518e-06,
     7.2015519483,
     7.2015519483,
     7.6015898497,
@@ -18,7 +17,6 @@
     19.6760677993
   ],
   "indices": [
-    108,
     370,
     170,
     420,
@@ -32,12 +30,6 @@
   "name": "psyc_baclofen",
   "svg": "psyc_baclofen.svg",
   "sim": [
-    {
-      "name": "trip_Baclofen",
-      "psychonaut_name": "Baclofen",
-      "tripsit_name": null,
-      "dist": 1.6518e-06
-    },
     {
       "name": "psyc_baclofen",
       "psychonaut_name": null,

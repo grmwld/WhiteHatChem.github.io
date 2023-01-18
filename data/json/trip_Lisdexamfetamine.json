@@ -35,7 +35,6 @@
     "(2S, 2'S)-2,6-DIAMINO-N-(1-PHENYLPROPAN-2-YL)HEXANAMIDE"
   ],
   "distances": [
-    2.6974e-06,
     30.2178622947,
     30.2178622947,
     31.239684821,
@@ -47,7 +46,6 @@
     32.2885946539
   ],
   "indices": [
-    202,
     493,
     242,
     275,
@@ -61,12 +59,6 @@
   "name": "trip_Lisdexamfetamine",
   "svg": "trip_Lisdexamfetamine.svg",
   "sim": [
-    {
-      "name": "trip_Lisdexamfetamine",
-      "psychonaut_name": "Lisdexamfetamine",
-      "tripsit_name": null,
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_hexen",
       "psychonaut_name": null,

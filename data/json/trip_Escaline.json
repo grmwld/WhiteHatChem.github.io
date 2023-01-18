@@ -30,7 +30,6 @@
   ],
   "distances": [
     1.3487e-06,
-    1.3487e-06,
     7.0943864041,
     7.0943864041,
     8.7069396831,
@@ -41,7 +40,6 @@
     9.4955040181
   ],
   "indices": [
-    163,
     728,
     715,
     283,
@@ -55,12 +53,6 @@
   "name": "trip_Escaline",
   "svg": "trip_Escaline.svg",
   "sim": [
-    {
-      "name": "trip_Escaline",
-      "psychonaut_name": "Escaline",
-      "tripsit_name": null,
-      "dist": 1.3487e-06
-    },
     {
       "name": "psyc_escaline",
       "psychonaut_name": null,

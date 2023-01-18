@@ -140,7 +140,6 @@
   ],
   "distances": [
     1.168e-06,
-    1.168e-06,
     12.6905327541,
     12.6905327541,
     12.6905327541,
@@ -151,7 +150,6 @@
     16.191570698
   ],
   "indices": [
-    575,
     270,
     703,
     741,
@@ -165,12 +163,6 @@
   "name": "trip_Phenethylamine (compound)",
   "svg": "trip_Phenethylamine (compound).svg",
   "sim": [
-    {
-      "name": "psyc_phenethylamine",
-      "psychonaut_name": null,
-      "tripsit_name": "phenethylamine",
-      "dist": 1.168e-06
-    },
     {
       "name": "trip_Phenethylamine (compound)",
       "psychonaut_name": "Phenethylamine (compound)",

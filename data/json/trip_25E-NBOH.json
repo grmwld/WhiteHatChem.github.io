@@ -19,7 +19,6 @@
     "Phenol, 2-(((2-(4-ethyl-2,5-dimethoxyphenyl)ethyl)amino)methyl)-"
   ],
   "distances": [
-    3.8147e-06,
     10.7443232962,
     10.8038591907,
     10.8038591907,
@@ -31,7 +30,6 @@
     12.311357939
   ],
   "indices": [
-    22,
     438,
     19,
     505,
@@ -45,12 +43,6 @@
   "name": "trip_25E-NBOH",
   "svg": "trip_25E-NBOH.svg",
   "sim": [
-    {
-      "name": "trip_25E-NBOH",
-      "psychonaut_name": "25E-NBOH",
-      "tripsit_name": null,
-      "dist": 3.8147e-06
-    },
     {
       "name": "psyc_25e-nbome",
       "psychonaut_name": null,

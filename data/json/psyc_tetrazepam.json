@@ -4,7 +4,6 @@
   "tripsit_name": "tetrazepam",
   "synonyms": null,
   "distances": [
-    2.336e-06,
     23.1045927164,
     23.1045927164,
     23.4143153557,
@@ -16,7 +15,6 @@
     24.5582454967
   ],
   "indices": [
-    608,
     148,
     600,
     486,
@@ -30,12 +28,6 @@
   "name": "psyc_tetrazepam",
   "svg": "psyc_tetrazepam.svg",
   "sim": [
-    {
-      "name": "psyc_tetrazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "tetrazepam",
-      "dist": 2.336e-06
-    },
     {
       "name": "trip_Diazepam",
       "psychonaut_name": "Diazepam",

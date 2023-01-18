@@ -160,7 +160,6 @@
   ],
   "distances": [
     6.743e-07,
-    6.743e-07,
     20.7520037683,
     20.7520037683,
     21.9783128136,
@@ -171,7 +170,6 @@
     23.7623438831
   ],
   "indices": [
-    179,
     338,
     546,
     99,
@@ -185,12 +183,6 @@
   "name": "trip_GBL",
   "svg": "trip_GBL.svg",
   "sim": [
-    {
-      "name": "trip_GBL",
-      "psychonaut_name": "GBL",
-      "tripsit_name": null,
-      "dist": 6.743e-07
-    },
     {
       "name": "psyc_gbl",
       "psychonaut_name": null,

@@ -8,7 +8,6 @@
     "aleph2"
   ],
   "distances": [
-    1.9073e-06,
     9.4716518475,
     11.0045971367,
     11.9067017477,
@@ -20,7 +19,6 @@
     13.1973042134
   ],
   "indices": [
-    570,
     815,
     412,
     621,
@@ -34,12 +32,6 @@
   "name": "psyc_aleph-2",
   "svg": "psyc_aleph-2.svg",
   "sim": [
-    {
-      "name": "psyc_aleph-2",
-      "psychonaut_name": null,
-      "tripsit_name": "aleph-2",
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_aleph",
       "psychonaut_name": null,

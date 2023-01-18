@@ -160,7 +160,6 @@
   ],
   "distances": [
     1.9073e-06,
-    1.9073e-06,
     13.445068499,
     18.3516855573,
     19.1141174869,
@@ -171,7 +170,6 @@
     20.4587665002
   ],
   "indices": [
-    106,
     678,
     435,
     565,
@@ -185,12 +183,6 @@
   "name": "trip_Aniracetam",
   "svg": "trip_Aniracetam.svg",
   "sim": [
-    {
-      "name": "trip_Aniracetam",
-      "psychonaut_name": "Aniracetam",
-      "tripsit_name": null,
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_aniracetam",
       "psychonaut_name": null,

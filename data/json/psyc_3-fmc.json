@@ -4,7 +4,6 @@
   "tripsit_name": "3-fmc",
   "synonyms": null,
   "distances": [
-    1.6518e-06,
     1.9697516784,
     7.2015522131,
     7.4731052102,
@@ -16,7 +15,6 @@
     8.7468491467
   ],
   "indices": [
-    384,
     750,
     630,
     760,
@@ -30,12 +28,6 @@
   "name": "psyc_3-fmc",
   "svg": "psyc_3-fmc.svg",
   "sim": [
-    {
-      "name": "psyc_3-fmc",
-      "psychonaut_name": null,
-      "tripsit_name": "3-fmc",
-      "dist": 1.6518e-06
-    },
     {
       "name": "psyc_4-fmc",
       "psychonaut_name": null,

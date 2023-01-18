@@ -7,7 +7,6 @@
     "sedoxil"
   ],
   "distances": [
-    1.9073e-06,
     12.3127280277,
     14.0381201426,
     23.8904155076,
@@ -19,7 +18,6 @@
     28.5009294325
   ],
   "indices": [
-    689,
     622,
     736,
     839,
@@ -33,12 +31,6 @@
   "name": "psyc_mexazolam",
   "svg": "psyc_mexazolam.svg",
   "sim": [
-    {
-      "name": "psyc_mexazolam",
-      "psychonaut_name": null,
-      "tripsit_name": "mexazolam",
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_cloxazolam",
       "psychonaut_name": null,

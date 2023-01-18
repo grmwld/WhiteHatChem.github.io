@@ -4,7 +4,6 @@
   "tripsit_name": "5-br-dmt",
   "synonyms": null,
   "distances": [
-    1.6518e-06,
     9.1332953385,
     9.1332953385,
     9.5215102163,
@@ -16,7 +15,6 @@
     13.3471452382
   ],
   "indices": [
-    641,
     796,
     134,
     113,
@@ -30,12 +28,6 @@
   "name": "psyc_5-br-dmt",
   "svg": "psyc_5-br-dmt.svg",
   "sim": [
-    {
-      "name": "psyc_5-br-dmt",
-      "psychonaut_name": null,
-      "tripsit_name": "5-br-dmt",
-      "dist": 1.6518e-06
-    },
     {
       "name": "psyc_dmt",
       "psychonaut_name": null,

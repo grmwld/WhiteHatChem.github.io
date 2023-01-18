@@ -4,7 +4,6 @@
   "tripsit_name": "isomethadone",
   "synonyms": null,
   "distances": [
-    2.6974e-06,
     10.5651122706,
     10.5651122706,
     13.410596023,
@@ -16,7 +15,6 @@
     24.999866943
   ],
   "indices": [
-    582,
     221,
     586,
     347,
@@ -30,12 +28,6 @@
   "name": "psyc_isomethadone",
   "svg": "psyc_isomethadone.svg",
   "sim": [
-    {
-      "name": "psyc_isomethadone",
-      "psychonaut_name": null,
-      "tripsit_name": "isomethadone",
-      "dist": 2.6974e-06
-    },
     {
       "name": "trip_Methadone",
       "psychonaut_name": "Methadone",

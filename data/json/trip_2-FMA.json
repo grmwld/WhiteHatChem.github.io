@@ -24,7 +24,6 @@
   ],
   "distances": [
     1.3487e-06,
-    1.3487e-06,
     3.7207328575,
     3.7207328575,
     4.1688717666,
@@ -35,7 +34,6 @@
     9.925252793
   ],
   "indices": [
-    14,
     638,
     344,
     44,
@@ -49,12 +47,6 @@
   "name": "trip_2-FMA",
   "svg": "trip_2-FMA.svg",
   "sim": [
-    {
-      "name": "trip_2-FMA",
-      "psychonaut_name": "2-FMA",
-      "tripsit_name": null,
-      "dist": 1.3487e-06
-    },
     {
       "name": "psyc_2-fma",
       "psychonaut_name": null,

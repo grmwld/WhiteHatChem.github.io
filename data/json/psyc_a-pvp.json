@@ -13,7 +13,6 @@
   ],
   "distances": [
     1.3487e-06,
-    1.3487e-06,
     5.8999280246,
     5.8999280246,
     7.3651525411,
@@ -24,7 +23,6 @@
     11.3425299038
   ],
   "indices": [
-    822,
     92,
     91,
     617,
@@ -38,12 +36,6 @@
   "name": "psyc_a-pvp",
   "svg": "psyc_a-pvp.svg",
   "sim": [
-    {
-      "name": "psyc_a-pvp",
-      "psychonaut_name": null,
-      "tripsit_name": "a-pvp",
-      "dist": 1.3487e-06
-    },
     {
       "name": "trip_A-PVP",
       "psychonaut_name": "A-PVP",

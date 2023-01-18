@@ -12,7 +12,6 @@
     "PARGY-LAD"
   ],
   "distances": [
-    2.6974e-06,
     23.6627999312,
     23.6627999312,
     23.9671991635,
@@ -24,7 +23,6 @@
     24.87081736
   ],
   "indices": [
-    258,
     704,
     157,
     624,
@@ -38,12 +36,6 @@
   "name": "trip_PARGY-LAD",
   "svg": "trip_PARGY-LAD.svg",
   "sim": [
-    {
-      "name": "trip_PARGY-LAD",
-      "psychonaut_name": "PARGY-LAD",
-      "tripsit_name": null,
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_eth-lad",
       "psychonaut_name": null,

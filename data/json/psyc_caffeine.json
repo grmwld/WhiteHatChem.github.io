@@ -7,7 +7,6 @@
   ],
   "distances": [
     0.0,
-    0.0,
     15.3470104972,
     15.4748217448,
     16.5527268851,
@@ -18,7 +17,6 @@
     30.891909274
   ],
   "indices": [
-    685,
     117,
     708,
     90,
@@ -32,12 +30,6 @@
   "name": "psyc_caffeine",
   "svg": "psyc_caffeine.svg",
   "sim": [
-    {
-      "name": "psyc_caffeine",
-      "psychonaut_name": null,
-      "tripsit_name": "caffeine",
-      "dist": 0.0
-    },
     {
       "name": "trip_Caffeine",
       "psychonaut_name": "Caffeine",

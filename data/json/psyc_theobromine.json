@@ -4,7 +4,6 @@
   "tripsit_name": "theobromine",
   "synonyms": null,
   "distances": [
-    0.0,
     15.3470104972,
     15.3470104972,
     18.6005649932,
@@ -16,7 +15,6 @@
     28.407168534
   ],
   "indices": [
-    708,
     685,
     117,
     90,
@@ -30,12 +28,6 @@
   "name": "psyc_theobromine",
   "svg": "psyc_theobromine.svg",
   "sim": [
-    {
-      "name": "psyc_theobromine",
-      "psychonaut_name": null,
-      "tripsit_name": "theobromine",
-      "dist": 0.0
-    },
     {
       "name": "psyc_caffeine",
       "psychonaut_name": null,

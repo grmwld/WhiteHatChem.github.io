@@ -24,7 +24,6 @@
   ],
   "distances": [
     1.9073e-06,
-    1.9073e-06,
     12.4640045696,
     16.3661200055,
     16.9148834241,
@@ -35,7 +34,6 @@
     19.524913816
   ],
   "indices": [
-    779,
     248,
     559,
     774,
@@ -49,12 +47,6 @@
   "name": "trip_Nifoxipam",
   "svg": "trip_Nifoxipam.svg",
   "sim": [
-    {
-      "name": "psyc_nifoxipam",
-      "psychonaut_name": null,
-      "tripsit_name": "nifoxipam",
-      "dist": 1.9073e-06
-    },
     {
       "name": "trip_Nifoxipam",
       "psychonaut_name": "Nifoxipam",

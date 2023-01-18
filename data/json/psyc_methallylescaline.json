@@ -7,7 +7,6 @@
   ],
   "distances": [
     2.336e-06,
-    2.336e-06,
     14.9099853442,
     14.9099853442,
     17.4949481757,
@@ -18,7 +17,6 @@
     19.6345238386
   ],
   "indices": [
-    222,
     636,
     332,
     101,
@@ -32,12 +30,6 @@
   "name": "psyc_methallylescaline",
   "svg": "psyc_methallylescaline.svg",
   "sim": [
-    {
-      "name": "trip_Methallylescaline",
-      "psychonaut_name": "Methallylescaline",
-      "tripsit_name": null,
-      "dist": 2.336e-06
-    },
     {
       "name": "psyc_methallylescaline",
       "psychonaut_name": null,

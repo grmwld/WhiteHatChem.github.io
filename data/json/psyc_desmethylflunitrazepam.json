@@ -8,7 +8,6 @@
     "norflunitrazepam"
   ],
   "distances": [
-    1.9073e-06,
     6.8041518271,
     6.8041518271,
     8.0848273506,
@@ -20,7 +19,6 @@
     17.3571175962
   ],
   "indices": [
-    774,
     400,
     124,
     498,
@@ -34,12 +32,6 @@
   "name": "psyc_desmethylflunitrazepam",
   "svg": "psyc_desmethylflunitrazepam.svg",
   "sim": [
-    {
-      "name": "psyc_desmethylflunitrazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "desmethylflunitrazepam",
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_clonazepam",
       "psychonaut_name": null,

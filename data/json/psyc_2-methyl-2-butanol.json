@@ -7,7 +7,6 @@
   ],
   "distances": [
     9.537e-07,
-    9.537e-07,
     20.5140251006,
     20.5140251006,
     20.6724566481,
@@ -18,7 +17,6 @@
     25.4925226955
   ],
   "indices": [
-    474,
     39,
     99,
     546,
@@ -32,12 +30,6 @@
   "name": "psyc_2-methyl-2-butanol",
   "svg": "psyc_2-methyl-2-butanol.svg",
   "sim": [
-    {
-      "name": "psyc_2-methyl-2-butanol",
-      "psychonaut_name": null,
-      "tripsit_name": "2-methyl-2-butanol",
-      "dist": 9.537e-07
-    },
     {
       "name": "trip_2M2B",
       "psychonaut_name": "2M2B",

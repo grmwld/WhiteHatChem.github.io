@@ -4,7 +4,6 @@
   "tripsit_name": "ashwagandha",
   "synonyms": null,
   "distances": [
-    4.672e-06,
     49.1825337987,
     50.5443367794,
     56.2241998123,
@@ -16,7 +15,6 @@
     72.9485919694
   ],
   "indices": [
-    828,
     291,
     292,
     732,
@@ -30,12 +28,6 @@
   "name": "psyc_ashwagandha",
   "svg": "psyc_ashwagandha.svg",
   "sim": [
-    {
-      "name": "psyc_ashwagandha",
-      "psychonaut_name": null,
-      "tripsit_name": "ashwagandha",
-      "dist": 4.672e-06
-    },
     {
       "name": "trip_Salvinorin A",
       "psychonaut_name": "Salvinorin A",

@@ -11,7 +11,6 @@
     "talis"
   ],
   "distances": [
-    2.336e-06,
     10.1187740069,
     10.1187740069,
     13.6180771905,
@@ -23,7 +22,6 @@
     18.7307029606
   ],
   "indices": [
-    594,
     148,
     600,
     150,
@@ -37,12 +35,6 @@
   "name": "psyc_medazepam",
   "svg": "psyc_medazepam.svg",
   "sim": [
-    {
-      "name": "psyc_medazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "medazepam",
-      "dist": 2.336e-06
-    },
     {
       "name": "trip_Diazepam",
       "psychonaut_name": "Diazepam",

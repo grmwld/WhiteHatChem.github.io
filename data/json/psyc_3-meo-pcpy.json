@@ -4,7 +4,6 @@
   "tripsit_name": "3-meo-pcpy",
   "synonyms": null,
   "distances": [
-    2.6974e-06,
     5.2403535776,
     5.2403535776,
     5.4159284627,
@@ -16,7 +15,6 @@
     11.056241954
   ],
   "indices": [
-    391,
     478,
     53,
     71,
@@ -30,12 +28,6 @@
   "name": "psyc_3-meo-pcpy",
   "svg": "psyc_3-meo-pcpy.svg",
   "sim": [
-    {
-      "name": "psyc_3-meo-pcpy",
-      "psychonaut_name": null,
-      "tripsit_name": "3-meo-pcpy",
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_3-meo-pcp",
       "psychonaut_name": null,

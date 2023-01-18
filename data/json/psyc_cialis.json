@@ -4,7 +4,6 @@
   "tripsit_name": "cialis",
   "synonyms": null,
   "distances": [
-    1.9073e-06,
     10.770489705,
     32.9107290844,
     33.4545462537,
@@ -16,7 +15,6 @@
     37.2996798013
   ],
   "indices": [
-    513,
     374,
     495,
     839,
@@ -30,12 +28,6 @@
   "name": "psyc_cialis",
   "svg": "psyc_cialis.svg",
   "sim": [
-    {
-      "name": "psyc_cialis",
-      "psychonaut_name": null,
-      "tripsit_name": "cialis",
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_aminotadalafil",
       "psychonaut_name": null,

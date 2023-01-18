@@ -90,7 +90,6 @@
   ],
   "distances": [
     3.3036e-06,
-    3.3036e-06,
     10.7443240063,
     10.7443240063,
     13.7262201153,
@@ -101,7 +100,6 @@
     17.6511469395
   ],
   "indices": [
-    188,
     675,
     388,
     189,
@@ -115,12 +113,6 @@
   "name": "trip_Hydrocodone",
   "svg": "trip_Hydrocodone.svg",
   "sim": [
-    {
-      "name": "trip_Hydrocodone",
-      "psychonaut_name": "Hydrocodone",
-      "tripsit_name": null,
-      "dist": 3.3036e-06
-    },
     {
       "name": "psyc_hydrocodone",
       "psychonaut_name": null,

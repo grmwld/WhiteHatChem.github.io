@@ -106,7 +106,6 @@
     "sn-Glycerophosphorylcholine (egg, free base)"
   ],
   "distances": [
-    1.9073e-06,
     40.729735783,
     62.229692816,
     62.4835896425,
@@ -118,7 +117,6 @@
     63.4002892713
   ],
   "indices": [
-    102,
     121,
     219,
     303,
@@ -132,12 +130,6 @@
   "name": "trip_Alpha-GPC",
   "svg": "trip_Alpha-GPC.svg",
   "sim": [
-    {
-      "name": "trip_Alpha-GPC",
-      "psychonaut_name": "Alpha-GPC",
-      "tripsit_name": null,
-      "dist": 1.9073e-06
-    },
     {
       "name": "trip_Choline bitartrate",
       "psychonaut_name": "Choline bitartrate",

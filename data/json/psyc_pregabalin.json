@@ -8,7 +8,6 @@
   ],
   "distances": [
     1.3487e-06,
-    1.3487e-06,
     20.8902283818,
     20.8902283818,
     21.6999412712,
@@ -19,7 +18,6 @@
     23.5222024128
   ],
   "indices": [
-    278,
     355,
     0,
     507,
@@ -33,12 +31,6 @@
   "name": "psyc_pregabalin",
   "svg": "psyc_pregabalin.svg",
   "sim": [
-    {
-      "name": "trip_Pregabalin",
-      "psychonaut_name": "Pregabalin",
-      "tripsit_name": null,
-      "dist": 1.3487e-06
-    },
     {
       "name": "psyc_pregabalin",
       "psychonaut_name": null,

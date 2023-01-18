@@ -5,7 +5,6 @@
   "synonyms": null,
   "distances": [
     2.6974e-06,
-    2.6974e-06,
     7.3617253205,
     7.3617253205,
     13.9041590115,
@@ -16,7 +15,6 @@
     17.9136544941
   ],
   "indices": [
-    264,
     468,
     157,
     704,
@@ -30,12 +28,6 @@
   "name": "psyc_pro-lad",
   "svg": "psyc_pro-lad.svg",
   "sim": [
-    {
-      "name": "trip_PRO-LAD",
-      "psychonaut_name": "PRO-LAD",
-      "tripsit_name": null,
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_pro-lad",
       "psychonaut_name": null,

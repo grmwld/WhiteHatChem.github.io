@@ -7,7 +7,6 @@
   ],
   "distances": [
     3.0158e-06,
-    3.0158e-06,
     8.8242978603,
     8.8242978603,
     8.8242978603,
@@ -18,7 +17,6 @@
     20.4035526847
   ],
   "indices": [
-    798,
     215,
     647,
     369,
@@ -32,12 +30,6 @@
   "name": "psyc_mebroqualone",
   "svg": "psyc_mebroqualone.svg",
   "sim": [
-    {
-      "name": "psyc_mebroqualone",
-      "psychonaut_name": null,
-      "tripsit_name": "mebroqualone",
-      "dist": 3.0158e-06
-    },
     {
       "name": "trip_Mebroqualone",
       "psychonaut_name": "Mebroqualone",

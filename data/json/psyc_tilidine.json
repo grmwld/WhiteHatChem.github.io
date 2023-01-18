@@ -9,7 +9,6 @@
     "valtran"
   ],
   "distances": [
-    2.336e-06,
     20.6689318164,
     20.6689318164,
     22.2875159657,
@@ -21,7 +20,6 @@
     24.5624515446
   ],
   "indices": [
-    665,
     769,
     268,
     311,
@@ -35,12 +33,6 @@
   "name": "psyc_tilidine",
   "svg": "psyc_tilidine.svg",
   "sim": [
-    {
-      "name": "psyc_tilidine",
-      "psychonaut_name": null,
-      "tripsit_name": "tilidine",
-      "dist": 2.336e-06
-    },
     {
       "name": "psyc_demerol",
       "psychonaut_name": null,

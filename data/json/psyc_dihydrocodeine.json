@@ -7,7 +7,6 @@
   ],
   "distances": [
     3.5683e-06,
-    3.5683e-06,
     13.7262201153,
     13.7262201153,
     15.0573397459,
@@ -18,7 +17,6 @@
     18.4637748097
   ],
   "indices": [
-    151,
     827,
     675,
     188,
@@ -32,12 +30,6 @@
   "name": "psyc_dihydrocodeine",
   "svg": "psyc_dihydrocodeine.svg",
   "sim": [
-    {
-      "name": "trip_Dihydrocodeine",
-      "psychonaut_name": "Dihydrocodeine",
-      "tripsit_name": null,
-      "dist": 3.5683e-06
-    },
     {
       "name": "psyc_dihydrocodeine",
       "psychonaut_name": null,

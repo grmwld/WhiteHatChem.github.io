@@ -176,7 +176,6 @@
   ],
   "distances": [
     1.168e-06,
-    1.168e-06,
     18.4843791275,
     20.2419161261,
     20.2419161261,
@@ -187,7 +186,6 @@
     21.6999412712
   ],
   "indices": [
-    210,
     501,
     450,
     353,
@@ -201,12 +199,6 @@
   "name": "trip_MET",
   "svg": "trip_MET.svg",
   "sim": [
-    {
-      "name": "trip_MET",
-      "psychonaut_name": "MET",
-      "tripsit_name": null,
-      "dist": 1.168e-06
-    },
     {
       "name": "psyc_met",
       "psychonaut_name": null,

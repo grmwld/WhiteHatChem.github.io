@@ -6,7 +6,6 @@
     "4-methylthioamphetamine"
   ],
   "distances": [
-    0.0,
     12.3766928392,
     13.2994337836,
     13.2994337836,
@@ -18,7 +17,6 @@
     13.9032585441
   ],
   "indices": [
-    634,
     329,
     61,
     433,
@@ -32,12 +30,6 @@
   "name": "psyc_4-mta",
   "svg": "psyc_4-mta.svg",
   "sim": [
-    {
-      "name": "psyc_4-mta",
-      "psychonaut_name": null,
-      "tripsit_name": "4-mta",
-      "dist": 0.0
-    },
     {
       "name": "psyc_2-methylamphetamine",
       "psychonaut_name": null,

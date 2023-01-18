@@ -4,7 +4,6 @@
   "tripsit_name": "homosildenafil",
   "synonyms": null,
   "distances": [
-    4.672e-06,
     16.509775676,
     39.9263986552,
     40.1147721705,
@@ -16,7 +15,6 @@
     43.6059374765
   ],
   "indices": [
-    515,
     454,
     288,
     777,
@@ -30,12 +28,6 @@
   "name": "psyc_homosildenafil",
   "svg": "psyc_homosildenafil.svg",
   "sim": [
-    {
-      "name": "psyc_homosildenafil",
-      "psychonaut_name": null,
-      "tripsit_name": "homosildenafil",
-      "dist": 4.672e-06
-    },
     {
       "name": "psyc_acetildenafil",
       "psychonaut_name": null,

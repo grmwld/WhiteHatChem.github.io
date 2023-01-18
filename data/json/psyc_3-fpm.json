@@ -12,7 +12,6 @@
   ],
   "distances": [
     1.3487e-06,
-    1.3487e-06,
     1.9697513153,
     8.5037461048,
     8.5037461048,
@@ -23,7 +22,6 @@
     18.8713593667
   ],
   "indices": [
-    604,
     45,
     466,
     272,
@@ -37,12 +35,6 @@
   "name": "psyc_3-fpm",
   "svg": "psyc_3-fpm.svg",
   "sim": [
-    {
-      "name": "psyc_3-fpm",
-      "psychonaut_name": null,
-      "tripsit_name": "3-fpm",
-      "dist": 1.3487e-06
-    },
     {
       "name": "trip_3-FPM",
       "psychonaut_name": "3-FPM",

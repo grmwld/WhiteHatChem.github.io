@@ -175,7 +175,6 @@
     "DTXSID7023514"
   ],
   "distances": [
-    2.6974e-06,
     20.6555090698,
     21.0965051731,
     21.0965051731,
@@ -187,7 +186,6 @@
     28.7876621522
   ],
   "indices": [
-    279,
     625,
     713,
     287,
@@ -201,12 +199,6 @@
   "name": "trip_Prochlorperazine",
   "svg": "trip_Prochlorperazine.svg",
   "sim": [
-    {
-      "name": "trip_Prochlorperazine",
-      "psychonaut_name": "Prochlorperazine",
-      "tripsit_name": null,
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_trazodone",
       "psychonaut_name": null,

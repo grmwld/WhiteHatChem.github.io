@@ -16,7 +16,6 @@
   ],
   "distances": [
     2.336e-06,
-    2.336e-06,
     12.8091750878,
     12.8115311419,
     12.8115311419,
@@ -27,7 +26,6 @@
     14.1253278576
   ],
   "indices": [
-    192,
     459,
     360,
     504,
@@ -41,12 +39,6 @@
   "name": "trip_Isopropylphenidate",
   "svg": "trip_Isopropylphenidate.svg",
   "sim": [
-    {
-      "name": "trip_Isopropylphenidate",
-      "psychonaut_name": "Isopropylphenidate",
-      "tripsit_name": null,
-      "dist": 2.336e-06
-    },
     {
       "name": "psyc_isopropylphenidate",
       "psychonaut_name": null,

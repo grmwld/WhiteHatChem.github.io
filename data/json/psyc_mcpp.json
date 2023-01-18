@@ -5,7 +5,6 @@
   "synonyms": null,
   "distances": [
     1.9073e-06,
-    1.9073e-06,
     7.4590388414,
     10.572874854,
     14.6031952379,
@@ -16,7 +15,6 @@
     20.8665944611
   ],
   "indices": [
-    204,
     812,
     823,
     396,
@@ -30,12 +28,6 @@
   "name": "psyc_mcpp",
   "svg": "psyc_mcpp.svg",
   "sim": [
-    {
-      "name": "trip_MCPP",
-      "psychonaut_name": "MCPP",
-      "tripsit_name": null,
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_mcpp",
       "psychonaut_name": null,

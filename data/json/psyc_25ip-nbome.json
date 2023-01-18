@@ -6,7 +6,6 @@
     "25ip"
   ],
   "distances": [
-    2.6974e-06,
     12.0736310921,
     12.7204900578,
     13.7699157748,
@@ -18,7 +17,6 @@
     16.2216718978
   ],
   "indices": [
-    536,
     735,
     438,
     21,
@@ -32,12 +30,6 @@
   "name": "psyc_25ip-nbome",
   "svg": "psyc_25ip-nbome.svg",
   "sim": [
-    {
-      "name": "psyc_25ip-nbome",
-      "psychonaut_name": null,
-      "tripsit_name": "25ip-nbome",
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_25t-4-nbome",
       "psychonaut_name": null,

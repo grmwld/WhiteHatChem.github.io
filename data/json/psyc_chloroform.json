@@ -4,7 +4,6 @@
   "tripsit_name": "chloroform",
   "synonyms": null,
   "distances": [
-    7.539e-07,
     20.797812655,
     20.797812655,
     24.792785038,
@@ -16,7 +15,6 @@
     27.9957620956
   ],
   "indices": [
-    540,
     546,
     99,
     338,
@@ -30,12 +28,6 @@
   "name": "psyc_chloroform",
   "svg": "psyc_chloroform.svg",
   "sim": [
-    {
-      "name": "psyc_chloroform",
-      "psychonaut_name": null,
-      "tripsit_name": "chloroform",
-      "dist": 7.539e-07
-    },
     {
       "name": "psyc_alcohol",
       "psychonaut_name": null,

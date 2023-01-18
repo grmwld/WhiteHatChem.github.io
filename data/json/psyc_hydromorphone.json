@@ -8,7 +8,6 @@
   ],
   "distances": [
     3.0158e-06,
-    3.0158e-06,
     10.7443240063,
     10.7443240063,
     11.4025585315,
@@ -19,7 +18,6 @@
     16.23404039
   ],
   "indices": [
-    388,
     189,
     188,
     675,
@@ -33,12 +31,6 @@
   "name": "psyc_hydromorphone",
   "svg": "psyc_hydromorphone.svg",
   "sim": [
-    {
-      "name": "psyc_hydromorphone",
-      "psychonaut_name": null,
-      "tripsit_name": "hydromorphone",
-      "dist": 3.0158e-06
-    },
     {
       "name": "trip_Hydromorphone",
       "psychonaut_name": "Hydromorphone",

@@ -7,7 +7,6 @@
   ],
   "distances": [
     3.3036e-06,
-    3.3036e-06,
     22.3093868189,
     23.6564396356,
     23.6564396356,
@@ -18,7 +17,6 @@
     28.6766610873
   ],
   "indices": [
-    164,
     682,
     535,
     810,
@@ -32,12 +30,6 @@
   "name": "psyc_etodesnitazene",
   "svg": "psyc_etodesnitazene.svg",
   "sim": [
-    {
-      "name": "trip_Etazene",
-      "psychonaut_name": "Etazene",
-      "tripsit_name": null,
-      "dist": 3.3036e-06
-    },
     {
       "name": "psyc_etodesnitazene",
       "psychonaut_name": null,

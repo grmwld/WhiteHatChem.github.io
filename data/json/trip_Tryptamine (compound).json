@@ -138,7 +138,6 @@
     "005T661"
   ],
   "distances": [
-    1.6518e-06,
     11.9728856524,
     12.6905321529,
     12.6905321529,
@@ -150,7 +149,6 @@
     17.5223786183
   ],
   "indices": [
-    314,
     781,
     321,
     627,
@@ -164,12 +162,6 @@
   "name": "trip_Tryptamine (compound)",
   "svg": "trip_Tryptamine (compound).svg",
   "sim": [
-    {
-      "name": "trip_Tryptamine (compound)",
-      "psychonaut_name": "Tryptamine (compound)",
-      "tripsit_name": null,
-      "dist": 1.6518e-06
-    },
     {
       "name": "psyc_mexamine",
       "psychonaut_name": null,

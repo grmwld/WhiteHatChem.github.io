@@ -12,7 +12,6 @@
     "salvinorin B methoxymethyl ether"
   ],
   "distances": [
-    0.0,
     13.1722439571,
     43.8986856807,
     43.8986856807,
@@ -24,7 +23,6 @@
     51.6988254672
   ],
   "indices": [
-    292,
     291,
     397,
     186,
@@ -38,12 +36,6 @@
   "name": "trip_Salvinorin B methoxymethyl ether",
   "svg": "trip_Salvinorin B methoxymethyl ether.svg",
   "sim": [
-    {
-      "name": "trip_Salvinorin B methoxymethyl ether",
-      "psychonaut_name": "Salvinorin B methoxymethyl ether",
-      "tripsit_name": null,
-      "dist": 0.0
-    },
     {
       "name": "trip_Salvinorin A",
       "psychonaut_name": "Salvinorin A",

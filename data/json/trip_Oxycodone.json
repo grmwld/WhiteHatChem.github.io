@@ -116,7 +116,6 @@
   ],
   "distances": [
     4.672e-06,
-    4.672e-06,
     10.7443232962,
     10.7443232962,
     14.3385476379,
@@ -127,7 +126,6 @@
     19.9811121445
   ],
   "indices": [
-    428,
     256,
     257,
     643,
@@ -141,12 +139,6 @@
   "name": "trip_Oxycodone",
   "svg": "trip_Oxycodone.svg",
   "sim": [
-    {
-      "name": "psyc_oxycodone",
-      "psychonaut_name": null,
-      "tripsit_name": "oxycodone",
-      "dist": 4.672e-06
-    },
     {
       "name": "trip_Oxycodone",
       "psychonaut_name": "Oxycodone",

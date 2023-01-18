@@ -4,7 +4,6 @@
   "tripsit_name": "thiopental",
   "synonyms": null,
   "distances": [
-    0.0,
     11.7787604092,
     11.7787604092,
     16.538921343,
@@ -16,7 +15,6 @@
     27.6353911452
   ],
   "indices": [
-    410,
     266,
     660,
     775,
@@ -30,12 +28,6 @@
   "name": "psyc_thiopental",
   "svg": "psyc_thiopental.svg",
   "sim": [
-    {
-      "name": "psyc_thiopental",
-      "psychonaut_name": null,
-      "tripsit_name": "thiopental",
-      "dist": 0.0
-    },
     {
       "name": "trip_Pentobarbital",
       "psychonaut_name": "Pentobarbital",

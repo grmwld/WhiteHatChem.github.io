@@ -4,7 +4,6 @@
   "tripsit_name": "2-nmc",
   "synonyms": null,
   "distances": [
-    1.3487e-06,
     16.2493671001,
     16.2493671001,
     16.3877816439,
@@ -16,7 +15,6 @@
     17.3739153846
   ],
   "indices": [
-    465,
     603,
     70,
     389,
@@ -30,12 +28,6 @@
   "name": "psyc_2-nmc",
   "svg": "psyc_2-nmc.svg",
   "sim": [
-    {
-      "name": "psyc_2-nmc",
-      "psychonaut_name": null,
-      "tripsit_name": "2-nmc",
-      "dist": 1.3487e-06
-    },
     {
       "name": "psyc_4-mec",
       "psychonaut_name": null,

@@ -8,7 +8,6 @@
   ],
   "distances": [
     2.336e-06,
-    2.336e-06,
     11.0662790514,
     14.7840127117,
     20.2609984117,
@@ -19,7 +18,6 @@
     23.6506440992
   ],
   "indices": [
-    243,
     395,
     786,
     616,
@@ -33,12 +31,6 @@
   "name": "trip_N-Methylbisfluoromodafinil",
   "svg": "trip_N-Methylbisfluoromodafinil.svg",
   "sim": [
-    {
-      "name": "trip_N-Methylbisfluoromodafinil",
-      "psychonaut_name": "N-Methylbisfluoromodafinil",
-      "tripsit_name": null,
-      "dist": 2.336e-06
-    },
     {
       "name": "psyc_dehydroxyfluorafinil",
       "psychonaut_name": null,

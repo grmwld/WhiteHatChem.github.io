@@ -8,7 +8,6 @@
     "paxor"
   ],
   "distances": [
-    1.9073e-06,
     25.9486445372,
     26.1781102647,
     26.4565984042,
@@ -20,7 +19,6 @@
     28.104052529
   ],
   "indices": [
-    572,
     457,
     545,
     695,
@@ -34,12 +32,6 @@
   "name": "psyc_camazepam",
   "svg": "psyc_camazepam.svg",
   "sim": [
-    {
-      "name": "psyc_camazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "camazepam",
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_metaclazepam",
       "psychonaut_name": null,

@@ -5,7 +5,6 @@
   "synonyms": null,
   "distances": [
     1.9073e-06,
-    1.9073e-06,
     6.8041521074,
     6.8041521074,
     8.474461055,
@@ -16,7 +15,6 @@
     17.5804121776
   ],
   "indices": [
-    269,
     439,
     615,
     174,
@@ -30,12 +28,6 @@
   "name": "psyc_phenazepam",
   "svg": "psyc_phenazepam.svg",
   "sim": [
-    {
-      "name": "trip_Phenazepam",
-      "psychonaut_name": "Phenazepam",
-      "tripsit_name": null,
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_phenazepam",
       "psychonaut_name": null,

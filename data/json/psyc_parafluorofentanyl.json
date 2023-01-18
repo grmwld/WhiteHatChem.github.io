@@ -7,7 +7,6 @@
     "4-fluorofentanyl"
   ],
   "distances": [
-    0.0,
     7.9052914728,
     8.4945185321,
     8.4945185321,
@@ -19,7 +18,6 @@
     17.873737424
   ],
   "indices": [
-    687,
     746,
     348,
     172,
@@ -33,12 +31,6 @@
   "name": "psyc_parafluorofentanyl",
   "svg": "psyc_parafluorofentanyl.svg",
   "sim": [
-    {
-      "name": "psyc_parafluorofentanyl",
-      "psychonaut_name": null,
-      "tripsit_name": "parafluorofentanyl",
-      "dist": 0.0
-    },
     {
       "name": "psyc_parafluorobutyrfentanyl",
       "psychonaut_name": null,

@@ -9,7 +9,6 @@
     "MXiPr"
   ],
   "distances": [
-    3.0158e-06,
     13.0978845883,
     13.0978845883,
     13.731982269,
@@ -21,7 +20,6 @@
     19.1251914819
   ],
   "indices": [
-    214,
     669,
     227,
     213,
@@ -35,12 +33,6 @@
   "name": "trip_MXiPr",
   "svg": "trip_MXiPr.svg",
   "sim": [
-    {
-      "name": "trip_MXiPr",
-      "psychonaut_name": "MXiPr",
-      "tripsit_name": null,
-      "dist": 3.0158e-06
-    },
     {
       "name": "psyc_mxe",
       "psychonaut_name": null,

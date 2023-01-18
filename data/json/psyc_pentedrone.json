@@ -5,7 +5,6 @@
   "synonyms": null,
   "distances": [
     1.6518e-06,
-    1.6518e-06,
     5.8999280246,
     5.8999280246,
     7.3651525411,
@@ -16,7 +15,6 @@
     9.925252793
   ],
   "indices": [
-    265,
     633,
     187,
     549,
@@ -30,12 +28,6 @@
   "name": "psyc_pentedrone",
   "svg": "psyc_pentedrone.svg",
   "sim": [
-    {
-      "name": "trip_Pentedrone",
-      "psychonaut_name": "Pentedrone",
-      "tripsit_name": null,
-      "dist": 1.6518e-06
-    },
     {
       "name": "psyc_pentedrone",
       "psychonaut_name": null,

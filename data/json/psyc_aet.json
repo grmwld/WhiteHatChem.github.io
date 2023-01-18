@@ -8,7 +8,6 @@
     "a-ethyltryptamine"
   ],
   "distances": [
-    9.537e-07,
     22.2031758554,
     22.7723064685,
     24.4185483379,
@@ -20,7 +19,6 @@
     28.7693209535
   ],
   "indices": [
-    363,
     450,
     130,
     210,
@@ -34,12 +32,6 @@
   "name": "psyc_aet",
   "svg": "psyc_aet.svg",
   "sim": [
-    {
-      "name": "psyc_aet",
-      "psychonaut_name": null,
-      "tripsit_name": "aet",
-      "dist": 9.537e-07
-    },
     {
       "name": "psyc_gaba",
       "psychonaut_name": null,

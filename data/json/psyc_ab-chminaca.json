@@ -4,7 +4,6 @@
   "tripsit_name": "ab-chminaca",
   "synonyms": null,
   "distances": [
-    1.9073e-06,
     28.4921864289,
     28.4921864289,
     30.771539355,
@@ -16,7 +15,6 @@
     33.212265286
   ],
   "indices": [
-    502,
     93,
     802,
     755,
@@ -30,12 +28,6 @@
   "name": "psyc_ab-chminaca",
   "svg": "psyc_ab-chminaca.svg",
   "sim": [
-    {
-      "name": "psyc_ab-chminaca",
-      "psychonaut_name": null,
-      "tripsit_name": "ab-chminaca",
-      "dist": 1.9073e-06
-    },
     {
       "name": "trip_AB-FUBINACA",
       "psychonaut_name": "AB-FUBINACA",

@@ -4,7 +4,6 @@
   "tripsit_name": "clonitazene",
   "synonyms": null,
   "distances": [
-    3.3036e-06,
     22.3093868189,
     22.3093868189,
     25.7985181279,
@@ -16,7 +15,6 @@
     30.4830935789
   ],
   "indices": [
-    535,
     682,
     164,
     845,
@@ -30,12 +28,6 @@
   "name": "psyc_clonitazene",
   "svg": "psyc_clonitazene.svg",
   "sim": [
-    {
-      "name": "psyc_clonitazene",
-      "psychonaut_name": null,
-      "tripsit_name": "clonitazene",
-      "dist": 3.3036e-06
-    },
     {
       "name": "psyc_etodesnitazene",
       "psychonaut_name": null,

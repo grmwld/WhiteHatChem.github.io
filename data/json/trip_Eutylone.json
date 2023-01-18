@@ -24,7 +24,6 @@
     "UNII-D6WQJ7NF96"
   ],
   "distances": [
-    2.336e-06,
     7.3651533181,
     7.9876272368,
     7.9876272368,
@@ -36,7 +35,6 @@
     12.7648079843
   ],
   "indices": [
-    169,
     161,
     700,
     166,
@@ -50,12 +48,6 @@
   "name": "trip_Eutylone",
   "svg": "trip_Eutylone.svg",
   "sim": [
-    {
-      "name": "trip_Eutylone",
-      "psychonaut_name": "Eutylone",
-      "tripsit_name": null,
-      "dist": 2.336e-06
-    },
     {
       "name": "trip_Ephylone",
       "psychonaut_name": "Ephylone",

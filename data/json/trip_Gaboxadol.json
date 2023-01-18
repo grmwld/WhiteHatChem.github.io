@@ -114,7 +114,6 @@
     "SPBio_002914"
   ],
   "distances": [
-    1.5079e-06,
     21.9783128136,
     21.9783128136,
     22.3694058889,
@@ -126,7 +125,6 @@
     24.7475769706
   ],
   "indices": [
-    182,
     179,
     338,
     416,
@@ -140,12 +138,6 @@
   "name": "trip_Gaboxadol",
   "svg": "trip_Gaboxadol.svg",
   "sim": [
-    {
-      "name": "trip_Gaboxadol",
-      "psychonaut_name": "Gaboxadol",
-      "tripsit_name": null,
-      "dist": 1.5079e-06
-    },
     {
       "name": "trip_GBL",
       "psychonaut_name": "GBL",

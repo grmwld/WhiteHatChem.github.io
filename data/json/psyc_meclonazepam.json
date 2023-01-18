@@ -4,7 +4,6 @@
   "tripsit_name": "meclonazepam",
   "synonyms": null,
   "distances": [
-    2.336e-06,
     12.4640045696,
     12.4640045696,
     13.6361217778,
@@ -16,7 +15,6 @@
     19.9493070936
   ],
   "indices": [
-    559,
     248,
     779,
     400,
@@ -30,12 +28,6 @@
   "name": "psyc_meclonazepam",
   "svg": "psyc_meclonazepam.svg",
   "sim": [
-    {
-      "name": "psyc_meclonazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "meclonazepam",
-      "dist": 2.336e-06
-    },
     {
       "name": "trip_Nifoxipam",
       "psychonaut_name": "Nifoxipam",

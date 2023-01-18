@@ -9,7 +9,6 @@
   ],
   "distances": [
     3.3036e-06,
-    3.3036e-06,
     8.6841626241,
     8.6841626241,
     14.4039619929,
@@ -20,7 +19,6 @@
     16.0527561186
   ],
   "indices": [
-    95,
     351,
     5,
     807,
@@ -34,12 +32,6 @@
   "name": "psyc_ald-52",
   "svg": "psyc_ald-52.svg",
   "sim": [
-    {
-      "name": "trip_ALD-52",
-      "psychonaut_name": "ALD-52",
-      "tripsit_name": null,
-      "dist": 3.3036e-06
-    },
     {
       "name": "psyc_ald-52",
       "psychonaut_name": null,

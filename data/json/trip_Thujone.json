@@ -82,7 +82,6 @@
     "C09906"
   ],
   "distances": [
-    0.0,
     25.9108202392,
     27.4960623957,
     27.4960623957,
@@ -94,7 +93,6 @@
     31.2022770369
   ],
   "indices": [
-    309,
     415,
     282,
     772,
@@ -108,12 +106,6 @@
   "name": "trip_Thujone",
   "svg": "trip_Thujone.svg",
   "sim": [
-    {
-      "name": "trip_Thujone",
-      "psychonaut_name": "Thujone",
-      "tripsit_name": null,
-      "dist": 0.0
-    },
     {
       "name": "psyc_methyprylon",
       "psychonaut_name": null,

@@ -7,7 +7,6 @@
     "benadryl"
   ],
   "distances": [
-    2.6974e-06,
     22.3773383086,
     25.6067317695,
     25.6196176226,
@@ -19,7 +18,6 @@
     27.0409687189
   ],
   "indices": [
-    367,
     803,
     788,
     248,
@@ -33,12 +31,6 @@
   "name": "psyc_dph",
   "svg": "psyc_dph.svg",
   "sim": [
-    {
-      "name": "psyc_dph",
-      "psychonaut_name": null,
-      "tripsit_name": "dph",
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_clorazepate",
       "psychonaut_name": null,

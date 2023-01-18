@@ -4,7 +4,6 @@
   "tripsit_name": "25i-nbf",
   "synonyms": null,
   "distances": [
-    2.336e-06,
     9.3357139912,
     9.3357139912,
     11.3626460806,
@@ -16,7 +15,6 @@
     15.3926875403
   ],
   "indices": [
-    696,
     657,
     24,
     742,
@@ -30,12 +28,6 @@
   "name": "psyc_25i-nbf",
   "svg": "psyc_25i-nbf.svg",
   "sim": [
-    {
-      "name": "psyc_25i-nbf",
-      "psychonaut_name": null,
-      "tripsit_name": "25i-nbf",
-      "dist": 2.336e-06
-    },
     {
       "name": "psyc_25i-nboh",
       "psychonaut_name": null,

@@ -4,7 +4,6 @@
   "tripsit_name": "homomazindol",
   "synonyms": null,
   "distances": [
-    1.9073e-06,
     19.8424404403,
     21.5079664508,
     21.5079664508,
@@ -16,7 +15,6 @@
     23.0504936248
   ],
   "indices": [
-    490,
     594,
     148,
     600,
@@ -30,12 +28,6 @@
   "name": "psyc_homomazindol",
   "svg": "psyc_homomazindol.svg",
   "sim": [
-    {
-      "name": "psyc_homomazindol",
-      "psychonaut_name": null,
-      "tripsit_name": "homomazindol",
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_medazepam",
       "psychonaut_name": null,

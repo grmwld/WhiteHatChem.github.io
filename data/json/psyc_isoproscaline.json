@@ -6,7 +6,6 @@
     "ip"
   ],
   "distances": [
-    2.336e-06,
     9.840903994,
     12.3449904193,
     12.3449904193,
@@ -18,7 +17,6 @@
     13.549780159
   ],
   "indices": [
-    717,
     618,
     506,
     54,
@@ -32,12 +30,6 @@
   "name": "psyc_isoproscaline",
   "svg": "psyc_isoproscaline.svg",
   "sim": [
-    {
-      "name": "psyc_isoproscaline",
-      "psychonaut_name": null,
-      "tripsit_name": "isoproscaline",
-      "dist": 2.336e-06
-    },
     {
       "name": "psyc_2c-ip",
       "psychonaut_name": null,

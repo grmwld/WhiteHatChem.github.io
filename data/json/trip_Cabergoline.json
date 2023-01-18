@@ -99,7 +99,6 @@
     "HY-15296"
   ],
   "distances": [
-    2.6974e-06,
     30.9102438727,
     35.2476676007,
     36.722592884,
@@ -111,7 +110,6 @@
     39.12500312
   ],
   "indices": [
-    116,
     7,
     6,
     683,
@@ -125,12 +123,6 @@
   "name": "trip_Cabergoline",
   "svg": "trip_Cabergoline.svg",
   "sim": [
-    {
-      "name": "trip_Cabergoline",
-      "psychonaut_name": "Cabergoline",
-      "tripsit_name": null,
-      "dist": 2.6974e-06
-    },
     {
       "name": "trip_1cP-AL-LAD",
       "psychonaut_name": "1cP-AL-LAD",

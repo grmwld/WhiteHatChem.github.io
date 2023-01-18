@@ -262,7 +262,6 @@
     "IDI1_000368"
   ],
   "distances": [
-    2.6974e-06,
     7.7110559827,
     18.1841387707,
     19.2936184626,
@@ -274,7 +273,6 @@
     21.8598294214
   ],
   "indices": [
-    152,
     254,
     554,
     154,
@@ -288,12 +286,6 @@
   "name": "trip_Diphenhydramine",
   "svg": "trip_Diphenhydramine.svg",
   "sim": [
-    {
-      "name": "trip_Diphenhydramine",
-      "psychonaut_name": "Diphenhydramine",
-      "tripsit_name": null,
-      "dist": 2.6974e-06
-    },
     {
       "name": "trip_Orphenadrine",
       "psychonaut_name": "Orphenadrine",

@@ -39,7 +39,6 @@
   ],
   "distances": [
     1.3487e-06,
-    1.3487e-06,
     11.4516973712,
     11.4516973712,
     15.7715645557,
@@ -50,7 +49,6 @@
     19.8403940322
   ],
   "indices": [
-    693,
     245,
     416,
     11,
@@ -64,12 +62,6 @@
   "name": "trip_NM-2-AI",
   "svg": "trip_NM-2-AI.svg",
   "sim": [
-    {
-      "name": "psyc_nm-2-ai",
-      "psychonaut_name": null,
-      "tripsit_name": "nm-2-ai",
-      "dist": 1.3487e-06
-    },
     {
       "name": "trip_NM-2-AI",
       "psychonaut_name": "NM-2-AI",

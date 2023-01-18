@@ -8,7 +8,6 @@
   ],
   "distances": [
     1.3487e-06,
-    1.3487e-06,
     11.1441673864,
     11.1441673864,
     11.7787604092,
@@ -19,7 +18,6 @@
     25.8542810315
   ],
   "indices": [
-    660,
     266,
     105,
     775,
@@ -33,12 +31,6 @@
   "name": "psyc_pentobarbital",
   "svg": "psyc_pentobarbital.svg",
   "sim": [
-    {
-      "name": "psyc_pentobarbital",
-      "psychonaut_name": null,
-      "tripsit_name": "pentobarbital",
-      "dist": 1.3487e-06
-    },
     {
       "name": "trip_Pentobarbital",
       "psychonaut_name": "Pentobarbital",

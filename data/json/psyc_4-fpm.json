@@ -4,7 +4,6 @@
   "tripsit_name": "4-fpm",
   "synonyms": null,
   "distances": [
-    2.1325e-06,
     1.9697513153,
     1.9697513153,
     8.4945185321,
@@ -16,7 +15,6 @@
     18.6157301806
   ],
   "indices": [
-    466,
     45,
     604,
     706,
@@ -30,12 +28,6 @@
   "name": "psyc_4-fpm",
   "svg": "psyc_4-fpm.svg",
   "sim": [
-    {
-      "name": "psyc_4-fpm",
-      "psychonaut_name": null,
-      "tripsit_name": "4-fpm",
-      "dist": 2.1325e-06
-    },
     {
       "name": "trip_3-FPM",
       "psychonaut_name": "3-FPM",

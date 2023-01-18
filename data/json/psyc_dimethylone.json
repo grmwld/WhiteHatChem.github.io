@@ -4,7 +4,6 @@
   "tripsit_name": "dimethylone",
   "synonyms": null,
   "distances": [
-    1.6518e-06,
     8.5305707612,
     15.2850753895,
     15.809478833,
@@ -16,7 +15,6 @@
     19.0543727872
   ],
   "indices": [
-    452,
     573,
     744,
     166,
@@ -30,12 +28,6 @@
   "name": "psyc_dimethylone",
   "svg": "psyc_dimethylone.svg",
   "sim": [
-    {
-      "name": "psyc_dimethylone",
-      "psychonaut_name": null,
-      "tripsit_name": "dimethylone",
-      "dist": 1.6518e-06
-    },
     {
       "name": "psyc_dibutylone",
       "psychonaut_name": null,

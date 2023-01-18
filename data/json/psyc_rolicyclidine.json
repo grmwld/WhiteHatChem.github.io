@@ -6,7 +6,6 @@
     "pcpy"
   ],
   "distances": [
-    2.336e-06,
     5.2403533956,
     5.2403533956,
     7.6885310776,
@@ -18,7 +17,6 @@
     14.5483832965
   ],
   "indices": [
-    537,
     571,
     260,
     50,
@@ -32,12 +30,6 @@
   "name": "psyc_rolicyclidine",
   "svg": "psyc_rolicyclidine.svg",
   "sim": [
-    {
-      "name": "psyc_rolicyclidine",
-      "psychonaut_name": null,
-      "tripsit_name": "rolicyclidine",
-      "dist": 2.336e-06
-    },
     {
       "name": "psyc_pcp",
       "psychonaut_name": null,

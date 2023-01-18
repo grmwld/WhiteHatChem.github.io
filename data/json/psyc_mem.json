@@ -4,7 +4,6 @@
   "tripsit_name": "mem",
   "synonyms": null,
   "distances": [
-    2.336e-06,
     3.2753907706,
     3.2753907706,
     7.9014965137,
@@ -16,7 +15,6 @@
     9.2394117635
   ],
   "indices": [
-    437,
     506,
     54,
     55,
@@ -30,12 +28,6 @@
   "name": "psyc_mem",
   "svg": "psyc_mem.svg",
   "sim": [
-    {
-      "name": "psyc_mem",
-      "psychonaut_name": null,
-      "tripsit_name": "mem",
-      "dist": 2.336e-06
-    },
     {
       "name": "psyc_3c-e",
       "psychonaut_name": null,

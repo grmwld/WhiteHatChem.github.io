@@ -4,7 +4,6 @@
   "tripsit_name": "zolazepam",
   "synonyms": null,
   "distances": [
-    1.9073e-06,
     17.5056988837,
     20.4487229077,
     20.4487229077,
@@ -16,7 +15,6 @@
     23.9117870426
   ],
   "indices": [
-    543,
     805,
     148,
     600,
@@ -30,12 +28,6 @@
   "name": "psyc_zolazepam",
   "svg": "psyc_zolazepam.svg",
   "sim": [
-    {
-      "name": "psyc_zolazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "zolazepam",
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_clotiazepam",
       "psychonaut_name": null,

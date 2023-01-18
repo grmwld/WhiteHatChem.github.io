@@ -4,7 +4,6 @@
   "tripsit_name": "cyclizine",
   "synonyms": null,
   "distances": [
-    2.6974e-06,
     13.2616307296,
     13.2616307296,
     14.3590902107,
@@ -16,7 +15,6 @@
     21.46654658
   ],
   "indices": [
-    814,
     403,
     153,
     550,
@@ -30,12 +28,6 @@
   "name": "psyc_cyclizine",
   "svg": "psyc_cyclizine.svg",
   "sim": [
-    {
-      "name": "psyc_cyclizine",
-      "psychonaut_name": null,
-      "tripsit_name": "cyclizine",
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_diphenidine",
       "psychonaut_name": null,

@@ -7,7 +7,6 @@
     "methyl-j"
   ],
   "distances": [
-    0.0,
     8.0593459,
     8.0593459,
     9.7559448116,
@@ -19,7 +18,6 @@
     12.9095788685
   ],
   "indices": [
-    488,
     208,
     609,
     207,
@@ -33,12 +31,6 @@
   "name": "psyc_mbdb",
   "svg": "psyc_mbdb.svg",
   "sim": [
-    {
-      "name": "psyc_mbdb",
-      "psychonaut_name": null,
-      "tripsit_name": "mbdb",
-      "dist": 0.0
-    },
     {
       "name": "trip_MDMA",
       "psychonaut_name": "MDMA",

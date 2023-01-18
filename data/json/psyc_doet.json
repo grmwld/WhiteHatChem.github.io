@@ -6,7 +6,6 @@
     "doe"
   ],
   "distances": [
-    2.6974e-06,
     7.1812488739,
     8.015846294,
     8.297949425,
@@ -18,7 +17,6 @@
     9.7849550878
   ],
   "indices": [
-    412,
     621,
     72,
     138,
@@ -32,12 +30,6 @@
   "name": "psyc_doet",
   "svg": "psyc_doet.svg",
   "sim": [
-    {
-      "name": "psyc_doet",
-      "psychonaut_name": null,
-      "tripsit_name": "doet",
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_dopr",
       "psychonaut_name": null,

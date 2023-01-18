@@ -95,7 +95,6 @@
   ],
   "distances": [
     6.743e-07,
-    6.743e-07,
     9.7736732461,
     11.9260614527,
     11.9260614527,
@@ -106,7 +105,6 @@
     22.510279363
   ],
   "indices": [
-    353,
     180,
     450,
     579,
@@ -120,12 +118,6 @@
   "name": "trip_GHB",
   "svg": "trip_GHB.svg",
   "sim": [
-    {
-      "name": "psyc_ghb",
-      "psychonaut_name": null,
-      "tripsit_name": "ghb",
-      "dist": 6.743e-07
-    },
     {
       "name": "trip_GHB",
       "psychonaut_name": "GHB",

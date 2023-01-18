@@ -7,7 +7,6 @@
   ],
   "distances": [
     1.9073e-06,
-    1.9073e-06,
     5.8999280246,
     8.9216757517,
     17.9821298691,
@@ -18,7 +17,6 @@
     20.2473986803
   ],
   "indices": [
-    523,
     209,
     555,
     846,
@@ -32,12 +30,6 @@
   "name": "psyc_mdpv",
   "svg": "psyc_mdpv.svg",
   "sim": [
-    {
-      "name": "psyc_mdpv",
-      "psychonaut_name": null,
-      "tripsit_name": "mdpv",
-      "dist": 1.9073e-06
-    },
     {
       "name": "trip_MDPV",
       "psychonaut_name": "MDPV",

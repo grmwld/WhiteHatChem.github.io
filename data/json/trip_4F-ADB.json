@@ -20,7 +20,6 @@
     "N-[[1-(4-fluorobutyl)-1H-indazol-3-yl]carbonyl]-3-methyl-L-valine, methyl ester"
   ],
   "distances": [
-    1.9073e-06,
     30.6984570243,
     30.6984570243,
     30.6984570243,
@@ -32,7 +31,6 @@
     34.5612037788
   ],
   "indices": [
-    73,
     754,
     347,
     146,
@@ -46,12 +44,6 @@
   "name": "trip_4F-ADB",
   "svg": "trip_4F-ADB.svg",
   "sim": [
-    {
-      "name": "trip_4F-ADB",
-      "psychonaut_name": "4F-ADB",
-      "tripsit_name": null,
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_dextropropoxyphene",
       "psychonaut_name": null,

@@ -359,7 +359,6 @@
   ],
   "distances": [
     1.3487e-06,
-    1.3487e-06,
     7.6013095731,
     7.6013095731,
     7.9459603945,
@@ -370,7 +369,6 @@
     16.2912506024
   ],
   "indices": [
-    148,
     600,
     150,
     605,
@@ -384,12 +382,6 @@
   "name": "trip_Diazepam",
   "svg": "trip_Diazepam.svg",
   "sim": [
-    {
-      "name": "trip_Diazepam",
-      "psychonaut_name": "Diazepam",
-      "tripsit_name": null,
-      "dist": 1.3487e-06
-    },
     {
       "name": "psyc_diazepam",
       "psychonaut_name": null,

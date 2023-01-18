@@ -148,7 +148,6 @@
     "4-allyl-10,17-dihydroxy-(1S,5R,13R,17S)-12-oxa-4-azapentacyclo[9.6.1.01,13.05,17.07,18]octadeca-7(18),8,10-trien-14-one( Naloxone)"
   ],
   "distances": [
-    3.8147e-06,
     19.5342208678,
     19.5342208678,
     21.784494692,
@@ -160,7 +159,6 @@
     28.3571366197
   ],
   "indices": [
-    246,
     257,
     643,
     428,
@@ -174,12 +172,6 @@
   "name": "trip_Naloxone",
   "svg": "trip_Naloxone.svg",
   "sim": [
-    {
-      "name": "trip_Naloxone",
-      "psychonaut_name": "Naloxone",
-      "tripsit_name": null,
-      "dist": 3.8147e-06
-    },
     {
       "name": "trip_Oxymorphone",
       "psychonaut_name": "Oxymorphone",

@@ -4,7 +4,6 @@
   "tripsit_name": "pyrophenidone",
   "synonyms": null,
   "distances": [
-    1.9073e-06,
     13.5230352473,
     13.5230352473,
     14.4838614265,
@@ -16,7 +15,6 @@
     20.0919593025
   ],
   "indices": [
-    592,
     153,
     403,
     467,
@@ -30,12 +28,6 @@
   "name": "psyc_pyrophenidone",
   "svg": "psyc_pyrophenidone.svg",
   "sim": [
-    {
-      "name": "psyc_pyrophenidone",
-      "psychonaut_name": null,
-      "tripsit_name": "pyrophenidone",
-      "dist": 1.9073e-06
-    },
     {
       "name": "trip_Diphenidine",
       "psychonaut_name": "Diphenidine",

@@ -6,7 +6,6 @@
     "6-methylenedihydrodesoxymorphine"
   ],
   "distances": [
-    3.0158e-06,
     13.5872217397,
     13.5872217397,
     16.146116639,
@@ -18,7 +17,6 @@
     19.8020168934
   ],
   "indices": [
-    376,
     388,
     189,
     142,
@@ -32,12 +30,6 @@
   "name": "psyc_6-mddm",
   "svg": "psyc_6-mddm.svg",
   "sim": [
-    {
-      "name": "psyc_6-mddm",
-      "psychonaut_name": null,
-      "tripsit_name": "6-mddm",
-      "dist": 3.0158e-06
-    },
     {
       "name": "psyc_hydromorphone",
       "psychonaut_name": null,

@@ -5,7 +5,6 @@
   "synonyms": null,
   "distances": [
     2.6974e-06,
-    2.6974e-06,
     16.7074573062,
     17.1104924364,
     17.1104924364,
@@ -16,7 +15,6 @@
     23.7502300051
   ],
   "indices": [
-    313,
     782,
     340,
     824,
@@ -30,12 +28,6 @@
   "name": "psyc_troparil",
   "svg": "psyc_troparil.svg",
   "sim": [
-    {
-      "name": "trip_Troparil",
-      "psychonaut_name": "Troparil",
-      "tripsit_name": null,
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_troparil",
       "psychonaut_name": null,

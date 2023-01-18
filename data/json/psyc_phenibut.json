@@ -5,7 +5,6 @@
   "synonyms": null,
   "distances": [
     9.537e-07,
-    9.537e-07,
     7.6058055488,
     7.9459599144,
     7.9459599144,
@@ -16,7 +15,6 @@
     18.2766612497
   ],
   "indices": [
-    271,
     785,
     364,
     370,
@@ -30,12 +28,6 @@
   "name": "psyc_phenibut",
   "svg": "psyc_phenibut.svg",
   "sim": [
-    {
-      "name": "trip_Phenibut",
-      "psychonaut_name": "Phenibut",
-      "tripsit_name": null,
-      "dist": 9.537e-07
-    },
     {
       "name": "psyc_phenibut",
       "psychonaut_name": null,

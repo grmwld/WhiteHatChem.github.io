@@ -59,7 +59,6 @@
     "Thebaine, powder"
   ],
   "distances": [
-    2.6974e-06,
     21.5313244114,
     21.5313244114,
     23.4675029317,
@@ -71,7 +70,6 @@
     25.8376596417
   ],
   "indices": [
-    308,
     188,
     675,
     183,
@@ -85,12 +83,6 @@
   "name": "trip_Thebaine",
   "svg": "trip_Thebaine.svg",
   "sim": [
-    {
-      "name": "trip_Thebaine",
-      "psychonaut_name": "Thebaine",
-      "tripsit_name": null,
-      "dist": 2.6974e-06
-    },
     {
       "name": "trip_Hydrocodone",
       "psychonaut_name": "Hydrocodone",

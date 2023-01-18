@@ -23,7 +23,6 @@
   ],
   "distances": [
     2.6974e-06,
-    2.6974e-06,
     8.0848278224,
     8.0848278224,
     8.558441314,
@@ -34,7 +33,6 @@
     11.656183892
   ],
   "indices": [
-    175,
     449,
     111,
     664,
@@ -48,12 +46,6 @@
   "name": "trip_Flubromazolam",
   "svg": "trip_Flubromazolam.svg",
   "sim": [
-    {
-      "name": "trip_Flubromazolam",
-      "psychonaut_name": "Flubromazolam",
-      "tripsit_name": null,
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_flubromazolam",
       "psychonaut_name": null,

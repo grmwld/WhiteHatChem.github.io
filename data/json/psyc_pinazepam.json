@@ -6,7 +6,6 @@
     "domar"
   ],
   "distances": [
-    3.3036e-06,
     24.6689259637,
     24.6689259637,
     25.2819320153,
@@ -18,7 +17,6 @@
     27.912447695
   ],
   "indices": [
-    548,
     148,
     600,
     486,
@@ -32,12 +30,6 @@
   "name": "psyc_pinazepam",
   "svg": "psyc_pinazepam.svg",
   "sim": [
-    {
-      "name": "psyc_pinazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "pinazepam",
-      "dist": 3.3036e-06
-    },
     {
       "name": "trip_Diazepam",
       "psychonaut_name": "Diazepam",

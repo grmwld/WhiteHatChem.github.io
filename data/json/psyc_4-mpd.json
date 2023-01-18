@@ -4,7 +4,6 @@
   "tripsit_name": "4-mpd",
   "synonyms": null,
   "distances": [
-    1.6518e-06,
     7.6058047964,
     7.6058047964,
     8.1420475455,
@@ -16,7 +15,6 @@
     10.3577991973
   ],
   "indices": [
-    655,
     265,
     633,
     381,
@@ -30,12 +28,6 @@
   "name": "psyc_4-mpd",
   "svg": "psyc_4-mpd.svg",
   "sim": [
-    {
-      "name": "psyc_4-mpd",
-      "psychonaut_name": null,
-      "tripsit_name": "4-mpd",
-      "dist": 1.6518e-06
-    },
     {
       "name": "trip_Pentedrone",
       "psychonaut_name": "Pentedrone",

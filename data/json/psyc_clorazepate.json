@@ -8,7 +8,6 @@
     "tranzene"
   ],
   "distances": [
-    2.6974e-06,
     14.5601652836,
     15.9609121658,
     15.9609121658,
@@ -20,7 +19,6 @@
     20.4562760178
   ],
   "indices": [
-    803,
     719,
     203,
     697,
@@ -34,12 +32,6 @@
   "name": "psyc_clorazepate",
   "svg": "psyc_clorazepate.svg",
   "sim": [
-    {
-      "name": "psyc_clorazepate",
-      "psychonaut_name": null,
-      "tripsit_name": "clorazepate",
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_oxazepam",
       "psychonaut_name": null,

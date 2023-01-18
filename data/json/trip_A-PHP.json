@@ -7,7 +7,6 @@
   ],
   "distances": [
     1.9073e-06,
-    1.9073e-06,
     5.8999267315,
     5.8999280246,
     5.8999280246,
@@ -18,7 +17,6 @@
     12.8615089027
   ],
   "indices": [
-    91,
     617,
     619,
     822,
@@ -32,12 +30,6 @@
   "name": "trip_A-PHP",
   "svg": "trip_A-PHP.svg",
   "sim": [
-    {
-      "name": "trip_A-PHP",
-      "psychonaut_name": "A-PHP",
-      "tripsit_name": null,
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_alpha-php",
       "psychonaut_name": null,

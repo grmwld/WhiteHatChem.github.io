@@ -32,7 +32,6 @@
   ],
   "distances": [
     0.0,
-    0.0,
     12.3691978339,
     12.3691978339,
     13.708856791,
@@ -43,7 +42,6 @@
     15.3711706836
   ],
   "indices": [
-    40,
     652,
     780,
     75,
@@ -57,12 +55,6 @@
   "name": "trip_3,4-CTMP",
   "svg": "trip_3,4-CTMP.svg",
   "sim": [
-    {
-      "name": "trip_3,4-CTMP",
-      "psychonaut_name": "3,4-CTMP",
-      "tripsit_name": null,
-      "dist": 0.0
-    },
     {
       "name": "psyc_3,4-ctmp",
       "psychonaut_name": null,

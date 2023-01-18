@@ -132,7 +132,6 @@
   ],
   "distances": [
     1.9073e-06,
-    1.9073e-06,
     6.8041518271,
     7.6013103259,
     13.6361217778,
@@ -143,7 +142,6 @@
     17.6615580724
   ],
   "indices": [
-    400,
     124,
     774,
     498,
@@ -157,12 +155,6 @@
   "name": "trip_Clonazepam",
   "svg": "trip_Clonazepam.svg",
   "sim": [
-    {
-      "name": "psyc_clonazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "clonazepam",
-      "dist": 1.9073e-06
-    },
     {
       "name": "trip_Clonazepam",
       "psychonaut_name": "Clonazepam",

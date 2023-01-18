@@ -145,7 +145,6 @@
   ],
   "distances": [
     1.9073e-06,
-    1.9073e-06,
     25.7039050509,
     27.35144423,
     27.35144423,
@@ -156,7 +155,6 @@
     29.5324425189
   ],
   "indices": [
-    132,
     446,
     100,
     826,
@@ -170,12 +168,6 @@
   "name": "trip_Cyclobenzaprine",
   "svg": "trip_Cyclobenzaprine.svg",
   "sim": [
-    {
-      "name": "trip_Cyclobenzaprine",
-      "psychonaut_name": "Cyclobenzaprine",
-      "tripsit_name": null,
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_cyclobenzaprine",
       "psychonaut_name": null,

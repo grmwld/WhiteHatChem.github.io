@@ -6,7 +6,6 @@
     "serax"
   ],
   "distances": [
-    2.6974e-06,
     7.6013088204,
     7.6013088204,
     8.9752530968,
@@ -18,7 +17,6 @@
     17.6185862457
   ],
   "indices": [
-    719,
     203,
     697,
     788,
@@ -32,12 +30,6 @@
   "name": "psyc_oxazepam",
   "svg": "psyc_oxazepam.svg",
   "sim": [
-    {
-      "name": "psyc_oxazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "oxazepam",
-      "dist": 2.6974e-06
-    },
     {
       "name": "trip_Lorazepam",
       "psychonaut_name": "Lorazepam",

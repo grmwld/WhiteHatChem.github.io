@@ -4,7 +4,6 @@
   "tripsit_name": "pemoline",
   "synonyms": null,
   "distances": [
-    0.0,
     15.7762416635,
     16.9514184049,
     20.0679935528,
@@ -16,7 +15,6 @@
     24.0320906672
   ],
   "indices": [
-    801,
     451,
     327,
     131,
@@ -30,12 +28,6 @@
   "name": "psyc_pemoline",
   "svg": "psyc_pemoline.svg",
   "sim": [
-    {
-      "name": "psyc_pemoline",
-      "psychonaut_name": null,
-      "tripsit_name": "pemoline",
-      "dist": 0.0
-    },
     {
       "name": "psyc_aminorex",
       "psychonaut_name": null,

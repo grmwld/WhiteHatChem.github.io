@@ -16,7 +16,6 @@
   ],
   "distances": [
     1.9073e-06,
-    1.9073e-06,
     5.8999280246,
     5.8999280246,
     8.3991346913,
@@ -27,7 +26,6 @@
     9.9252520243
   ],
   "indices": [
-    549,
     187,
     633,
     265,
@@ -41,12 +39,6 @@
   "name": "trip_Hexedrone",
   "svg": "trip_Hexedrone.svg",
   "sim": [
-    {
-      "name": "psyc_hexedrone",
-      "psychonaut_name": null,
-      "tripsit_name": "hexedrone",
-      "dist": 1.9073e-06
-    },
     {
       "name": "trip_Hexedrone",
       "psychonaut_name": "Hexedrone",

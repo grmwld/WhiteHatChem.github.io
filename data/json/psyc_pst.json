@@ -7,7 +7,6 @@
     "poppy-tea"
   ],
   "distances": [
-    6.6072e-06,
     58.5308036889,
     77.2555747382,
     77.8531802548,
@@ -19,7 +18,6 @@
     83.6267808573
   ],
   "indices": [
-    813,
     817,
     116,
     6,
@@ -33,12 +31,6 @@
   "name": "psyc_pst",
   "svg": "psyc_pst.svg",
   "sim": [
-    {
-      "name": "psyc_pst",
-      "psychonaut_name": null,
-      "tripsit_name": "pst",
-      "dist": 6.6072e-06
-    },
     {
       "name": "psyc_doip",
       "psychonaut_name": null,

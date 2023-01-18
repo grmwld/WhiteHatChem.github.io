@@ -6,7 +6,6 @@
     "rhythmy"
   ],
   "distances": [
-    3.8147e-06,
     33.0141330857,
     33.0141330857,
     34.1990721817,
@@ -18,7 +17,6 @@
     38.8117027017
   ],
   "indices": [
-    529,
     802,
     93,
     838,
@@ -32,12 +30,6 @@
   "name": "psyc_rilmazafone",
   "svg": "psyc_rilmazafone.svg",
   "sim": [
-    {
-      "name": "psyc_rilmazafone",
-      "psychonaut_name": null,
-      "tripsit_name": "rilmazafone",
-      "dist": 3.8147e-06
-    },
     {
       "name": "psyc_ab-fubinaca",
       "psychonaut_name": null,

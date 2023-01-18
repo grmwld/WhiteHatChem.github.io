@@ -8,7 +8,6 @@
     "somnos"
   ],
   "distances": [
-    1.3487e-06,
     30.7730120639,
     31.5516766715,
     35.4720538109,
@@ -20,7 +19,6 @@
     37.5316402977
   ],
   "indices": [
-    334,
     540,
     346,
     39,
@@ -34,12 +32,6 @@
   "name": "psyc_noctec",
   "svg": "psyc_noctec.svg",
   "sim": [
-    {
-      "name": "psyc_noctec",
-      "psychonaut_name": null,
-      "tripsit_name": "noctec",
-      "dist": 1.3487e-06
-    },
     {
       "name": "psyc_chloroform",
       "psychonaut_name": null,

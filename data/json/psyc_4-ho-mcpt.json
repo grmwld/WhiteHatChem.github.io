@@ -4,7 +4,6 @@
   "tripsit_name": "4-ho-mcpt",
   "synonyms": null,
   "distances": [
-    0.0,
     31.1847962333,
     34.3421487201,
     34.4501610828,
@@ -16,7 +15,6 @@
     35.6826904049
   ],
   "indices": [
-    533,
     305,
     328,
     721,
@@ -30,12 +28,6 @@
   "name": "psyc_4-ho-mcpt",
   "svg": "psyc_4-ho-mcpt.svg",
   "sim": [
-    {
-      "name": "psyc_4-ho-mcpt",
-      "psychonaut_name": null,
-      "tripsit_name": "4-ho-mcpt",
-      "dist": 0.0
-    },
     {
       "name": "trip_N-Methyl-Cyclazodone",
       "psychonaut_name": "N-Methyl-Cyclazodone",

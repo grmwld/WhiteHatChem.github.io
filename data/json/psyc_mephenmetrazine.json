@@ -7,7 +7,6 @@
     "4-methylphenmetrazine"
   ],
   "distances": [
-    0.0,
     14.0333008489,
     14.0333008489,
     15.0317788775,
@@ -19,7 +18,6 @@
     15.8546117385
   ],
   "indices": [
-    552,
     272,
     706,
     45,
@@ -33,12 +31,6 @@
   "name": "psyc_mephenmetrazine",
   "svg": "psyc_mephenmetrazine.svg",
   "sim": [
-    {
-      "name": "psyc_mephenmetrazine",
-      "psychonaut_name": null,
-      "tripsit_name": "mephenmetrazine",
-      "dist": 0.0
-    },
     {
       "name": "trip_Phenmetrazine",
       "psychonaut_name": "Phenmetrazine",

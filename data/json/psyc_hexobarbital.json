@@ -4,7 +4,6 @@
   "tripsit_name": "hexobarbital",
   "synonyms": null,
   "distances": [
-    1.3487e-06,
     27.4136305715,
     28.3369929325,
     28.4135168871,
@@ -16,7 +15,6 @@
     28.6488145939
   ],
   "indices": [
-    491,
     462,
     671,
     251,
@@ -30,12 +28,6 @@
   "name": "psyc_hexobarbital",
   "svg": "psyc_hexobarbital.svg",
   "sim": [
-    {
-      "name": "psyc_hexobarbital",
-      "psychonaut_name": null,
-      "tripsit_name": "hexobarbital",
-      "dist": 1.3487e-06
-    },
     {
       "name": "psyc_glutethimide",
       "psychonaut_name": null,

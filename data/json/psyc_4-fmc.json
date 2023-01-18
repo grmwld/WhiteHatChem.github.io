@@ -9,7 +9,6 @@
     "4fmc"
   ],
   "distances": [
-    1.9073e-06,
     1.9697516784,
     7.2015522131,
     7.4590380742,
@@ -21,7 +20,6 @@
     8.925646197
   ],
   "indices": [
-    750,
     384,
     760,
     630,
@@ -35,12 +33,6 @@
   "name": "psyc_4-fmc",
   "svg": "psyc_4-fmc.svg",
   "sim": [
-    {
-      "name": "psyc_4-fmc",
-      "psychonaut_name": null,
-      "tripsit_name": "4-fmc",
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_3-fmc",
       "psychonaut_name": null,

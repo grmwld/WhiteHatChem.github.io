@@ -6,7 +6,6 @@
     "ethylnaphthidate"
   ],
   "distances": [
-    3.0158e-06,
     8.9217689628,
     8.9217689628,
     15.0621758264,
@@ -18,7 +17,6 @@
     18.9467782938
   ],
   "indices": [
-    481,
     229,
     699,
     751,
@@ -32,12 +30,6 @@
   "name": "psyc_hdep-28",
   "svg": "psyc_hdep-28.svg",
   "sim": [
-    {
-      "name": "psyc_hdep-28",
-      "psychonaut_name": null,
-      "tripsit_name": "hdep-28",
-      "dist": 3.0158e-06
-    },
     {
       "name": "trip_Methylnaphthidate",
       "psychonaut_name": "Methylnaphthidate",

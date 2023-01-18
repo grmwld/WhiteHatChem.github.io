@@ -4,7 +4,6 @@
   "tripsit_name": "4-fpp",
   "synonyms": null,
   "distances": [
-    1.3487e-06,
     7.4590388414,
     7.4590388414,
     10.6942349456,
@@ -16,7 +15,6 @@
     19.9019140195
   ],
   "indices": [
-    823,
     204,
     812,
     396,
@@ -30,12 +28,6 @@
   "name": "psyc_4-fpp",
   "svg": "psyc_4-fpp.svg",
   "sim": [
-    {
-      "name": "psyc_4-fpp",
-      "psychonaut_name": null,
-      "tripsit_name": "4-fpp",
-      "dist": 1.3487e-06
-    },
     {
       "name": "trip_MCPP",
       "psychonaut_name": "MCPP",

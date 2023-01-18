@@ -6,7 +6,6 @@
     "am2201"
   ],
   "distances": [
-    1.9073e-06,
     8.3815282174,
     10.9389619559,
     10.9389619559,
@@ -18,7 +17,6 @@
     28.336187361
   ],
   "indices": [
-    432,
     298,
     587,
     87,
@@ -32,12 +30,6 @@
   "name": "psyc_am-2201",
   "svg": "psyc_am-2201.svg",
   "sim": [
-    {
-      "name": "psyc_am-2201",
-      "psychonaut_name": null,
-      "tripsit_name": "am-2201",
-      "dist": 1.9073e-06
-    },
     {
       "name": "trip_THJ-2201",
       "psychonaut_name": "THJ-2201",

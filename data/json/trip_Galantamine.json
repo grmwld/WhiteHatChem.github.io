@@ -138,7 +138,6 @@
     "NSC 100058"
   ],
   "distances": [
-    3.8147e-06,
     18.674082146,
     18.674082146,
     20.637869594,
@@ -150,7 +149,6 @@
     21.5850920482
   ],
   "indices": [
-    183,
     650,
     128,
     165,
@@ -164,12 +162,6 @@
   "name": "trip_Galantamine",
   "svg": "trip_Galantamine.svg",
   "sim": [
-    {
-      "name": "trip_Galantamine",
-      "psychonaut_name": "Galantamine",
-      "tripsit_name": null,
-      "dist": 3.8147e-06
-    },
     {
       "name": "psyc_codeine",
       "psychonaut_name": null,

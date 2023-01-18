@@ -6,7 +6,6 @@
     "5-meo-tmt"
   ],
   "distances": [
-    1.3487e-06,
     10.785384737,
     10.785384737,
     11.9728862896,
@@ -18,7 +17,6 @@
     16.0000600814
   ],
   "indices": [
-    601,
     519,
     80,
     799,
@@ -32,12 +30,6 @@
   "name": "psyc_indapex",
   "svg": "psyc_indapex.svg",
   "sim": [
-    {
-      "name": "psyc_indapex",
-      "psychonaut_name": null,
-      "tripsit_name": "indapex",
-      "dist": 1.3487e-06
-    },
     {
       "name": "psyc_5-meo-dmt",
       "psychonaut_name": null,

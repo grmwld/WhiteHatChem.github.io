@@ -15,7 +15,6 @@
   "distances": [
     1.168e-06,
     1.168e-06,
-    1.168e-06,
     7.5317909395,
     8.3042368726,
     8.3042368726,
@@ -25,7 +24,6 @@
     8.5037456562
   ],
   "indices": [
-    144,
     741,
     703,
     329,
@@ -39,12 +37,6 @@
   "name": "psyc_amphetamine",
   "svg": "psyc_amphetamine.svg",
   "sim": [
-    {
-      "name": "trip_Dexamphetamine",
-      "psychonaut_name": "Dexamphetamine",
-      "tripsit_name": null,
-      "dist": 1.168e-06
-    },
     {
       "name": "psyc_amphetamine",
       "psychonaut_name": null,

@@ -56,7 +56,6 @@
     "1-(2,5-Dimethoxyphenyl)-2-propanamine"
   ],
   "distances": [
-    1.6518e-06,
     7.9793264773,
     7.9793264773,
     9.3922785923,
@@ -68,7 +67,6 @@
     12.4331255557
   ],
   "indices": [
-    10,
     138,
     667,
     135,
@@ -82,12 +80,6 @@
   "name": "trip_2,5-DMA",
   "svg": "trip_2,5-DMA.svg",
   "sim": [
-    {
-      "name": "trip_2,5-DMA",
-      "psychonaut_name": "2,5-DMA",
-      "tripsit_name": null,
-      "dist": 1.6518e-06
-    },
     {
       "name": "trip_DOM",
       "psychonaut_name": "DOM",

@@ -195,7 +195,6 @@
   ],
   "distances": [
     1.9073e-06,
-    1.9073e-06,
     7.6013088204,
     8.5584417597,
     15.9609121658,
@@ -206,7 +205,6 @@
     17.9643617264
   ],
   "indices": [
-    203,
     697,
     719,
     788,
@@ -220,12 +218,6 @@
   "name": "trip_Lorazepam",
   "svg": "trip_Lorazepam.svg",
   "sim": [
-    {
-      "name": "trip_Lorazepam",
-      "psychonaut_name": "Lorazepam",
-      "tripsit_name": null,
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_lorazepam",
       "psychonaut_name": null,

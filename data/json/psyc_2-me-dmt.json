@@ -4,7 +4,6 @@
   "tripsit_name": "2-me-dmt",
   "synonyms": null,
   "distances": [
-    9.537e-07,
     10.7853840296,
     10.7853840296,
     11.4244757534,
@@ -16,7 +15,6 @@
     12.8339628255
   ],
   "indices": [
-    799,
     134,
     796,
     285,
@@ -30,12 +28,6 @@
   "name": "psyc_2-me-dmt",
   "svg": "psyc_2-me-dmt.svg",
   "sim": [
-    {
-      "name": "psyc_2-me-dmt",
-      "psychonaut_name": null,
-      "tripsit_name": "2-me-dmt",
-      "dist": 9.537e-07
-    },
     {
       "name": "trip_DMT",
       "psychonaut_name": "DMT",

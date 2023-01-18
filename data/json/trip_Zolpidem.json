@@ -87,7 +87,6 @@
   ],
   "distances": [
     2.336e-06,
-    2.336e-06,
     23.0079822787,
     23.0079822787,
     24.3279042219,
@@ -98,7 +97,6 @@
     25.8820036472
   ],
   "indices": [
-    318,
     677,
     422,
     317,
@@ -112,12 +110,6 @@
   "name": "trip_Zolpidem",
   "svg": "trip_Zolpidem.svg",
   "sim": [
-    {
-      "name": "trip_Zolpidem",
-      "psychonaut_name": "Zolpidem",
-      "tripsit_name": null,
-      "dist": 2.336e-06
-    },
     {
       "name": "psyc_zolpidem",
       "psychonaut_name": null,

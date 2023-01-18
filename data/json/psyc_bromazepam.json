@@ -10,7 +10,6 @@
     "lexotanil"
   ],
   "distances": [
-    0.0,
     9.4961363314,
     9.4961363314,
     9.6961277105,
@@ -22,7 +21,6 @@
     20.0890177468
   ],
   "indices": [
-    527,
     439,
     269,
     615,
@@ -36,12 +34,6 @@
   "name": "psyc_bromazepam",
   "svg": "psyc_bromazepam.svg",
   "sim": [
-    {
-      "name": "psyc_bromazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "bromazepam",
-      "dist": 0.0
-    },
     {
       "name": "psyc_phenazepam",
       "psychonaut_name": null,

@@ -7,7 +7,6 @@
   ],
   "distances": [
     1.3487e-06,
-    1.3487e-06,
     7.9793264773,
     8.297949425,
     8.824297428,
@@ -18,7 +17,6 @@
     9.1064368821
   ],
   "indices": [
-    667,
     138,
     10,
     412,
@@ -32,12 +30,6 @@
   "name": "psyc_dom",
   "svg": "psyc_dom.svg",
   "sim": [
-    {
-      "name": "psyc_dom",
-      "psychonaut_name": null,
-      "tripsit_name": "dom",
-      "dist": 1.3487e-06
-    },
     {
       "name": "trip_DOM",
       "psychonaut_name": "DOM",

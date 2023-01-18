@@ -5,7 +5,6 @@
   "synonyms": null,
   "distances": [
     2.6974e-06,
-    2.6974e-06,
     6.8041518271,
     6.8041518271,
     8.0848278224,
@@ -16,7 +15,6 @@
     9.1958870526
   ],
   "indices": [
-    738,
     173,
     312,
     691,
@@ -30,12 +28,6 @@
   "name": "psyc_flualprazolam",
   "svg": "psyc_flualprazolam.svg",
   "sim": [
-    {
-      "name": "psyc_flualprazolam",
-      "psychonaut_name": null,
-      "tripsit_name": "flualprazolam",
-      "dist": 2.6974e-06
-    },
     {
       "name": "trip_Flualprazolam",
       "psychonaut_name": "Flualprazolam",

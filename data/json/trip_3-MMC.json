@@ -26,7 +26,6 @@
   ],
   "distances": [
     9.537e-07,
-    9.537e-07,
     1.9697514364,
     1.9697514364,
     3.7484107147,
@@ -37,7 +36,6 @@
     8.1420475455
   ],
   "indices": [
-    377,
     48,
     547,
     218,
@@ -51,12 +49,6 @@
   "name": "trip_3-MMC",
   "svg": "trip_3-MMC.svg",
   "sim": [
-    {
-      "name": "psyc_3-mmc",
-      "psychonaut_name": null,
-      "tripsit_name": "3-mmc",
-      "dist": 9.537e-07
-    },
     {
       "name": "trip_3-MMC",
       "psychonaut_name": "3-MMC",

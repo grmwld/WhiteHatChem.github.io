@@ -25,7 +25,6 @@
   ],
   "distances": [
     9.537e-07,
-    9.537e-07,
     1.9697516179,
     4.0127249016,
     7.6058040441,
@@ -36,7 +35,6 @@
     10.1060964937
   ],
   "indices": [
-    70,
     603,
     389,
     339,
@@ -50,12 +48,6 @@
   "name": "trip_4-MEC",
   "svg": "trip_4-MEC.svg",
   "sim": [
-    {
-      "name": "trip_4-MEC",
-      "psychonaut_name": "4-MEC",
-      "tripsit_name": null,
-      "dist": 9.537e-07
-    },
     {
       "name": "psyc_4-mec",
       "psychonaut_name": null,

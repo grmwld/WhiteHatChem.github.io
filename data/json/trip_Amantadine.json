@@ -194,7 +194,6 @@
     "BRN 2204333"
   ],
   "distances": [
-    1.6518e-06,
     27.7812016662,
     27.7812016662,
     34.1908740622,
@@ -206,7 +205,6 @@
     37.0915203758
   ],
   "indices": [
-    104,
     324,
     217,
     110,
@@ -220,12 +218,6 @@
   "name": "trip_Amantadine",
   "svg": "trip_Amantadine.svg",
   "sim": [
-    {
-      "name": "trip_Amantadine",
-      "psychonaut_name": "Amantadine",
-      "tripsit_name": null,
-      "dist": 1.6518e-06
-    },
     {
       "name": "psyc_memantine",
       "psychonaut_name": null,

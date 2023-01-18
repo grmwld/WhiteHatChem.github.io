@@ -81,7 +81,6 @@
   ],
   "distances": [
     0.0,
-    0.0,
     20.7916819153,
     21.3924653381,
     21.3924653381,
@@ -92,7 +91,6 @@
     25.3351557561
   ],
   "indices": [
-    325,
     307,
     241,
     210,
@@ -106,12 +104,6 @@
   "name": "trip_Theanine",
   "svg": "trip_Theanine.svg",
   "sim": [
-    {
-      "name": "psyc_l-theanine",
-      "psychonaut_name": null,
-      "tripsit_name": "l-theanine",
-      "dist": 0.0
-    },
     {
       "name": "trip_Theanine",
       "psychonaut_name": "Theanine",

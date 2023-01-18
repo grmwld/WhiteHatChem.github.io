@@ -7,7 +7,6 @@
     "meclofenoxate"
   ],
   "distances": [
-    1.9073e-06,
     17.9591864835,
     18.2203521286,
     18.2203521286,
@@ -19,7 +18,6 @@
     19.9426347106
   ],
   "indices": [
-    676,
     482,
     560,
     57,
@@ -33,12 +31,6 @@
   "name": "psyc_centrophenoxine",
   "svg": "psyc_centrophenoxine.svg",
   "sim": [
-    {
-      "name": "psyc_centrophenoxine",
-      "psychonaut_name": null,
-      "tripsit_name": "centrophenoxine",
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_dimemebfe",
       "psychonaut_name": null,

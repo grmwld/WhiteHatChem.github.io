@@ -4,7 +4,6 @@
   "tripsit_name": "bzp",
   "synonyms": null,
   "distances": [
-    1.9073e-06,
     9.929994832,
     10.572874854,
     10.572874854,
@@ -16,7 +15,6 @@
     19.6564735679
   ],
   "indices": [
-    396,
     656,
     204,
     812,
@@ -30,12 +28,6 @@
   "name": "psyc_bzp",
   "svg": "psyc_bzp.svg",
   "sim": [
-    {
-      "name": "psyc_bzp",
-      "psychonaut_name": null,
-      "tripsit_name": "bzp",
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_4-benzylpiperidine",
       "psychonaut_name": null,

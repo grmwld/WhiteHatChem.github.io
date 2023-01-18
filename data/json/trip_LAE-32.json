@@ -7,7 +7,6 @@
     "LAE-32"
   ],
   "distances": [
-    2.6974e-06,
     21.6015780402,
     21.6015780402,
     21.6015780402,
@@ -19,7 +18,6 @@
     27.299241678
   ],
   "indices": [
-    197,
     199,
     722,
     191,
@@ -33,12 +31,6 @@
   "name": "trip_LAE-32",
   "svg": "trip_LAE-32.svg",
   "sim": [
-    {
-      "name": "trip_LAE-32",
-      "psychonaut_name": "LAE-32",
-      "tripsit_name": null,
-      "dist": 2.6974e-06
-    },
     {
       "name": "trip_LSD",
       "psychonaut_name": "LSD",

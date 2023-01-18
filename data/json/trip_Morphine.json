@@ -156,7 +156,6 @@
   ],
   "distances": [
     3.5683e-06,
-    3.5683e-06,
     10.7443232962,
     10.7443232962,
     14.3247311232,
@@ -167,7 +166,6 @@
     21.2717331993
   ],
   "indices": [
-    239,
     610,
     650,
     128,
@@ -181,12 +179,6 @@
   "name": "trip_Morphine",
   "svg": "trip_Morphine.svg",
   "sim": [
-    {
-      "name": "trip_Morphine",
-      "psychonaut_name": "Morphine",
-      "tripsit_name": null,
-      "dist": 3.5683e-06
-    },
     {
       "name": "psyc_morphine",
       "psychonaut_name": null,

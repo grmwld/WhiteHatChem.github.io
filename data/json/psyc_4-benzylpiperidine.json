@@ -6,7 +6,6 @@
     "4-pmpd"
   ],
   "distances": [
-    9.537e-07,
     9.929994832,
     14.6031952379,
     14.6031952379,
@@ -18,7 +17,6 @@
     17.4074421719
   ],
   "indices": [
-    656,
     396,
     204,
     812,
@@ -32,12 +30,6 @@
   "name": "psyc_4-benzylpiperidine",
   "svg": "psyc_4-benzylpiperidine.svg",
   "sim": [
-    {
-      "name": "psyc_4-benzylpiperidine",
-      "psychonaut_name": null,
-      "tripsit_name": "4-benzylpiperidine",
-      "dist": 9.537e-07
-    },
     {
       "name": "psyc_bzp",
       "psychonaut_name": null,

@@ -7,7 +7,6 @@
     "atarax"
   ],
   "distances": [
-    0.0,
     23.4808817262,
     24.1107723996,
     24.4666970124,
@@ -19,7 +18,6 @@
     25.7206947454
   ],
   "indices": [
-    345,
     625,
     612,
     713,
@@ -33,12 +31,6 @@
   "name": "psyc_hydroxyzine",
   "svg": "psyc_hydroxyzine.svg",
   "sim": [
-    {
-      "name": "psyc_hydroxyzine",
-      "psychonaut_name": null,
-      "tripsit_name": "hydroxyzine",
-      "dist": 0.0
-    },
     {
       "name": "psyc_trazodone",
       "psychonaut_name": null,

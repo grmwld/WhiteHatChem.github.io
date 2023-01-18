@@ -4,7 +4,6 @@
   "tripsit_name": "scopolamine",
   "synonyms": null,
   "distances": [
-    3.5683e-06,
     23.9482971223,
     23.9482971223,
     26.7538831513,
@@ -16,7 +15,6 @@
     33.3590639623
   ],
   "indices": [
-    564,
     127,
     824,
     313,
@@ -30,12 +28,6 @@
   "name": "psyc_scopolamine",
   "svg": "psyc_scopolamine.svg",
   "sim": [
-    {
-      "name": "psyc_scopolamine",
-      "psychonaut_name": null,
-      "tripsit_name": "scopolamine",
-      "dist": 3.5683e-06
-    },
     {
       "name": "trip_Cocaine",
       "psychonaut_name": "Cocaine",

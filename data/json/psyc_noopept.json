@@ -5,7 +5,6 @@
   "synonyms": null,
   "distances": [
     4.0461e-06,
-    4.0461e-06,
     27.9545442275,
     28.5326992975,
     28.6079797243,
@@ -16,7 +15,6 @@
     30.3585487053
   ],
   "indices": [
-    252,
     755,
     727,
     734,
@@ -30,12 +28,6 @@
   "name": "psyc_noopept",
   "svg": "psyc_noopept.svg",
   "sim": [
-    {
-      "name": "trip_Omberacetam",
-      "psychonaut_name": "Omberacetam",
-      "tripsit_name": null,
-      "dist": 4.0461e-06
-    },
     {
       "name": "psyc_noopept",
       "psychonaut_name": null,

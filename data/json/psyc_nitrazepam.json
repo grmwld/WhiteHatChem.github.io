@@ -21,7 +21,6 @@
     "nithra"
   ],
   "distances": [
-    3.0158e-06,
     7.6013103259,
     7.6013103259,
     8.0848273506,
@@ -33,7 +32,6 @@
     18.3555905342
   ],
   "indices": [
-    498,
     400,
     124,
     774,
@@ -47,12 +45,6 @@
   "name": "psyc_nitrazepam",
   "svg": "psyc_nitrazepam.svg",
   "sim": [
-    {
-      "name": "psyc_nitrazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "nitrazepam",
-      "dist": 3.0158e-06
-    },
     {
       "name": "psyc_clonazepam",
       "psychonaut_name": null,

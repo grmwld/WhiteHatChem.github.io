@@ -7,7 +7,6 @@
   ],
   "distances": [
     1.9073e-06,
-    1.9073e-06,
     8.7560268899,
     8.7560268899,
     11.9728856524,
@@ -18,7 +17,6 @@
     14.1438904422
   ],
   "indices": [
-    235,
     443,
     836,
     69,
@@ -32,12 +30,6 @@
   "name": "psyc_mipt",
   "svg": "psyc_mipt.svg",
   "sim": [
-    {
-      "name": "trip_MiPT",
-      "psychonaut_name": "MiPT",
-      "tripsit_name": null,
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_mipt",
       "psychonaut_name": null,

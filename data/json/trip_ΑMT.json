@@ -17,7 +17,6 @@
   ],
   "distances": [
     1.3487e-06,
-    1.3487e-06,
     6.55253382,
     11.9728862896,
     11.9728862896,
@@ -28,7 +27,6 @@
     14.6152154519
   ],
   "indices": [
-    321,
     627,
     509,
     764,
@@ -42,12 +40,6 @@
   "name": "trip_\u0391MT",
   "svg": "trip_\u0391MT.svg",
   "sim": [
-    {
-      "name": "trip_\u0391MT",
-      "psychonaut_name": "\u0391MT",
-      "tripsit_name": null,
-      "dist": 1.3487e-06
-    },
     {
       "name": "psyc_amt",
       "psychonaut_name": null,

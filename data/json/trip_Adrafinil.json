@@ -66,7 +66,6 @@
   ],
   "distances": [
     3.0158e-06,
-    3.0158e-06,
     14.8294205095,
     14.8294205095,
     14.8294205095,
@@ -77,7 +76,6 @@
     21.3494420428
   ],
   "indices": [
-    475,
     98,
     107,
     366,
@@ -91,12 +89,6 @@
   "name": "trip_Adrafinil",
   "svg": "trip_Adrafinil.svg",
   "sim": [
-    {
-      "name": "psyc_adrafinil",
-      "psychonaut_name": null,
-      "tripsit_name": "adrafinil",
-      "dist": 3.0158e-06
-    },
     {
       "name": "trip_Adrafinil",
       "psychonaut_name": "Adrafinil",

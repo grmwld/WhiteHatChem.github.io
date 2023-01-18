@@ -346,7 +346,6 @@
     "2-Metil-2-n-propil-1,3-propanediol dicarbamato"
   ],
   "distances": [
-    2.6974e-06,
     20.9423217687,
     20.9423217687,
     30.6822418245,
@@ -358,7 +357,6 @@
     34.2338561833
   ],
   "indices": [
-    219,
     392,
     120,
     307,
@@ -372,12 +370,6 @@
   "name": "trip_Meprobamate",
   "svg": "trip_Meprobamate.svg",
   "sim": [
-    {
-      "name": "trip_Meprobamate",
-      "psychonaut_name": "Meprobamate",
-      "tripsit_name": null,
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_carisoprodol",
       "psychonaut_name": null,

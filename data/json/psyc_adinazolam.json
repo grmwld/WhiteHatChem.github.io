@@ -6,7 +6,6 @@
     "deracyn"
   ],
   "distances": [
-    1.9073e-06,
     17.3923823727,
     17.3923823727,
     17.5158419158,
@@ -18,7 +17,6 @@
     19.5337217186
   ],
   "indices": [
-    335,
     691,
     312,
     738,
@@ -32,12 +30,6 @@
   "name": "psyc_adinazolam",
   "svg": "psyc_adinazolam.svg",
   "sim": [
-    {
-      "name": "psyc_adinazolam",
-      "psychonaut_name": null,
-      "tripsit_name": "adinazolam",
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_triazolam",
       "psychonaut_name": null,

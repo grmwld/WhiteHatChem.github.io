@@ -7,7 +7,6 @@
     "fluoromodafinil"
   ],
   "distances": [
-    3.8147e-06,
     11.0662790514,
     11.0662790514,
     14.829419995,
@@ -19,7 +18,6 @@
     23.6913363689
   ],
   "indices": [
-    786,
     243,
     395,
     616,
@@ -33,12 +31,6 @@
   "name": "psyc_crl-40-941",
   "svg": "psyc_crl-40-941.svg",
   "sim": [
-    {
-      "name": "psyc_crl-40-941",
-      "psychonaut_name": null,
-      "tripsit_name": "crl-40-941",
-      "dist": 3.8147e-06
-    },
     {
       "name": "trip_N-Methylbisfluoromodafinil",
       "psychonaut_name": "N-Methylbisfluoromodafinil",

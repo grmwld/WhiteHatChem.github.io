@@ -4,7 +4,6 @@
   "tripsit_name": "barbital",
   "synonyms": null,
   "distances": [
-    1.3487e-06,
     18.49233025,
     18.49233025,
     18.9193741574,
@@ -16,7 +15,6 @@
     27.8872634529
   ],
   "indices": [
-    524,
     105,
     775,
     415,
@@ -30,12 +28,6 @@
   "name": "psyc_barbital",
   "svg": "psyc_barbital.svg",
   "sim": [
-    {
-      "name": "psyc_barbital",
-      "psychonaut_name": null,
-      "tripsit_name": "barbital",
-      "dist": 1.3487e-06
-    },
     {
       "name": "trip_Amobarbital",
       "psychonaut_name": "Amobarbital",

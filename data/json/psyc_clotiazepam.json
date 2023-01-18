@@ -11,7 +11,6 @@
     "veratran"
   ],
   "distances": [
-    2.336e-06,
     15.2379708296,
     15.2379708296,
     15.7737581807,
@@ -23,7 +22,6 @@
     17.4334751529
   ],
   "indices": [
-    805,
     600,
     148,
     150,
@@ -37,12 +35,6 @@
   "name": "psyc_clotiazepam",
   "svg": "psyc_clotiazepam.svg",
   "sim": [
-    {
-      "name": "psyc_clotiazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "clotiazepam",
-      "dist": 2.336e-06
-    },
     {
       "name": "psyc_diazepam",
       "psychonaut_name": null,

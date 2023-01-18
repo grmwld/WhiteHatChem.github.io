@@ -57,7 +57,6 @@
   ],
   "distances": [
     2.6974e-06,
-    2.6974e-06,
     16.5527268851,
     16.5527268851,
     22.7597755976,
@@ -68,7 +67,6 @@
     38.82704664
   ],
   "indices": [
-    595,
     306,
     117,
     685,
@@ -82,12 +80,6 @@
   "name": "trip_Theacrine",
   "svg": "trip_Theacrine.svg",
   "sim": [
-    {
-      "name": "psyc_theacrine",
-      "psychonaut_name": null,
-      "tripsit_name": "theacrine",
-      "dist": 2.6974e-06
-    },
     {
       "name": "trip_Theacrine",
       "psychonaut_name": "Theacrine",

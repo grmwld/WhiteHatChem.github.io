@@ -24,7 +24,6 @@
   ],
   "distances": [
     2.336e-06,
-    2.336e-06,
     6.8041521074,
     6.8041521074,
     8.5584422054,
@@ -35,7 +34,6 @@
     17.9643617264
   ],
   "indices": [
-    174,
     615,
     439,
     269,
@@ -49,12 +47,6 @@
   "name": "trip_Flubromazepam",
   "svg": "trip_Flubromazepam.svg",
   "sim": [
-    {
-      "name": "trip_Flubromazepam",
-      "psychonaut_name": "Flubromazepam",
-      "tripsit_name": null,
-      "dist": 2.336e-06
-    },
     {
       "name": "psyc_flubromazepam",
       "psychonaut_name": null,

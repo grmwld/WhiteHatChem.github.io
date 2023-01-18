@@ -7,7 +7,6 @@
   ],
   "distances": [
     2.6974e-06,
-    2.6974e-06,
     26.6331172981,
     26.6331172981,
     28.9343834799,
@@ -18,7 +17,6 @@
     34.2279560961
   ],
   "indices": [
-    397,
     186,
     709,
     165,
@@ -32,12 +30,6 @@
   "name": "psyc_heroin",
   "svg": "psyc_heroin.svg",
   "sim": [
-    {
-      "name": "psyc_heroin",
-      "psychonaut_name": null,
-      "tripsit_name": "heroin",
-      "dist": 2.6974e-06
-    },
     {
       "name": "trip_Heroin",
       "psychonaut_name": "Heroin",

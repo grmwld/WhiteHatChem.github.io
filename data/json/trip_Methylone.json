@@ -41,7 +41,6 @@
   ],
   "distances": [
     0.0,
-    0.0,
     7.987626998,
     7.987626998,
     9.9252524087,
@@ -52,7 +51,6 @@
     13.0846635341
   ],
   "indices": [
-    460,
     230,
     115,
     531,
@@ -66,12 +64,6 @@
   "name": "trip_Methylone",
   "svg": "trip_Methylone.svg",
   "sim": [
-    {
-      "name": "psyc_methylone",
-      "psychonaut_name": null,
-      "tripsit_name": "methylone",
-      "dist": 0.0
-    },
     {
       "name": "trip_Methylone",
       "psychonaut_name": "Methylone",

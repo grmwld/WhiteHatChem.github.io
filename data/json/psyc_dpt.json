@@ -7,7 +7,6 @@
   ],
   "distances": [
     2.336e-06,
-    2.336e-06,
     6.8037705795,
     6.8037705795,
     8.7560264543,
@@ -18,7 +17,6 @@
     13.5354566841
   ],
   "indices": [
-    793,
     139,
     743,
     155,
@@ -32,12 +30,6 @@
   "name": "psyc_dpt",
   "svg": "psyc_dpt.svg",
   "sim": [
-    {
-      "name": "psyc_dpt",
-      "psychonaut_name": null,
-      "tripsit_name": "dpt",
-      "dist": 2.336e-06
-    },
     {
       "name": "trip_DPT",
       "psychonaut_name": "DPT",

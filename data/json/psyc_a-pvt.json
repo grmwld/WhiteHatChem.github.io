@@ -6,7 +6,6 @@
     "apvt"
   ],
   "distances": [
-    1.3487e-06,
     11.3425299038,
     11.3425299038,
     12.04099329,
@@ -18,7 +17,6 @@
     17.429355702
   ],
   "indices": [
-    568,
     822,
     92,
     565,
@@ -32,12 +30,6 @@
   "name": "psyc_a-pvt",
   "svg": "psyc_a-pvt.svg",
   "sim": [
-    {
-      "name": "psyc_a-pvt",
-      "psychonaut_name": null,
-      "tripsit_name": "a-pvt",
-      "dist": 1.3487e-06
-    },
     {
       "name": "psyc_a-pvp",
       "psychonaut_name": null,

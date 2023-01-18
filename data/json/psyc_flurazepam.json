@@ -6,7 +6,6 @@
     "dalmane"
   ],
   "distances": [
-    1.9073e-06,
     25.7985181279,
     26.1121894055,
     27.33512029,
@@ -18,7 +17,6 @@
     29.2166411756
   ],
   "indices": [
-    845,
     535,
     335,
     164,
@@ -32,12 +30,6 @@
   "name": "psyc_flurazepam",
   "svg": "psyc_flurazepam.svg",
   "sim": [
-    {
-      "name": "psyc_flurazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "flurazepam",
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_clonitazene",
       "psychonaut_name": null,

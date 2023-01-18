@@ -72,7 +72,6 @@
   ],
   "distances": [
     1.9073e-06,
-    1.9073e-06,
     20.2825094105,
     21.445173753,
     21.5268252495,
@@ -83,7 +82,6 @@
     24.4603798144
   ],
   "indices": [
-    295,
     673,
     612,
     350,
@@ -97,12 +95,6 @@
   "name": "trip_Sufentanil",
   "svg": "trip_Sufentanil.svg",
   "sim": [
-    {
-      "name": "trip_Sufentanil",
-      "psychonaut_name": "Sufentanil",
-      "tripsit_name": null,
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_sufentanil",
       "psychonaut_name": null,

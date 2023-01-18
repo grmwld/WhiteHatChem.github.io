@@ -4,7 +4,6 @@
   "tripsit_name": "oxazolam",
   "synonyms": null,
   "distances": [
-    2.6974e-06,
     13.902243322,
     14.0381201426,
     22.907511636,
@@ -16,7 +15,6 @@
     26.6430889165
   ],
   "indices": [
-    736,
     622,
     689,
     490,
@@ -30,12 +28,6 @@
   "name": "psyc_oxazolam",
   "svg": "psyc_oxazolam.svg",
   "sim": [
-    {
-      "name": "psyc_oxazolam",
-      "psychonaut_name": null,
-      "tripsit_name": "oxazolam",
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_cloxazolam",
       "psychonaut_name": null,

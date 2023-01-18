@@ -7,7 +7,6 @@
   ],
   "distances": [
     2.6974e-06,
-    2.6974e-06,
     7.9052912315,
     8.4945185321,
     8.8763873668,
@@ -18,7 +17,6 @@
     16.2604364773
   ],
   "indices": [
-    172,
     348,
     350,
     687,
@@ -32,12 +30,6 @@
   "name": "psyc_fentanyl",
   "svg": "psyc_fentanyl.svg",
   "sim": [
-    {
-      "name": "trip_Fentanyl",
-      "psychonaut_name": "Fentanyl",
-      "tripsit_name": null,
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_fentanyl",
       "psychonaut_name": null,

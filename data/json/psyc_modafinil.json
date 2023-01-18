@@ -9,7 +9,6 @@
     3.0158e-06,
     3.0158e-06,
     3.0158e-06,
-    3.0158e-06,
     14.8294205095,
     14.8294205095,
     16.9890370643,
@@ -18,7 +17,6 @@
     23.6913363689
   ],
   "indices": [
-    238,
     107,
     551,
     366,
@@ -32,12 +30,6 @@
   "name": "psyc_modafinil",
   "svg": "psyc_modafinil.svg",
   "sim": [
-    {
-      "name": "trip_Modafinil",
-      "psychonaut_name": "Modafinil",
-      "tripsit_name": null,
-      "dist": 3.0158e-06
-    },
     {
       "name": "trip_Armodafinil",
       "psychonaut_name": "Armodafinil",

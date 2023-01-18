@@ -10,7 +10,6 @@
   ],
   "distances": [
     1.3487e-06,
-    1.3487e-06,
     17.3232582351,
     17.3232582351,
     18.7879214505,
@@ -21,7 +20,6 @@
     20.6658575248
   ],
   "indices": [
-    783,
     143,
     153,
     403,
@@ -35,12 +33,6 @@
   "name": "psyc_2-dpmp",
   "svg": "psyc_2-dpmp.svg",
   "sim": [
-    {
-      "name": "psyc_2-dpmp",
-      "psychonaut_name": null,
-      "tripsit_name": "2-dpmp",
-      "dist": 1.3487e-06
-    },
     {
       "name": "trip_Desoxypipradrol",
       "psychonaut_name": "Desoxypipradrol",

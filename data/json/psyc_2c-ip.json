@@ -4,7 +4,6 @@
   "tripsit_name": "2c-ip",
   "synonyms": null,
   "distances": [
-    1.9073e-06,
     9.840903994,
     11.7225879132,
     12.0736298283,
@@ -16,7 +15,6 @@
     13.6172793851
   ],
   "indices": [
-    618,
     717,
     412,
     659,
@@ -30,12 +28,6 @@
   "name": "psyc_2c-ip",
   "svg": "psyc_2c-ip.svg",
   "sim": [
-    {
-      "name": "psyc_2c-ip",
-      "psychonaut_name": null,
-      "tripsit_name": "2c-ip",
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_isoproscaline",
       "psychonaut_name": null,

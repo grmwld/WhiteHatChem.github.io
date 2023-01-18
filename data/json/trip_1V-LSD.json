@@ -13,7 +13,6 @@
     "(6AR,9R)-N,N-DIETHYL-7-METHYL-4-PENTANOYL-4,6,6A,7,8,9-HEXAHYDROINDOLO(4,3-FG)QUINOLINE-9-CARBOXAMIDE"
   ],
   "distances": [
-    3.3036e-06,
     5.8999283479,
     5.8999283479,
     11.0532090995,
@@ -25,7 +24,6 @@
     19.8177641124
   ],
   "indices": [
-    6,
     683,
     3,
     4,
@@ -39,12 +37,6 @@
   "name": "trip_1V-LSD",
   "svg": "trip_1V-LSD.svg",
   "sim": [
-    {
-      "name": "trip_1V-LSD",
-      "psychonaut_name": "1V-LSD",
-      "tripsit_name": null,
-      "dist": 3.3036e-06
-    },
     {
       "name": "psyc_1b-lsd",
       "psychonaut_name": null,

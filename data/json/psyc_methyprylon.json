@@ -6,7 +6,6 @@
     "noludar"
   ],
   "distances": [
-    1.3487e-06,
     18.9193741574,
     25.6085884946,
     25.6085884946,
@@ -18,7 +17,6 @@
     30.8054334728
   ],
   "indices": [
-    415,
     524,
     775,
     105,
@@ -32,12 +30,6 @@
   "name": "psyc_methyprylon",
   "svg": "psyc_methyprylon.svg",
   "sim": [
-    {
-      "name": "psyc_methyprylon",
-      "psychonaut_name": null,
-      "tripsit_name": "methyprylon",
-      "dist": 1.3487e-06
-    },
     {
       "name": "psyc_barbital",
       "psychonaut_name": null,

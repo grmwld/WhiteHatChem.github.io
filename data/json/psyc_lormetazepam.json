@@ -6,7 +6,6 @@
     "noctamid"
   ],
   "distances": [
-    1.3487e-06,
     7.6013108277,
     7.6013108277,
     16.1576005087,
@@ -18,7 +17,6 @@
     18.6954088093
   ],
   "indices": [
-    545,
     304,
     695,
     697,
@@ -32,12 +30,6 @@
   "name": "psyc_lormetazepam",
   "svg": "psyc_lormetazepam.svg",
   "sim": [
-    {
-      "name": "psyc_lormetazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "lormetazepam",
-      "dist": 1.3487e-06
-    },
     {
       "name": "trip_Temazepam",
       "psychonaut_name": "Temazepam",

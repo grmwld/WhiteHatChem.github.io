@@ -53,7 +53,6 @@
   ],
   "distances": [
     9.537e-07,
-    9.537e-07,
     22.3901452321,
     24.492320823,
     24.492320823,
@@ -64,7 +63,6 @@
     26.8925530886
   ],
   "indices": [
-    171,
     723,
     789,
     763,
@@ -78,12 +76,6 @@
   "name": "trip_Fasoracetam",
   "svg": "trip_Fasoracetam.svg",
   "sim": [
-    {
-      "name": "trip_Fasoracetam",
-      "psychonaut_name": "Fasoracetam",
-      "tripsit_name": null,
-      "dist": 9.537e-07
-    },
     {
       "name": "psyc_fasoracetam",
       "psychonaut_name": null,

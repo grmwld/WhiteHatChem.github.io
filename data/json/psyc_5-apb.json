@@ -9,7 +9,6 @@
     1.3487e-06,
     1.3487e-06,
     1.3487e-06,
-    1.3487e-06,
     12.0991501691,
     12.0991501691,
     12.0991501691,
@@ -18,7 +17,6 @@
     12.485321582
   ],
   "indices": [
-    76,
     88,
     463,
     613,
@@ -32,12 +30,6 @@
   "name": "psyc_5-apb",
   "svg": "psyc_5-apb.svg",
   "sim": [
-    {
-      "name": "trip_5-APB",
-      "psychonaut_name": "5-APB",
-      "tripsit_name": null,
-      "dist": 1.3487e-06
-    },
     {
       "name": "trip_6-APB",
       "psychonaut_name": "6-APB",

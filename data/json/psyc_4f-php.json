@@ -4,7 +4,6 @@
   "tripsit_name": "4f-php",
   "synonyms": null,
   "distances": [
-    0.0,
     5.8999280246,
     8.4945185321,
     8.4945185321,
@@ -16,7 +15,6 @@
     14.953491334
   ],
   "indices": [
-    458,
     405,
     91,
     617,
@@ -30,12 +28,6 @@
   "name": "psyc_4f-php",
   "svg": "psyc_4f-php.svg",
   "sim": [
-    {
-      "name": "psyc_4f-php",
-      "psychonaut_name": null,
-      "tripsit_name": "4f-php",
-      "dist": 0.0
-    },
     {
       "name": "psyc_4f-pvp",
       "psychonaut_name": null,

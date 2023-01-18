@@ -168,7 +168,6 @@
     "2H-3, 6-chloro-4-(cyclopropylethynyl)-1,4-dihydro-4-(trifluoromethyl)-, (4S)-"
   ],
   "distances": [
-    3.0158e-06,
     35.9598096513,
     36.3563146676,
     37.2529541483,
@@ -180,7 +179,6 @@
     40.2949877175
   ],
   "indices": [
-    158,
     736,
     622,
     689,
@@ -194,12 +192,6 @@
   "name": "trip_Efavirenz",
   "svg": "trip_Efavirenz.svg",
   "sim": [
-    {
-      "name": "trip_Efavirenz",
-      "psychonaut_name": "Efavirenz",
-      "tripsit_name": null,
-      "dist": 3.0158e-06
-    },
     {
       "name": "psyc_oxazolam",
       "psychonaut_name": null,

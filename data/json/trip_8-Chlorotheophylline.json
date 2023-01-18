@@ -68,7 +68,6 @@
     "1,3-Dimethyl-8-chloroxanthine"
   ],
   "distances": [
-    9.537e-07,
     15.4748217448,
     15.4748217448,
     18.6005649932,
@@ -80,7 +79,6 @@
     30.2988492137
   ],
   "indices": [
-    90,
     117,
     685,
     708,
@@ -94,12 +92,6 @@
   "name": "trip_8-Chlorotheophylline",
   "svg": "trip_8-Chlorotheophylline.svg",
   "sim": [
-    {
-      "name": "trip_8-Chlorotheophylline",
-      "psychonaut_name": "8-Chlorotheophylline",
-      "tripsit_name": null,
-      "dist": 9.537e-07
-    },
     {
       "name": "trip_Caffeine",
       "psychonaut_name": "Caffeine",

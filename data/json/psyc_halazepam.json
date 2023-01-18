@@ -6,7 +6,6 @@
     "paxipam"
   ],
   "distances": [
-    3.3036e-06,
     12.8577071414,
     22.0895684803,
     23.6941108437,
@@ -18,7 +17,6 @@
     25.1255307877
   ],
   "indices": [
-    431,
     797,
     574,
     236,
@@ -32,12 +30,6 @@
   "name": "psyc_halazepam",
   "svg": "psyc_halazepam.svg",
   "sim": [
-    {
-      "name": "psyc_halazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "halazepam",
-      "dist": 3.3036e-06
-    },
     {
       "name": "psyc_quazepam",
       "psychonaut_name": null,

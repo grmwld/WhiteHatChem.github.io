@@ -5,7 +5,6 @@
   "synonyms": null,
   "distances": [
     0.0,
-    0.0,
     29.0570244338,
     29.0570244338,
     31.6855121418,
@@ -16,7 +15,6 @@
     34.1908740622
   ],
   "indices": [
-    110,
     829,
     313,
     782,
@@ -30,12 +28,6 @@
   "name": "psyc_bromantane",
   "svg": "psyc_bromantane.svg",
   "sim": [
-    {
-      "name": "trip_Bromantane",
-      "psychonaut_name": "Bromantane",
-      "tripsit_name": null,
-      "dist": 0.0
-    },
     {
       "name": "psyc_bromantane",
       "psychonaut_name": null,

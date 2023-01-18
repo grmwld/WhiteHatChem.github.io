@@ -27,7 +27,6 @@
   ],
   "distances": [
     1.3487e-06,
-    1.3487e-06,
     8.0729401881,
     8.0729401881,
     8.5598880097,
@@ -38,7 +37,6 @@
     12.3128482363
   ],
   "indices": [
-    730,
     141,
     196,
     590,
@@ -52,12 +50,6 @@
   "name": "trip_Deschloroketamine",
   "svg": "trip_Deschloroketamine.svg",
   "sim": [
-    {
-      "name": "psyc_deschloroketamine",
-      "psychonaut_name": null,
-      "tripsit_name": "deschloroketamine",
-      "dist": 1.3487e-06
-    },
     {
       "name": "trip_Deschloroketamine",
       "psychonaut_name": "Deschloroketamine",

@@ -4,7 +4,6 @@
   "tripsit_name": "5-meo-malt",
   "synonyms": null,
   "distances": [
-    0.0,
     17.4151770336,
     18.7937112557,
     18.7937112557,
@@ -16,7 +15,6 @@
     20.2119159263
   ],
   "indices": [
-    359,
     528,
     519,
     80,
@@ -30,12 +28,6 @@
   "name": "psyc_5-meo-malt",
   "svg": "psyc_5-meo-malt.svg",
   "sim": [
-    {
-      "name": "psyc_5-meo-malt",
-      "psychonaut_name": null,
-      "tripsit_name": "5-meo-malt",
-      "dist": 0.0
-    },
     {
       "name": "psyc_5-meo-met",
       "psychonaut_name": null,

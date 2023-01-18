@@ -11,7 +11,6 @@
   ],
   "distances": [
     0.0,
-    0.0,
     16.3444119205,
     20.0009635693,
     20.0009635693,
@@ -22,7 +21,6 @@
     21.9435880641
   ],
   "indices": [
-    77,
     835,
     315,
     764,
@@ -36,12 +34,6 @@
   "name": "psyc_5-htp",
   "svg": "psyc_5-htp.svg",
   "sim": [
-    {
-      "name": "trip_5-Hydroxytryptophan",
-      "psychonaut_name": "5-Hydroxytryptophan",
-      "tripsit_name": null,
-      "dist": 0.0
-    },
     {
       "name": "psyc_5-htp",
       "psychonaut_name": null,

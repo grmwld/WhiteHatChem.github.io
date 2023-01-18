@@ -37,7 +37,6 @@
   ],
   "distances": [
     1.9073e-06,
-    1.9073e-06,
     8.4429633643,
     8.4429633643,
     13.3749378239,
@@ -48,7 +47,6 @@
     15.0934942315
   ],
   "indices": [
-    560,
     57,
     59,
     323,
@@ -62,12 +60,6 @@
   "name": "trip_4-AcO-DMT",
   "svg": "trip_4-AcO-DMT.svg",
   "sim": [
-    {
-      "name": "psyc_4-aco-dmt",
-      "psychonaut_name": null,
-      "tripsit_name": "4-aco-dmt",
-      "dist": 1.9073e-06
-    },
     {
       "name": "trip_4-AcO-DMT",
       "psychonaut_name": "4-AcO-DMT",

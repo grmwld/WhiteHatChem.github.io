@@ -10,7 +10,6 @@
   ],
   "distances": [
     9.537e-07,
-    9.537e-07,
     8.9216761792,
     8.9216761792,
     8.9216761792,
@@ -21,7 +20,6 @@
     13.968995777
   ],
   "indices": [
-    658,
     205,
     771,
     89,
@@ -35,12 +33,6 @@
   "name": "trip_MDA",
   "svg": "trip_MDA.svg",
   "sim": [
-    {
-      "name": "psyc_mda",
-      "psychonaut_name": null,
-      "tripsit_name": "mda",
-      "dist": 9.537e-07
-    },
     {
       "name": "trip_MDA",
       "psychonaut_name": "MDA",

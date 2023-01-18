@@ -5,7 +5,6 @@
   "synonyms": null,
   "distances": [
     1.9073e-06,
-    1.9073e-06,
     3.7484107147,
     3.7484107147,
     4.0127253769,
@@ -16,7 +15,6 @@
     8.6308635738
   ],
   "indices": [
-    580,
     16,
     48,
     377,
@@ -30,12 +28,6 @@
   "name": "psyc_2-mmc",
   "svg": "psyc_2-mmc.svg",
   "sim": [
-    {
-      "name": "psyc_2-mmc",
-      "psychonaut_name": null,
-      "tripsit_name": "2-mmc",
-      "dist": 1.9073e-06
-    },
     {
       "name": "trip_2-MMC",
       "psychonaut_name": "2-MMC",

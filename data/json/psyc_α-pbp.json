@@ -7,7 +7,6 @@
     "alpha-pbp"
   ],
   "distances": [
-    1.9073e-06,
     7.3651525411,
     7.3651525411,
     12.04099329,
@@ -19,7 +18,6 @@
     14.2875828965
   ],
   "indices": [
-    565,
     822,
     92,
     568,
@@ -33,12 +31,6 @@
   "name": "psyc_\u03b1-pbp",
   "svg": "psyc_\u03b1-pbp.svg",
   "sim": [
-    {
-      "name": "psyc_\u03b1-pbp",
-      "psychonaut_name": null,
-      "tripsit_name": "\u03b1-pbp",
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_a-pvp",
       "psychonaut_name": null,

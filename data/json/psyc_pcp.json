@@ -12,7 +12,6 @@
   ],
   "distances": [
     3.0158e-06,
-    3.0158e-06,
     5.2403533956,
     7.6885318219,
     7.9492206695,
@@ -23,7 +22,6 @@
     11.8484650338
   ],
   "indices": [
-    260,
     571,
     537,
     49,
@@ -37,12 +35,6 @@
   "name": "psyc_pcp",
   "svg": "psyc_pcp.svg",
   "sim": [
-    {
-      "name": "trip_PCP",
-      "psychonaut_name": "PCP",
-      "tripsit_name": null,
-      "dist": 3.0158e-06
-    },
     {
       "name": "psyc_pcp",
       "psychonaut_name": null,

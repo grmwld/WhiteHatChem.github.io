@@ -4,7 +4,6 @@
   "tripsit_name": "halothane",
   "synonyms": null,
   "distances": [
-    1.3487e-06,
     25.2985602531,
     28.8286341842,
     28.8286341842,
@@ -16,7 +15,6 @@
     30.7886372798
   ],
   "indices": [
-    346,
     540,
     39,
     474,
@@ -30,12 +28,6 @@
   "name": "psyc_halothane",
   "svg": "psyc_halothane.svg",
   "sim": [
-    {
-      "name": "psyc_halothane",
-      "psychonaut_name": null,
-      "tripsit_name": "halothane",
-      "dist": 1.3487e-06
-    },
     {
       "name": "psyc_chloroform",
       "psychonaut_name": null,

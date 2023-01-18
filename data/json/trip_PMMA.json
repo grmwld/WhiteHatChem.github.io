@@ -13,7 +13,6 @@
     "DOONE"
   ],
   "distances": [
-    1.3487e-06,
     4.3265501387,
     10.6638943725,
     10.7000009697,
@@ -25,7 +24,6 @@
     11.7619846989
   ],
   "indices": [
-    262,
     690,
     716,
     508,
@@ -39,12 +37,6 @@
   "name": "trip_PMMA",
   "svg": "trip_PMMA.svg",
   "sim": [
-    {
-      "name": "trip_PMMA",
-      "psychonaut_name": "PMMA",
-      "tripsit_name": null,
-      "dist": 1.3487e-06
-    },
     {
       "name": "psyc_mpa",
       "psychonaut_name": null,

@@ -28,7 +28,6 @@
   ],
   "distances": [
     2.6974e-06,
-    2.6974e-06,
     8.2743614481,
     8.709614004,
     8.709614004,
@@ -39,7 +38,6 @@
     10.9361599346
   ],
   "indices": [
-    648,
     47,
     49,
     571,
@@ -53,12 +51,6 @@
   "name": "trip_3-HO-PCP",
   "svg": "trip_3-HO-PCP.svg",
   "sim": [
-    {
-      "name": "psyc_3-ho-pcp",
-      "psychonaut_name": null,
-      "tripsit_name": "3-ho-pcp",
-      "dist": 2.6974e-06
-    },
     {
       "name": "trip_3-HO-PCP",
       "psychonaut_name": "3-HO-PCP",

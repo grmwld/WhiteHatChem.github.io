@@ -15,7 +15,6 @@
     "3-Methyl-pcpy"
   ],
   "distances": [
-    2.6974e-06,
     5.2403537596,
     7.6885310776,
     8.1332604306,
@@ -27,7 +26,6 @@
     11.3097213789
   ],
   "indices": [
-    50,
     49,
     537,
     571,
@@ -41,12 +39,6 @@
   "name": "trip_3-Me-PCPy",
   "svg": "trip_3-Me-PCPy.svg",
   "sim": [
-    {
-      "name": "trip_3-Me-PCPy",
-      "psychonaut_name": "3-Me-PCPy",
-      "tripsit_name": null,
-      "dist": 2.6974e-06
-    },
     {
       "name": "trip_3-Me-PCP",
       "psychonaut_name": "3-Me-PCP",

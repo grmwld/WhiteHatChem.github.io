@@ -8,7 +8,6 @@
     "\u03b1-PHiP"
   ],
   "distances": [
-    2.336e-06,
     13.0721125666,
     13.0721125666,
     14.1490435921,
@@ -20,7 +19,6 @@
     17.9787073294
   ],
   "indices": [
-    320,
     92,
     822,
     617,
@@ -34,12 +32,6 @@
   "name": "trip_\u0391-PiHP",
   "svg": "trip_\u0391-PiHP.svg",
   "sim": [
-    {
-      "name": "trip_\u0391-PiHP",
-      "psychonaut_name": "\u0391-PiHP",
-      "tripsit_name": null,
-      "dist": 2.336e-06
-    },
     {
       "name": "trip_A-PVP",
       "psychonaut_name": "A-PVP",

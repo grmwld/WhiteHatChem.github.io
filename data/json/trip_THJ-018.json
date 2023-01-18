@@ -19,7 +19,6 @@
     "SGT-17"
   ],
   "distances": [
-    1.9073e-06,
     8.3815286725,
     9.7263691465,
     11.3210376536,
@@ -31,7 +30,6 @@
     22.8467823526
   ],
   "indices": [
-    297,
     193,
     194,
     298,
@@ -45,12 +43,6 @@
   "name": "trip_THJ-018",
   "svg": "trip_THJ-018.svg",
   "sim": [
-    {
-      "name": "trip_THJ-018",
-      "psychonaut_name": "THJ-018",
-      "tripsit_name": null,
-      "dist": 1.9073e-06
-    },
     {
       "name": "trip_JWH-018",
       "psychonaut_name": "JWH-018",

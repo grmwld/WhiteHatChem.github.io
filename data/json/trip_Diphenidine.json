@@ -24,7 +24,6 @@
   ],
   "distances": [
     0.0,
-    0.0,
     8.3905840825,
     11.9096399322,
     11.9096399322,
@@ -35,7 +34,6 @@
     18.8306930627
   ],
   "indices": [
-    403,
     153,
     550,
     629,
@@ -49,12 +47,6 @@
   "name": "trip_Diphenidine",
   "svg": "trip_Diphenidine.svg",
   "sim": [
-    {
-      "name": "psyc_diphenidine",
-      "psychonaut_name": null,
-      "tripsit_name": "diphenidine",
-      "dist": 0.0
-    },
     {
       "name": "trip_Diphenidine",
       "psychonaut_name": "Diphenidine",

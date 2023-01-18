@@ -6,7 +6,6 @@
   "distances": [
     2.6974e-06,
     2.6974e-06,
-    2.6974e-06,
     13.410596023,
     16.4852932209,
     16.4852932209,
@@ -16,7 +15,6 @@
     27.9456291917
   ],
   "indices": [
-    146,
     754,
     347,
     582,
@@ -30,12 +28,6 @@
   "name": "psyc_propoxyphene",
   "svg": "psyc_propoxyphene.svg",
   "sim": [
-    {
-      "name": "trip_Dextropropoxyphene",
-      "psychonaut_name": "Dextropropoxyphene",
-      "tripsit_name": null,
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_dextropropoxyphene",
       "psychonaut_name": null,

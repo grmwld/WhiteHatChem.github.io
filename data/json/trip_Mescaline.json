@@ -77,7 +77,6 @@
   ],
   "distances": [
     1.3487e-06,
-    1.3487e-06,
     8.7069396831,
     8.7069396831,
     9.4214587776,
@@ -88,7 +87,6 @@
     11.4569932929
   ],
   "indices": [
-    220,
     620,
     728,
     163,
@@ -102,12 +100,6 @@
   "name": "trip_Mescaline",
   "svg": "trip_Mescaline.svg",
   "sim": [
-    {
-      "name": "trip_Mescaline",
-      "psychonaut_name": "Mescaline",
-      "tripsit_name": null,
-      "dist": 1.3487e-06
-    },
     {
       "name": "psyc_mescaline",
       "psychonaut_name": null,

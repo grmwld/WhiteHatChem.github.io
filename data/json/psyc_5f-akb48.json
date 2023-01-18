@@ -9,7 +9,6 @@
   ],
   "distances": [
     2.6974e-06,
-    2.6974e-06,
     19.3155313724,
     21.7848869363,
     39.6692994684,
@@ -20,7 +19,6 @@
     44.3145866817
   ],
   "indices": [
-    86,
     413,
     290,
     96,
@@ -34,12 +32,6 @@
   "name": "psyc_5f-akb48",
   "svg": "psyc_5f-akb48.svg",
   "sim": [
-    {
-      "name": "trip_5F-AKB48",
-      "psychonaut_name": "5F-AKB48",
-      "tripsit_name": null,
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_5f-akb48",
       "psychonaut_name": null,

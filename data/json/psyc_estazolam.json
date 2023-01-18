@@ -8,7 +8,6 @@
     "elprazolam"
   ],
   "distances": [
-    3.5683e-06,
     9.969516067,
     9.969516067,
     13.0633836657,
@@ -20,7 +19,6 @@
     14.6972893739
   ],
   "indices": [
-    787,
     103,
     378,
     111,
@@ -34,12 +32,6 @@
   "name": "psyc_estazolam",
   "svg": "psyc_estazolam.svg",
   "sim": [
-    {
-      "name": "psyc_estazolam",
-      "psychonaut_name": null,
-      "tripsit_name": "estazolam",
-      "dist": 3.5683e-06
-    },
     {
       "name": "trip_Alprazolam",
       "psychonaut_name": "Alprazolam",

@@ -6,7 +6,6 @@
     "3-hydroxynimetazepam"
   ],
   "distances": [
-    2.336e-06,
     16.2912506024,
     16.9148834241,
     16.9148834241,
@@ -18,7 +17,6 @@
     18.8663819704
   ],
   "indices": [
-    724,
     712,
     248,
     779,
@@ -32,12 +30,6 @@
   "name": "psyc_nitemazepam",
   "svg": "psyc_nitemazepam.svg",
   "sim": [
-    {
-      "name": "psyc_nitemazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "nitemazepam",
-      "dist": 2.336e-06
-    },
     {
       "name": "psyc_nimetazepam",
       "psychonaut_name": null,

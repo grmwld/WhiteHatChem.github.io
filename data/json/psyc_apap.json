@@ -8,7 +8,6 @@
     "tylenol"
   ],
   "distances": [
-    1.6518e-06,
     17.8265458259,
     21.2233159092,
     22.8112183929,
@@ -20,7 +19,6 @@
     23.1251280085
   ],
   "indices": [
-    841,
     679,
     737,
     575,
@@ -34,12 +32,6 @@
   "name": "psyc_apap",
   "svg": "psyc_apap.svg",
   "sim": [
-    {
-      "name": "psyc_apap",
-      "psychonaut_name": null,
-      "tripsit_name": "apap",
-      "dist": 1.6518e-06
-    },
     {
       "name": "psyc_2-pta",
       "psychonaut_name": null,

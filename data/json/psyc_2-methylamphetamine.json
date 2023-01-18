@@ -6,7 +6,6 @@
     "2-ma"
   ],
   "distances": [
-    1.5079e-06,
     7.5317909395,
     7.5317909395,
     7.5317909395,
@@ -18,7 +17,6 @@
     9.1798520597
   ],
   "indices": [
-    329,
     703,
     741,
     144,
@@ -32,12 +30,6 @@
   "name": "psyc_2-methylamphetamine",
   "svg": "psyc_2-methylamphetamine.svg",
   "sim": [
-    {
-      "name": "psyc_2-methylamphetamine",
-      "psychonaut_name": null,
-      "tripsit_name": "2-methylamphetamine",
-      "dist": 1.5079e-06
-    },
     {
       "name": "psyc_dexedrine",
       "psychonaut_name": null,

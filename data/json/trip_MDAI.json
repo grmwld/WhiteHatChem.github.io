@@ -41,7 +41,6 @@
   ],
   "distances": [
     1.6518e-06,
-    1.6518e-06,
     20.978604271,
     21.1589191505,
     21.1589191505,
@@ -52,7 +51,6 @@
     21.2589853476
   ],
   "indices": [
-    733,
     206,
     589,
     89,
@@ -66,12 +64,6 @@
   "name": "trip_MDAI",
   "svg": "trip_MDAI.svg",
   "sim": [
-    {
-      "name": "psyc_mdai",
-      "psychonaut_name": null,
-      "tripsit_name": "mdai",
-      "dist": 1.6518e-06
-    },
     {
       "name": "trip_MDAI",
       "psychonaut_name": "MDAI",

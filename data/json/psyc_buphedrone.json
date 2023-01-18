@@ -4,7 +4,6 @@
   "tripsit_name": "buphedrone",
   "synonyms": null,
   "distances": [
-    0.0,
     7.3651525411,
     7.3651525411,
     7.987626998,
@@ -16,7 +15,6 @@
     9.9252524087
   ],
   "indices": [
-    372,
     633,
     265,
     225,
@@ -30,12 +28,6 @@
   "name": "psyc_buphedrone",
   "svg": "psyc_buphedrone.svg",
   "sim": [
-    {
-      "name": "psyc_buphedrone",
-      "psychonaut_name": null,
-      "tripsit_name": "buphedrone",
-      "dist": 0.0
-    },
     {
       "name": "psyc_pentedrone",
       "psychonaut_name": null,

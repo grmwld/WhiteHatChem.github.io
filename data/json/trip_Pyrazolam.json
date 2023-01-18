@@ -32,7 +32,6 @@
   ],
   "distances": [
     2.336e-06,
-    2.336e-06,
     7.0435344619,
     7.0435344619,
     9.6961277105,
@@ -43,7 +42,6 @@
     13.1161597135
   ],
   "indices": [
-    748,
     286,
     664,
     111,
@@ -57,12 +55,6 @@
   "name": "trip_Pyrazolam",
   "svg": "trip_Pyrazolam.svg",
   "sim": [
-    {
-      "name": "psyc_pyrazolam",
-      "psychonaut_name": null,
-      "tripsit_name": "pyrazolam",
-      "dist": 2.336e-06
-    },
     {
       "name": "trip_Pyrazolam",
       "psychonaut_name": "Pyrazolam",

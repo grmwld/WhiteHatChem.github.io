@@ -4,7 +4,6 @@
   "tripsit_name": "db-mdbp",
   "synonyms": null,
   "distances": [
-    1.9073e-06,
     30.9079078407,
     30.9079078407,
     31.4190777596,
@@ -16,7 +15,6 @@
     31.6530434735
   ],
   "indices": [
-    596,
     15,
     510,
     45,
@@ -30,12 +28,6 @@
   "name": "psyc_db-mdbp",
   "svg": "psyc_db-mdbp.svg",
   "sim": [
-    {
-      "name": "psyc_db-mdbp",
-      "psychonaut_name": null,
-      "tripsit_name": "db-mdbp",
-      "dist": 1.9073e-06
-    },
     {
       "name": "trip_2-Fluorodeschloroketamine",
       "psychonaut_name": "2-Fluorodeschloroketamine",

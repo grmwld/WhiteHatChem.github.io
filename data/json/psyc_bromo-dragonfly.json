@@ -10,7 +10,6 @@
   ],
   "distances": [
     2.336e-06,
-    2.336e-06,
     20.0915795751,
     20.0915795751,
     20.0915795751,
@@ -21,7 +20,6 @@
     22.9580451776
   ],
   "indices": [
-    417,
     112,
     76,
     88,
@@ -35,12 +33,6 @@
   "name": "psyc_bromo-dragonfly",
   "svg": "psyc_bromo-dragonfly.svg",
   "sim": [
-    {
-      "name": "psyc_bromo-dragonfly",
-      "psychonaut_name": null,
-      "tripsit_name": "bromo-dragonfly",
-      "dist": 2.336e-06
-    },
     {
       "name": "trip_Bromo-DragonFLY",
       "psychonaut_name": "Bromo-DragonFLY",

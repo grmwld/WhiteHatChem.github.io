@@ -9,7 +9,6 @@
   ],
   "distances": [
     0.0,
-    0.0,
     7.6043127873,
     7.6043127873,
     7.9793271944,
@@ -20,7 +19,6 @@
     8.824297428
   ],
   "indices": [
-    30,
     662,
     29,
     387,
@@ -34,12 +32,6 @@
   "name": "psyc_2c-d",
   "svg": "psyc_2c-d.svg",
   "sim": [
-    {
-      "name": "trip_2C-D",
-      "psychonaut_name": "2C-D",
-      "tripsit_name": null,
-      "dist": 0.0
-    },
     {
       "name": "psyc_2c-d",
       "psychonaut_name": null,

@@ -4,7 +4,6 @@
   "tripsit_name": "mdoh",
   "synonyms": null,
   "distances": [
-    1.3487e-06,
     10.331628064,
     10.331628064,
     11.5702544732,
@@ -16,7 +15,6 @@
     14.6808438417
   ],
   "indices": [
-    479,
     208,
     609,
     207,
@@ -30,12 +28,6 @@
   "name": "psyc_mdoh",
   "svg": "psyc_mdoh.svg",
   "sim": [
-    {
-      "name": "psyc_mdoh",
-      "psychonaut_name": null,
-      "tripsit_name": "mdoh",
-      "dist": 1.3487e-06
-    },
     {
       "name": "trip_MDMA",
       "psychonaut_name": "MDMA",

@@ -7,7 +7,6 @@
   ],
   "distances": [
     0.0,
-    0.0,
     9.9252524087,
     9.9252524087,
     9.9252524087,
@@ -18,7 +17,6 @@
     12.8374863547
   ],
   "indices": [
-    354,
     842,
     418,
     78,
@@ -32,12 +30,6 @@
   "name": "psyc_5-eapb",
   "svg": "psyc_5-eapb.svg",
   "sim": [
-    {
-      "name": "psyc_6-eapb",
-      "psychonaut_name": null,
-      "tripsit_name": "6-eapb",
-      "dist": 0.0
-    },
     {
       "name": "psyc_5-eapb",
       "psychonaut_name": null,

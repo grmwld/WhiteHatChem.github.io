@@ -4,7 +4,6 @@
   "tripsit_name": "tolibut",
   "synonyms": null,
   "distances": [
-    1.3487e-06,
     7.6015898497,
     7.6015898497,
     7.6058055488,
@@ -16,7 +15,6 @@
     17.7943592521
   ],
   "indices": [
-    364,
     108,
     370,
     271,
@@ -30,12 +28,6 @@
   "name": "psyc_tolibut",
   "svg": "psyc_tolibut.svg",
   "sim": [
-    {
-      "name": "psyc_tolibut",
-      "psychonaut_name": null,
-      "tripsit_name": "tolibut",
-      "dist": 1.3487e-06
-    },
     {
       "name": "trip_Baclofen",
       "psychonaut_name": "Baclofen",

@@ -8,7 +8,6 @@
     "n-methyl-pal-287"
   ],
   "distances": [
-    9.537e-07,
     11.3927554217,
     11.3927554217,
     11.3927554217,
@@ -20,7 +19,6 @@
     15.0621758264
   ],
   "indices": [
-    556,
     418,
     640,
     78,
@@ -34,12 +32,6 @@
   "name": "psyc_methamnetamine",
   "svg": "psyc_methamnetamine.svg",
   "sim": [
-    {
-      "name": "psyc_methamnetamine",
-      "psychonaut_name": null,
-      "tripsit_name": "methamnetamine",
-      "dist": 9.537e-07
-    },
     {
       "name": "psyc_5-mapb",
       "psychonaut_name": null,

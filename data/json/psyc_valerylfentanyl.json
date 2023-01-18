@@ -6,7 +6,6 @@
     "vf"
   ],
   "distances": [
-    3.3036e-06,
     5.8999280246,
     9.5904503531,
     13.104923843,
@@ -18,7 +17,6 @@
     21.1853350318
   ],
   "indices": [
-    692,
     350,
     746,
     348,
@@ -32,12 +30,6 @@
   "name": "psyc_valerylfentanyl",
   "svg": "psyc_valerylfentanyl.svg",
   "sim": [
-    {
-      "name": "psyc_valerylfentanyl",
-      "psychonaut_name": null,
-      "tripsit_name": "valerylfentanyl",
-      "dist": 3.3036e-06
-    },
     {
       "name": "psyc_butyrfentanyl",
       "psychonaut_name": null,

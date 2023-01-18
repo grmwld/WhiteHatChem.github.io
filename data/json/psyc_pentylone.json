@@ -9,7 +9,6 @@
   ],
   "distances": [
     0.0,
-    0.0,
     7.365153577,
     7.365153577,
     9.6143248176,
@@ -20,7 +19,6 @@
     13.0846635341
   ],
   "indices": [
-    267,
     567,
     531,
     115,
@@ -34,12 +32,6 @@
   "name": "psyc_pentylone",
   "svg": "psyc_pentylone.svg",
   "sim": [
-    {
-      "name": "trip_Pentylone",
-      "psychonaut_name": "Pentylone",
-      "tripsit_name": null,
-      "dist": 0.0
-    },
     {
       "name": "psyc_pentylone",
       "psychonaut_name": null,

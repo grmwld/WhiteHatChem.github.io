@@ -223,7 +223,6 @@
     "N-acetylcystein"
   ],
   "distances": [
-    9.537e-07,
     20.7916819153,
     20.7916819153,
     23.4625998412,
@@ -235,7 +234,6 @@
     27.2684062425
   ],
   "indices": [
-    241,
     325,
     307,
     501,
@@ -249,12 +247,6 @@
   "name": "trip_N-Acetylcysteine",
   "svg": "trip_N-Acetylcysteine.svg",
   "sim": [
-    {
-      "name": "trip_N-Acetylcysteine",
-      "psychonaut_name": "N-Acetylcysteine",
-      "tripsit_name": null,
-      "dist": 9.537e-07
-    },
     {
       "name": "psyc_l-theanine",
       "psychonaut_name": null,

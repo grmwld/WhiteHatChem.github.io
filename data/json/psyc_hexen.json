@@ -10,7 +10,6 @@
   ],
   "distances": [
     1.9073e-06,
-    1.9073e-06,
     5.8999270548,
     9.9252520243,
     9.9252520243,
@@ -21,7 +20,6 @@
     13.8195572858
   ],
   "indices": [
-    493,
     242,
     244,
     549,
@@ -35,12 +33,6 @@
   "name": "psyc_hexen",
   "svg": "psyc_hexen.svg",
   "sim": [
-    {
-      "name": "psyc_hexen",
-      "psychonaut_name": null,
-      "tripsit_name": "hexen",
-      "dist": 1.9073e-06
-    },
     {
       "name": "trip_N-Ethylhexedrone",
       "psychonaut_name": "N-Ethylhexedrone",

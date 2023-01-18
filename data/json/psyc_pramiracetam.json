@@ -5,7 +5,6 @@
   "synonyms": null,
   "distances": [
     2.6974e-06,
-    2.6974e-06,
     30.0074087531,
     30.0074087531,
     30.3684707971,
@@ -16,7 +15,6 @@
     32.1184844894
   ],
   "indices": [
-    277,
     453,
     65,
     487,
@@ -30,12 +28,6 @@
   "name": "psyc_pramiracetam",
   "svg": "psyc_pramiracetam.svg",
   "sim": [
-    {
-      "name": "trip_Pramiracetam",
-      "psychonaut_name": "Pramiracetam",
-      "tripsit_name": null,
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_pramiracetam",
       "psychonaut_name": null,

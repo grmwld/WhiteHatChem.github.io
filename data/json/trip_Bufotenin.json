@@ -90,7 +90,6 @@
     "BDBM50024206"
   ],
   "distances": [
-    9.537e-07,
     4.4137906961,
     4.4137906961,
     8.709614004,
@@ -102,7 +101,6 @@
     10.8515136366
   ],
   "indices": [
-    113,
     285,
     423,
     134,
@@ -116,12 +114,6 @@
   "name": "trip_Bufotenin",
   "svg": "trip_Bufotenin.svg",
   "sim": [
-    {
-      "name": "trip_Bufotenin",
-      "psychonaut_name": "Bufotenin",
-      "tripsit_name": null,
-      "dist": 9.537e-07
-    },
     {
       "name": "trip_Psilocin",
       "psychonaut_name": "Psilocin",

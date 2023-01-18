@@ -25,7 +25,6 @@
   ],
   "distances": [
     1.9073e-06,
-    1.9073e-06,
     7.0943864041,
     7.0943864041,
     9.3092571987,
@@ -36,7 +35,6 @@
     12.6905321529
   ],
   "indices": [
-    715,
     283,
     163,
     728,
@@ -50,12 +48,6 @@
   "name": "trip_Proscaline",
   "svg": "trip_Proscaline.svg",
   "sim": [
-    {
-      "name": "psyc_proscaline",
-      "psychonaut_name": null,
-      "tripsit_name": "proscaline",
-      "dist": 1.9073e-06
-    },
     {
       "name": "trip_Proscaline",
       "psychonaut_name": "Proscaline",

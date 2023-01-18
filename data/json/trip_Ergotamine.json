@@ -64,7 +64,6 @@
     "(5''alpha)-12''-hydroxy-2''-methyl-5''-(phenylmethyl)ergotoman-3'',6'',18-trione"
   ],
   "distances": [
-    2.6974e-06,
     49.3596495125,
     64.0858227362,
     65.2268726973,
@@ -76,7 +75,6 @@
     67.7693266945
   ],
   "indices": [
-    162,
     646,
     513,
     374,
@@ -90,12 +88,6 @@
   "name": "trip_Ergotamine",
   "svg": "trip_Ergotamine.svg",
   "sim": [
-    {
-      "name": "trip_Ergotamine",
-      "psychonaut_name": "Ergotamine",
-      "tripsit_name": null,
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_nicomorphine",
       "psychonaut_name": null,

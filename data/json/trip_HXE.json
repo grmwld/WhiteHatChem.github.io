@@ -9,7 +9,6 @@
     "3-[[2-[(1-ethylpiperidin-4-yl)-methyl-amino]thieno[3,2-d]pyrimidin-4-yl]-methyl-amino]propanenitrile"
   ],
   "distances": [
-    3.3036e-06,
     32.7547352403,
     35.0923864383,
     35.8001672837,
@@ -21,7 +20,6 @@
     39.2861115354
   ],
   "indices": [
-    184,
     398,
     349,
     317,
@@ -35,12 +33,6 @@
   "name": "trip_HXE",
   "svg": "trip_HXE.svg",
   "sim": [
-    {
-      "name": "trip_HXE",
-      "psychonaut_name": "HXE",
-      "tripsit_name": null,
-      "dist": 3.3036e-06
-    },
     {
       "name": "psyc_u-49900",
       "psychonaut_name": null,

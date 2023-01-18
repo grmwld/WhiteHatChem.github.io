@@ -6,7 +6,6 @@
     "lendormin"
   ],
   "distances": [
-    1.9073e-06,
     8.9039792027,
     8.9039792027,
     11.9433042785,
@@ -18,7 +17,6 @@
     13.6781520189
   ],
   "indices": [
-    654,
     176,
     843,
     168,
@@ -32,12 +30,6 @@
   "name": "psyc_brotizolam",
   "svg": "psyc_brotizolam.svg",
   "sim": [
-    {
-      "name": "psyc_brotizolam",
-      "psychonaut_name": null,
-      "tripsit_name": "brotizolam",
-      "dist": 1.9073e-06
-    },
     {
       "name": "trip_Fluclotizolam",
       "psychonaut_name": "Fluclotizolam",

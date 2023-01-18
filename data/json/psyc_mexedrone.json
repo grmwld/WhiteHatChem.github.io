@@ -7,7 +7,6 @@
   ],
   "distances": [
     0.0,
-    0.0,
     8.7330336522,
     8.7752343475,
     10.3577991973,
@@ -18,7 +17,6 @@
     11.5010402043
   ],
   "indices": [
-    233,
     473,
     716,
     831,
@@ -32,12 +30,6 @@
   "name": "psyc_mexedrone",
   "svg": "psyc_mexedrone.svg",
   "sim": [
-    {
-      "name": "trip_Mexedrone",
-      "psychonaut_name": "Mexedrone",
-      "tripsit_name": null,
-      "dist": 0.0
-    },
     {
       "name": "psyc_mexedrone",
       "psychonaut_name": null,

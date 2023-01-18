@@ -6,7 +6,6 @@
     "ro8-4650"
   ],
   "distances": [
-    2.6974e-06,
     18.6808539473,
     18.6808539473,
     21.8333126777,
@@ -18,7 +17,6 @@
     23.9271967056
   ],
   "indices": [
-    628,
     294,
     837,
     457,
@@ -32,12 +30,6 @@
   "name": "psyc_diclofensine",
   "svg": "psyc_diclofensine.svg",
   "sim": [
-    {
-      "name": "psyc_diclofensine",
-      "psychonaut_name": null,
-      "tripsit_name": "diclofensine",
-      "dist": 2.6974e-06
-    },
     {
       "name": "trip_Sertraline",
       "psychonaut_name": "Sertraline",

@@ -8,7 +8,6 @@
     "win25978"
   ],
   "distances": [
-    3.3036e-06,
     19.895027866,
     22.8467823526,
     23.1443173118,
@@ -20,7 +19,6 @@
     25.0721833888
   ],
   "indices": [
-    606,
     194,
     297,
     193,
@@ -34,12 +32,6 @@
   "name": "psyc_amfonelicacid",
   "svg": "psyc_amfonelicacid.svg",
   "sim": [
-    {
-      "name": "psyc_amfonelicacid",
-      "psychonaut_name": null,
-      "tripsit_name": "amfonelicacid",
-      "dist": 3.3036e-06
-    },
     {
       "name": "trip_JWH-073",
       "psychonaut_name": "JWH-073",

@@ -8,7 +8,6 @@
   ],
   "distances": [
     1.9073e-06,
-    1.9073e-06,
     6.8041521074,
     6.8041521074,
     7.6013098241,
@@ -19,7 +18,6 @@
     18.6374879485
   ],
   "indices": [
-    125,
     434,
     394,
     178,
@@ -33,12 +31,6 @@
   "name": "psyc_clonazolam",
   "svg": "psyc_clonazolam.svg",
   "sim": [
-    {
-      "name": "trip_Clonazolam",
-      "psychonaut_name": "Clonazolam",
-      "tripsit_name": null,
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_clonazolam",
       "psychonaut_name": null,

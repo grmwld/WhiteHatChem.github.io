@@ -30,7 +30,6 @@
     "N-((3s,5s,7s)-adamantan-1-yl)-1-(5-fluoropentyl)-1H-indole-3-carboxamide"
   ],
   "distances": [
-    3.3036e-06,
     11.3210369797,
     19.3155313724,
     19.3155313724,
@@ -42,7 +41,6 @@
     44.9807671031
   ],
   "indices": [
-    290,
     96,
     413,
     86,
@@ -56,12 +54,6 @@
   "name": "trip_STS-135",
   "svg": "trip_STS-135.svg",
   "sim": [
-    {
-      "name": "trip_STS-135",
-      "psychonaut_name": "STS-135",
-      "tripsit_name": null,
-      "dist": 3.3036e-06
-    },
     {
       "name": "trip_APICA",
       "psychonaut_name": "APICA",

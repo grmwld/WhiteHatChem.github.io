@@ -104,7 +104,6 @@
   ],
   "distances": [
     2.336e-06,
-    2.336e-06,
     18.6808539473,
     24.763543633,
     25.0486526096,
@@ -115,7 +114,6 @@
     25.5908797708
   ],
   "indices": [
-    837,
     294,
     628,
     237,
@@ -129,12 +127,6 @@
   "name": "trip_Sertraline",
   "svg": "trip_Sertraline.svg",
   "sim": [
-    {
-      "name": "psyc_sertraline",
-      "psychonaut_name": null,
-      "tripsit_name": "sertraline",
-      "dist": 2.336e-06
-    },
     {
       "name": "trip_Sertraline",
       "psychonaut_name": "Sertraline",

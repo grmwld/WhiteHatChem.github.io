@@ -6,7 +6,6 @@
     "5-meo-bfe"
   ],
   "distances": [
-    1.6518e-06,
     13.0957134659,
     13.0957134659,
     14.26394025,
@@ -18,7 +17,6 @@
     17.6943622123
   ],
   "indices": [
-    482,
     519,
     80,
     601,
@@ -32,12 +30,6 @@
   "name": "psyc_dimemebfe",
   "svg": "psyc_dimemebfe.svg",
   "sim": [
-    {
-      "name": "psyc_dimemebfe",
-      "psychonaut_name": null,
-      "tripsit_name": "dimemebfe",
-      "dist": 1.6518e-06
-    },
     {
       "name": "psyc_5-meo-dmt",
       "psychonaut_name": null,

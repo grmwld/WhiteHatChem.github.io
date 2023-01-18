@@ -86,7 +86,6 @@
   ],
   "distances": [
     3.3036e-06,
-    3.3036e-06,
     9.1958870526,
     9.1958870526,
     11.7353339686,
@@ -97,7 +96,6 @@
     12.6857662426
   ],
   "indices": [
-    770,
     236,
     173,
     738,
@@ -111,12 +109,6 @@
   "name": "trip_Midazolam",
   "svg": "trip_Midazolam.svg",
   "sim": [
-    {
-      "name": "psyc_midazolam",
-      "psychonaut_name": null,
-      "tripsit_name": "midazolam",
-      "dist": 3.3036e-06
-    },
     {
       "name": "trip_Midazolam",
       "psychonaut_name": "Midazolam",

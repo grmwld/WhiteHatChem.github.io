@@ -265,7 +265,6 @@
   ],
   "distances": [
     1.6518e-06,
-    1.6518e-06,
     30.3970299726,
     31.1163224836,
     31.3123167722,
@@ -276,7 +275,6 @@
     31.666761967
   ],
   "indices": [
-    379,
     198,
     801,
     451,
@@ -290,12 +288,6 @@
   "name": "trip_LSA",
   "svg": "trip_LSA.svg",
   "sim": [
-    {
-      "name": "psyc_lsa",
-      "psychonaut_name": null,
-      "tripsit_name": "lsa",
-      "dist": 1.6518e-06
-    },
     {
       "name": "trip_LSA",
       "psychonaut_name": "LSA",

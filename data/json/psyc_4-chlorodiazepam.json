@@ -7,7 +7,6 @@
     "4'-chlorodiazepam"
   ],
   "distances": [
-    1.9073e-06,
     3.932254749,
     3.932254749,
     7.9459603945,
@@ -19,7 +18,6 @@
     17.0639164934
   ],
   "indices": [
-    653,
     605,
     150,
     600,
@@ -33,12 +31,6 @@
   "name": "psyc_4-chlorodiazepam",
   "svg": "psyc_4-chlorodiazepam.svg",
   "sim": [
-    {
-      "name": "psyc_4-chlorodiazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "4-chlorodiazepam",
-      "dist": 1.9073e-06
-    },
     {
       "name": "psyc_diclazepam",
       "psychonaut_name": null,

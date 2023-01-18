@@ -239,7 +239,6 @@
   ],
   "distances": [
     2.6974e-06,
-    2.6974e-06,
     20.9423217687,
     34.6392488873,
     34.6392488873,
@@ -250,7 +249,6 @@
     36.6702938251
   ],
   "indices": [
-    120,
     392,
     219,
     307,
@@ -264,12 +262,6 @@
   "name": "trip_Carisoprodol",
   "svg": "trip_Carisoprodol.svg",
   "sim": [
-    {
-      "name": "trip_Carisoprodol",
-      "psychonaut_name": "Carisoprodol",
-      "tripsit_name": null,
-      "dist": 2.6974e-06
-    },
     {
       "name": "psyc_carisoprodol",
       "psychonaut_name": null,

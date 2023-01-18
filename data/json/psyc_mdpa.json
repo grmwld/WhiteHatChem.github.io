@@ -6,7 +6,6 @@
     "methylenedioxyphenylacetamide"
   ],
   "distances": [
-    1.9073e-06,
     8.0604832219,
     8.0604832219,
     12.1956234195,
@@ -18,7 +17,6 @@
     14.6777316461
   ],
   "indices": [
-    472,
     207,
     492,
     169,
@@ -32,12 +30,6 @@
   "name": "psyc_mdpa",
   "svg": "psyc_mdpa.svg",
   "sim": [
-    {
-      "name": "psyc_mdpa",
-      "psychonaut_name": null,
-      "tripsit_name": "mdpa",
-      "dist": 1.9073e-06
-    },
     {
       "name": "trip_MDEA",
       "psychonaut_name": "MDEA",

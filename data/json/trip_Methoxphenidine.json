@@ -23,7 +23,6 @@
   ],
   "distances": [
     2.336e-06,
-    2.336e-06,
     11.9096399322,
     11.9096399322,
     13.1234327561,
@@ -34,7 +33,6 @@
     21.3828010824
   ],
   "indices": [
-    629,
     228,
     153,
     403,
@@ -48,12 +46,6 @@
   "name": "trip_Methoxphenidine",
   "svg": "trip_Methoxphenidine.svg",
   "sim": [
-    {
-      "name": "psyc_methoxphenidine",
-      "psychonaut_name": null,
-      "tripsit_name": "methoxphenidine",
-      "dist": 2.336e-06
-    },
     {
       "name": "trip_Methoxphenidine",
       "psychonaut_name": "Methoxphenidine",

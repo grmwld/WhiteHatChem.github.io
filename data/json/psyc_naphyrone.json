@@ -4,7 +4,6 @@
   "tripsit_name": "naphyrone",
   "synonyms": null,
   "distances": [
-    2.336e-06,
     13.6006408765,
     14.4838614265,
     15.0621763329,
@@ -16,7 +15,6 @@
     18.2190590467
   ],
   "indices": [
-    467,
     458,
     592,
     405,
@@ -30,12 +28,6 @@
   "name": "psyc_naphyrone",
   "svg": "psyc_naphyrone.svg",
   "sim": [
-    {
-      "name": "psyc_naphyrone",
-      "psychonaut_name": null,
-      "tripsit_name": "naphyrone",
-      "dist": 2.336e-06
-    },
     {
       "name": "psyc_4f-php",
       "psychonaut_name": null,

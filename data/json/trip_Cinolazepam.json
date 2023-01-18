@@ -40,7 +40,6 @@
   ],
   "distances": [
     1.9073e-06,
-    1.9073e-06,
     20.7271639625,
     22.7702881613,
     22.7702881613,
@@ -51,7 +50,6 @@
     26.8725914164
   ],
   "indices": [
-    740,
     122,
     545,
     695,
@@ -65,12 +63,6 @@
   "name": "trip_Cinolazepam",
   "svg": "trip_Cinolazepam.svg",
   "sim": [
-    {
-      "name": "psyc_cinolazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "cinolazepam",
-      "dist": 1.9073e-06
-    },
     {
       "name": "trip_Cinolazepam",
       "psychonaut_name": "Cinolazepam",
