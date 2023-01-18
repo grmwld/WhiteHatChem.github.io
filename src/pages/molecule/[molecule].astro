@@ -16,7 +16,7 @@ interface NPSJsonFile {
     psychonaut_name: string | null
     tripsit_name: string | null
     sim: Array<SimilarMolecule>
-    synonyms: Array<string>
+    synonyms: Array<string> | null
     svg: string
 }
 
@@ -43,10 +43,12 @@ const { name, psychonaut_name, tripsit_name, synonyms, svg, sim } = Astro.props 
                     <a href={`https://psychonautwiki.org/wiki/${psychonaut_name}`} target="_blank">
                         <CompoundName name={psychonaut_name} site="psychonaut"/>
                     </a>
-                    <p class="leading-snug text-sm">
-                        <span class="">Synonyms:</span>
-                        <span class="font-gray font-light text-neutral-800">{synonyms.join(',')}</span>
-                    </p>
+                    {
+                        synonyms && synonyms.length > 0 && <p class="leading-snug text-sm">
+                            <span class="">Synonyms:</span>
+                            <span class="font-gray font-light text-neutral-800">{synonyms.join(',')}</span>
+                        </p>
+                    }
                 </div>
             </div>
 
