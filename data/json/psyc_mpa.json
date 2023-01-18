@@ -1,0 +1,96 @@
+{
+  "inchi": "InChI=1S/C11H17NO/c1-9(12-2)8-10-6-4-5-7-11(10)13-3/h4-7,9,12H,8H2,1-3H3",
+  "psychonaut_name": null,
+  "tripsit_name": "mpa",
+  "synonyms": [
+    "methiopropamine"
+  ],
+  "distances": [
+    1.9073e-06,
+    4.3265501387,
+    11.2240528548,
+    11.3120208133,
+    11.3626454091,
+    11.3626454091,
+    11.4159279095,
+    11.4159279095,
+    11.4556900212,
+    11.7866729479
+  ],
+  "indices": [
+    690,
+    262,
+    831,
+    508,
+    638,
+    14,
+    344,
+    44,
+    716,
+    62
+  ],
+  "name": "psyc_mpa",
+  "svg": "psyc_mpa.svg",
+  "sim": [
+    {
+      "name": "psyc_mpa",
+      "psychonaut_name": null,
+      "tripsit_name": "mpa",
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "trip_PMMA",
+      "psychonaut_name": "PMMA",
+      "tripsit_name": null,
+      "dist": 4.3265501387
+    },
+    {
+      "name": "psyc_3-meomc",
+      "psychonaut_name": null,
+      "tripsit_name": "3-meomc",
+      "dist": 11.2240528548
+    },
+    {
+      "name": "psyc_4-cma",
+      "psychonaut_name": null,
+      "tripsit_name": "4-cma",
+      "dist": 11.3120208133
+    },
+    {
+      "name": "psyc_2-fma",
+      "psychonaut_name": null,
+      "tripsit_name": "2-fma",
+      "dist": 11.3626454091
+    },
+    {
+      "name": "trip_2-FMA",
+      "psychonaut_name": "2-FMA",
+      "tripsit_name": null,
+      "dist": 11.3626454091
+    },
+    {
+      "name": "psyc_3-fma",
+      "psychonaut_name": null,
+      "tripsit_name": "3-fma",
+      "dist": 11.4159279095
+    },
+    {
+      "name": "trip_3-FMA",
+      "psychonaut_name": "3-FMA",
+      "tripsit_name": null,
+      "dist": 11.4159279095
+    },
+    {
+      "name": "psyc_methedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "methedrone",
+      "dist": 11.4556900212
+    },
+    {
+      "name": "trip_4-FMA",
+      "psychonaut_name": "4-FMA",
+      "tripsit_name": null,
+      "dist": 11.7866729479
+    }
+  ]
+}

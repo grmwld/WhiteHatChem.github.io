@@ -1,0 +1,97 @@
+{
+  "inchi": "InChI=1S/C12H17NO2/c1-3-10(13-2)6-9-4-5-11-12(7-9)15-8-14-11/h4-5,7,10,13H,3,6,8H2,1-2H3",
+  "psychonaut_name": null,
+  "tripsit_name": "mbdb",
+  "synonyms": [
+    "eden",
+    "methyl-j"
+  ],
+  "distances": [
+    0.0,
+    8.0593459,
+    8.0593459,
+    9.7559448116,
+    9.7559448116,
+    10.6511880704,
+    10.6511880704,
+    12.183550542,
+    12.9082774493,
+    12.9095788685
+  ],
+  "indices": [
+    488,
+    208,
+    609,
+    207,
+    492,
+    115,
+    531,
+    430,
+    479,
+    472
+  ],
+  "name": "psyc_mbdb",
+  "svg": "psyc_mbdb.svg",
+  "sim": [
+    {
+      "name": "psyc_mbdb",
+      "psychonaut_name": null,
+      "tripsit_name": "mbdb",
+      "dist": 0.0
+    },
+    {
+      "name": "trip_MDMA",
+      "psychonaut_name": "MDMA",
+      "tripsit_name": null,
+      "dist": 8.0593459
+    },
+    {
+      "name": "psyc_mdma",
+      "psychonaut_name": null,
+      "tripsit_name": "mdma",
+      "dist": 8.0593459
+    },
+    {
+      "name": "trip_MDEA",
+      "psychonaut_name": "MDEA",
+      "tripsit_name": null,
+      "dist": 9.7559448116
+    },
+    {
+      "name": "psyc_mdea",
+      "psychonaut_name": null,
+      "tripsit_name": "mdea",
+      "dist": 9.7559448116
+    },
+    {
+      "name": "trip_Butylone",
+      "psychonaut_name": "Butylone",
+      "tripsit_name": null,
+      "dist": 10.6511880704
+    },
+    {
+      "name": "psyc_butylone",
+      "psychonaut_name": null,
+      "tripsit_name": "butylone",
+      "dist": 10.6511880704
+    },
+    {
+      "name": "psyc_5-mapdb",
+      "psychonaut_name": null,
+      "tripsit_name": "5-mapdb",
+      "dist": 12.183550542
+    },
+    {
+      "name": "psyc_mdoh",
+      "psychonaut_name": null,
+      "tripsit_name": "mdoh",
+      "dist": 12.9082774493
+    },
+    {
+      "name": "psyc_mdpa",
+      "psychonaut_name": null,
+      "tripsit_name": "mdpa",
+      "dist": 12.9095788685
+    }
+  ]
+}

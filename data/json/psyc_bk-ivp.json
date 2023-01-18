@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C16H23NO/c1-3-6-15(17-4-2)16(18)14-10-9-12-7-5-8-13(12)11-14/h9-11,15,17H,3-8H2,1-2H3",
+  "psychonaut_name": null,
+  "tripsit_name": "bk-ivp",
+  "synonyms": null,
+  "distances": [
+    0.0,
+    16.8046466396,
+    17.0716336016,
+    17.0716336016,
+    17.3756551276,
+    17.6131577986,
+    17.6131577986,
+    17.7171068186,
+    17.7978884012,
+    17.7978884012
+  ],
+  "indices": [
+    666,
+    161,
+    91,
+    617,
+    361,
+    493,
+    242,
+    458,
+    375,
+    718
+  ],
+  "name": "psyc_bk-ivp",
+  "svg": "psyc_bk-ivp.svg",
+  "sim": [
+    {
+      "name": "psyc_bk-ivp",
+      "psychonaut_name": null,
+      "tripsit_name": "bk-ivp",
+      "dist": 0.0
+    },
+    {
+      "name": "trip_Ephylone",
+      "psychonaut_name": "Ephylone",
+      "tripsit_name": null,
+      "dist": 16.8046466396
+    },
+    {
+      "name": "trip_A-PHP",
+      "psychonaut_name": "A-PHP",
+      "tripsit_name": null,
+      "dist": 17.0716336016
+    },
+    {
+      "name": "psyc_alpha-php",
+      "psychonaut_name": null,
+      "tripsit_name": "alpha-php",
+      "dist": 17.0716336016
+    },
+    {
+      "name": "psyc_4-cbc",
+      "psychonaut_name": null,
+      "tripsit_name": "4-cbc",
+      "dist": 17.3756551276
+    },
+    {
+      "name": "psyc_hexen",
+      "psychonaut_name": null,
+      "tripsit_name": "hexen",
+      "dist": 17.6131577986
+    },
+    {
+      "name": "trip_N-Ethylhexedrone",
+      "psychonaut_name": "N-Ethylhexedrone",
+      "tripsit_name": null,
+      "dist": 17.6131577986
+    },
+    {
+      "name": "psyc_4f-php",
+      "psychonaut_name": null,
+      "tripsit_name": "4f-php",
+      "dist": 17.7171068186
+    },
+    {
+      "name": "psyc_4-epd",
+      "psychonaut_name": null,
+      "tripsit_name": "4-epd",
+      "dist": 17.7978884012
+    },
+    {
+      "name": "psyc_ethyl-pentedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "ethyl-pentedrone",
+      "dist": 17.7978884012
+    }
+  ]
+}

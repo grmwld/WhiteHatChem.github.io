@@ -1,0 +1,102 @@
+{
+  "inchi": "InChI=1S/C7H5NO3S/c9-7-5-3-1-2-4-6(5)12(10,11)8-7/h1-4H,(H,8,9)",
+  "psychonaut_name": null,
+  "tripsit_name": "lsa",
+  "synonyms": [
+    "hbwr",
+    "morningglory",
+    "hbmg",
+    "Morning",
+    "ololiuqui",
+    "morning_glory",
+    "hbw"
+  ],
+  "distances": [
+    1.6518e-06,
+    1.6518e-06,
+    30.3970299726,
+    31.1163224836,
+    31.3123167722,
+    31.3123167722,
+    31.5057096605,
+    31.5057096605,
+    31.666761967,
+    31.666761967
+  ],
+  "indices": [
+    379,
+    198,
+    801,
+    451,
+    245,
+    693,
+    575,
+    270,
+    11,
+    416
+  ],
+  "name": "psyc_lsa",
+  "svg": "psyc_lsa.svg",
+  "sim": [
+    {
+      "name": "psyc_lsa",
+      "psychonaut_name": null,
+      "tripsit_name": "lsa",
+      "dist": 1.6518e-06
+    },
+    {
+      "name": "trip_LSA",
+      "psychonaut_name": "LSA",
+      "tripsit_name": null,
+      "dist": 1.6518e-06
+    },
+    {
+      "name": "psyc_pemoline",
+      "psychonaut_name": null,
+      "tripsit_name": "pemoline",
+      "dist": 30.3970299726
+    },
+    {
+      "name": "psyc_aminorex",
+      "psychonaut_name": null,
+      "tripsit_name": "aminorex",
+      "dist": 31.1163224836
+    },
+    {
+      "name": "trip_NM-2-AI",
+      "psychonaut_name": "NM-2-AI",
+      "tripsit_name": null,
+      "dist": 31.3123167722
+    },
+    {
+      "name": "psyc_nm-2-ai",
+      "psychonaut_name": null,
+      "tripsit_name": "nm-2-ai",
+      "dist": 31.3123167722
+    },
+    {
+      "name": "psyc_phenethylamine",
+      "psychonaut_name": null,
+      "tripsit_name": "phenethylamine",
+      "dist": 31.5057096605
+    },
+    {
+      "name": "trip_Phenethylamine (compound)",
+      "psychonaut_name": "Phenethylamine (compound)",
+      "tripsit_name": null,
+      "dist": 31.5057096605
+    },
+    {
+      "name": "trip_2-Aminoindane",
+      "psychonaut_name": "2-Aminoindane",
+      "tripsit_name": null,
+      "dist": 31.666761967
+    },
+    {
+      "name": "psyc_2-ai",
+      "psychonaut_name": null,
+      "tripsit_name": "2-ai",
+      "dist": 31.666761967
+    }
+  ]
+}

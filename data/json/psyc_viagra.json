@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C22H30N6O4S.C6H8O7/c1-5-7-17-19-20(27(4)25-17)22(29)24-21(23-19)16-14-15(8-9-18(16)32-6-2)33(30,31)28-12-10-26(3)11-13-28;7-3(8)1-6(13,5(11)12)2-4(9)10/h8-9,14H,5-7,10-13H2,1-4H3,(H,23,24,29);13H,1-2H2,(H,7,8)(H,9,10)(H,11,12)",
+  "psychonaut_name": null,
+  "tripsit_name": "viagra",
+  "synonyms": null,
+  "distances": [
+    6.0316e-06,
+    58.7528506622,
+    59.3152289612,
+    67.7693266945,
+    71.0566352296,
+    71.4707688554,
+    71.7726581166,
+    72.7839435687,
+    73.6323578401,
+    76.46695569
+  ],
+  "indices": [
+    532,
+    454,
+    515,
+    162,
+    646,
+    777,
+    529,
+    116,
+    6,
+    3
+  ],
+  "name": "psyc_viagra",
+  "svg": "psyc_viagra.svg",
+  "sim": [
+    {
+      "name": "psyc_viagra",
+      "psychonaut_name": null,
+      "tripsit_name": "viagra",
+      "dist": 6.0316e-06
+    },
+    {
+      "name": "psyc_acetildenafil",
+      "psychonaut_name": null,
+      "tripsit_name": "acetildenafil",
+      "dist": 58.7528506622
+    },
+    {
+      "name": "psyc_homosildenafil",
+      "psychonaut_name": null,
+      "tripsit_name": "homosildenafil",
+      "dist": 59.3152289612
+    },
+    {
+      "name": "trip_Ergotamine",
+      "psychonaut_name": "Ergotamine",
+      "tripsit_name": null,
+      "dist": 67.7693266945
+    },
+    {
+      "name": "psyc_nicomorphine",
+      "psychonaut_name": null,
+      "tripsit_name": "nicomorphine",
+      "dist": 71.0566352296
+    },
+    {
+      "name": "psyc_dramamine",
+      "psychonaut_name": null,
+      "tripsit_name": "dramamine",
+      "dist": 71.4707688554
+    },
+    {
+      "name": "psyc_rilmazafone",
+      "psychonaut_name": null,
+      "tripsit_name": "rilmazafone",
+      "dist": 71.7726581166
+    },
+    {
+      "name": "trip_Cabergoline",
+      "psychonaut_name": "Cabergoline",
+      "tripsit_name": null,
+      "dist": 72.7839435687
+    },
+    {
+      "name": "trip_1V-LSD",
+      "psychonaut_name": "1V-LSD",
+      "tripsit_name": null,
+      "dist": 73.6323578401
+    },
+    {
+      "name": "trip_1B-LSD",
+      "psychonaut_name": "1B-LSD",
+      "tripsit_name": null,
+      "dist": 76.46695569
+    }
+  ]
+}

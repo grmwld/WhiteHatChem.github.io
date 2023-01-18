@@ -1,0 +1,146 @@
+{
+  "inchi": "InChI=1S/C11H17NO2/c1-8(12)6-9-7-10(13-2)4-5-11(9)14-3/h4-5,7-8H,6,12H2,1-3H3",
+  "psychonaut_name": "2,5-DMA",
+  "tripsit_name": null,
+  "synonyms": [
+    "1-(2,5-Dimethoxyphenyl)-2-aminopropane",
+    "1-(2,5-dimethoxyphenyl)propan-2-amine",
+    "Phenethylamine, 2,5-dimethoxy-.alpha.-methyl-",
+    "BDBM50005251",
+    "NCI60_003383",
+    "Phenethylamine, 2,5-dimethoxy-alpha-methyl-",
+    "DEA No. 7396",
+    "2,5-Dimethoxy-.alpha.-methylphenethylamine",
+    "L000883",
+    "2801-68-5",
+    "Benzeneethanamine, 2,5-dimethoxy-.alpha.-methyl-",
+    "Benzeneethanamine,2,5-Dimethoxy-a-Methyl-(.+/-.)-",
+    "2,5-Dimethoxyamphetamine",
+    "2,5-DIMETHOXYAMPHETAMINE, (+/-)",
+    "1-(2,5-Dimethoxyphenyl)isopropylamine",
+    "NCGC00168269-01",
+    "2,5-dimethoxy-amphetamine",
+    "(+/-)-2,5-DIMETHOXYAMPHETAMINE",
+    "NCGC00168269-02",
+    "Benzeneethanamine, 2,5-dimethoxy-alpha-methyl-",
+    "2,5-Dimethoxy-alpha-methylphenethylamine",
+    "EINECS 220-540-2",
+    "13641-74-2",
+    "BENZENEETHANAMINE, 2,5-DIMETHOXY-.ALPHA.-METHYL-, (+/-)",
+    "DTXSID2091540",
+    "J46.485F",
+    "DB-002342",
+    "DMA",
+    "(+/-) -1-(2,5-Dimethoxyphenyl)-2-aminopropane",
+    "C-1739",
+    "Benzeneethanamine,2,5-dimethoxy-.alpha.-methyl-(.+/-.)-",
+    "(+/-)2-(2,5-Dimethoxy-phenyl)-1-methyl-ethylamine",
+    "Amphetamine, 2,5-dimethoxy",
+    "A819285",
+    "UNII-OIM1536TQQ",
+    "U-10,648",
+    "DB01465",
+    "Dimethoxyamphetamine, 2,5-",
+    "Q27092772",
+    "2,5-Dimethoxy-alpha-methylbenzeneethanamine",
+    "OIM1536TQQ",
+    "2,5-DIMETHOXY-ALPHA-METHYL-BENZENEETHANAMINE",
+    "2-(2,5-Dimethoxy-phenyl)-1-methyl-ethylamine",
+    "SCHEMBL1740902",
+    "DOH",
+    "2,5-DMA",
+    "2-(2,5-Dimethoxy-phenyl)-1-methyl-ethylamine(2,5-DMA)",
+    "2-(2-Aminopropyl)hydroquinone dimethyl ether",
+    "Benzeneethanamine, 2,5-dimethoxy-.alpha.,-methyl",
+    "CHEMBL8642",
+    "1-(2,5-Dimethoxyphenyl)-2-propanamine"
+  ],
+  "distances": [
+    1.6518e-06,
+    7.9793264773,
+    7.9793264773,
+    9.3922785923,
+    9.3922785923,
+    11.3263279825,
+    11.3263279825,
+    11.649132404,
+    12.4331255557,
+    12.4331255557
+  ],
+  "indices": [
+    10,
+    138,
+    667,
+    135,
+    581,
+    597,
+    137,
+    412,
+    701,
+    301
+  ],
+  "name": "trip_2,5-DMA",
+  "svg": "trip_2,5-DMA.svg",
+  "sim": [
+    {
+      "name": "trip_2,5-DMA",
+      "psychonaut_name": "2,5-DMA",
+      "tripsit_name": null,
+      "dist": 1.6518e-06
+    },
+    {
+      "name": "trip_DOM",
+      "psychonaut_name": "DOM",
+      "tripsit_name": null,
+      "dist": 7.9793264773
+    },
+    {
+      "name": "psyc_dom",
+      "psychonaut_name": null,
+      "tripsit_name": "dom",
+      "dist": 7.9793264773
+    },
+    {
+      "name": "trip_DOB",
+      "psychonaut_name": "DOB",
+      "tripsit_name": null,
+      "dist": 9.3922785923
+    },
+    {
+      "name": "psyc_dob",
+      "psychonaut_name": null,
+      "tripsit_name": "dob",
+      "dist": 9.3922785923
+    },
+    {
+      "name": "psyc_doi",
+      "psychonaut_name": null,
+      "tripsit_name": "doi",
+      "dist": 11.3263279825
+    },
+    {
+      "name": "trip_DOI",
+      "psychonaut_name": "DOI",
+      "tripsit_name": null,
+      "dist": 11.3263279825
+    },
+    {
+      "name": "psyc_doet",
+      "psychonaut_name": null,
+      "tripsit_name": "doet",
+      "dist": 11.649132404
+    },
+    {
+      "name": "psyc_tma-6",
+      "psychonaut_name": null,
+      "tripsit_name": "tma-6",
+      "dist": 12.4331255557
+    },
+    {
+      "name": "trip_TMA-6",
+      "psychonaut_name": "TMA-6",
+      "tripsit_name": null,
+      "dist": 12.4331255557
+    }
+  ]
+}

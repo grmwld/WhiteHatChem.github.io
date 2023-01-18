@@ -1,0 +1,98 @@
+{
+  "inchi": "InChI=1S/C11H12N2O3/c12-9(11(15)16)3-6-5-13-10-2-1-7(14)4-8(6)10/h1-2,4-5,9,13-14H,3,12H2,(H,15,16)/t9-/m0/s1",
+  "psychonaut_name": "5-Hydroxytryptophan",
+  "tripsit_name": null,
+  "synonyms": [
+    "5-Hydroxytryptophan",
+    "\u03b1-Carboxy-5-hydroxytryptamine",
+    "5-HTP"
+  ],
+  "distances": [
+    0.0,
+    0.0,
+    16.3444119205,
+    20.0009635693,
+    20.0009635693,
+    20.1321849437,
+    20.1321849437,
+    21.2762339502,
+    21.9093027641,
+    21.9435880641
+  ],
+  "indices": [
+    77,
+    835,
+    315,
+    764,
+    85,
+    321,
+    627,
+    509,
+    364,
+    420
+  ],
+  "name": "trip_5-Hydroxytryptophan",
+  "svg": "trip_5-Hydroxytryptophan.svg",
+  "sim": [
+    {
+      "name": "trip_5-Hydroxytryptophan",
+      "psychonaut_name": "5-Hydroxytryptophan",
+      "tripsit_name": null,
+      "dist": 0.0
+    },
+    {
+      "name": "psyc_5-htp",
+      "psychonaut_name": null,
+      "tripsit_name": "5-htp",
+      "dist": 0.0
+    },
+    {
+      "name": "trip_Tyrosine",
+      "psychonaut_name": "Tyrosine",
+      "tripsit_name": null,
+      "dist": 16.3444119205
+    },
+    {
+      "name": "psyc_5-meo-amt",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-amt",
+      "dist": 20.0009635693
+    },
+    {
+      "name": "trip_5-MeO-aMT",
+      "psychonaut_name": "5-MeO-aMT",
+      "tripsit_name": null,
+      "dist": 20.0009635693
+    },
+    {
+      "name": "trip_\u0391MT",
+      "psychonaut_name": "\u0391MT",
+      "tripsit_name": null,
+      "dist": 20.1321849437
+    },
+    {
+      "name": "psyc_amt",
+      "psychonaut_name": null,
+      "tripsit_name": "amt",
+      "dist": 20.1321849437
+    },
+    {
+      "name": "psyc_5-it",
+      "psychonaut_name": null,
+      "tripsit_name": "5-it",
+      "dist": 21.2762339502
+    },
+    {
+      "name": "psyc_tolibut",
+      "psychonaut_name": null,
+      "tripsit_name": "tolibut",
+      "dist": 21.9093027641
+    },
+    {
+      "name": "psyc_fluorophenibut",
+      "psychonaut_name": null,
+      "tripsit_name": "fluorophenibut",
+      "dist": 21.9435880641
+    }
+  ]
+}

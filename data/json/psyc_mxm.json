@@ -1,0 +1,96 @@
+{
+  "inchi": "InChI=1S/C14H19NO2/c1-15-14(9-4-3-8-13(14)16)11-6-5-7-12(10-11)17-2/h5-7,10,15H,3-4,8-9H2,1-2H3",
+  "psychonaut_name": null,
+  "tripsit_name": "mxm",
+  "synonyms": [
+    "methoxmetamine"
+  ],
+  "distances": [
+    0.0,
+    4.6438026723,
+    10.0541415359,
+    10.0541415359,
+    11.5758830382,
+    11.5758830382,
+    11.8161066594,
+    11.8161066594,
+    11.9728856524,
+    11.9728856524
+  ],
+  "indices": [
+    599,
+    671,
+    669,
+    227,
+    196,
+    590,
+    510,
+    15,
+    730,
+    141
+  ],
+  "name": "psyc_mxm",
+  "svg": "psyc_mxm.svg",
+  "sim": [
+    {
+      "name": "psyc_mxm",
+      "psychonaut_name": null,
+      "tripsit_name": "mxm",
+      "dist": 0.0
+    },
+    {
+      "name": "psyc_methoxyketamine",
+      "psychonaut_name": null,
+      "tripsit_name": "methoxyketamine",
+      "dist": 4.6438026723
+    },
+    {
+      "name": "psyc_mxe",
+      "psychonaut_name": null,
+      "tripsit_name": "mxe",
+      "dist": 10.0541415359
+    },
+    {
+      "name": "trip_Methoxetamine",
+      "psychonaut_name": "Methoxetamine",
+      "tripsit_name": null,
+      "dist": 10.0541415359
+    },
+    {
+      "name": "trip_Ketamine",
+      "psychonaut_name": "Ketamine",
+      "tripsit_name": null,
+      "dist": 11.5758830382
+    },
+    {
+      "name": "psyc_ketamine",
+      "psychonaut_name": null,
+      "tripsit_name": "ketamine",
+      "dist": 11.5758830382
+    },
+    {
+      "name": "psyc_2-fdck",
+      "psychonaut_name": null,
+      "tripsit_name": "2-fdck",
+      "dist": 11.8161066594
+    },
+    {
+      "name": "trip_2-Fluorodeschloroketamine",
+      "psychonaut_name": "2-Fluorodeschloroketamine",
+      "tripsit_name": null,
+      "dist": 11.8161066594
+    },
+    {
+      "name": "psyc_deschloroketamine",
+      "psychonaut_name": null,
+      "tripsit_name": "deschloroketamine",
+      "dist": 11.9728856524
+    },
+    {
+      "name": "trip_Deschloroketamine",
+      "psychonaut_name": "Deschloroketamine",
+      "tripsit_name": null,
+      "dist": 11.9728856524
+    }
+  ]
+}

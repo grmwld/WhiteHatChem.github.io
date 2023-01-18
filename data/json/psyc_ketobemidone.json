@@ -1,0 +1,96 @@
+{
+  "inchi": "InChI=1S/C15H21NO2/c1-3-14(18)15(7-9-16(2)10-8-15)12-5-4-6-13(17)11-12/h4-6,11,17H,3,7-10H2,1-2H3",
+  "psychonaut_name": null,
+  "tripsit_name": "ketobemidone",
+  "synonyms": [
+    "kbd"
+  ],
+  "distances": [
+    2.6974e-06,
+    13.0715458408,
+    13.0715458408,
+    17.4213853981,
+    17.4213853981,
+    18.3631994022,
+    18.3631994022,
+    18.3849539233,
+    18.3849539233,
+    19.3894138988
+  ],
+  "indices": [
+    566,
+    769,
+    268,
+    778,
+    46,
+    362,
+    51,
+    669,
+    227,
+    251
+  ],
+  "name": "psyc_ketobemidone",
+  "svg": "psyc_ketobemidone.svg",
+  "sim": [
+    {
+      "name": "psyc_ketobemidone",
+      "psychonaut_name": null,
+      "tripsit_name": "ketobemidone",
+      "dist": 2.6974e-06
+    },
+    {
+      "name": "psyc_demerol",
+      "psychonaut_name": null,
+      "tripsit_name": "demerol",
+      "dist": 13.0715458408
+    },
+    {
+      "name": "trip_Pethidine",
+      "psychonaut_name": "Pethidine",
+      "tripsit_name": null,
+      "dist": 13.0715458408
+    },
+    {
+      "name": "psyc_3-ho-pce",
+      "psychonaut_name": null,
+      "tripsit_name": "3-ho-pce",
+      "dist": 17.4213853981
+    },
+    {
+      "name": "trip_3-HO-PCE",
+      "psychonaut_name": "3-HO-PCE",
+      "tripsit_name": null,
+      "dist": 17.4213853981
+    },
+    {
+      "name": "psyc_3-meo-pce",
+      "psychonaut_name": null,
+      "tripsit_name": "3-meo-pce",
+      "dist": 18.3631994022
+    },
+    {
+      "name": "trip_3-MeO-PCE",
+      "psychonaut_name": "3-MeO-PCE",
+      "tripsit_name": null,
+      "dist": 18.3631994022
+    },
+    {
+      "name": "psyc_mxe",
+      "psychonaut_name": null,
+      "tripsit_name": "mxe",
+      "dist": 18.3849539233
+    },
+    {
+      "name": "trip_Methoxetamine",
+      "psychonaut_name": "Methoxetamine",
+      "tripsit_name": null,
+      "dist": 18.3849539233
+    },
+    {
+      "name": "trip_O-PCE",
+      "psychonaut_name": "O-PCE",
+      "tripsit_name": null,
+      "dist": 19.3894138988
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C18H22N2/c1-19-12-14-20(15-13-19)18(16-8-4-2-5-9-16)17-10-6-3-7-11-17/h2-11,18H,12-15H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "cyclizine",
+  "synonyms": null,
+  "distances": [
+    2.6974e-06,
+    13.2616307296,
+    13.2616307296,
+    14.3590902107,
+    15.0357215242,
+    16.9174415649,
+    16.9174415649,
+    20.6658575248,
+    20.6658575248,
+    21.46654658
+  ],
+  "indices": [
+    814,
+    403,
+    153,
+    550,
+    592,
+    629,
+    228,
+    783,
+    143,
+    237
+  ],
+  "name": "psyc_cyclizine",
+  "svg": "psyc_cyclizine.svg",
+  "sim": [
+    {
+      "name": "psyc_cyclizine",
+      "psychonaut_name": null,
+      "tripsit_name": "cyclizine",
+      "dist": 2.6974e-06
+    },
+    {
+      "name": "psyc_diphenidine",
+      "psychonaut_name": null,
+      "tripsit_name": "diphenidine",
+      "dist": 13.2616307296
+    },
+    {
+      "name": "trip_Diphenidine",
+      "psychonaut_name": "Diphenidine",
+      "tripsit_name": null,
+      "dist": 13.2616307296
+    },
+    {
+      "name": "psyc_fluorolintane",
+      "psychonaut_name": null,
+      "tripsit_name": "fluorolintane",
+      "dist": 14.3590902107
+    },
+    {
+      "name": "psyc_pyrophenidone",
+      "psychonaut_name": null,
+      "tripsit_name": "pyrophenidone",
+      "dist": 15.0357215242
+    },
+    {
+      "name": "psyc_methoxphenidine",
+      "psychonaut_name": null,
+      "tripsit_name": "methoxphenidine",
+      "dist": 16.9174415649
+    },
+    {
+      "name": "trip_Methoxphenidine",
+      "psychonaut_name": "Methoxphenidine",
+      "tripsit_name": null,
+      "dist": 16.9174415649
+    },
+    {
+      "name": "psyc_2-dpmp",
+      "psychonaut_name": null,
+      "tripsit_name": "2-dpmp",
+      "dist": 20.6658575248
+    },
+    {
+      "name": "trip_Desoxypipradrol",
+      "psychonaut_name": "Desoxypipradrol",
+      "tripsit_name": null,
+      "dist": 20.6658575248
+    },
+    {
+      "name": "trip_Mirtazapine",
+      "psychonaut_name": "Mirtazapine",
+      "tripsit_name": null,
+      "dist": 21.46654658
+    }
+  ]
+}

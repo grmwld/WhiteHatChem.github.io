@@ -1,0 +1,96 @@
+{
+  "inchi": "InChI=1S/C9H10IN/c10-8-2-1-6-4-9(11)5-7(6)3-8/h1-3,9H,4-5,11H2",
+  "psychonaut_name": null,
+  "tripsit_name": "5-iai",
+  "synonyms": [
+    "5iai"
+  ],
+  "distances": [
+    1.3487e-06,
+    10.9856070944,
+    10.9856070944,
+    15.7715645557,
+    15.7715645557,
+    20.978604271,
+    20.978604271,
+    20.9921046356,
+    20.9921046356,
+    21.305328505
+  ],
+  "indices": [
+    589,
+    416,
+    11,
+    245,
+    693,
+    206,
+    733,
+    763,
+    247,
+    451
+  ],
+  "name": "psyc_5-iai",
+  "svg": "psyc_5-iai.svg",
+  "sim": [
+    {
+      "name": "psyc_5-iai",
+      "psychonaut_name": null,
+      "tripsit_name": "5-iai",
+      "dist": 1.3487e-06
+    },
+    {
+      "name": "psyc_2-ai",
+      "psychonaut_name": null,
+      "tripsit_name": "2-ai",
+      "dist": 10.9856070944
+    },
+    {
+      "name": "trip_2-Aminoindane",
+      "psychonaut_name": "2-Aminoindane",
+      "tripsit_name": null,
+      "dist": 10.9856070944
+    },
+    {
+      "name": "trip_NM-2-AI",
+      "psychonaut_name": "NM-2-AI",
+      "tripsit_name": null,
+      "dist": 15.7715645557
+    },
+    {
+      "name": "psyc_nm-2-ai",
+      "psychonaut_name": null,
+      "tripsit_name": "nm-2-ai",
+      "dist": 15.7715645557
+    },
+    {
+      "name": "trip_MDAI",
+      "psychonaut_name": "MDAI",
+      "tripsit_name": null,
+      "dist": 20.978604271
+    },
+    {
+      "name": "psyc_mdai",
+      "psychonaut_name": null,
+      "tripsit_name": "mdai",
+      "dist": 20.978604271
+    },
+    {
+      "name": "psyc_nicotine",
+      "psychonaut_name": null,
+      "tripsit_name": "nicotine",
+      "dist": 20.9921046356
+    },
+    {
+      "name": "trip_Nicotine",
+      "psychonaut_name": "Nicotine",
+      "tripsit_name": null,
+      "dist": 20.9921046356
+    },
+    {
+      "name": "psyc_aminorex",
+      "psychonaut_name": null,
+      "tripsit_name": "aminorex",
+      "dist": 21.305328505
+    }
+  ]
+}

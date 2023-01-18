@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C12H15BrN2/c1-15(2)6-5-9-8-14-12-4-3-10(13)7-11(9)12/h3-4,7-8,14H,5-6H2,1-2H3",
+  "psychonaut_name": null,
+  "tripsit_name": "5-br-dmt",
+  "synonyms": null,
+  "distances": [
+    1.6518e-06,
+    9.1332953385,
+    9.1332953385,
+    9.5215102163,
+    9.9718441362,
+    9.9718441362,
+    11.5999966062,
+    11.5999966062,
+    12.4689537548,
+    13.3471452382
+  ],
+  "indices": [
+    641,
+    796,
+    134,
+    113,
+    423,
+    285,
+    80,
+    519,
+    799,
+    67
+  ],
+  "name": "psyc_5-br-dmt",
+  "svg": "psyc_5-br-dmt.svg",
+  "sim": [
+    {
+      "name": "psyc_5-br-dmt",
+      "psychonaut_name": null,
+      "tripsit_name": "5-br-dmt",
+      "dist": 1.6518e-06
+    },
+    {
+      "name": "psyc_dmt",
+      "psychonaut_name": null,
+      "tripsit_name": "dmt",
+      "dist": 9.1332953385
+    },
+    {
+      "name": "trip_DMT",
+      "psychonaut_name": "DMT",
+      "tripsit_name": null,
+      "dist": 9.1332953385
+    },
+    {
+      "name": "trip_Bufotenin",
+      "psychonaut_name": "Bufotenin",
+      "tripsit_name": null,
+      "dist": 9.5215102163
+    },
+    {
+      "name": "psyc_psilocin",
+      "psychonaut_name": null,
+      "tripsit_name": "psilocin",
+      "dist": 9.9718441362
+    },
+    {
+      "name": "trip_Psilocin",
+      "psychonaut_name": "Psilocin",
+      "tripsit_name": null,
+      "dist": 9.9718441362
+    },
+    {
+      "name": "trip_5-MeO-DMT",
+      "psychonaut_name": "5-MeO-DMT",
+      "tripsit_name": null,
+      "dist": 11.5999966062
+    },
+    {
+      "name": "psyc_5-meo-dmt",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-dmt",
+      "dist": 11.5999966062
+    },
+    {
+      "name": "psyc_2-me-dmt",
+      "psychonaut_name": null,
+      "tripsit_name": "2-me-dmt",
+      "dist": 12.4689537548
+    },
+    {
+      "name": "trip_4-HO-MET",
+      "psychonaut_name": "4-HO-MET",
+      "tripsit_name": null,
+      "dist": 13.3471452382
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C10H15NO/c1-8(11-2)10(12)9-6-4-3-5-7-9/h3-8,10-12H,1-2H3/t8-,10-/m0/s1",
+  "psychonaut_name": null,
+  "tripsit_name": "ephedrine",
+  "synonyms": null,
+  "distances": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    12.6268635498,
+    12.6268635498,
+    13.9802728358,
+    13.9802728358,
+    14.0053531766,
+    14.0161394006
+  ],
+  "indices": [
+    530,
+    284,
+    645,
+    159,
+    684,
+    223,
+    14,
+    638,
+    508,
+    44
+  ],
+  "name": "psyc_ephedrine",
+  "svg": "psyc_ephedrine.svg",
+  "sim": [
+    {
+      "name": "psyc_pseudoephedrine",
+      "psychonaut_name": null,
+      "tripsit_name": "pseudoephedrine",
+      "dist": 0.0
+    },
+    {
+      "name": "trip_Pseudoephedrine",
+      "psychonaut_name": "Pseudoephedrine",
+      "tripsit_name": null,
+      "dist": 0.0
+    },
+    {
+      "name": "psyc_ephedrine",
+      "psychonaut_name": null,
+      "tripsit_name": "ephedrine",
+      "dist": 0.0
+    },
+    {
+      "name": "trip_Ephedrine",
+      "psychonaut_name": "Ephedrine",
+      "tripsit_name": null,
+      "dist": 0.0
+    },
+    {
+      "name": "psyc_methamphetamine",
+      "psychonaut_name": null,
+      "tripsit_name": "methamphetamine",
+      "dist": 12.6268635498
+    },
+    {
+      "name": "trip_Methamphetamine",
+      "psychonaut_name": "Methamphetamine",
+      "tripsit_name": null,
+      "dist": 12.6268635498
+    },
+    {
+      "name": "trip_2-FMA",
+      "psychonaut_name": "2-FMA",
+      "tripsit_name": null,
+      "dist": 13.9802728358
+    },
+    {
+      "name": "psyc_2-fma",
+      "psychonaut_name": null,
+      "tripsit_name": "2-fma",
+      "dist": 13.9802728358
+    },
+    {
+      "name": "psyc_4-cma",
+      "psychonaut_name": null,
+      "tripsit_name": "4-cma",
+      "dist": 14.0053531766
+    },
+    {
+      "name": "trip_3-FMA",
+      "psychonaut_name": "3-FMA",
+      "tripsit_name": null,
+      "dist": 14.0161394006
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "inchi": "InChI=1S/C14H19NO3/c1-3-5-11(15-4-2)14(16)10-6-7-12-13(8-10)18-9-17-12/h6-8,11,15H,3-5,9H2,1-2H3",
+  "psychonaut_name": "Ephylone",
+  "tripsit_name": null,
+  "synonyms": [
+    "MDEVP",
+    "UNII-D3H9D57JV9",
+    "bk-EBDP",
+    "N-Ethylpentylone",
+    "betaK-Ebdp",
+    "bk-ETHYL-K",
+    "Ephylone",
+    "1-(1,3-BENZODIOXOL-5-YL)-2-(ETHYLAMINO)-PENTAN-1-ON",
+    "bk-EPDP",
+    ".BETA.K-ETHYL-K",
+    "DTXSID701336299",
+    "betaK-Ethyl-k",
+    "1-Pentanone, 1-(1,3-benzodioxol-5-yl)-2-(ethylamino)-",
+    "727641-67-0",
+    "D3H9D57JV9",
+    "1-(1,3-Benzodioxole-5-yl)-2-(ethylamino)-1-pentanone",
+    "DEA No. 7543",
+    "J3.645.994H",
+    "N-Ethyl-norpentylone",
+    ".BETA.K-EBDP",
+    "(+/-)-1-(1,3-benzodioxol-5-yl)-2-(ethylamino)pentan-1-one"
+  ],
+  "distances": [
+    2.336e-06,
+    7.3651533181,
+    9.92525164,
+    9.92525164,
+    13.084662951,
+    13.084662951,
+    13.6720133922,
+    14.59715607,
+    14.59715607,
+    16.8046466396
+  ],
+  "indices": [
+    161,
+    169,
+    267,
+    567,
+    166,
+    700,
+    472,
+    115,
+    531,
+    666
+  ],
+  "name": "trip_Ephylone",
+  "svg": "trip_Ephylone.svg",
+  "sim": [
+    {
+      "name": "trip_Ephylone",
+      "psychonaut_name": "Ephylone",
+      "tripsit_name": null,
+      "dist": 2.336e-06
+    },
+    {
+      "name": "trip_Eutylone",
+      "psychonaut_name": "Eutylone",
+      "tripsit_name": null,
+      "dist": 7.3651533181
+    },
+    {
+      "name": "trip_Pentylone",
+      "psychonaut_name": "Pentylone",
+      "tripsit_name": null,
+      "dist": 9.92525164
+    },
+    {
+      "name": "psyc_pentylone",
+      "psychonaut_name": null,
+      "tripsit_name": "pentylone",
+      "dist": 9.92525164
+    },
+    {
+      "name": "trip_Ethylone",
+      "psychonaut_name": "Ethylone",
+      "tripsit_name": null,
+      "dist": 13.084662951
+    },
+    {
+      "name": "psyc_ethylone",
+      "psychonaut_name": null,
+      "tripsit_name": "ethylone",
+      "dist": 13.084662951
+    },
+    {
+      "name": "psyc_mdpa",
+      "psychonaut_name": null,
+      "tripsit_name": "mdpa",
+      "dist": 13.6720133922
+    },
+    {
+      "name": "trip_Butylone",
+      "psychonaut_name": "Butylone",
+      "tripsit_name": null,
+      "dist": 14.59715607
+    },
+    {
+      "name": "psyc_butylone",
+      "psychonaut_name": null,
+      "tripsit_name": "butylone",
+      "dist": 14.59715607
+    },
+    {
+      "name": "psyc_bk-ivp",
+      "psychonaut_name": null,
+      "tripsit_name": "bk-ivp",
+      "dist": 16.8046466396
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "inchi": "InChI=1S/C12H15NO/c1-13-8-10-7-6-9-4-2-3-5-11(9)12(10)14/h2-5,10,13H,6-8H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "mephtetramine",
+  "synonyms": [
+    "mtta"
+  ],
+  "distances": [
+    1.3487e-06,
+    16.5449798623,
+    16.5449798623,
+    17.9088880583,
+    18.0415779564,
+    19.012712743,
+    19.1141174869,
+    19.1141174869,
+    19.3162494464,
+    19.3162494464
+  ],
+  "indices": [
+    328,
+    245,
+    693,
+    430,
+    832,
+    656,
+    106,
+    678,
+    497,
+    89
+  ],
+  "name": "psyc_mephtetramine",
+  "svg": "psyc_mephtetramine.svg",
+  "sim": [
+    {
+      "name": "psyc_mephtetramine",
+      "psychonaut_name": null,
+      "tripsit_name": "mephtetramine",
+      "dist": 1.3487e-06
+    },
+    {
+      "name": "trip_NM-2-AI",
+      "psychonaut_name": "NM-2-AI",
+      "tripsit_name": null,
+      "dist": 16.5449798623
+    },
+    {
+      "name": "psyc_nm-2-ai",
+      "psychonaut_name": null,
+      "tripsit_name": "nm-2-ai",
+      "dist": 16.5449798623
+    },
+    {
+      "name": "psyc_5-mapdb",
+      "psychonaut_name": null,
+      "tripsit_name": "5-mapdb",
+      "dist": 17.9088880583
+    },
+    {
+      "name": "psyc_5-apdi",
+      "psychonaut_name": null,
+      "tripsit_name": "5-apdi",
+      "dist": 18.0415779564
+    },
+    {
+      "name": "psyc_4-benzylpiperidine",
+      "psychonaut_name": null,
+      "tripsit_name": "4-benzylpiperidine",
+      "dist": 19.012712743
+    },
+    {
+      "name": "trip_Aniracetam",
+      "psychonaut_name": "Aniracetam",
+      "tripsit_name": null,
+      "dist": 19.1141174869
+    },
+    {
+      "name": "psyc_aniracetam",
+      "psychonaut_name": null,
+      "tripsit_name": "aniracetam",
+      "dist": 19.1141174869
+    },
+    {
+      "name": "psyc_6-apdb",
+      "psychonaut_name": null,
+      "tripsit_name": "6-apdb",
+      "dist": 19.3162494464
+    },
+    {
+      "name": "trip_6-APDB",
+      "psychonaut_name": "6-APDB",
+      "tripsit_name": null,
+      "dist": 19.3162494464
+    }
+  ]
+}

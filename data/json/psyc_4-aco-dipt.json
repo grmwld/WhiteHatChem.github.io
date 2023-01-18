@@ -1,0 +1,100 @@
+{
+  "inchi": "InChI=1S/C18H26N2O2/c1-12(2)20(13(3)4)10-9-15-11-19-16-7-6-8-17(18(15)16)22-14(5)21/h6-8,11-13,19H,9-10H2,1-5H3",
+  "psychonaut_name": null,
+  "tripsit_name": "4-aco-dipt",
+  "synonyms": [
+    "4-acetoxy-dipt",
+    "4acodipt",
+    "ipracetin",
+    "iprocetyl",
+    "aces"
+  ],
+  "distances": [
+    3.3036e-06,
+    3.3036e-06,
+    13.3749383943,
+    13.3749383943,
+    14.6500978226,
+    14.6500978226,
+    17.3390310655,
+    17.3390310655,
+    18.893461584,
+    18.893461584
+  ],
+  "indices": [
+    663,
+    58,
+    82,
+    585,
+    792,
+    60,
+    487,
+    65,
+    602,
+    81
+  ],
+  "name": "psyc_4-aco-dipt",
+  "svg": "psyc_4-aco-dipt.svg",
+  "sim": [
+    {
+      "name": "psyc_4-aco-dipt",
+      "psychonaut_name": null,
+      "tripsit_name": "4-aco-dipt",
+      "dist": 3.3036e-06
+    },
+    {
+      "name": "trip_4-AcO-DiPT",
+      "psychonaut_name": "4-AcO-DiPT",
+      "tripsit_name": null,
+      "dist": 3.3036e-06
+    },
+    {
+      "name": "trip_5-MeO-DiPT",
+      "psychonaut_name": "5-MeO-DiPT",
+      "tripsit_name": null,
+      "dist": 13.3749383943
+    },
+    {
+      "name": "psyc_5-meo-dipt",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-dipt",
+      "dist": 13.3749383943
+    },
+    {
+      "name": "psyc_4-aco-mipt",
+      "psychonaut_name": null,
+      "tripsit_name": "4-aco-mipt",
+      "dist": 14.6500978226
+    },
+    {
+      "name": "trip_4-AcO-MiPT",
+      "psychonaut_name": "4-AcO-MiPT",
+      "tripsit_name": null,
+      "dist": 14.6500978226
+    },
+    {
+      "name": "psyc_4-ho-dipt",
+      "psychonaut_name": null,
+      "tripsit_name": "4-ho-dipt",
+      "dist": 17.3390310655
+    },
+    {
+      "name": "trip_4-HO-DiPT",
+      "psychonaut_name": "4-HO-DiPT",
+      "tripsit_name": null,
+      "dist": 17.3390310655
+    },
+    {
+      "name": "psyc_5-meo-dibf",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-dibf",
+      "dist": 18.893461584
+    },
+    {
+      "name": "trip_5-MeO-DiBF",
+      "psychonaut_name": "5-MeO-DiBF",
+      "tripsit_name": null,
+      "dist": 18.893461584
+    }
+  ]
+}

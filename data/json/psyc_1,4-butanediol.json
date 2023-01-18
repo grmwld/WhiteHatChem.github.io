@@ -1,0 +1,98 @@
+{
+  "inchi": "InChI=1S/C4H10O2/c5-3-1-2-4-6/h5-6H,1-4H2",
+  "psychonaut_name": null,
+  "tripsit_name": "1,4-butanediol",
+  "synonyms": [
+    "bd",
+    "1,4-bd",
+    "14bd"
+  ],
+  "distances": [
+    9.537e-07,
+    9.537e-07,
+    11.9260614527,
+    11.9260614527,
+    17.2313246323,
+    19.2902118747,
+    19.2902118747,
+    20.6887708199,
+    23.9559710679,
+    23.9559710679
+  ],
+  "indices": [
+    2,
+    579,
+    353,
+    180,
+    450,
+    546,
+    99,
+    757,
+    39,
+    474
+  ],
+  "name": "psyc_1,4-butanediol",
+  "svg": "psyc_1,4-butanediol.svg",
+  "sim": [
+    {
+      "name": "trip_1,4-Butanediol",
+      "psychonaut_name": "1,4-Butanediol",
+      "tripsit_name": null,
+      "dist": 9.537e-07
+    },
+    {
+      "name": "psyc_1,4-butanediol",
+      "psychonaut_name": null,
+      "tripsit_name": "1,4-butanediol",
+      "dist": 9.537e-07
+    },
+    {
+      "name": "psyc_ghb",
+      "psychonaut_name": null,
+      "tripsit_name": "ghb",
+      "dist": 11.9260614527
+    },
+    {
+      "name": "trip_GHB",
+      "psychonaut_name": "GHB",
+      "tripsit_name": null,
+      "dist": 11.9260614527
+    },
+    {
+      "name": "psyc_gaba",
+      "psychonaut_name": null,
+      "tripsit_name": "gaba",
+      "dist": 17.2313246323
+    },
+    {
+      "name": "psyc_alcohol",
+      "psychonaut_name": null,
+      "tripsit_name": "alcohol",
+      "dist": 19.2902118747
+    },
+    {
+      "name": "trip_Alcohol",
+      "psychonaut_name": "Alcohol",
+      "tripsit_name": null,
+      "dist": 19.2902118747
+    },
+    {
+      "name": "psyc_diethyl-ether",
+      "psychonaut_name": null,
+      "tripsit_name": "diethyl-ether",
+      "dist": 20.6887708199
+    },
+    {
+      "name": "trip_2M2B",
+      "psychonaut_name": "2M2B",
+      "tripsit_name": null,
+      "dist": 23.9559710679
+    },
+    {
+      "name": "psyc_2-methyl-2-butanol",
+      "psychonaut_name": null,
+      "tripsit_name": "2-methyl-2-butanol",
+      "dist": 23.9559710679
+    }
+  ]
+}

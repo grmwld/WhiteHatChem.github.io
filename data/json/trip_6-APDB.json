@@ -1,0 +1,117 @@
+{
+  "inchi": "InChI=1S/C11H15NO/c1-8(12)6-9-2-3-10-4-5-13-11(10)7-9/h2-3,7-8H,4-6,12H2,1H3",
+  "psychonaut_name": "6-APDB",
+  "tripsit_name": null,
+  "synonyms": [
+    "J3.334.443K",
+    "AKOS025294580",
+    "1-(2,3-dihydro-1-benzofuran-6-yl)propan-2-amine",
+    "4-Desoxy-MDA",
+    "CHEMBL124055",
+    "152623-93-3",
+    "SCHEMBL2562965",
+    "Q4641530",
+    "6-APDB",
+    "EMA-3",
+    "6-BENZOFURANETHANAMINE, 2,3-DIHYDRO-.ALPHA.-METHYL-, (+/-)-",
+    "AC-8814",
+    "DTXSID60934559",
+    "6-(2-aminopropyl)2,3-dihydrobenzofuran",
+    "6-Benzofuranethanamine,2,3-dihydro-a-methyl-",
+    "O72F3CP4O8",
+    "UNII-O72F3CP4O8",
+    "6-(2-Aminopropyl)-2,3-dihydrobenzofuran",
+    "2,3-Dihydro-6-(2-aminopropyl)benzofuran",
+    "6-Nprop-dbf",
+    "BF6AP",
+    "6-(2-aminopropyl)-2,3-dihydrobenzo[b]furan"
+  ],
+  "distances": [
+    1.6518e-06,
+    1.6518e-06,
+    1.6518e-06,
+    8.6649086954,
+    8.9216761792,
+    8.9216761792,
+    12.0991501691,
+    14.3277634437,
+    14.3277634437,
+    14.3277634437
+  ],
+  "indices": [
+    497,
+    771,
+    89,
+    832,
+    658,
+    205,
+    430,
+    463,
+    613,
+    76
+  ],
+  "name": "trip_6-APDB",
+  "svg": "trip_6-APDB.svg",
+  "sim": [
+    {
+      "name": "psyc_6-apdb",
+      "psychonaut_name": null,
+      "tripsit_name": "6-apdb",
+      "dist": 1.6518e-06
+    },
+    {
+      "name": "psyc_5-apdb",
+      "psychonaut_name": null,
+      "tripsit_name": "5-apdb",
+      "dist": 1.6518e-06
+    },
+    {
+      "name": "trip_6-APDB",
+      "psychonaut_name": "6-APDB",
+      "tripsit_name": null,
+      "dist": 1.6518e-06
+    },
+    {
+      "name": "psyc_5-apdi",
+      "psychonaut_name": null,
+      "tripsit_name": "5-apdi",
+      "dist": 8.6649086954
+    },
+    {
+      "name": "psyc_mda",
+      "psychonaut_name": null,
+      "tripsit_name": "mda",
+      "dist": 8.9216761792
+    },
+    {
+      "name": "trip_MDA",
+      "psychonaut_name": "MDA",
+      "tripsit_name": null,
+      "dist": 8.9216761792
+    },
+    {
+      "name": "psyc_5-mapdb",
+      "psychonaut_name": null,
+      "tripsit_name": "5-mapdb",
+      "dist": 12.0991501691
+    },
+    {
+      "name": "psyc_6-apb",
+      "psychonaut_name": null,
+      "tripsit_name": "6-apb",
+      "dist": 14.3277634437
+    },
+    {
+      "name": "psyc_5-apb",
+      "psychonaut_name": null,
+      "tripsit_name": "5-apb",
+      "dist": 14.3277634437
+    },
+    {
+      "name": "trip_5-APB",
+      "psychonaut_name": "5-APB",
+      "tripsit_name": null,
+      "dist": 14.3277634437
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "inchi": "InChI=1S/C12H17NO2/c1-9-4-6-10(7-5-9)12(14)11(13-2)8-15-3/h4-7,11,13H,8H2,1-3H3",
+  "psychonaut_name": "Mexedrone",
+  "tripsit_name": null,
+  "synonyms": [
+    "2166915-02-0",
+    "1-Propanone, 3-methoxy-2-(methylamino)-1-(4-methylphenyl)-",
+    "3-methoxy-2-(methylamino)-1-(4-methylphenyl)propan-1-one",
+    "DTXSID401032903",
+    "3-Methoxy-2-(methylamino)-1-(4-methylphenyl)-1-propanone",
+    "Mexedrone",
+    "UNII-2AFZ6G3X7J",
+    "2AFZ6G3X7J"
+  ],
+  "distances": [
+    0.0,
+    0.0,
+    8.7330336522,
+    8.7752343475,
+    10.3577991973,
+    10.803401934,
+    11.459239873,
+    11.459239873,
+    11.5010402043,
+    11.5010402043
+  ],
+  "indices": [
+    233,
+    473,
+    716,
+    831,
+    655,
+    373,
+    48,
+    377,
+    218,
+    547
+  ],
+  "name": "trip_Mexedrone",
+  "svg": "trip_Mexedrone.svg",
+  "sim": [
+    {
+      "name": "trip_Mexedrone",
+      "psychonaut_name": "Mexedrone",
+      "tripsit_name": null,
+      "dist": 0.0
+    },
+    {
+      "name": "psyc_mexedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "mexedrone",
+      "dist": 0.0
+    },
+    {
+      "name": "psyc_methedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "methedrone",
+      "dist": 8.7330336522
+    },
+    {
+      "name": "psyc_3-meomc",
+      "psychonaut_name": null,
+      "tripsit_name": "3-meomc",
+      "dist": 8.7752343475
+    },
+    {
+      "name": "psyc_4-mpd",
+      "psychonaut_name": null,
+      "tripsit_name": "4-mpd",
+      "dist": 10.3577991973
+    },
+    {
+      "name": "psyc_4-emc",
+      "psychonaut_name": null,
+      "tripsit_name": "4-emc",
+      "dist": 10.803401934
+    },
+    {
+      "name": "trip_3-MMC",
+      "psychonaut_name": "3-MMC",
+      "tripsit_name": null,
+      "dist": 11.459239873
+    },
+    {
+      "name": "psyc_3-mmc",
+      "psychonaut_name": null,
+      "tripsit_name": "3-mmc",
+      "dist": 11.459239873
+    },
+    {
+      "name": "trip_Mephedrone",
+      "psychonaut_name": "Mephedrone",
+      "tripsit_name": null,
+      "dist": 11.5010402043
+    },
+    {
+      "name": "psyc_mephedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "mephedrone",
+      "dist": 11.5010402043
+    }
+  ]
+}

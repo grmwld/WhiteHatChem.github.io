@@ -1,0 +1,96 @@
+{
+  "inchi": "InChI=1S/C8H10N4O2/c1-10-4-9-6-5(10)7(13)12(3)8(14)11(6)2/h4H,1-3H3",
+  "psychonaut_name": null,
+  "tripsit_name": "caffeine",
+  "synonyms": [
+    "coffee"
+  ],
+  "distances": [
+    0.0,
+    0.0,
+    15.3470104972,
+    15.4748217448,
+    16.5527268851,
+    16.5527268851,
+    28.4175303338,
+    28.4175303338,
+    30.4213363059,
+    30.891909274
+  ],
+  "indices": [
+    685,
+    117,
+    708,
+    90,
+    595,
+    306,
+    247,
+    763,
+    484,
+    552
+  ],
+  "name": "psyc_caffeine",
+  "svg": "psyc_caffeine.svg",
+  "sim": [
+    {
+      "name": "psyc_caffeine",
+      "psychonaut_name": null,
+      "tripsit_name": "caffeine",
+      "dist": 0.0
+    },
+    {
+      "name": "trip_Caffeine",
+      "psychonaut_name": "Caffeine",
+      "tripsit_name": null,
+      "dist": 0.0
+    },
+    {
+      "name": "psyc_theobromine",
+      "psychonaut_name": null,
+      "tripsit_name": "theobromine",
+      "dist": 15.3470104972
+    },
+    {
+      "name": "trip_8-Chlorotheophylline",
+      "psychonaut_name": "8-Chlorotheophylline",
+      "tripsit_name": null,
+      "dist": 15.4748217448
+    },
+    {
+      "name": "psyc_theacrine",
+      "psychonaut_name": null,
+      "tripsit_name": "theacrine",
+      "dist": 16.5527268851
+    },
+    {
+      "name": "trip_Theacrine",
+      "psychonaut_name": "Theacrine",
+      "tripsit_name": null,
+      "dist": 16.5527268851
+    },
+    {
+      "name": "trip_Nicotine",
+      "psychonaut_name": "Nicotine",
+      "tripsit_name": null,
+      "dist": 28.4175303338
+    },
+    {
+      "name": "psyc_nicotine",
+      "psychonaut_name": null,
+      "tripsit_name": "nicotine",
+      "dist": 28.4175303338
+    },
+    {
+      "name": "psyc_mbzp",
+      "psychonaut_name": null,
+      "tripsit_name": "mbzp",
+      "dist": 30.4213363059
+    },
+    {
+      "name": "psyc_mephenmetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "mephenmetrazine",
+      "dist": 30.891909274
+    }
+  ]
+}

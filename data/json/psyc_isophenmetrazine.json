@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C11H15NO/c1-9-8-13-11(7-12-9)10-5-3-2-4-6-10/h2-6,9,11-12H,7-8H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "isophenmetrazine",
+  "synonyms": null,
+  "distances": [
+    0.0,
+    11.0386101481,
+    11.0386101481,
+    13.464887946,
+    13.4954193256,
+    13.4954193256,
+    13.630523402,
+    14.8637350046,
+    15.8546117385,
+    16.1432065866
+  ],
+  "indices": [
+    477,
+    706,
+    272,
+    448,
+    604,
+    45,
+    466,
+    553,
+    552,
+    761
+  ],
+  "name": "psyc_isophenmetrazine",
+  "svg": "psyc_isophenmetrazine.svg",
+  "sim": [
+    {
+      "name": "psyc_isophenmetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "isophenmetrazine",
+      "dist": 0.0
+    },
+    {
+      "name": "psyc_phenmetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "phenmetrazine",
+      "dist": 11.0386101481
+    },
+    {
+      "name": "trip_Phenmetrazine",
+      "psychonaut_name": "Phenmetrazine",
+      "tripsit_name": null,
+      "dist": 11.0386101481
+    },
+    {
+      "name": "psyc_phenetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "phenetrazine",
+      "dist": 13.464887946
+    },
+    {
+      "name": "psyc_3-fpm",
+      "psychonaut_name": null,
+      "tripsit_name": "3-fpm",
+      "dist": 13.4954193256
+    },
+    {
+      "name": "trip_3-FPM",
+      "psychonaut_name": "3-FPM",
+      "tripsit_name": null,
+      "dist": 13.4954193256
+    },
+    {
+      "name": "psyc_4-fpm",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fpm",
+      "dist": 13.630523402
+    },
+    {
+      "name": "psyc_3,6-dmpm",
+      "psychonaut_name": null,
+      "tripsit_name": "3,6-dmpm",
+      "dist": 14.8637350046
+    },
+    {
+      "name": "psyc_mephenmetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "mephenmetrazine",
+      "dist": 15.8546117385
+    },
+    {
+      "name": "psyc_g-130",
+      "psychonaut_name": null,
+      "tripsit_name": "g-130",
+      "dist": 16.1432065866
+    }
+  ]
+}

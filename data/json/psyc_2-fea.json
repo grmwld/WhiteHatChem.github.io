@@ -1,0 +1,96 @@
+{
+  "inchi": "InChI=1S/C11H16FN/c1-3-13-9(2)8-10-6-4-5-7-11(10)12/h4-7,9,13H,3,8H2,1-2H3",
+  "psychonaut_name": null,
+  "tripsit_name": "2-fea",
+  "synonyms": [
+    "2-fluoroethylamphetamine"
+  ],
+  "distances": [
+    1.9073e-06,
+    1.9073e-06,
+    3.7207327293,
+    3.7207327293,
+    4.1688717666,
+    9.925252793,
+    9.925252793,
+    10.4722621208,
+    10.4722621208,
+    10.6518201822
+  ],
+  "indices": [
+    13,
+    820,
+    43,
+    639,
+    795,
+    14,
+    638,
+    44,
+    344,
+    698
+  ],
+  "name": "psyc_2-fea",
+  "svg": "psyc_2-fea.svg",
+  "sim": [
+    {
+      "name": "trip_2-FEA",
+      "psychonaut_name": "2-FEA",
+      "tripsit_name": null,
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "psyc_2-fea",
+      "psychonaut_name": null,
+      "tripsit_name": "2-fea",
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "trip_3-FEA",
+      "psychonaut_name": "3-FEA",
+      "tripsit_name": null,
+      "dist": 3.7207327293
+    },
+    {
+      "name": "psyc_3-fea",
+      "psychonaut_name": null,
+      "tripsit_name": "3-fea",
+      "dist": 3.7207327293
+    },
+    {
+      "name": "psyc_4-fea",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fea",
+      "dist": 4.1688717666
+    },
+    {
+      "name": "trip_2-FMA",
+      "psychonaut_name": "2-FMA",
+      "tripsit_name": null,
+      "dist": 9.925252793
+    },
+    {
+      "name": "psyc_2-fma",
+      "psychonaut_name": null,
+      "tripsit_name": "2-fma",
+      "dist": 9.925252793
+    },
+    {
+      "name": "trip_3-FMA",
+      "psychonaut_name": "3-FMA",
+      "tripsit_name": null,
+      "dist": 10.4722621208
+    },
+    {
+      "name": "psyc_3-fma",
+      "psychonaut_name": null,
+      "tripsit_name": "3-fma",
+      "dist": 10.4722621208
+    },
+    {
+      "name": "psyc_4-fma",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fma",
+      "dist": 10.6518201822
+    }
+  ]
+}

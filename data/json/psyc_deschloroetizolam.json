@@ -1,0 +1,96 @@
+{
+  "inchi": "InChI=1S/C17H16N4S/c1-3-13-9-14-16(12-7-5-4-6-8-12)18-10-15-20-19-11(2)21(15)17(14)22-13/h4-9H,3,10H2,1-2H3",
+  "psychonaut_name": null,
+  "tripsit_name": "deschloroetizolam",
+  "synonyms": [
+    "etizolam-2"
+  ],
+  "distances": [
+    2.6974e-06,
+    2.6974e-06,
+    7.6013098241,
+    7.6013098241,
+    11.7020251747,
+    11.7020251747,
+    13.6781520189,
+    13.9454087882,
+    13.9454087882,
+    15.7248067241
+  ],
+  "indices": [
+    140,
+    809,
+    168,
+    333,
+    232,
+    784,
+    654,
+    843,
+    176,
+    748
+  ],
+  "name": "psyc_deschloroetizolam",
+  "svg": "psyc_deschloroetizolam.svg",
+  "sim": [
+    {
+      "name": "trip_Deschloroetizolam",
+      "psychonaut_name": "Deschloroetizolam",
+      "tripsit_name": null,
+      "dist": 2.6974e-06
+    },
+    {
+      "name": "psyc_deschloroetizolam",
+      "psychonaut_name": null,
+      "tripsit_name": "deschloroetizolam",
+      "dist": 2.6974e-06
+    },
+    {
+      "name": "trip_Etizolam",
+      "psychonaut_name": "Etizolam",
+      "tripsit_name": null,
+      "dist": 7.6013098241
+    },
+    {
+      "name": "psyc_etizolam",
+      "psychonaut_name": null,
+      "tripsit_name": "etizolam",
+      "dist": 7.6013098241
+    },
+    {
+      "name": "trip_Metizolam",
+      "psychonaut_name": "Metizolam",
+      "tripsit_name": null,
+      "dist": 11.7020251747
+    },
+    {
+      "name": "psyc_metizolam",
+      "psychonaut_name": null,
+      "tripsit_name": "metizolam",
+      "dist": 11.7020251747
+    },
+    {
+      "name": "psyc_brotizolam",
+      "psychonaut_name": null,
+      "tripsit_name": "brotizolam",
+      "dist": 13.6781520189
+    },
+    {
+      "name": "psyc_fluclotizolam",
+      "psychonaut_name": null,
+      "tripsit_name": "fluclotizolam",
+      "dist": 13.9454087882
+    },
+    {
+      "name": "trip_Fluclotizolam",
+      "psychonaut_name": "Fluclotizolam",
+      "tripsit_name": null,
+      "dist": 13.9454087882
+    },
+    {
+      "name": "psyc_pyrazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "pyrazolam",
+      "dist": 15.7248067241
+    }
+  ]
+}

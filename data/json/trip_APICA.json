@@ -1,0 +1,115 @@
+{
+  "inchi": "InChI=1S/C24H32N2O/c1-2-3-6-9-26-16-21(20-7-4-5-8-22(20)26)23(27)25-24-13-17-10-18(14-24)12-19(11-17)15-24/h4-5,7-8,16-19H,2-3,6,9-15H2,1H3,(H,25,27)",
+  "psychonaut_name": "APICA",
+  "tripsit_name": null,
+  "synonyms": [
+    "N-(1-Adamantyl)-1-pentyl-1H-indole-3-carboxamide",
+    "SDB 001",
+    "1345973-50-3",
+    "UNII-HKU510FH74",
+    "SCHEMBL17291908",
+    "HKU510FH74",
+    "AKOS025149436",
+    "BDBM50257659",
+    "APICA",
+    "N-(adamtan-1-yl)-1-pentyl-1H-indole-3-carboxamide",
+    "1-PENTYL-N-TRICYCLO(3.3.1.13,7)DEC-1-YL-1H-INDOLE-3-CARBOXAMIDE",
+    "ZINC95704999",
+    "CA175123",
+    "J3.667.555A",
+    "N-(1-adamantyl)-1-pentylindole-3-carboxamide",
+    "DTXSID80745427",
+    "CHEMBL4104511",
+    "1-pentyl-N-tricyclo[3.3.1.13,7]dec-1-yl-1H-indole-3-carboxamide",
+    "2NE1",
+    "SDB-001"
+  ],
+  "distances": [
+    4.672e-06,
+    11.3210369797,
+    21.7848869363,
+    21.7848869363,
+    35.6731753486,
+    40.0071023358,
+    40.0071023358,
+    40.0071023358,
+    42.5583555021,
+    42.5873355863
+  ],
+  "indices": [
+    96,
+    290,
+    413,
+    86,
+    386,
+    651,
+    190,
+    302,
+    705,
+    185
+  ],
+  "name": "trip_APICA",
+  "svg": "trip_APICA.svg",
+  "sim": [
+    {
+      "name": "trip_APICA",
+      "psychonaut_name": "APICA",
+      "tripsit_name": null,
+      "dist": 4.672e-06
+    },
+    {
+      "name": "trip_STS-135",
+      "psychonaut_name": "STS-135",
+      "tripsit_name": null,
+      "dist": 11.3210369797
+    },
+    {
+      "name": "psyc_5f-akb48",
+      "psychonaut_name": null,
+      "tripsit_name": "5f-akb48",
+      "dist": 21.7848869363
+    },
+    {
+      "name": "trip_5F-AKB48",
+      "psychonaut_name": "5F-AKB48",
+      "tripsit_name": null,
+      "dist": 21.7848869363
+    },
+    {
+      "name": "psyc_coronaridine",
+      "psychonaut_name": null,
+      "tripsit_name": "coronaridine",
+      "dist": 35.6731753486
+    },
+    {
+      "name": "psyc_ibogaine",
+      "psychonaut_name": null,
+      "tripsit_name": "ibogaine",
+      "dist": 40.0071023358
+    },
+    {
+      "name": "trip_Ibogaine",
+      "psychonaut_name": "Ibogaine",
+      "tripsit_name": null,
+      "dist": 40.0071023358
+    },
+    {
+      "name": "trip_Tabernanthe iboga (botany)",
+      "psychonaut_name": "Tabernanthe iboga (botany)",
+      "tripsit_name": null,
+      "dist": 40.0071023358
+    },
+    {
+      "name": "psyc_morpheridine",
+      "psychonaut_name": null,
+      "tripsit_name": "morpheridine",
+      "dist": 42.5583555021
+    },
+    {
+      "name": "trip_Haloperidol",
+      "psychonaut_name": "Haloperidol",
+      "tripsit_name": null,
+      "dist": 42.5873355863
+    }
+  ]
+}

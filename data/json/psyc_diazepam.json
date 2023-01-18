@@ -1,0 +1,96 @@
+{
+  "inchi": "InChI=1S/C16H13ClN2O/c1-19-14-8-7-12(17)9-13(14)16(18-10-15(19)20)11-5-3-2-4-6-11/h2-9H,10H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "diazepam",
+  "synonyms": [
+    "valium"
+  ],
+  "distances": [
+    1.3487e-06,
+    1.3487e-06,
+    7.6013095731,
+    7.6013095731,
+    7.9459603945,
+    10.1187740069,
+    15.2379708296,
+    15.9658835987,
+    16.2912506024,
+    16.2912506024
+  ],
+  "indices": [
+    148,
+    600,
+    150,
+    605,
+    653,
+    594,
+    805,
+    749,
+    695,
+    304
+  ],
+  "name": "psyc_diazepam",
+  "svg": "psyc_diazepam.svg",
+  "sim": [
+    {
+      "name": "trip_Diazepam",
+      "psychonaut_name": "Diazepam",
+      "tripsit_name": null,
+      "dist": 1.3487e-06
+    },
+    {
+      "name": "psyc_diazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "diazepam",
+      "dist": 1.3487e-06
+    },
+    {
+      "name": "trip_Diclazepam",
+      "psychonaut_name": "Diclazepam",
+      "tripsit_name": null,
+      "dist": 7.6013095731
+    },
+    {
+      "name": "psyc_diclazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "diclazepam",
+      "dist": 7.6013095731
+    },
+    {
+      "name": "psyc_4-chlorodiazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "4-chlorodiazepam",
+      "dist": 7.9459603945
+    },
+    {
+      "name": "psyc_medazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "medazepam",
+      "dist": 10.1187740069
+    },
+    {
+      "name": "psyc_clotiazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "clotiazepam",
+      "dist": 15.2379708296
+    },
+    {
+      "name": "psyc_clobazam",
+      "psychonaut_name": null,
+      "tripsit_name": "clobazam",
+      "dist": 15.9658835987
+    },
+    {
+      "name": "psyc_temazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "temazepam",
+      "dist": 16.2912506024
+    },
+    {
+      "name": "trip_Temazepam",
+      "psychonaut_name": "Temazepam",
+      "tripsit_name": null,
+      "dist": 16.2912506024
+    }
+  ]
+}

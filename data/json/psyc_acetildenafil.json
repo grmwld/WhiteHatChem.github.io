@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C25H34N6O3/c1-5-8-19-22-23(29(4)28-19)25(33)27-24(26-22)18-15-17(9-10-21(18)34-7-3)20(32)16-31-13-11-30(6-2)12-14-31/h9-10,15H,5-8,11-14,16H2,1-4H3,(H,26,27,33)",
+  "psychonaut_name": null,
+  "tripsit_name": "acetildenafil",
+  "synonyms": null,
+  "distances": [
+    1.9073e-06,
+    16.509775676,
+    38.4080648218,
+    39.5162042143,
+    39.5162042143,
+    40.0106217587,
+    40.5642529595,
+    40.5642529595,
+    41.1649914193,
+    42.3191377964
+  ],
+  "indices": [
+    454,
+    515,
+    6,
+    683,
+    3,
+    777,
+    558,
+    4,
+    288,
+    838
+  ],
+  "name": "psyc_acetildenafil",
+  "svg": "psyc_acetildenafil.svg",
+  "sim": [
+    {
+      "name": "psyc_acetildenafil",
+      "psychonaut_name": null,
+      "tripsit_name": "acetildenafil",
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "psyc_homosildenafil",
+      "psychonaut_name": null,
+      "tripsit_name": "homosildenafil",
+      "dist": 16.509775676
+    },
+    {
+      "name": "trip_1V-LSD",
+      "psychonaut_name": "1V-LSD",
+      "tripsit_name": null,
+      "dist": 38.4080648218
+    },
+    {
+      "name": "psyc_1b-lsd",
+      "psychonaut_name": null,
+      "tripsit_name": "1b-lsd",
+      "dist": 39.5162042143
+    },
+    {
+      "name": "trip_1B-LSD",
+      "psychonaut_name": "1B-LSD",
+      "tripsit_name": null,
+      "dist": 39.5162042143
+    },
+    {
+      "name": "psyc_dramamine",
+      "psychonaut_name": null,
+      "tripsit_name": "dramamine",
+      "dist": 40.0106217587
+    },
+    {
+      "name": "psyc_1p-eth-lad",
+      "psychonaut_name": null,
+      "tripsit_name": "1p-eth-lad",
+      "dist": 40.5642529595
+    },
+    {
+      "name": "trip_1P-ETH-LAD",
+      "psychonaut_name": "1P-ETH-LAD",
+      "tripsit_name": null,
+      "dist": 40.5642529595
+    },
+    {
+      "name": "trip_Risperidone",
+      "psychonaut_name": "Risperidone",
+      "tripsit_name": null,
+      "dist": 41.1649914193
+    },
+    {
+      "name": "psyc_pagoclone",
+      "psychonaut_name": null,
+      "tripsit_name": "pagoclone",
+      "dist": 42.3191377964
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "inchi": "InChI=1S/C11H14FNO/c1-8-11(14-6-5-13-8)9-3-2-4-10(12)7-9/h2-4,7-8,11,13H,5-6H2,1H3",
+  "psychonaut_name": "3-FPM",
+  "tripsit_name": null,
+  "synonyms": [
+    "Z2379802370",
+    "A928061",
+    "3F-Phenmetrazine",
+    "2-(3-Fluorophenyl)-3-methyl-Morpholine",
+    "CHEBI:191014",
+    "3-Fluorophenmetrazine",
+    "3-Fpm",
+    "2-(3-luorophenyl)-3-methylmorpholine",
+    "1350768-28-3",
+    "Q20707008",
+    "BCP18587",
+    "2-(3-fluorophenyl)-3-methylmorpholine",
+    "3-FPM",
+    "Morpholine, 2-(3-fluorophenyl)-3-methyl-",
+    "UNII-BEV6RF569G",
+    "PAL 593;PAL593;3-Fluorophenmetrazine; 3-FPM; 3-FPH",
+    "BEV6RF569G",
+    "SCHEMBL2599533",
+    "DTXSID201032414",
+    "PAL-593"
+  ],
+  "distances": [
+    1.3487e-06,
+    1.3487e-06,
+    1.9697513153,
+    8.5037461048,
+    8.5037461048,
+    13.1710084605,
+    13.4954193256,
+    14.4716340521,
+    15.0317788775,
+    18.8713593667
+  ],
+  "indices": [
+    604,
+    45,
+    466,
+    272,
+    706,
+    448,
+    477,
+    553,
+    552,
+    327
+  ],
+  "name": "trip_3-FPM",
+  "svg": "trip_3-FPM.svg",
+  "sim": [
+    {
+      "name": "psyc_3-fpm",
+      "psychonaut_name": null,
+      "tripsit_name": "3-fpm",
+      "dist": 1.3487e-06
+    },
+    {
+      "name": "trip_3-FPM",
+      "psychonaut_name": "3-FPM",
+      "tripsit_name": null,
+      "dist": 1.3487e-06
+    },
+    {
+      "name": "psyc_4-fpm",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fpm",
+      "dist": 1.9697513153
+    },
+    {
+      "name": "trip_Phenmetrazine",
+      "psychonaut_name": "Phenmetrazine",
+      "tripsit_name": null,
+      "dist": 8.5037461048
+    },
+    {
+      "name": "psyc_phenmetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "phenmetrazine",
+      "dist": 8.5037461048
+    },
+    {
+      "name": "psyc_phenetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "phenetrazine",
+      "dist": 13.1710084605
+    },
+    {
+      "name": "psyc_isophenmetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "isophenmetrazine",
+      "dist": 13.4954193256
+    },
+    {
+      "name": "psyc_3,6-dmpm",
+      "psychonaut_name": null,
+      "tripsit_name": "3,6-dmpm",
+      "dist": 14.4716340521
+    },
+    {
+      "name": "psyc_mephenmetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "mephenmetrazine",
+      "dist": 15.0317788775
+    },
+    {
+      "name": "psyc_4-methylaminorex",
+      "psychonaut_name": null,
+      "tripsit_name": "4-methylaminorex",
+      "dist": 18.8713593667
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "inchi": "InChI=1S/C18H26N6S/c1-4-24-11-6-14(7-12-24)23(3)18-20-15-8-13-25-16(15)17(21-18)22(2)10-5-9-19/h8,13-14H,4-7,10-12H2,1-3H3",
+  "psychonaut_name": "HXE",
+  "tripsit_name": null,
+  "synonyms": [
+    "HXE",
+    "BDBM50539963",
+    "CHEMBL4637123",
+    "3-[[2-[(1-ethylpiperidin-4-yl)-methyl-amino]thieno[3,2-d]pyrimidin-4-yl]-methyl-amino]propanenitrile"
+  ],
+  "distances": [
+    3.3036e-06,
+    32.7547352403,
+    35.0923864383,
+    35.8001672837,
+    35.8001672837,
+    36.2992307807,
+    36.2992307807,
+    38.943539171,
+    38.943539171,
+    39.2861115354
+  ],
+  "indices": [
+    184,
+    398,
+    349,
+    317,
+    422,
+    316,
+    358,
+    295,
+    673,
+    687
+  ],
+  "name": "trip_HXE",
+  "svg": "trip_HXE.svg",
+  "sim": [
+    {
+      "name": "trip_HXE",
+      "psychonaut_name": "HXE",
+      "tripsit_name": null,
+      "dist": 3.3036e-06
+    },
+    {
+      "name": "psyc_u-49900",
+      "psychonaut_name": null,
+      "tripsit_name": "u-49900",
+      "dist": 32.7547352403
+    },
+    {
+      "name": "psyc_u-51754",
+      "psychonaut_name": null,
+      "tripsit_name": "u-51754",
+      "dist": 35.0923864383
+    },
+    {
+      "name": "trip_Zaleplon",
+      "psychonaut_name": "Zaleplon",
+      "tripsit_name": null,
+      "dist": 35.8001672837
+    },
+    {
+      "name": "psyc_sonata",
+      "psychonaut_name": null,
+      "tripsit_name": "sonata",
+      "dist": 35.8001672837
+    },
+    {
+      "name": "trip_U-47700",
+      "psychonaut_name": "U-47700",
+      "tripsit_name": null,
+      "dist": 36.2992307807
+    },
+    {
+      "name": "psyc_u-47700",
+      "psychonaut_name": null,
+      "tripsit_name": "u-47700",
+      "dist": 36.2992307807
+    },
+    {
+      "name": "trip_Sufentanil",
+      "psychonaut_name": "Sufentanil",
+      "tripsit_name": null,
+      "dist": 38.943539171
+    },
+    {
+      "name": "psyc_sufentanil",
+      "psychonaut_name": null,
+      "tripsit_name": "sufentanil",
+      "dist": 38.943539171
+    },
+    {
+      "name": "psyc_parafluorofentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "parafluorofentanyl",
+      "dist": 39.2861115354
+    }
+  ]
+}

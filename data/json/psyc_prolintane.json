@@ -1,0 +1,98 @@
+{
+  "inchi": "InChI=1S/C15H23N/c1-2-8-15(16-11-6-7-12-16)13-14-9-4-3-5-10-14/h3-5,9-10,15H,2,6-8,11-13H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "prolintane",
+  "synonyms": [
+    "catovit",
+    "promotil",
+    "villescon"
+  ],
+  "distances": [
+    1.6518e-06,
+    1.6518e-06,
+    10.8272977791,
+    10.8272977791,
+    12.2170290308,
+    12.8615089027,
+    12.8615089027,
+    14.4755168605,
+    14.7212891545,
+    16.514172565
+  ],
+  "indices": [
+    280,
+    496,
+    92,
+    822,
+    565,
+    91,
+    617,
+    405,
+    568,
+    458
+  ],
+  "name": "psyc_prolintane",
+  "svg": "psyc_prolintane.svg",
+  "sim": [
+    {
+      "name": "trip_Prolintane",
+      "psychonaut_name": "Prolintane",
+      "tripsit_name": null,
+      "dist": 1.6518e-06
+    },
+    {
+      "name": "psyc_prolintane",
+      "psychonaut_name": null,
+      "tripsit_name": "prolintane",
+      "dist": 1.6518e-06
+    },
+    {
+      "name": "trip_A-PVP",
+      "psychonaut_name": "A-PVP",
+      "tripsit_name": null,
+      "dist": 10.8272977791
+    },
+    {
+      "name": "psyc_a-pvp",
+      "psychonaut_name": null,
+      "tripsit_name": "a-pvp",
+      "dist": 10.8272977791
+    },
+    {
+      "name": "psyc_\u03b1-pbp",
+      "psychonaut_name": null,
+      "tripsit_name": "\u03b1-pbp",
+      "dist": 12.2170290308
+    },
+    {
+      "name": "trip_A-PHP",
+      "psychonaut_name": "A-PHP",
+      "tripsit_name": null,
+      "dist": 12.8615089027
+    },
+    {
+      "name": "psyc_alpha-php",
+      "psychonaut_name": null,
+      "tripsit_name": "alpha-php",
+      "dist": 12.8615089027
+    },
+    {
+      "name": "psyc_4f-pvp",
+      "psychonaut_name": null,
+      "tripsit_name": "4f-pvp",
+      "dist": 14.4755168605
+    },
+    {
+      "name": "psyc_a-pvt",
+      "psychonaut_name": null,
+      "tripsit_name": "a-pvt",
+      "dist": 14.7212891545
+    },
+    {
+      "name": "psyc_4f-php",
+      "psychonaut_name": null,
+      "tripsit_name": "4f-php",
+      "dist": 16.514172565
+    }
+  ]
+}

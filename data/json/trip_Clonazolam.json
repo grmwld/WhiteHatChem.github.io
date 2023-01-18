@@ -1,0 +1,115 @@
+{
+  "inchi": "InChI=1S/C17H12ClN5O2/c1-10-20-21-16-9-19-17(12-4-2-3-5-14(12)18)13-8-11(23(24)25)6-7-15(13)22(10)16/h2-8H,9H2,1H3",
+  "psychonaut_name": "Clonazolam",
+  "tripsit_name": null,
+  "synonyms": [
+    "6-(2-Chlorophenyl)-1-methyl-8-nitro-4H-(1,2,4)triazolo(4,3-a)(1,4)benzodiazepine",
+    "6-(2-Chlorophenyl)-1-methyl-8nitro-4H(1,2,4)triazolo(4,3-a)(1,2,4)triazolo(4,3-a)(1,4)benzodiazepine",
+    "Clonazolam solution, 1 mg/mL in acetonitrile, certified reference material, ampule of 1 mL",
+    "8-nitro-1-methyl-6-(o-chlorophenyl)-4H-s-triazolo- [4,3-a][1,4]benzodiazepine",
+    "Clonazolam",
+    "ZINC39206261",
+    "Clonitrazolam",
+    "8-nitro-6-(o-chlorophenyl)-1-methyl-4H-s-triazolo[4,3-a][1,4]-benzodiazepine",
+    "DTXSID301014166",
+    "33887-02-4",
+    "SCHEMBL11681332",
+    "6-(2-chlorophenyl)-1-methyl-8-nitro-4H-s-triazolo[4,3-a][1,4]benzodiazepine",
+    "8-Nitro-6-(o-chlorophenyl)-1-methyl-4H-s-triazolo[4,3-a][1,4]benzodiazepine",
+    "DB14716",
+    "6-(2-chlorophenyl)-1-methyl-8-nitro-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine",
+    "8-nitro-1-methyl-6-(o-chlorophenyl)-4H-s-triazolo-[4,3-a][1,4]benzodiazepine",
+    "Q19607410",
+    "UNII-HJH52YYC1X",
+    "HJH52YYC1X",
+    "4H-(1,2,4)Triazolo(4,3-a)(1,4)benzodiazepine, 6-(2-chlorophenyl)-1-methyl-8-nitro-"
+  ],
+  "distances": [
+    1.9073e-06,
+    1.9073e-06,
+    6.8041521074,
+    6.8041521074,
+    7.6013098241,
+    17.5592850427,
+    17.5592850427,
+    18.1115361159,
+    18.1115361159,
+    18.6374879485
+  ],
+  "indices": [
+    125,
+    434,
+    394,
+    178,
+    356,
+    312,
+    691,
+    173,
+    738,
+    382
+  ],
+  "name": "trip_Clonazolam",
+  "svg": "trip_Clonazolam.svg",
+  "sim": [
+    {
+      "name": "trip_Clonazolam",
+      "psychonaut_name": "Clonazolam",
+      "tripsit_name": null,
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "psyc_clonazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "clonazolam",
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "psyc_flunitrazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "flunitrazolam",
+      "dist": 6.8041521074
+    },
+    {
+      "name": "trip_Flunitrazolam",
+      "psychonaut_name": "Flunitrazolam",
+      "tripsit_name": null,
+      "dist": 6.8041521074
+    },
+    {
+      "name": "psyc_nitrazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "nitrazolam",
+      "dist": 7.6013098241
+    },
+    {
+      "name": "trip_Triazolam",
+      "psychonaut_name": "Triazolam",
+      "tripsit_name": null,
+      "dist": 17.5592850427
+    },
+    {
+      "name": "psyc_triazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "triazolam",
+      "dist": 17.5592850427
+    },
+    {
+      "name": "trip_Flualprazolam",
+      "psychonaut_name": "Flualprazolam",
+      "tripsit_name": null,
+      "dist": 18.1115361159
+    },
+    {
+      "name": "psyc_flualprazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "flualprazolam",
+      "dist": 18.1115361159
+    },
+    {
+      "name": "psyc_flunitrazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "flunitrazepam",
+      "dist": 18.6374879485
+    }
+  ]
+}

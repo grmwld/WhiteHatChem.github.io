@@ -1,0 +1,23 @@
+---
+import psychonaut from '../assets/img/psychonaut_icon.png'
+import tripsit from '../assets/img/tripsit_icon.png'
+
+export interface Props {
+    name: string | null;
+    site: 'psychonaut' | 'tripsit';
+}
+
+const { name, site } = Astro.props;
+---
+
+{
+    name && <div class="flex flex-row items-center gap-2">
+        <img
+            src={site === 'psychonaut' ? psychonaut : tripsit}
+            class="w-4 rounded"
+            alt="psychonaut"
+        />
+        <h2 class="group-hover:text-indigo-600">{name}</h2>
+    </div>
+}
+

@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C19H29NO/c1-2-3-4-5-9-14-18(20-15-10-11-16-20)19(21)17-12-7-6-8-13-17/h6-8,12-13,18H,2-5,9-11,14-16H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "pv-10",
+  "synonyms": null,
+  "distances": [
+    3.0158e-06,
+    5.8999270548,
+    11.7998554027,
+    17.6997821342,
+    17.6997821342,
+    18.4518639427,
+    21.387544576,
+    22.0336469496,
+    23.5997095122,
+    23.5997095122
+  ],
+  "indices": [
+    734,
+    727,
+    619,
+    91,
+    617,
+    458,
+    830,
+    467,
+    822,
+    92
+  ],
+  "name": "psyc_pv-10",
+  "svg": "psyc_pv-10.svg",
+  "sim": [
+    {
+      "name": "psyc_pv-10",
+      "psychonaut_name": null,
+      "tripsit_name": "pv-10",
+      "dist": 3.0158e-06
+    },
+    {
+      "name": "psyc_pv-9",
+      "psychonaut_name": null,
+      "tripsit_name": "pv-9",
+      "dist": 5.8999270548
+    },
+    {
+      "name": "psyc_pv-8",
+      "psychonaut_name": null,
+      "tripsit_name": "pv-8",
+      "dist": 11.7998554027
+    },
+    {
+      "name": "trip_A-PHP",
+      "psychonaut_name": "A-PHP",
+      "tripsit_name": null,
+      "dist": 17.6997821342
+    },
+    {
+      "name": "psyc_alpha-php",
+      "psychonaut_name": null,
+      "tripsit_name": "alpha-php",
+      "dist": 17.6997821342
+    },
+    {
+      "name": "psyc_4f-php",
+      "psychonaut_name": null,
+      "tripsit_name": "4f-php",
+      "dist": 18.4518639427
+    },
+    {
+      "name": "psyc_5-bpdi",
+      "psychonaut_name": null,
+      "tripsit_name": "5-bpdi",
+      "dist": 21.387544576
+    },
+    {
+      "name": "psyc_naphyrone",
+      "psychonaut_name": null,
+      "tripsit_name": "naphyrone",
+      "dist": 22.0336469496
+    },
+    {
+      "name": "psyc_a-pvp",
+      "psychonaut_name": null,
+      "tripsit_name": "a-pvp",
+      "dist": 23.5997095122
+    },
+    {
+      "name": "trip_A-PVP",
+      "psychonaut_name": "A-PVP",
+      "tripsit_name": null,
+      "dist": 23.5997095122
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "inchi": "InChI=1S/C14H20N2/c1-11(2)16(3)9-8-12-10-15-14-7-5-4-6-13(12)14/h4-7,10-11,15H,8-9H2,1-3H3",
+  "psychonaut_name": null,
+  "tripsit_name": "mipt",
+  "synonyms": [
+    "n-methyl-n-isopropyltryptamine"
+  ],
+  "distances": [
+    1.9073e-06,
+    1.9073e-06,
+    8.7560268899,
+    8.7560268899,
+    11.9728856524,
+    11.9728856524,
+    12.0282355954,
+    13.5209363435,
+    13.7878374544,
+    14.1438904422
+  ],
+  "indices": [
+    235,
+    443,
+    836,
+    69,
+    326,
+    84,
+    470,
+    522,
+    212,
+    134
+  ],
+  "name": "psyc_mipt",
+  "svg": "psyc_mipt.svg",
+  "sim": [
+    {
+      "name": "trip_MiPT",
+      "psychonaut_name": "MiPT",
+      "tripsit_name": null,
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "psyc_mipt",
+      "psychonaut_name": null,
+      "tripsit_name": "mipt",
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "psyc_4-ho-mipt",
+      "psychonaut_name": null,
+      "tripsit_name": "4-ho-mipt",
+      "dist": 8.7560268899
+    },
+    {
+      "name": "trip_4-HO-MiPT",
+      "psychonaut_name": "4-HO-MiPT",
+      "tripsit_name": null,
+      "dist": 8.7560268899
+    },
+    {
+      "name": "psyc_5-meo-mipt",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-mipt",
+      "dist": 11.9728856524
+    },
+    {
+      "name": "trip_5-MeO-MiPT",
+      "psychonaut_name": "5-MeO-MiPT",
+      "tripsit_name": null,
+      "dist": 11.9728856524
+    },
+    {
+      "name": "psyc_4-meo-mipt",
+      "psychonaut_name": null,
+      "tripsit_name": "4-meo-mipt",
+      "dist": 12.0282355954
+    },
+    {
+      "name": "psyc_pipt",
+      "psychonaut_name": null,
+      "tripsit_name": "pipt",
+      "dist": 13.5209363435
+    },
+    {
+      "name": "trip_MPT",
+      "psychonaut_name": "MPT",
+      "tripsit_name": null,
+      "dist": 13.7878374544
+    },
+    {
+      "name": "trip_DMT",
+      "psychonaut_name": "DMT",
+      "tripsit_name": null,
+      "dist": 14.1438904422
+    }
+  ]
+}

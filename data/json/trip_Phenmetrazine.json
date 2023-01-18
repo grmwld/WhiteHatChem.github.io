@@ -1,0 +1,140 @@
+{
+  "inchi": "InChI=1S/C11H15NO/c1-9-11(13-8-7-12-9)10-5-3-2-4-6-10/h2-6,9,11-12H,7-8H2,1H3",
+  "psychonaut_name": "Phenmetrazine",
+  "tripsit_name": null,
+  "synonyms": [
+    "Phenmetrazine [INN:BAN]",
+    "SCHEMBL33984",
+    "3-Methyl-2-phenyltetrahydro-2H-1,4-oxazine",
+    "2-Fenyl-3-methylmorfolin",
+    "DB00830",
+    "3-methyl-2-phenyl-morpholine",
+    "Fenmetrazina [INN-Spanish]",
+    "AB07481",
+    "AC-16023",
+    "C07432",
+    "Psychamine A 66",
+    "2-Fenyl-3-methylmorfolin [Czech]",
+    "Oxazimedrine",
+    "W-205439",
+    "dl-2-Phenyl-3-methyltetrahydro-1,4-oxazine",
+    "EINECS 205-143-4",
+    "NCGC00164535-02",
+    "Phenmetrazine",
+    "3-Methyl-2-phenylmorpholine",
+    "Morpholine, 3-methyl-2-phenyl-",
+    "134-49-6",
+    "2-Phenyl-3-methylmorpholine",
+    "Phenmetrazin",
+    "Probese-P",
+    "FT-0699580",
+    "phenmetrazine",
+    "CHEBI:8067",
+    "NCGC00164535-01",
+    "3-Methyl-2-phenylmorpholine hydrochloride",
+    "AKOS003662804",
+    "Defenmetrazin",
+    "Phenmetrazinum",
+    "DEA No. 1631",
+    "Dexphenmetrazine",
+    "CHEMBL1201208",
+    "DTXSID5023455",
+    "Preludin",
+    "Fenmetrazina",
+    "MFCD00864487",
+    "HSDB 3156",
+    "Phenmetrazinum [INN-Latin]",
+    "BRN 0140490",
+    "Q3329406",
+    "134-49-6 (free)",
+    "Fenmetrazin"
+  ],
+  "distances": [
+    2.1325e-06,
+    2.1325e-06,
+    8.4945185321,
+    8.5037461048,
+    8.5037461048,
+    10.4928782698,
+    11.0386101481,
+    12.252025826,
+    14.0333008489,
+    16.0392166182
+  ],
+  "indices": [
+    272,
+    706,
+    466,
+    45,
+    604,
+    448,
+    477,
+    553,
+    552,
+    327
+  ],
+  "name": "trip_Phenmetrazine",
+  "svg": "trip_Phenmetrazine.svg",
+  "sim": [
+    {
+      "name": "trip_Phenmetrazine",
+      "psychonaut_name": "Phenmetrazine",
+      "tripsit_name": null,
+      "dist": 2.1325e-06
+    },
+    {
+      "name": "psyc_phenmetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "phenmetrazine",
+      "dist": 2.1325e-06
+    },
+    {
+      "name": "psyc_4-fpm",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fpm",
+      "dist": 8.4945185321
+    },
+    {
+      "name": "trip_3-FPM",
+      "psychonaut_name": "3-FPM",
+      "tripsit_name": null,
+      "dist": 8.5037461048
+    },
+    {
+      "name": "psyc_3-fpm",
+      "psychonaut_name": null,
+      "tripsit_name": "3-fpm",
+      "dist": 8.5037461048
+    },
+    {
+      "name": "psyc_phenetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "phenetrazine",
+      "dist": 10.4928782698
+    },
+    {
+      "name": "psyc_isophenmetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "isophenmetrazine",
+      "dist": 11.0386101481
+    },
+    {
+      "name": "psyc_3,6-dmpm",
+      "psychonaut_name": null,
+      "tripsit_name": "3,6-dmpm",
+      "dist": 12.252025826
+    },
+    {
+      "name": "psyc_mephenmetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "mephenmetrazine",
+      "dist": 14.0333008489
+    },
+    {
+      "name": "psyc_4-methylaminorex",
+      "psychonaut_name": null,
+      "tripsit_name": "4-methylaminorex",
+      "dist": 16.0392166182
+    }
+  ]
+}

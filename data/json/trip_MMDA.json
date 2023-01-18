@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C11H15NO3/c1-7(12)3-8-4-9(13-2)11-10(5-8)14-6-15-11/h4-5,7H,3,6,12H2,1-2H3",
+  "psychonaut_name": "MMDA",
+  "tripsit_name": null,
+  "synonyms": [
+    "DB01442",
+    "UNII-RG7FY73ZAA",
+    "1-(7-methoxy-1,3-benzodioxol-5-yl)propan-2-amine",
+    "13674-05-0",
+    "(+-)-MMDA",
+    "(+/-)-5-METHOXY-3,4-METHYLENEDIOXYAMPHETAMINE",
+    "RG7FY73ZAA",
+    "Phenethylamine, .alpha.-methyl-3-methoxy-4,5-(methylenedioxy)-",
+    "1,3-Benzodioxole-5-ethanamine, 7-methoxy-a-methyl- (9CI)",
+    "1,3-Benzodioxole-5-ethanamine, 7-methoxy-alpha-methyl",
+    ".BETA.-METHOXY-.ALPHA.-METHYL-4,5-(METHYLENEDIOXY)PHENETHYL AMINE",
+    "5-Methoxy-3,4-methylenedioxyamphetamine",
+    "BRN 1246630",
+    "3-Methoxy-.alpha.-methyl-4,5-methylenedioxyphenethylamine",
+    "3-METHOXY-.ALPHA.-METHYL-4,5-(METHYLENEDIOXY)PHENETHYLAMINE",
+    "Amphetamine, 3,4-methylenedioxy-5-methoxy",
+    "1,3-benzodioxole-5-ethanamine, 7-methoxy-alpha-methyl-",
+    "DEA No. 7401",
+    "(.+/-.)-MMDA",
+    "3-METHOXY-ALPHA-METHYL-4,5-(METHYLENEDIOXY)PHENETHYLAMINE",
+    "3-Methoxy-4,5-methylenedioxyamphetamine",
+    "1-(7-methoxy-2H-1,3-benzodioxol-5-yl)propan-2-amine",
+    "2-(7-Methoxy-1,3-benzodioxol-5-yl)-1-methylethylamine",
+    "3-Methoxy-4,5-methylenedioxyphenylisopropylamine",
+    "SCHEMBL1739571",
+    "DTXSID50860757",
+    "3-METHOXY-METHYLENEDIOXYAMPHETAMINE",
+    "Phenethylamine, alpha-methyl-3-methoxy-4,5-(methylenedioxy)-",
+    "1,3-Benzodioxole-5-ethanamine, 7-methoxy-a-methyl-",
+    "3-Methoxy-alpha-methyl-4,5-methylenedioxyphenethylamine",
+    "MMDA",
+    "Phenethylamine, 3-methoxy-alpha-methyl-4,5-(methylenedioxy)-",
+    "(+/-)-MMDA",
+    "NCGC00247692-01",
+    "Phenethylamine, 3-methoxy-.alpha.-methyl-4,5-(methylenedioxy)-",
+    "beta-Methoxy-alpha-methyl-4,5-(methylenedioxy)phenethyl amine",
+    "Q4030702",
+    "1,3-Benzodioxole-5-ethanamine, 7-methoxy-alpha-methyl (9CI)",
+    "CHEMBL126506"
+  ],
+  "distances": [
+    0.0,
+    12.5226308809,
+    12.5226308809,
+    15.7393981128,
+    15.7393981128,
+    15.8722685619,
+    15.8722685619,
+    15.8722685619,
+    15.9036083613,
+    15.9036083613
+  ],
+  "indices": [
+    211,
+    205,
+    658,
+    207,
+    492,
+    89,
+    497,
+    771,
+    208,
+    609
+  ],
+  "name": "trip_MMDA",
+  "svg": "trip_MMDA.svg",
+  "sim": [
+    {
+      "name": "trip_MMDA",
+      "psychonaut_name": "MMDA",
+      "tripsit_name": null,
+      "dist": 0.0
+    },
+    {
+      "name": "trip_MDA",
+      "psychonaut_name": "MDA",
+      "tripsit_name": null,
+      "dist": 12.5226308809
+    },
+    {
+      "name": "psyc_mda",
+      "psychonaut_name": null,
+      "tripsit_name": "mda",
+      "dist": 12.5226308809
+    },
+    {
+      "name": "trip_MDEA",
+      "psychonaut_name": "MDEA",
+      "tripsit_name": null,
+      "dist": 15.7393981128
+    },
+    {
+      "name": "psyc_mdea",
+      "psychonaut_name": null,
+      "tripsit_name": "mdea",
+      "dist": 15.7393981128
+    },
+    {
+      "name": "trip_6-APDB",
+      "psychonaut_name": "6-APDB",
+      "tripsit_name": null,
+      "dist": 15.8722685619
+    },
+    {
+      "name": "psyc_6-apdb",
+      "psychonaut_name": null,
+      "tripsit_name": "6-apdb",
+      "dist": 15.8722685619
+    },
+    {
+      "name": "psyc_5-apdb",
+      "psychonaut_name": null,
+      "tripsit_name": "5-apdb",
+      "dist": 15.8722685619
+    },
+    {
+      "name": "trip_MDMA",
+      "psychonaut_name": "MDMA",
+      "tripsit_name": null,
+      "dist": 15.9036083613
+    },
+    {
+      "name": "psyc_mdma",
+      "psychonaut_name": null,
+      "tripsit_name": "mdma",
+      "dist": 15.9036083613
+    }
+  ]
+}

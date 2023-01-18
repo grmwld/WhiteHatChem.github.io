@@ -1,0 +1,97 @@
+{
+  "inchi": "InChI=1S/C18H22ClNO3/c1-21-16-7-5-4-6-14(16)12-20-9-8-13-10-18(23-3)15(19)11-17(13)22-2/h4-7,10-11,20H,8-9,12H2,1-3H3",
+  "psychonaut_name": null,
+  "tripsit_name": "25c-nbome",
+  "synonyms": [
+    "25c",
+    "2c-nbome"
+  ],
+  "distances": [
+    3.8147e-06,
+    3.8147e-06,
+    7.6043130382,
+    7.6043130382,
+    8.2912288787,
+    8.2912288787,
+    8.6730028124,
+    8.6730028124,
+    10.7443236512,
+    10.7443236512
+  ],
+  "indices": [
+    20,
+    833,
+    365,
+    21,
+    23,
+    661,
+    18,
+    702,
+    19,
+    505
+  ],
+  "name": "psyc_25c-nbome",
+  "svg": "psyc_25c-nbome.svg",
+  "sim": [
+    {
+      "name": "trip_25C-NBOMe",
+      "psychonaut_name": "25C-NBOMe",
+      "tripsit_name": null,
+      "dist": 3.8147e-06
+    },
+    {
+      "name": "psyc_25c-nbome",
+      "psychonaut_name": null,
+      "tripsit_name": "25c-nbome",
+      "dist": 3.8147e-06
+    },
+    {
+      "name": "psyc_25d-nbome",
+      "psychonaut_name": null,
+      "tripsit_name": "25d-nbome",
+      "dist": 7.6043130382
+    },
+    {
+      "name": "trip_25D-NBOMe",
+      "psychonaut_name": "25D-NBOMe",
+      "tripsit_name": null,
+      "dist": 7.6043130382
+    },
+    {
+      "name": "trip_25H-NBOMe",
+      "psychonaut_name": "25H-NBOMe",
+      "tripsit_name": null,
+      "dist": 8.2912288787
+    },
+    {
+      "name": "psyc_25h-nbome",
+      "psychonaut_name": null,
+      "tripsit_name": "25h-nbome",
+      "dist": 8.2912288787
+    },
+    {
+      "name": "trip_25B-NBOMe",
+      "psychonaut_name": "25B-NBOMe",
+      "tripsit_name": null,
+      "dist": 8.6730028124
+    },
+    {
+      "name": "psyc_25b-nbome",
+      "psychonaut_name": null,
+      "tripsit_name": "25b-nbome",
+      "dist": 8.6730028124
+    },
+    {
+      "name": "trip_25C-NBOH",
+      "psychonaut_name": "25C-NBOH",
+      "tripsit_name": null,
+      "dist": 10.7443236512
+    },
+    {
+      "name": "psyc_25c-nboh",
+      "psychonaut_name": null,
+      "tripsit_name": "25c-nboh",
+      "dist": 10.7443236512
+    }
+  ]
+}

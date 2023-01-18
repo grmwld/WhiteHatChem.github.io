@@ -1,0 +1,96 @@
+{
+  "inchi": "InChI=1S/C17H19NO/c19-17(16-12-7-13-18-16,14-8-3-1-4-9-14)15-10-5-2-6-11-15/h1-6,8-11,16,18-19H,7,12-13H2",
+  "psychonaut_name": null,
+  "tripsit_name": "d2pm",
+  "synonyms": [
+    "diphenylprolinol"
+  ],
+  "distances": [
+    3.0158e-06,
+    19.9768558103,
+    19.9768558103,
+    24.2478202548,
+    24.7079251938,
+    24.7079251938,
+    24.8776302001,
+    26.2058431618,
+    26.3887307824,
+    26.3887307824
+  ],
+  "indices": [
+    371,
+    783,
+    143,
+    550,
+    403,
+    153,
+    429,
+    592,
+    699,
+    229
+  ],
+  "name": "psyc_d2pm",
+  "svg": "psyc_d2pm.svg",
+  "sim": [
+    {
+      "name": "psyc_d2pm",
+      "psychonaut_name": null,
+      "tripsit_name": "d2pm",
+      "dist": 3.0158e-06
+    },
+    {
+      "name": "psyc_2-dpmp",
+      "psychonaut_name": null,
+      "tripsit_name": "2-dpmp",
+      "dist": 19.9768558103
+    },
+    {
+      "name": "trip_Desoxypipradrol",
+      "psychonaut_name": "Desoxypipradrol",
+      "tripsit_name": null,
+      "dist": 19.9768558103
+    },
+    {
+      "name": "psyc_fluorolintane",
+      "psychonaut_name": null,
+      "tripsit_name": "fluorolintane",
+      "dist": 24.2478202548
+    },
+    {
+      "name": "psyc_diphenidine",
+      "psychonaut_name": null,
+      "tripsit_name": "diphenidine",
+      "dist": 24.7079251938
+    },
+    {
+      "name": "trip_Diphenidine",
+      "psychonaut_name": "Diphenidine",
+      "tripsit_name": null,
+      "dist": 24.7079251938
+    },
+    {
+      "name": "psyc_2-mppp",
+      "psychonaut_name": null,
+      "tripsit_name": "2-mppp",
+      "dist": 24.8776302001
+    },
+    {
+      "name": "psyc_pyrophenidone",
+      "psychonaut_name": null,
+      "tripsit_name": "pyrophenidone",
+      "dist": 26.2058431618
+    },
+    {
+      "name": "psyc_hdmp-28",
+      "psychonaut_name": null,
+      "tripsit_name": "hdmp-28",
+      "dist": 26.3887307824
+    },
+    {
+      "name": "trip_Methylnaphthidate",
+      "psychonaut_name": "Methylnaphthidate",
+      "tripsit_name": null,
+      "dist": 26.3887307824
+    }
+  ]
+}

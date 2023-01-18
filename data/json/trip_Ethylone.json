@@ -1,0 +1,114 @@
+{
+  "inchi": "InChI=1S/C12H15NO3/c1-3-13-8(2)12(14)9-4-5-10-11(6-9)16-7-15-10/h4-6,8,13H,3,7H2,1-2H3",
+  "psychonaut_name": "Ethylone",
+  "tripsit_name": null,
+  "synonyms": [
+    "1-(1,3-benzodioxol-5-yl)-2-(ethylamino)propan-1-one",
+    "UNII-L91C78FW96",
+    "2-Ethylammonio-1-(3,4-methylenedioxyphenyl)propane-1-one chloride",
+    "bk-MDEA",
+    "1-(BENZO(D)(1,3)DIOXOL-5-YL)-2-(ETHYLAMINO)PROPAN-1-ONE",
+    "DTXSID20894842",
+    "1-PROPANONE, 1-(1,3-BENZODIOXOL-5-YL)-2-(ETHYLAMINO)-",
+    "1112937-64-0",
+    "Ethylone",
+    "MDEC",
+    "BK-MDE",
+    "Q5404507",
+    "SCHEMBL2641160",
+    "3,4-Methylenedioxy-N-ethylcathinone",
+    "3,4-Methylenedioxyethcathinone",
+    "2-ethylamino-1-(3,4-methylenedioxyphenyl)propan-1-one",
+    "EtONE",
+    "L91C78FW96",
+    "J2.528.311B"
+  ],
+  "distances": [
+    0.0,
+    0.0,
+    7.9876272368,
+    9.2249974693,
+    9.2249974693,
+    9.9252524087,
+    9.9252524087,
+    10.6638940148,
+    10.6638940148,
+    11.497214602
+  ],
+  "indices": [
+    166,
+    700,
+    169,
+    115,
+    531,
+    460,
+    230,
+    207,
+    492,
+    267
+  ],
+  "name": "trip_Ethylone",
+  "svg": "trip_Ethylone.svg",
+  "sim": [
+    {
+      "name": "trip_Ethylone",
+      "psychonaut_name": "Ethylone",
+      "tripsit_name": null,
+      "dist": 0.0
+    },
+    {
+      "name": "psyc_ethylone",
+      "psychonaut_name": null,
+      "tripsit_name": "ethylone",
+      "dist": 0.0
+    },
+    {
+      "name": "trip_Eutylone",
+      "psychonaut_name": "Eutylone",
+      "tripsit_name": null,
+      "dist": 7.9876272368
+    },
+    {
+      "name": "trip_Butylone",
+      "psychonaut_name": "Butylone",
+      "tripsit_name": null,
+      "dist": 9.2249974693
+    },
+    {
+      "name": "psyc_butylone",
+      "psychonaut_name": null,
+      "tripsit_name": "butylone",
+      "dist": 9.2249974693
+    },
+    {
+      "name": "psyc_methylone",
+      "psychonaut_name": null,
+      "tripsit_name": "methylone",
+      "dist": 9.9252524087
+    },
+    {
+      "name": "trip_Methylone",
+      "psychonaut_name": "Methylone",
+      "tripsit_name": null,
+      "dist": 9.9252524087
+    },
+    {
+      "name": "trip_MDEA",
+      "psychonaut_name": "MDEA",
+      "tripsit_name": null,
+      "dist": 10.6638940148
+    },
+    {
+      "name": "psyc_mdea",
+      "psychonaut_name": null,
+      "tripsit_name": "mdea",
+      "dist": 10.6638940148
+    },
+    {
+      "name": "trip_Pentylone",
+      "psychonaut_name": "Pentylone",
+      "tripsit_name": null,
+      "dist": 11.497214602
+    }
+  ]
+}

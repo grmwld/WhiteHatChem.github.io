@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C12H17NO/c1-9-8-13-10(2)12(14-9)11-6-4-3-5-7-11/h3-7,9-10,12-13H,8H2,1-2H3",
+  "psychonaut_name": null,
+  "tripsit_name": "3,6-dmpm",
+  "synonyms": null,
+  "distances": [
+    1.9073e-06,
+    12.252025826,
+    12.252025826,
+    14.4547021943,
+    14.4716340521,
+    14.4716340521,
+    14.8637350046,
+    15.6016803521,
+    17.4562152801,
+    17.7370179749
+  ],
+  "indices": [
+    553,
+    272,
+    706,
+    466,
+    45,
+    604,
+    477,
+    448,
+    327,
+    552
+  ],
+  "name": "psyc_3,6-dmpm",
+  "svg": "psyc_3,6-dmpm.svg",
+  "sim": [
+    {
+      "name": "psyc_3,6-dmpm",
+      "psychonaut_name": null,
+      "tripsit_name": "3,6-dmpm",
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "trip_Phenmetrazine",
+      "psychonaut_name": "Phenmetrazine",
+      "tripsit_name": null,
+      "dist": 12.252025826
+    },
+    {
+      "name": "psyc_phenmetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "phenmetrazine",
+      "dist": 12.252025826
+    },
+    {
+      "name": "psyc_4-fpm",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fpm",
+      "dist": 14.4547021943
+    },
+    {
+      "name": "trip_3-FPM",
+      "psychonaut_name": "3-FPM",
+      "tripsit_name": null,
+      "dist": 14.4716340521
+    },
+    {
+      "name": "psyc_3-fpm",
+      "psychonaut_name": null,
+      "tripsit_name": "3-fpm",
+      "dist": 14.4716340521
+    },
+    {
+      "name": "psyc_isophenmetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "isophenmetrazine",
+      "dist": 14.8637350046
+    },
+    {
+      "name": "psyc_phenetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "phenetrazine",
+      "dist": 15.6016803521
+    },
+    {
+      "name": "psyc_4-methylaminorex",
+      "psychonaut_name": null,
+      "tripsit_name": "4-methylaminorex",
+      "dist": 17.4562152801
+    },
+    {
+      "name": "psyc_mephenmetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "mephenmetrazine",
+      "dist": 17.7370179749
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C17H13N5O2/c1-11-19-20-16-10-18-17(12-5-3-2-4-6-12)14-9-13(22(23)24)7-8-15(14)21(11)16/h2-9H,10H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "nitrazolam",
+  "synonyms": null,
+  "distances": [
+    3.0158e-06,
+    7.6013098241,
+    7.6013098241,
+    8.0848282942,
+    8.0848282942,
+    17.4334742777,
+    17.5592850427,
+    17.5592850427,
+    17.6615580724,
+    17.6615580724
+  ],
+  "indices": [
+    356,
+    434,
+    125,
+    178,
+    394,
+    712,
+    103,
+    378,
+    111,
+    664
+  ],
+  "name": "psyc_nitrazolam",
+  "svg": "psyc_nitrazolam.svg",
+  "sim": [
+    {
+      "name": "psyc_nitrazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "nitrazolam",
+      "dist": 3.0158e-06
+    },
+    {
+      "name": "psyc_clonazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "clonazolam",
+      "dist": 7.6013098241
+    },
+    {
+      "name": "trip_Clonazolam",
+      "psychonaut_name": "Clonazolam",
+      "tripsit_name": null,
+      "dist": 7.6013098241
+    },
+    {
+      "name": "trip_Flunitrazolam",
+      "psychonaut_name": "Flunitrazolam",
+      "tripsit_name": null,
+      "dist": 8.0848282942
+    },
+    {
+      "name": "psyc_flunitrazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "flunitrazolam",
+      "dist": 8.0848282942
+    },
+    {
+      "name": "psyc_nimetazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "nimetazepam",
+      "dist": 17.4334742777
+    },
+    {
+      "name": "trip_Alprazolam",
+      "psychonaut_name": "Alprazolam",
+      "tripsit_name": null,
+      "dist": 17.5592850427
+    },
+    {
+      "name": "psyc_alprazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "alprazolam",
+      "dist": 17.5592850427
+    },
+    {
+      "name": "trip_Bromazolam",
+      "psychonaut_name": "Bromazolam",
+      "tripsit_name": null,
+      "dist": 17.6615580724
+    },
+    {
+      "name": "psyc_bromazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "bromazolam",
+      "dist": 17.6615580724
+    }
+  ]
+}

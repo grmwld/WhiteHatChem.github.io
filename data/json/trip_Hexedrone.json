@@ -1,0 +1,105 @@
+{
+  "inchi": "InChI=1S/C13H19NO/c1-3-4-10-12(14-2)13(15)11-8-6-5-7-9-11/h5-9,12,14H,3-4,10H2,1-2H3",
+  "psychonaut_name": "Hexedrone",
+  "tripsit_name": null,
+  "synonyms": [
+    "Hexedrone",
+    "2-methylamino-1-(phenyl)hexan-1-one",
+    ".ALPHA.-METHYLAMINO-CAPROPHENONE",
+    "DTXSID601336034",
+    "2-(Methylamino)-1-phenyl-1-hexanone",
+    "alpha-Methylamino-caprophenone",
+    "KLF7T8YQP5",
+    "1-Hexanone, 2-(methylamino)-1-phenyl-",
+    "2169446-41-5",
+    "UNII-KLF7T8YQP5"
+  ],
+  "distances": [
+    1.9073e-06,
+    1.9073e-06,
+    5.8999280246,
+    5.8999280246,
+    8.3991346913,
+    8.4081021789,
+    8.4081021789,
+    8.4646806125,
+    9.5904487621,
+    9.9252520243
+  ],
+  "indices": [
+    549,
+    187,
+    633,
+    265,
+    655,
+    718,
+    375,
+    244,
+    381,
+    242
+  ],
+  "name": "trip_Hexedrone",
+  "svg": "trip_Hexedrone.svg",
+  "sim": [
+    {
+      "name": "psyc_hexedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "hexedrone",
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "trip_Hexedrone",
+      "psychonaut_name": "Hexedrone",
+      "tripsit_name": null,
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "psyc_pentedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "pentedrone",
+      "dist": 5.8999280246
+    },
+    {
+      "name": "trip_Pentedrone",
+      "psychonaut_name": "Pentedrone",
+      "tripsit_name": null,
+      "dist": 5.8999280246
+    },
+    {
+      "name": "psyc_4-mpd",
+      "psychonaut_name": null,
+      "tripsit_name": "4-mpd",
+      "dist": 8.3991346913
+    },
+    {
+      "name": "psyc_ethyl-pentedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "ethyl-pentedrone",
+      "dist": 8.4081021789
+    },
+    {
+      "name": "psyc_4-epd",
+      "psychonaut_name": null,
+      "tripsit_name": "4-epd",
+      "dist": 8.4081021789
+    },
+    {
+      "name": "trip_NEP",
+      "psychonaut_name": "NEP",
+      "tripsit_name": null,
+      "dist": 8.4646806125
+    },
+    {
+      "name": "psyc_4-fluoropentedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fluoropentedrone",
+      "dist": 9.5904487621
+    },
+    {
+      "name": "trip_N-Ethylhexedrone",
+      "psychonaut_name": "N-Ethylhexedrone",
+      "tripsit_name": null,
+      "dist": 9.9252520243
+    }
+  ]
+}

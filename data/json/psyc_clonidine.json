@@ -1,0 +1,98 @@
+{
+  "inchi": "InChI=1S/C9H9Cl2N3/c10-6-2-1-3-7(11)8(6)14-9-12-4-5-13-9/h1-3H,4-5H2,(H2,12,13,14)",
+  "psychonaut_name": null,
+  "tripsit_name": "clonidine",
+  "synonyms": [
+    "catapres",
+    "kapvay",
+    "duraclon"
+  ],
+  "distances": [
+    9.537e-07,
+    9.537e-07,
+    20.8665944611,
+    20.8665944611,
+    23.0573096082,
+    24.6772550934,
+    25.4242817795,
+    25.7770107784,
+    26.8599964933,
+    26.8778205279
+  ],
+  "indices": [
+    759,
+    126,
+    812,
+    204,
+    823,
+    396,
+    656,
+    451,
+    466,
+    45
+  ],
+  "name": "psyc_clonidine",
+  "svg": "psyc_clonidine.svg",
+  "sim": [
+    {
+      "name": "psyc_clonidine",
+      "psychonaut_name": null,
+      "tripsit_name": "clonidine",
+      "dist": 9.537e-07
+    },
+    {
+      "name": "trip_Clonidine",
+      "psychonaut_name": "Clonidine",
+      "tripsit_name": null,
+      "dist": 9.537e-07
+    },
+    {
+      "name": "psyc_mcpp",
+      "psychonaut_name": null,
+      "tripsit_name": "mcpp",
+      "dist": 20.8665944611
+    },
+    {
+      "name": "trip_MCPP",
+      "psychonaut_name": "MCPP",
+      "tripsit_name": null,
+      "dist": 20.8665944611
+    },
+    {
+      "name": "psyc_4-fpp",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fpp",
+      "dist": 23.0573096082
+    },
+    {
+      "name": "psyc_bzp",
+      "psychonaut_name": null,
+      "tripsit_name": "bzp",
+      "dist": 24.6772550934
+    },
+    {
+      "name": "psyc_4-benzylpiperidine",
+      "psychonaut_name": null,
+      "tripsit_name": "4-benzylpiperidine",
+      "dist": 25.4242817795
+    },
+    {
+      "name": "psyc_aminorex",
+      "psychonaut_name": null,
+      "tripsit_name": "aminorex",
+      "dist": 25.7770107784
+    },
+    {
+      "name": "psyc_4-fpm",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fpm",
+      "dist": 26.8599964933
+    },
+    {
+      "name": "trip_3-FPM",
+      "psychonaut_name": "3-FPM",
+      "tripsit_name": null,
+      "dist": 26.8778205279
+    }
+  ]
+}

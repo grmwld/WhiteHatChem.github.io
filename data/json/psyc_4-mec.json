@@ -1,0 +1,98 @@
+{
+  "inchi": "InChI=1S/C12H17NO/c1-4-13-10(3)12(14)11-7-5-9(2)6-8-11/h5-8,10,13H,4H2,1-3H3",
+  "psychonaut_name": null,
+  "tripsit_name": "4-mec",
+  "synonyms": [
+    "4-Methylethcathinone",
+    "4mec",
+    "4-methylethcathinone"
+  ],
+  "distances": [
+    9.537e-07,
+    9.537e-07,
+    1.9697516179,
+    4.0127249016,
+    7.6058040441,
+    7.6058040441,
+    9.310123422,
+    9.9252520243,
+    9.9252520243,
+    10.1060964937
+  ],
+  "indices": [
+    70,
+    603,
+    389,
+    339,
+    808,
+    156,
+    373,
+    218,
+    547,
+    377
+  ],
+  "name": "psyc_4-mec",
+  "svg": "psyc_4-mec.svg",
+  "sim": [
+    {
+      "name": "trip_4-MEC",
+      "psychonaut_name": "4-MEC",
+      "tripsit_name": null,
+      "dist": 9.537e-07
+    },
+    {
+      "name": "psyc_4-mec",
+      "psychonaut_name": null,
+      "tripsit_name": "4-mec",
+      "dist": 9.537e-07
+    },
+    {
+      "name": "psyc_3-mec",
+      "psychonaut_name": null,
+      "tripsit_name": "3-mec",
+      "dist": 1.9697516179
+    },
+    {
+      "name": "psyc_2-mec",
+      "psychonaut_name": null,
+      "tripsit_name": "2-mec",
+      "dist": 4.0127249016
+    },
+    {
+      "name": "psyc_ethylcathinone",
+      "psychonaut_name": null,
+      "tripsit_name": "ethylcathinone",
+      "dist": 7.6058040441
+    },
+    {
+      "name": "trip_ETH-CAT",
+      "psychonaut_name": "ETH-CAT",
+      "tripsit_name": null,
+      "dist": 7.6058040441
+    },
+    {
+      "name": "psyc_4-emc",
+      "psychonaut_name": null,
+      "tripsit_name": "4-emc",
+      "dist": 9.310123422
+    },
+    {
+      "name": "trip_Mephedrone",
+      "psychonaut_name": "Mephedrone",
+      "tripsit_name": null,
+      "dist": 9.9252520243
+    },
+    {
+      "name": "psyc_mephedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "mephedrone",
+      "dist": 9.9252520243
+    },
+    {
+      "name": "psyc_3-mmc",
+      "psychonaut_name": null,
+      "tripsit_name": "3-mmc",
+      "dist": 10.1060964937
+    }
+  ]
+}

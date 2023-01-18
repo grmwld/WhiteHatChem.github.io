@@ -1,0 +1,99 @@
+{
+  "inchi": "InChI=1S/C10H13NO2/c1-7(11)4-8-2-3-9-10(5-8)13-6-12-9/h2-3,5,7H,4,6,11H2,1H3",
+  "psychonaut_name": "MDA",
+  "tripsit_name": null,
+  "synonyms": [
+    "EA-1298",
+    "3,4-Methylenedioxyamphetamine",
+    "Amphedoxamine",
+    "MDA"
+  ],
+  "distances": [
+    9.537e-07,
+    9.537e-07,
+    8.9216761792,
+    8.9216761792,
+    8.9216761792,
+    12.0991501691,
+    12.0991501691,
+    12.1510729909,
+    12.5226308809,
+    13.968995777
+  ],
+  "indices": [
+    658,
+    205,
+    771,
+    89,
+    497,
+    208,
+    609,
+    479,
+    211,
+    492
+  ],
+  "name": "trip_MDA",
+  "svg": "trip_MDA.svg",
+  "sim": [
+    {
+      "name": "psyc_mda",
+      "psychonaut_name": null,
+      "tripsit_name": "mda",
+      "dist": 9.537e-07
+    },
+    {
+      "name": "trip_MDA",
+      "psychonaut_name": "MDA",
+      "tripsit_name": null,
+      "dist": 9.537e-07
+    },
+    {
+      "name": "psyc_5-apdb",
+      "psychonaut_name": null,
+      "tripsit_name": "5-apdb",
+      "dist": 8.9216761792
+    },
+    {
+      "name": "trip_6-APDB",
+      "psychonaut_name": "6-APDB",
+      "tripsit_name": null,
+      "dist": 8.9216761792
+    },
+    {
+      "name": "psyc_6-apdb",
+      "psychonaut_name": null,
+      "tripsit_name": "6-apdb",
+      "dist": 8.9216761792
+    },
+    {
+      "name": "trip_MDMA",
+      "psychonaut_name": "MDMA",
+      "tripsit_name": null,
+      "dist": 12.0991501691
+    },
+    {
+      "name": "psyc_mdma",
+      "psychonaut_name": null,
+      "tripsit_name": "mdma",
+      "dist": 12.0991501691
+    },
+    {
+      "name": "psyc_mdoh",
+      "psychonaut_name": null,
+      "tripsit_name": "mdoh",
+      "dist": 12.1510729909
+    },
+    {
+      "name": "trip_MMDA",
+      "psychonaut_name": "MMDA",
+      "tripsit_name": null,
+      "dist": 12.5226308809
+    },
+    {
+      "name": "psyc_mdea",
+      "psychonaut_name": null,
+      "tripsit_name": "mdea",
+      "dist": 13.968995777
+    }
+  ]
+}

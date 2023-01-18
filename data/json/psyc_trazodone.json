@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C19H22ClN5O/c20-16-5-3-6-17(15-16)23-13-11-22(12-14-23)8-4-10-25-19(26)24-9-2-1-7-18(24)21-25/h1-3,5-7,9,15H,4,8,10-14H2",
+  "psychonaut_name": null,
+  "tripsit_name": "trazodone",
+  "synonyms": [],
+  "distances": [
+    0.0,
+    20.6555090698,
+    23.4808817262,
+    27.1754912415,
+    27.2286618183,
+    27.2286618183,
+    27.3117614227,
+    28.2623728436,
+    28.2623728436,
+    28.6108256732
+  ],
+  "indices": [
+    625,
+    279,
+    345,
+    185,
+    713,
+    287,
+    687,
+    172,
+    348,
+    612
+  ],
+  "name": "psyc_trazodone",
+  "svg": "psyc_trazodone.svg",
+  "sim": [
+    {
+      "name": "psyc_trazodone",
+      "psychonaut_name": null,
+      "tripsit_name": "trazodone",
+      "dist": 0.0
+    },
+    {
+      "name": "trip_Prochlorperazine",
+      "psychonaut_name": "Prochlorperazine",
+      "tripsit_name": null,
+      "dist": 20.6555090698
+    },
+    {
+      "name": "psyc_hydroxyzine",
+      "psychonaut_name": null,
+      "tripsit_name": "hydroxyzine",
+      "dist": 23.4808817262
+    },
+    {
+      "name": "trip_Haloperidol",
+      "psychonaut_name": "Haloperidol",
+      "tripsit_name": null,
+      "dist": 27.1754912415
+    },
+    {
+      "name": "psyc_quetiapine",
+      "psychonaut_name": null,
+      "tripsit_name": "quetiapine",
+      "dist": 27.2286618183
+    },
+    {
+      "name": "trip_Quetiapine",
+      "psychonaut_name": "Quetiapine",
+      "tripsit_name": null,
+      "dist": 27.2286618183
+    },
+    {
+      "name": "psyc_parafluorofentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "parafluorofentanyl",
+      "dist": 27.3117614227
+    },
+    {
+      "name": "trip_Fentanyl",
+      "psychonaut_name": "Fentanyl",
+      "tripsit_name": null,
+      "dist": 28.2623728436
+    },
+    {
+      "name": "psyc_fentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "fentanyl",
+      "dist": 28.2623728436
+    },
+    {
+      "name": "psyc_methoxyacetyl-fentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "methoxyacetyl-fentanyl",
+      "dist": 28.6108256732
+    }
+  ]
+}

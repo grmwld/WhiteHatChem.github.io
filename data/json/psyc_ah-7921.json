@@ -1,0 +1,96 @@
+{
+  "inchi": "InChI=1S/C16H22Cl2N2O/c1-20(2)16(8-4-3-5-9-16)11-19-15(21)12-6-7-13(17)14(18)10-12/h6-7,10H,3-5,8-9,11H2,1-2H3,(H,19,21)",
+  "psychonaut_name": null,
+  "tripsit_name": "ah-7921",
+  "synonyms": [
+    "ah7921"
+  ],
+  "distances": [
+    3.0158e-06,
+    26.272236443,
+    26.272236443,
+    26.604978672,
+    26.604978672,
+    27.8548045536,
+    27.8548045536,
+    29.2439866365,
+    29.4849773885,
+    30.1570150486
+  ],
+  "indices": [
+    644,
+    623,
+    250,
+    311,
+    542,
+    358,
+    316,
+    349,
+    566,
+    213
+  ],
+  "name": "psyc_ah-7921",
+  "svg": "psyc_ah-7921.svg",
+  "sim": [
+    {
+      "name": "psyc_ah-7921",
+      "psychonaut_name": null,
+      "tripsit_name": "ah-7921",
+      "dist": 3.0158e-06
+    },
+    {
+      "name": "psyc_o-desmethyltramadol",
+      "psychonaut_name": null,
+      "tripsit_name": "o-desmethyltramadol",
+      "dist": 26.272236443
+    },
+    {
+      "name": "trip_O-Desmethyltramadol",
+      "psychonaut_name": "O-Desmethyltramadol",
+      "tripsit_name": null,
+      "dist": 26.272236443
+    },
+    {
+      "name": "trip_Tramadol",
+      "psychonaut_name": "Tramadol",
+      "tripsit_name": null,
+      "dist": 26.604978672
+    },
+    {
+      "name": "psyc_tramadol",
+      "psychonaut_name": null,
+      "tripsit_name": "tramadol",
+      "dist": 26.604978672
+    },
+    {
+      "name": "psyc_u-47700",
+      "psychonaut_name": null,
+      "tripsit_name": "u-47700",
+      "dist": 27.8548045536
+    },
+    {
+      "name": "trip_U-47700",
+      "psychonaut_name": "U-47700",
+      "tripsit_name": null,
+      "dist": 27.8548045536
+    },
+    {
+      "name": "psyc_u-51754",
+      "psychonaut_name": null,
+      "tripsit_name": "u-51754",
+      "dist": 29.2439866365
+    },
+    {
+      "name": "psyc_ketobemidone",
+      "psychonaut_name": null,
+      "tripsit_name": "ketobemidone",
+      "dist": 29.4849773885
+    },
+    {
+      "name": "trip_MXPr",
+      "psychonaut_name": "MXPr",
+      "tripsit_name": null,
+      "dist": 30.1570150486
+    }
+  ]
+}

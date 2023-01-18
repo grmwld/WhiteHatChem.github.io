@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C10H16N2O2/c13-9-5-4-8(11-9)10(14)12-6-2-1-3-7-12/h8H,1-7H2,(H,11,13)/t8-/m1/s1",
+  "psychonaut_name": null,
+  "tripsit_name": "fasoracetam",
+  "synonyms": null,
+  "distances": [
+    9.537e-07,
+    9.537e-07,
+    22.3901452321,
+    24.492320823,
+    24.492320823,
+    25.629696597,
+    25.629696597,
+    26.6522381213,
+    26.6522381213,
+    26.8925530886
+  ],
+  "indices": [
+    171,
+    723,
+    789,
+    763,
+    247,
+    282,
+    772,
+    181,
+    401,
+    484
+  ],
+  "name": "psyc_fasoracetam",
+  "svg": "psyc_fasoracetam.svg",
+  "sim": [
+    {
+      "name": "trip_Fasoracetam",
+      "psychonaut_name": "Fasoracetam",
+      "tripsit_name": null,
+      "dist": 9.537e-07
+    },
+    {
+      "name": "psyc_fasoracetam",
+      "psychonaut_name": null,
+      "tripsit_name": "fasoracetam",
+      "dist": 9.537e-07
+    },
+    {
+      "name": "psyc_cyclo-methiodrone",
+      "psychonaut_name": null,
+      "tripsit_name": "cyclo-methiodrone",
+      "dist": 22.3901452321
+    },
+    {
+      "name": "psyc_nicotine",
+      "psychonaut_name": null,
+      "tripsit_name": "nicotine",
+      "dist": 24.492320823
+    },
+    {
+      "name": "trip_Nicotine",
+      "psychonaut_name": "Nicotine",
+      "tripsit_name": null,
+      "dist": 24.492320823
+    },
+    {
+      "name": "trip_Propylhexedrine",
+      "psychonaut_name": "Propylhexedrine",
+      "tripsit_name": null,
+      "dist": 25.629696597
+    },
+    {
+      "name": "psyc_propylhexedrine",
+      "psychonaut_name": null,
+      "tripsit_name": "propylhexedrine",
+      "dist": 25.629696597
+    },
+    {
+      "name": "trip_Gabapentin",
+      "psychonaut_name": "Gabapentin",
+      "tripsit_name": null,
+      "dist": 26.6522381213
+    },
+    {
+      "name": "psyc_gabapentin",
+      "psychonaut_name": null,
+      "tripsit_name": "gabapentin",
+      "dist": 26.6522381213
+    },
+    {
+      "name": "psyc_mbzp",
+      "psychonaut_name": null,
+      "tripsit_name": "mbzp",
+      "dist": 26.8925530886
+    }
+  ]
+}

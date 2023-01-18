@@ -1,0 +1,99 @@
+{
+  "inchi": "InChI=1S/C23H32O3/c1-6-7-8-9-17-13-20(25-16(3)24)22-18-12-15(2)10-11-19(18)23(4,5)26-21(22)14-17/h12-14,18-19H,6-11H2,1-5H3/t18-,19-/m1/s1",
+  "psychonaut_name": "THC-O",
+  "tripsit_name": null,
+  "synonyms": [
+    "THC-O",
+    "THC-O-acetate",
+    "Acetyl-THC",
+    "\u03949-THC acetate"
+  ],
+  "distances": [
+    1.9073e-06,
+    17.3390319455,
+    27.5117007246,
+    33.1155757525,
+    33.1155757525,
+    34.574705759,
+    34.574705759,
+    35.3201094539,
+    35.3201094539,
+    35.6331233885
+  ],
+  "indices": [
+    296,
+    404,
+    118,
+    186,
+    397,
+    351,
+    95,
+    807,
+    5,
+    3
+  ],
+  "name": "trip_THC-O",
+  "svg": "trip_THC-O.svg",
+  "sim": [
+    {
+      "name": "trip_THC-O",
+      "psychonaut_name": "THC-O",
+      "tripsit_name": null,
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "psyc_marinol",
+      "psychonaut_name": null,
+      "tripsit_name": "marinol",
+      "dist": 17.3390319455
+    },
+    {
+      "name": "trip_Cannabidiol",
+      "psychonaut_name": "Cannabidiol",
+      "tripsit_name": null,
+      "dist": 27.5117007246
+    },
+    {
+      "name": "trip_Heroin",
+      "psychonaut_name": "Heroin",
+      "tripsit_name": null,
+      "dist": 33.1155757525
+    },
+    {
+      "name": "psyc_heroin",
+      "psychonaut_name": null,
+      "tripsit_name": "heroin",
+      "dist": 33.1155757525
+    },
+    {
+      "name": "psyc_ald-52",
+      "psychonaut_name": null,
+      "tripsit_name": "ald-52",
+      "dist": 34.574705759
+    },
+    {
+      "name": "trip_ALD-52",
+      "psychonaut_name": "ALD-52",
+      "tripsit_name": null,
+      "dist": 34.574705759
+    },
+    {
+      "name": "psyc_1p-lsd",
+      "psychonaut_name": null,
+      "tripsit_name": "1p-lsd",
+      "dist": 35.3201094539
+    },
+    {
+      "name": "trip_1P-LSD",
+      "psychonaut_name": "1P-LSD",
+      "tripsit_name": null,
+      "dist": 35.3201094539
+    },
+    {
+      "name": "trip_1B-LSD",
+      "psychonaut_name": "1B-LSD",
+      "tripsit_name": null,
+      "dist": 35.6331233885
+    }
+  ]
+}

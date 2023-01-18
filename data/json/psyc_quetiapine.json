@@ -1,0 +1,96 @@
+{
+  "inchi": "InChI=1S/C21H25N3O2S/c25-14-16-26-15-13-23-9-11-24(12-10-23)21-17-5-1-3-7-19(17)27-20-8-4-2-6-18(20)22-21/h1-8,25H,9-16H2",
+  "psychonaut_name": null,
+  "tripsit_name": "quetiapine",
+  "synonyms": [
+    "seroquel"
+  ],
+  "distances": [
+    2.6974e-06,
+    2.6974e-06,
+    21.0965051731,
+    24.4666970124,
+    27.2286618183,
+    30.2440008094,
+    30.2662693126,
+    30.4354535615,
+    30.8103457427,
+    31.0125706934
+  ],
+  "indices": [
+    713,
+    287,
+    279,
+    345,
+    625,
+    612,
+    185,
+    687,
+    839,
+    348
+  ],
+  "name": "psyc_quetiapine",
+  "svg": "psyc_quetiapine.svg",
+  "sim": [
+    {
+      "name": "psyc_quetiapine",
+      "psychonaut_name": null,
+      "tripsit_name": "quetiapine",
+      "dist": 2.6974e-06
+    },
+    {
+      "name": "trip_Quetiapine",
+      "psychonaut_name": "Quetiapine",
+      "tripsit_name": null,
+      "dist": 2.6974e-06
+    },
+    {
+      "name": "trip_Prochlorperazine",
+      "psychonaut_name": "Prochlorperazine",
+      "tripsit_name": null,
+      "dist": 21.0965051731
+    },
+    {
+      "name": "psyc_hydroxyzine",
+      "psychonaut_name": null,
+      "tripsit_name": "hydroxyzine",
+      "dist": 24.4666970124
+    },
+    {
+      "name": "psyc_trazodone",
+      "psychonaut_name": null,
+      "tripsit_name": "trazodone",
+      "dist": 27.2286618183
+    },
+    {
+      "name": "psyc_methoxyacetyl-fentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "methoxyacetyl-fentanyl",
+      "dist": 30.2440008094
+    },
+    {
+      "name": "trip_Haloperidol",
+      "psychonaut_name": "Haloperidol",
+      "tripsit_name": null,
+      "dist": 30.2662693126
+    },
+    {
+      "name": "psyc_parafluorofentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "parafluorofentanyl",
+      "dist": 30.4354535615
+    },
+    {
+      "name": "psyc_flutazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "flutazolam",
+      "dist": 30.8103457427
+    },
+    {
+      "name": "psyc_fentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "fentanyl",
+      "dist": 31.0125706934
+    }
+  ]
+}

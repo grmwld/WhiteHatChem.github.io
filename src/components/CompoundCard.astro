@@ -1,18 +1,25 @@
 ---
 import ComponentSvg from './ComponentSvg.astro'
+import CompoundName from './CompoundName.astro';
+
 export interface Props {
+    psychonaut_name: string | null;
+    tripsit_name: string | null;
 	name: string;
     svg: string
 }
 
-const { name, svg } = Astro.props;
+const { psychonaut_name, tripsit_name, name, svg } = Astro.props;
 ---
 
 <a
     href={`/molecule/${name}`}
     class="flex flex-col items-center group"
 >
-    <h2 class="group-hover:text-indigo-600">{name}</h2>
+    <div class="flex">
+        <CompoundName name={tripsit_name} site="tripsit"/>
+        <CompoundName name={psychonaut_name} site="psychonaut"/>
+    </div>
     <div class="w-full border-t border-neutral-400/20 mt-2 group-hover:border-indigo-400/50"/>
     <ComponentSvg svg={svg} name={name}/>
 </a>

@@ -1,0 +1,119 @@
+{
+  "inchi": "InChI=1S/C10H14FN/c1-8(12-2)7-9-3-5-10(11)6-4-9/h3-6,8,12H,7H2,1-2H3",
+  "psychonaut_name": "4-FMA",
+  "tripsit_name": null,
+  "synonyms": [
+    "P-FLUORO-N,.ALPHA.-DIMETHYLBENZENEETHANAMINE",
+    "4-FMA",
+    "4 FLUOROMETHAMPHETAMINE",
+    "1-(4-fluorophenyl)-N-methylpropan-2-amine",
+    "DTXSID101043365",
+    "8LLF59DO7F",
+    "UNII-8LLF59DO7F",
+    "N12809",
+    "PFMA",
+    "[1-(4-fluorophenyl)propan-2-yl](methyl)amine",
+    "1-(4-FLUOROPHENYL)-2-(METHYLAMINO)PROPANE",
+    "SCHEMBL178552",
+    "4-Fluoro-N-methylamphetamine",
+    "Q4637132",
+    "4F-MA",
+    "AKOS010037360",
+    "(RS)-1-(4-FLUOROPHENYL)-N-METHYLPROPAN-2-AMINE",
+    "p-Fluoro-N-alpha-dimethylbenzeneethanamine",
+    "p-Fluoromethamphetamine",
+    "BENZENEETHANAMINE, 4-FLUORO-N,.ALPHA.-DIMETHYL-",
+    "1-(4-Fluorophenyl)-2(methylamino)propane",
+    "4-Fluoromethamphetamine",
+    "(+/-)-N-methyl-2-(4-fluorophenyl)-1-methyl-ethyl-amine",
+    "351-03-1"
+  ],
+  "distances": [
+    1.9073e-06,
+    1.9073e-06,
+    1.969751739,
+    1.969751739,
+    4.1688717666,
+    4.1688717666,
+    7.2015522131,
+    8.4945185321,
+    8.4945185321,
+    9.925252793
+  ],
+  "indices": [
+    62,
+    698,
+    344,
+    44,
+    14,
+    638,
+    508,
+    684,
+    223,
+    795
+  ],
+  "name": "trip_4-FMA",
+  "svg": "trip_4-FMA.svg",
+  "sim": [
+    {
+      "name": "trip_4-FMA",
+      "psychonaut_name": "4-FMA",
+      "tripsit_name": null,
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "psyc_4-fma",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fma",
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "psyc_3-fma",
+      "psychonaut_name": null,
+      "tripsit_name": "3-fma",
+      "dist": 1.969751739
+    },
+    {
+      "name": "trip_3-FMA",
+      "psychonaut_name": "3-FMA",
+      "tripsit_name": null,
+      "dist": 1.969751739
+    },
+    {
+      "name": "trip_2-FMA",
+      "psychonaut_name": "2-FMA",
+      "tripsit_name": null,
+      "dist": 4.1688717666
+    },
+    {
+      "name": "psyc_2-fma",
+      "psychonaut_name": null,
+      "tripsit_name": "2-fma",
+      "dist": 4.1688717666
+    },
+    {
+      "name": "psyc_4-cma",
+      "psychonaut_name": null,
+      "tripsit_name": "4-cma",
+      "dist": 7.2015522131
+    },
+    {
+      "name": "psyc_methamphetamine",
+      "psychonaut_name": null,
+      "tripsit_name": "methamphetamine",
+      "dist": 8.4945185321
+    },
+    {
+      "name": "trip_Methamphetamine",
+      "psychonaut_name": "Methamphetamine",
+      "tripsit_name": null,
+      "dist": 8.4945185321
+    },
+    {
+      "name": "psyc_4-fea",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fea",
+      "dist": 9.925252793
+    }
+  ]
+}

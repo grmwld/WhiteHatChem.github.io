@@ -1,0 +1,98 @@
+{
+  "inchi": "InChI=1S/C10H21N/c1-9(11-2)8-10-6-4-3-5-7-10/h9-11H,3-8H2,1-2H3",
+  "psychonaut_name": null,
+  "tripsit_name": "propylhexedrine",
+  "synonyms": [
+    "benzedrex",
+    "propylhexadrine",
+    "hexahdromethamphetamine"
+  ],
+  "distances": [
+    1.3487e-06,
+    1.3487e-06,
+    24.5960653492,
+    24.5960653492,
+    24.8015032405,
+    24.8015032405,
+    25.2916761856,
+    25.2916761856,
+    25.4182782105,
+    25.5641223794
+  ],
+  "indices": [
+    772,
+    282,
+    494,
+    276,
+    763,
+    247,
+    401,
+    181,
+    832,
+    430
+  ],
+  "name": "psyc_propylhexedrine",
+  "svg": "psyc_propylhexedrine.svg",
+  "sim": [
+    {
+      "name": "psyc_propylhexedrine",
+      "psychonaut_name": null,
+      "tripsit_name": "propylhexedrine",
+      "dist": 1.3487e-06
+    },
+    {
+      "name": "trip_Propylhexedrine",
+      "psychonaut_name": "Propylhexedrine",
+      "tripsit_name": null,
+      "dist": 1.3487e-06
+    },
+    {
+      "name": "psyc_piracetam",
+      "psychonaut_name": null,
+      "tripsit_name": "piracetam",
+      "dist": 24.5960653492
+    },
+    {
+      "name": "trip_Piracetam",
+      "psychonaut_name": "Piracetam",
+      "tripsit_name": null,
+      "dist": 24.5960653492
+    },
+    {
+      "name": "psyc_nicotine",
+      "psychonaut_name": null,
+      "tripsit_name": "nicotine",
+      "dist": 24.8015032405
+    },
+    {
+      "name": "trip_Nicotine",
+      "psychonaut_name": "Nicotine",
+      "tripsit_name": null,
+      "dist": 24.8015032405
+    },
+    {
+      "name": "psyc_gabapentin",
+      "psychonaut_name": null,
+      "tripsit_name": "gabapentin",
+      "dist": 25.2916761856
+    },
+    {
+      "name": "trip_Gabapentin",
+      "psychonaut_name": "Gabapentin",
+      "tripsit_name": null,
+      "dist": 25.2916761856
+    },
+    {
+      "name": "psyc_5-apdi",
+      "psychonaut_name": null,
+      "tripsit_name": "5-apdi",
+      "dist": 25.4182782105
+    },
+    {
+      "name": "psyc_5-mapdb",
+      "psychonaut_name": null,
+      "tripsit_name": "5-mapdb",
+      "dist": 25.5641223794
+    }
+  ]
+}

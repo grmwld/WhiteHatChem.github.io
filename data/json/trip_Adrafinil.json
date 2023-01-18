@@ -1,0 +1,155 @@
+{
+  "inchi": "InChI=1S/C15H15NO3S/c17-14(16-18)11-20(19)15(12-7-3-1-4-8-12)13-9-5-2-6-10-13/h1-10,15,18H,11H2,(H,16,17)",
+  "psychonaut_name": "Adrafinil",
+  "tripsit_name": null,
+  "synonyms": [
+    "BI81Z4542G",
+    "Adrafinilum",
+    "CHEBI:135200",
+    "HMS3886M15",
+    "DSSTox_GSID_46498",
+    "EX-A733",
+    "CCG-267371",
+    "NCGC00165714-01",
+    "2-((Diphenylmethyl)sulfinyl)-N-hydroxyacetamide",
+    "SCHEMBL49334",
+    "2-benzhydrylsulfinyl-N-hydroxyacetamide",
+    "MFCD00865357",
+    "AF-0056",
+    "ADRAFINIL [NFLIS-DRUG]",
+    "Olmifon",
+    "Adrafinil (INN)",
+    "D07348",
+    "F17382",
+    "AKOS015994532",
+    "W-104904",
+    "Adrafinil [INN]",
+    "CRL 40028",
+    "2-(Benzhydrylsulfinyl)acetohydroxamic acid",
+    "EINECS 264-303-1",
+    "HY-17549",
+    "2-[(Diphenylmethyl)sulfinyl]acetohydroxamic acid",
+    "DSSTox_CID_26498",
+    "2-[(Diphenylmethyl)sulfinyl]-N-hydroxyacetamide",
+    "UNII-BI81Z4542G",
+    "2-(BENZHYDRYLSULFINYL)-N-HYDROXYACETAMIDE",
+    "DTXSID4046498",
+    "2-((Diphenylmethyl)sulfinyl)acetohydroxamic acid",
+    "547A137",
+    "CHEMBL93077",
+    "Tox21_112258",
+    "DSSTox_RID_81667",
+    "CAS-63547-13-7",
+    "Adrafinil",
+    "ADRAFINIL [MART.]",
+    "B1155",
+    "ADRAFINIL",
+    "Olmifon (TN)",
+    "s5224",
+    "63547-13-7",
+    "Adrafinil, >=98% (HPLC), solid",
+    "ADRAFINIL [MI]",
+    "Acetamide, 2-((diphenylmethyl)sulfinyl)-N-hydroxy-",
+    "Acetohydroxamic acid, 2-((diphenylmethyl)sulfinyl)-",
+    "Adrafinil, (S)-",
+    "827603-96-3",
+    "BRN 1990030",
+    "Q366482",
+    "Acetamide, 2-((S)-(diphenylmethyl)sulfinyl)-N-hydroxy-",
+    "2-((Diphenylmethyl)sulfinyl)acetohydroxamsaeure",
+    "AB07489",
+    "CRL-40028",
+    "ADRAFINIL [WHO-DD]",
+    "2-(benzhydrylsulphinyl)acetohydroxamic acid",
+    "NCGC00165714-02",
+    "Adrafinilum [INN-Latin]"
+  ],
+  "distances": [
+    3.0158e-06,
+    3.0158e-06,
+    14.8294205095,
+    14.8294205095,
+    14.8294205095,
+    14.8294205095,
+    16.9890361661,
+    20.2609984117,
+    20.2609984117,
+    21.3494420428
+  ],
+  "indices": [
+    475,
+    98,
+    107,
+    366,
+    238,
+    551,
+    786,
+    243,
+    395,
+    616
+  ],
+  "name": "trip_Adrafinil",
+  "svg": "trip_Adrafinil.svg",
+  "sim": [
+    {
+      "name": "psyc_adrafinil",
+      "psychonaut_name": null,
+      "tripsit_name": "adrafinil",
+      "dist": 3.0158e-06
+    },
+    {
+      "name": "trip_Adrafinil",
+      "psychonaut_name": "Adrafinil",
+      "tripsit_name": null,
+      "dist": 3.0158e-06
+    },
+    {
+      "name": "trip_Armodafinil",
+      "psychonaut_name": "Armodafinil",
+      "tripsit_name": null,
+      "dist": 14.8294205095
+    },
+    {
+      "name": "psyc_modafinil",
+      "psychonaut_name": null,
+      "tripsit_name": "modafinil",
+      "dist": 14.8294205095
+    },
+    {
+      "name": "trip_Modafinil",
+      "psychonaut_name": "Modafinil",
+      "tripsit_name": null,
+      "dist": 14.8294205095
+    },
+    {
+      "name": "psyc_armodafinil",
+      "psychonaut_name": null,
+      "tripsit_name": "armodafinil",
+      "dist": 14.8294205095
+    },
+    {
+      "name": "psyc_crl-40-941",
+      "psychonaut_name": null,
+      "tripsit_name": "crl-40-941",
+      "dist": 16.9890361661
+    },
+    {
+      "name": "trip_N-Methylbisfluoromodafinil",
+      "psychonaut_name": "N-Methylbisfluoromodafinil",
+      "tripsit_name": null,
+      "dist": 20.2609984117
+    },
+    {
+      "name": "psyc_dehydroxyfluorafinil",
+      "psychonaut_name": null,
+      "tripsit_name": "dehydroxyfluorafinil",
+      "dist": 20.2609984117
+    },
+    {
+      "name": "psyc_crl-40-940",
+      "psychonaut_name": null,
+      "tripsit_name": "crl-40-940",
+      "dist": 21.3494420428
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "inchi": "InChI=1S/C16H13ClN4S/c1-2-10-7-12-15(11-5-3-4-6-13(11)17)18-8-14-20-19-9-21(14)16(12)22-10/h3-7,9H,2,8H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "metizolam",
+  "synonyms": [
+    "metiz",
+    "desmethyletizolam"
+  ],
+  "distances": [
+    2.336e-06,
+    2.336e-06,
+    9.9695164496,
+    9.9695164496,
+    11.7020251747,
+    11.7020251747,
+    12.6737166077,
+    12.6737166077,
+    12.9858280108,
+    15.237971831
+  ],
+  "indices": [
+    784,
+    232,
+    333,
+    168,
+    140,
+    809,
+    843,
+    176,
+    654,
+    787
+  ],
+  "name": "psyc_metizolam",
+  "svg": "psyc_metizolam.svg",
+  "sim": [
+    {
+      "name": "psyc_metizolam",
+      "psychonaut_name": null,
+      "tripsit_name": "metizolam",
+      "dist": 2.336e-06
+    },
+    {
+      "name": "trip_Metizolam",
+      "psychonaut_name": "Metizolam",
+      "tripsit_name": null,
+      "dist": 2.336e-06
+    },
+    {
+      "name": "psyc_etizolam",
+      "psychonaut_name": null,
+      "tripsit_name": "etizolam",
+      "dist": 9.9695164496
+    },
+    {
+      "name": "trip_Etizolam",
+      "psychonaut_name": "Etizolam",
+      "tripsit_name": null,
+      "dist": 9.9695164496
+    },
+    {
+      "name": "trip_Deschloroetizolam",
+      "psychonaut_name": "Deschloroetizolam",
+      "tripsit_name": null,
+      "dist": 11.7020251747
+    },
+    {
+      "name": "psyc_deschloroetizolam",
+      "psychonaut_name": null,
+      "tripsit_name": "deschloroetizolam",
+      "dist": 11.7020251747
+    },
+    {
+      "name": "psyc_fluclotizolam",
+      "psychonaut_name": null,
+      "tripsit_name": "fluclotizolam",
+      "dist": 12.6737166077
+    },
+    {
+      "name": "trip_Fluclotizolam",
+      "psychonaut_name": "Fluclotizolam",
+      "tripsit_name": null,
+      "dist": 12.6737166077
+    },
+    {
+      "name": "psyc_brotizolam",
+      "psychonaut_name": null,
+      "tripsit_name": "brotizolam",
+      "dist": 12.9858280108
+    },
+    {
+      "name": "psyc_estazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "estazolam",
+      "dist": 15.237971831
+    }
+  ]
+}

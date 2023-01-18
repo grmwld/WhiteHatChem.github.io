@@ -1,0 +1,97 @@
+{
+  "inchi": "InChI=1S/C17H18F3NO/c1-21-12-11-16(13-5-3-2-4-6-13)22-15-9-7-14(8-10-15)17(18,19)20/h2-10,16,21H,11-12H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "fluoxetine",
+  "synonyms": [
+    "prozac",
+    "sarafem"
+  ],
+  "distances": [
+    4.0461e-06,
+    26.3124234522,
+    28.7024913172,
+    29.1426922021,
+    29.1426922021,
+    29.1995884696,
+    29.5725147793,
+    29.6913731026,
+    29.7084177951,
+    29.7084177951
+  ],
+  "indices": [
+    425,
+    554,
+    582,
+    408,
+    154,
+    525,
+    431,
+    550,
+    221,
+    586
+  ],
+  "name": "psyc_fluoxetine",
+  "svg": "psyc_fluoxetine.svg",
+  "sim": [
+    {
+      "name": "psyc_fluoxetine",
+      "psychonaut_name": null,
+      "tripsit_name": "fluoxetine",
+      "dist": 4.0461e-06
+    },
+    {
+      "name": "psyc_atomoxetine",
+      "psychonaut_name": null,
+      "tripsit_name": "atomoxetine",
+      "dist": 26.3124234522
+    },
+    {
+      "name": "psyc_isomethadone",
+      "psychonaut_name": null,
+      "tripsit_name": "isomethadone",
+      "dist": 28.7024913172
+    },
+    {
+      "name": "psyc_doxylamine",
+      "psychonaut_name": null,
+      "tripsit_name": "doxylamine",
+      "dist": 29.1426922021
+    },
+    {
+      "name": "trip_Doxylamine",
+      "psychonaut_name": "Doxylamine",
+      "tripsit_name": null,
+      "dist": 29.1426922021
+    },
+    {
+      "name": "psyc_2-chloro-ephenidine",
+      "psychonaut_name": null,
+      "tripsit_name": "2-chloro-ephenidine",
+      "dist": 29.1995884696
+    },
+    {
+      "name": "psyc_halazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "halazepam",
+      "dist": 29.5725147793
+    },
+    {
+      "name": "psyc_fluorolintane",
+      "psychonaut_name": null,
+      "tripsit_name": "fluorolintane",
+      "dist": 29.6913731026
+    },
+    {
+      "name": "trip_Methadone",
+      "psychonaut_name": "Methadone",
+      "tripsit_name": null,
+      "dist": 29.7084177951
+    },
+    {
+      "name": "psyc_methadone",
+      "psychonaut_name": null,
+      "tripsit_name": "methadone",
+      "dist": 29.7084177951
+    }
+  ]
+}

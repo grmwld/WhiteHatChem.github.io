@@ -1,0 +1,125 @@
+{
+  "inchi": "InChI=1S/C15H25N3O/c1-12(11-13-7-3-2-4-8-13)18-15(19)14(17)9-5-6-10-16/h2-4,7-8,12,14H,5-6,9-11,16-17H2,1H3,(H,18,19)/t12-,14-/m0/s1",
+  "psychonaut_name": "Lisdexamfetamine",
+  "tripsit_name": null,
+  "synonyms": [
+    "Vyvanse",
+    "608137-32-2",
+    "LISDEXAMFETAMINE [WHO-DD]",
+    "DB01255",
+    "Lisdexamfetamine (INN)",
+    "L-lysine-dextroamphetamine",
+    "(2S)-2,6-diamino-N-[(2S)-1-phenylpropan-2-yl]hexanamide",
+    "Q6558704",
+    "DTXSID00209652",
+    "N-((1S)-1-METHYL-2-PHENYLETHYL)-L-LYSINAMIDE",
+    "GTPL7213",
+    "(2S)-2,6-diamino-N-[(2S)-1-phenylpropan-2-yl]hexanimidic acid",
+    "Lisdexamfetamine [INN]",
+    "LISDEXAMFETAMINE [MI]",
+    "CHEMBL1201222",
+    "D08130",
+    "CHEBI:135925",
+    "HEXANAMIDE, 2,6-DIAMINO-N-((1S)-1-METHYL-2-PHENYLETHYL)-, (2S)-",
+    "UNII-H645GUL8KJ",
+    "L-lysine-d-amphetamine",
+    "LISDEXAMFETAMINE [VANDF]",
+    "(2S)-2,6-Diamino-N-((1S)-1-methyl-2-phenylethyl)hexanamide",
+    "Lisdexamfetamine",
+    "HSDB 8277",
+    "ZINC11680943",
+    "H645GUL8KJ",
+    "NRP104",
+    "SCHEMBL158949",
+    "lisdexamphetamine",
+    "(2S, 2'S)-2,6-DIAMINO-N-(1-PHENYLPROPAN-2-YL)HEXANAMIDE"
+  ],
+  "distances": [
+    2.6974e-06,
+    30.2178622947,
+    30.2178622947,
+    31.239684821,
+    31.239684821,
+    31.2923443582,
+    31.2923443582,
+    31.6556831452,
+    31.6556831452,
+    32.2885946539
+  ],
+  "indices": [
+    202,
+    493,
+    242,
+    275,
+    649,
+    77,
+    835,
+    187,
+    549,
+    375
+  ],
+  "name": "trip_Lisdexamfetamine",
+  "svg": "trip_Lisdexamfetamine.svg",
+  "sim": [
+    {
+      "name": "trip_Lisdexamfetamine",
+      "psychonaut_name": "Lisdexamfetamine",
+      "tripsit_name": null,
+      "dist": 2.6974e-06
+    },
+    {
+      "name": "psyc_hexen",
+      "psychonaut_name": null,
+      "tripsit_name": "hexen",
+      "dist": 30.2178622947
+    },
+    {
+      "name": "trip_N-Ethylhexedrone",
+      "psychonaut_name": "N-Ethylhexedrone",
+      "tripsit_name": null,
+      "dist": 30.2178622947
+    },
+    {
+      "name": "trip_Picamilon",
+      "psychonaut_name": "Picamilon",
+      "tripsit_name": null,
+      "dist": 31.239684821
+    },
+    {
+      "name": "psyc_picamilon",
+      "psychonaut_name": null,
+      "tripsit_name": "picamilon",
+      "dist": 31.239684821
+    },
+    {
+      "name": "trip_5-Hydroxytryptophan",
+      "psychonaut_name": "5-Hydroxytryptophan",
+      "tripsit_name": null,
+      "dist": 31.2923443582
+    },
+    {
+      "name": "psyc_5-htp",
+      "psychonaut_name": null,
+      "tripsit_name": "5-htp",
+      "dist": 31.2923443582
+    },
+    {
+      "name": "trip_Hexedrone",
+      "psychonaut_name": "Hexedrone",
+      "tripsit_name": null,
+      "dist": 31.6556831452
+    },
+    {
+      "name": "psyc_hexedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "hexedrone",
+      "dist": 31.6556831452
+    },
+    {
+      "name": "psyc_4-epd",
+      "psychonaut_name": null,
+      "tripsit_name": "4-epd",
+      "dist": 32.2885946539
+    }
+  ]
+}

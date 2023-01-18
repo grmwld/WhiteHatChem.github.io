@@ -1,0 +1,121 @@
+{
+  "inchi": "InChI=1S/C14H17Cl2NO2/c1-19-14(18)13(12-4-2-3-7-17-12)9-5-6-10(15)11(16)8-9/h5-6,8,12-13,17H,2-4,7H2,1H3/t12-,13-/m1/s1",
+  "psychonaut_name": "3,4-CTMP",
+  "tripsit_name": null,
+  "synonyms": [
+    "DTXSID301029379",
+    "methyl 2-(3,4-dichlorophenyl)-2-(piperidin-2-yl)acetate",
+    "210776-65-1",
+    "methyl (2R)-2-(3,4-dichlorophenyl)-2-[(2R)-piperidin-2-yl]acetate",
+    "UNII-1MM9174NWD",
+    "Methyl (2R)-(3,4-dichlorophenyl)[(2R)-2-piperidinyl]acetate",
+    "BDBM50327157",
+    "CHEMBL1179011",
+    "2-Piperidineacetic acid, alpha-(3,4-dichlorophenyl)-, methyl ester, (alphaR,2R)-",
+    "1MM9174NWD",
+    "ZINC28645396",
+    "1364331-88-3",
+    "(R)-methyl 2-(3,4-dichlorophenyl)-2-((R)-piperidin-2-yl)acetate",
+    "2-Piperidineacetic acid, alpha-(3,4-dichlorophenyl)-, methyl ester",
+    "Methyl alpha-(3,4-dichlorophenyl)-2-piperidineacetate",
+    "3,4-DICHLOROMETHYLPHENIDATE, R,R-",
+    "METHYL .ALPHA.-(3,4-DICHLOROPHENYL)-2-PIPERIDINEACETATE",
+    "3,4-Dcmp",
+    "2-PIPERIDINEACETIC ACID, .ALPHA.-(3,4-DICHLOROPHENYL)-, METHYL ESTER, (.ALPHA.R,2R)-",
+    "1400742-68-8",
+    "UNII-F7LN3N6ZLA",
+    "(alphaR,2R)-alpha-(3,4-Dichlorophenyl)-2-piperidineacetic acid methyl ester",
+    "3,4-Ctmp",
+    "(+/-)-threo-3,4-Dichloromethylphenidate",
+    "F7LN3N6ZLA",
+    "2-PIPERIDINEACETIC ACID, .ALPHA.-(3,4-DICHLOROPHENYL)-, METHYL ESTER"
+  ],
+  "distances": [
+    0.0,
+    0.0,
+    12.3691978339,
+    12.3691978339,
+    13.708856791,
+    14.5761654632,
+    14.5761654632,
+    14.6226987414,
+    15.3711706836,
+    15.3711706836
+  ],
+  "indices": [
+    40,
+    652,
+    780,
+    75,
+    360,
+    751,
+    74,
+    672,
+    427,
+    231
+  ],
+  "name": "trip_3,4-CTMP",
+  "svg": "trip_3,4-CTMP.svg",
+  "sim": [
+    {
+      "name": "trip_3,4-CTMP",
+      "psychonaut_name": "3,4-CTMP",
+      "tripsit_name": null,
+      "dist": 0.0
+    },
+    {
+      "name": "psyc_3,4-ctmp",
+      "psychonaut_name": null,
+      "tripsit_name": "3,4-ctmp",
+      "dist": 0.0
+    },
+    {
+      "name": "psyc_4-fluoromethylphenidate",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fluoromethylphenidate",
+      "dist": 12.3691978339
+    },
+    {
+      "name": "trip_4F-MPH",
+      "psychonaut_name": "4F-MPH",
+      "tripsit_name": null,
+      "dist": 12.3691978339
+    },
+    {
+      "name": "psyc_4-methylmethylphenidate",
+      "psychonaut_name": null,
+      "tripsit_name": "4-methylmethylphenidate",
+      "dist": 13.708856791
+    },
+    {
+      "name": "psyc_4-fluoroethylphenidate",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fluoroethylphenidate",
+      "dist": 14.5761654632
+    },
+    {
+      "name": "trip_4F-EPH",
+      "psychonaut_name": "4F-EPH",
+      "tripsit_name": null,
+      "dist": 14.5761654632
+    },
+    {
+      "name": "psyc_focalin",
+      "psychonaut_name": null,
+      "tripsit_name": "focalin",
+      "dist": 14.6226987414
+    },
+    {
+      "name": "psyc_methylphenidate",
+      "psychonaut_name": null,
+      "tripsit_name": "methylphenidate",
+      "dist": 15.3711706836
+    },
+    {
+      "name": "trip_Methylphenidate",
+      "psychonaut_name": "Methylphenidate",
+      "tripsit_name": null,
+      "dist": 15.3711706836
+    }
+  ]
+}

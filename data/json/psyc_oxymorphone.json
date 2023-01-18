@@ -1,0 +1,97 @@
+{
+  "inchi": "InChI=1S/C17H19NO4/c1-18-7-6-16-13-9-2-3-10(19)14(13)22-15(16)11(20)4-5-17(16,21)12(18)8-9/h2-3,12,15,19,21H,4-8H2,1H3/t12-,15+,16+,17-/m1/s1",
+  "psychonaut_name": null,
+  "tripsit_name": "oxymorphone",
+  "synonyms": [
+    "opana",
+    "stopsigns"
+  ],
+  "distances": [
+    3.5683e-06,
+    3.5683e-06,
+    10.7443232962,
+    10.7443232962,
+    14.3385476379,
+    14.3385476379,
+    18.8174486717,
+    19.1294323142,
+    19.1294323142,
+    19.5342208678
+  ],
+  "indices": [
+    257,
+    643,
+    428,
+    256,
+    189,
+    388,
+    376,
+    675,
+    188,
+    246
+  ],
+  "name": "psyc_oxymorphone",
+  "svg": "psyc_oxymorphone.svg",
+  "sim": [
+    {
+      "name": "trip_Oxymorphone",
+      "psychonaut_name": "Oxymorphone",
+      "tripsit_name": null,
+      "dist": 3.5683e-06
+    },
+    {
+      "name": "psyc_oxymorphone",
+      "psychonaut_name": null,
+      "tripsit_name": "oxymorphone",
+      "dist": 3.5683e-06
+    },
+    {
+      "name": "psyc_oxycodone",
+      "psychonaut_name": null,
+      "tripsit_name": "oxycodone",
+      "dist": 10.7443232962
+    },
+    {
+      "name": "trip_Oxycodone",
+      "psychonaut_name": "Oxycodone",
+      "tripsit_name": null,
+      "dist": 10.7443232962
+    },
+    {
+      "name": "trip_Hydromorphone",
+      "psychonaut_name": "Hydromorphone",
+      "tripsit_name": null,
+      "dist": 14.3385476379
+    },
+    {
+      "name": "psyc_hydromorphone",
+      "psychonaut_name": null,
+      "tripsit_name": "hydromorphone",
+      "dist": 14.3385476379
+    },
+    {
+      "name": "psyc_6-mddm",
+      "psychonaut_name": null,
+      "tripsit_name": "6-mddm",
+      "dist": 18.8174486717
+    },
+    {
+      "name": "psyc_hydrocodone",
+      "psychonaut_name": null,
+      "tripsit_name": "hydrocodone",
+      "dist": 19.1294323142
+    },
+    {
+      "name": "trip_Hydrocodone",
+      "psychonaut_name": "Hydrocodone",
+      "tripsit_name": null,
+      "dist": 19.1294323142
+    },
+    {
+      "name": "trip_Naloxone",
+      "psychonaut_name": "Naloxone",
+      "tripsit_name": null,
+      "dist": 19.5342208678
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C18H13ClFN3/c1-11-21-9-13-10-22-18(14-4-2-3-5-16(14)20)15-8-12(19)6-7-17(15)23(11)13/h2-9H,10H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "midazolam",
+  "synonyms": null,
+  "distances": [
+    3.3036e-06,
+    3.3036e-06,
+    9.1958870526,
+    9.1958870526,
+    11.7353339686,
+    11.7353339686,
+    12.3299783491,
+    12.3299783491,
+    12.6857662426,
+    12.6857662426
+  ],
+  "indices": [
+    770,
+    236,
+    173,
+    738,
+    312,
+    691,
+    103,
+    378,
+    449,
+    175
+  ],
+  "name": "psyc_midazolam",
+  "svg": "psyc_midazolam.svg",
+  "sim": [
+    {
+      "name": "psyc_midazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "midazolam",
+      "dist": 3.3036e-06
+    },
+    {
+      "name": "trip_Midazolam",
+      "psychonaut_name": "Midazolam",
+      "tripsit_name": null,
+      "dist": 3.3036e-06
+    },
+    {
+      "name": "trip_Flualprazolam",
+      "psychonaut_name": "Flualprazolam",
+      "tripsit_name": null,
+      "dist": 9.1958870526
+    },
+    {
+      "name": "psyc_flualprazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "flualprazolam",
+      "dist": 9.1958870526
+    },
+    {
+      "name": "trip_Triazolam",
+      "psychonaut_name": "Triazolam",
+      "tripsit_name": null,
+      "dist": 11.7353339686
+    },
+    {
+      "name": "psyc_triazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "triazolam",
+      "dist": 11.7353339686
+    },
+    {
+      "name": "trip_Alprazolam",
+      "psychonaut_name": "Alprazolam",
+      "tripsit_name": null,
+      "dist": 12.3299783491
+    },
+    {
+      "name": "psyc_alprazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "alprazolam",
+      "dist": 12.3299783491
+    },
+    {
+      "name": "psyc_flubromazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "flubromazolam",
+      "dist": 12.6857662426
+    },
+    {
+      "name": "trip_Flubromazolam",
+      "psychonaut_name": "Flubromazolam",
+      "tripsit_name": null,
+      "dist": 12.6857662426
+    }
+  ]
+}

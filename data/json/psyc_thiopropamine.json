@@ -1,0 +1,98 @@
+{
+  "inchi": "InChI=1S/C7H11NS/c1-6(8)5-7-3-2-4-9-7/h2-4,6H,5,8H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "thiopropamine",
+  "synonyms": [
+    "tpa",
+    "normethiopropamine",
+    "a-methyl-2-thipheneethanamine"
+  ],
+  "distances": [
+    1.3487e-06,
+    11.7519120629,
+    11.7519120629,
+    11.7519120629,
+    12.0991507997,
+    13.8483339044,
+    14.7199022364,
+    14.7199022364,
+    15.0074169895,
+    15.0074169895
+  ],
+  "indices": [
+    731,
+    741,
+    144,
+    703,
+    226,
+    329,
+    752,
+    12,
+    42,
+    352
+  ],
+  "name": "psyc_thiopropamine",
+  "svg": "psyc_thiopropamine.svg",
+  "sim": [
+    {
+      "name": "psyc_thiopropamine",
+      "psychonaut_name": null,
+      "tripsit_name": "thiopropamine",
+      "dist": 1.3487e-06
+    },
+    {
+      "name": "psyc_amphetamine",
+      "psychonaut_name": null,
+      "tripsit_name": "amphetamine",
+      "dist": 11.7519120629
+    },
+    {
+      "name": "trip_Dexamphetamine",
+      "psychonaut_name": "Dexamphetamine",
+      "tripsit_name": null,
+      "dist": 11.7519120629
+    },
+    {
+      "name": "psyc_dexedrine",
+      "psychonaut_name": null,
+      "tripsit_name": "dexedrine",
+      "dist": 11.7519120629
+    },
+    {
+      "name": "trip_Methiopropamine",
+      "psychonaut_name": "Methiopropamine",
+      "tripsit_name": null,
+      "dist": 12.0991507997
+    },
+    {
+      "name": "psyc_2-methylamphetamine",
+      "psychonaut_name": null,
+      "tripsit_name": "2-methylamphetamine",
+      "dist": 13.8483339044
+    },
+    {
+      "name": "psyc_2-fa",
+      "psychonaut_name": null,
+      "tripsit_name": "2-fa",
+      "dist": 14.7199022364
+    },
+    {
+      "name": "trip_2-FA",
+      "psychonaut_name": "2-FA",
+      "tripsit_name": null,
+      "dist": 14.7199022364
+    },
+    {
+      "name": "trip_3-FA",
+      "psychonaut_name": "3-FA",
+      "tripsit_name": null,
+      "dist": 15.0074169895
+    },
+    {
+      "name": "psyc_3-fa",
+      "psychonaut_name": null,
+      "tripsit_name": "3-fa",
+      "dist": 15.0074169895
+    }
+  ]
+}

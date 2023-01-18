@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C10H13NOS/c12-10(9-5-3-7-13-9)8-4-1-2-6-11-8/h3,5,7-8,11H,1-2,4,6H2",
+  "psychonaut_name": null,
+  "tripsit_name": "cyclo-methiodrone",
+  "synonyms": null,
+  "distances": [
+    9.537e-07,
+    17.0264659637,
+    18.8686892842,
+    19.9567770248,
+    19.9567770248,
+    20.4878153993,
+    20.4878153993,
+    20.7837309081,
+    21.0505627047,
+    21.0505627047
+  ],
+  "indices": [
+    789,
+    656,
+    396,
+    247,
+    763,
+    812,
+    204,
+    823,
+    706,
+    272
+  ],
+  "name": "psyc_cyclo-methiodrone",
+  "svg": "psyc_cyclo-methiodrone.svg",
+  "sim": [
+    {
+      "name": "psyc_cyclo-methiodrone",
+      "psychonaut_name": null,
+      "tripsit_name": "cyclo-methiodrone",
+      "dist": 9.537e-07
+    },
+    {
+      "name": "psyc_4-benzylpiperidine",
+      "psychonaut_name": null,
+      "tripsit_name": "4-benzylpiperidine",
+      "dist": 17.0264659637
+    },
+    {
+      "name": "psyc_bzp",
+      "psychonaut_name": null,
+      "tripsit_name": "bzp",
+      "dist": 18.8686892842
+    },
+    {
+      "name": "trip_Nicotine",
+      "psychonaut_name": "Nicotine",
+      "tripsit_name": null,
+      "dist": 19.9567770248
+    },
+    {
+      "name": "psyc_nicotine",
+      "psychonaut_name": null,
+      "tripsit_name": "nicotine",
+      "dist": 19.9567770248
+    },
+    {
+      "name": "psyc_mcpp",
+      "psychonaut_name": null,
+      "tripsit_name": "mcpp",
+      "dist": 20.4878153993
+    },
+    {
+      "name": "trip_MCPP",
+      "psychonaut_name": "MCPP",
+      "tripsit_name": null,
+      "dist": 20.4878153993
+    },
+    {
+      "name": "psyc_4-fpp",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fpp",
+      "dist": 20.7837309081
+    },
+    {
+      "name": "psyc_phenmetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "phenmetrazine",
+      "dist": 21.0505627047
+    },
+    {
+      "name": "trip_Phenmetrazine",
+      "psychonaut_name": "Phenmetrazine",
+      "tripsit_name": null,
+      "dist": 21.0505627047
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "inchi": "InChI=1S/C13H16FNO/c1-15-13(9-5-4-8-12(13)16)10-6-2-3-7-11(10)14/h2-3,6-7,15H,4-5,8-9H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "2-fdck",
+  "synonyms": [
+    "2f-ketamine",
+    "2f-ket",
+    "2-fluorodeschloroketamine",
+    "2-fl-2'-oxo-pcm",
+    "2f-dck",
+    "2fket",
+    "2fdck"
+  ],
+  "distances": [
+    0.0,
+    0.0,
+    6.8041521074,
+    6.8041521074,
+    8.5598880097,
+    8.5598880097,
+    11.3626447377,
+    11.8161066594,
+    12.0002072634,
+    12.4001738998
+  ],
+  "indices": [
+    15,
+    510,
+    196,
+    590,
+    730,
+    141,
+    671,
+    599,
+    563,
+    251
+  ],
+  "name": "psyc_2-fdck",
+  "svg": "psyc_2-fdck.svg",
+  "sim": [
+    {
+      "name": "trip_2-Fluorodeschloroketamine",
+      "psychonaut_name": "2-Fluorodeschloroketamine",
+      "tripsit_name": null,
+      "dist": 0.0
+    },
+    {
+      "name": "psyc_2-fdck",
+      "psychonaut_name": null,
+      "tripsit_name": "2-fdck",
+      "dist": 0.0
+    },
+    {
+      "name": "trip_Ketamine",
+      "psychonaut_name": "Ketamine",
+      "tripsit_name": null,
+      "dist": 6.8041521074
+    },
+    {
+      "name": "psyc_ketamine",
+      "psychonaut_name": null,
+      "tripsit_name": "ketamine",
+      "dist": 6.8041521074
+    },
+    {
+      "name": "psyc_deschloroketamine",
+      "psychonaut_name": null,
+      "tripsit_name": "deschloroketamine",
+      "dist": 8.5598880097
+    },
+    {
+      "name": "trip_Deschloroketamine",
+      "psychonaut_name": "Deschloroketamine",
+      "tripsit_name": null,
+      "dist": 8.5598880097
+    },
+    {
+      "name": "psyc_methoxyketamine",
+      "psychonaut_name": null,
+      "tripsit_name": "methoxyketamine",
+      "dist": 11.3626447377
+    },
+    {
+      "name": "psyc_mxm",
+      "psychonaut_name": null,
+      "tripsit_name": "mxm",
+      "dist": 11.8161066594
+    },
+    {
+      "name": "psyc_ethketamine",
+      "psychonaut_name": null,
+      "tripsit_name": "ethketamine",
+      "dist": 12.0002072634
+    },
+    {
+      "name": "trip_O-PCE",
+      "psychonaut_name": "O-PCE",
+      "tripsit_name": null,
+      "dist": 12.4001738998
+    }
+  ]
+}

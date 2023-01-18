@@ -1,0 +1,99 @@
+{
+  "inchi": "InChI=1S/C20H25NO/c1-22-20-13-7-6-12-18(20)19(21-14-8-3-9-15-21)16-17-10-4-2-5-11-17/h2,4-7,10-13,19H,3,8-9,14-16H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "methoxphenidine",
+  "synonyms": [
+    "2-meo-diphenidine",
+    "methoxyphenidine",
+    "2-mxp",
+    "mxp"
+  ],
+  "distances": [
+    2.336e-06,
+    2.336e-06,
+    11.9096399322,
+    11.9096399322,
+    13.1234327561,
+    14.7528776821,
+    16.9174415649,
+    18.0598894497,
+    18.2945689663,
+    21.3828010824
+  ],
+  "indices": [
+    629,
+    228,
+    153,
+    403,
+    550,
+    592,
+    814,
+    739,
+    467,
+    229
+  ],
+  "name": "psyc_methoxphenidine",
+  "svg": "psyc_methoxphenidine.svg",
+  "sim": [
+    {
+      "name": "psyc_methoxphenidine",
+      "psychonaut_name": null,
+      "tripsit_name": "methoxphenidine",
+      "dist": 2.336e-06
+    },
+    {
+      "name": "trip_Methoxphenidine",
+      "psychonaut_name": "Methoxphenidine",
+      "tripsit_name": null,
+      "dist": 2.336e-06
+    },
+    {
+      "name": "trip_Diphenidine",
+      "psychonaut_name": "Diphenidine",
+      "tripsit_name": null,
+      "dist": 11.9096399322
+    },
+    {
+      "name": "psyc_diphenidine",
+      "psychonaut_name": null,
+      "tripsit_name": "diphenidine",
+      "dist": 11.9096399322
+    },
+    {
+      "name": "psyc_fluorolintane",
+      "psychonaut_name": null,
+      "tripsit_name": "fluorolintane",
+      "dist": 13.1234327561
+    },
+    {
+      "name": "psyc_pyrophenidone",
+      "psychonaut_name": null,
+      "tripsit_name": "pyrophenidone",
+      "dist": 14.7528776821
+    },
+    {
+      "name": "psyc_cyclizine",
+      "psychonaut_name": null,
+      "tripsit_name": "cyclizine",
+      "dist": 16.9174415649
+    },
+    {
+      "name": "psyc_indapyrophenidone",
+      "psychonaut_name": null,
+      "tripsit_name": "indapyrophenidone",
+      "dist": 18.0598894497
+    },
+    {
+      "name": "psyc_naphyrone",
+      "psychonaut_name": null,
+      "tripsit_name": "naphyrone",
+      "dist": 18.2945689663
+    },
+    {
+      "name": "trip_Methylnaphthidate",
+      "psychonaut_name": "Methylnaphthidate",
+      "tripsit_name": null,
+      "dist": 21.3828010824
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "inchi": "InChI=1S/C15H13F2NO2S/c16-12-5-1-10(2-6-12)15(21(20)9-14(18)19)11-3-7-13(17)8-4-11/h1-8,15H,9H2,(H2,18,19)",
+  "psychonaut_name": null,
+  "tripsit_name": "crl-40-940",
+  "synonyms": [
+    "flmodafinil",
+    "lauflumide",
+    "bisfluoromodafinil"
+  ],
+  "distances": [
+    3.0158e-06,
+    14.7840127117,
+    14.7840127117,
+    14.829419995,
+    16.9890370643,
+    16.9890370643,
+    16.9890370643,
+    16.9890370643,
+    21.3494420428,
+    21.3494420428
+  ],
+  "indices": [
+    616,
+    243,
+    395,
+    786,
+    238,
+    551,
+    366,
+    107,
+    98,
+    475
+  ],
+  "name": "psyc_crl-40-940",
+  "svg": "psyc_crl-40-940.svg",
+  "sim": [
+    {
+      "name": "psyc_crl-40-940",
+      "psychonaut_name": null,
+      "tripsit_name": "crl-40-940",
+      "dist": 3.0158e-06
+    },
+    {
+      "name": "trip_N-Methylbisfluoromodafinil",
+      "psychonaut_name": "N-Methylbisfluoromodafinil",
+      "tripsit_name": null,
+      "dist": 14.7840127117
+    },
+    {
+      "name": "psyc_dehydroxyfluorafinil",
+      "psychonaut_name": null,
+      "tripsit_name": "dehydroxyfluorafinil",
+      "dist": 14.7840127117
+    },
+    {
+      "name": "psyc_crl-40-941",
+      "psychonaut_name": null,
+      "tripsit_name": "crl-40-941",
+      "dist": 14.829419995
+    },
+    {
+      "name": "trip_Modafinil",
+      "psychonaut_name": "Modafinil",
+      "tripsit_name": null,
+      "dist": 16.9890370643
+    },
+    {
+      "name": "psyc_armodafinil",
+      "psychonaut_name": null,
+      "tripsit_name": "armodafinil",
+      "dist": 16.9890370643
+    },
+    {
+      "name": "psyc_modafinil",
+      "psychonaut_name": null,
+      "tripsit_name": "modafinil",
+      "dist": 16.9890370643
+    },
+    {
+      "name": "trip_Armodafinil",
+      "psychonaut_name": "Armodafinil",
+      "tripsit_name": null,
+      "dist": 16.9890370643
+    },
+    {
+      "name": "trip_Adrafinil",
+      "psychonaut_name": "Adrafinil",
+      "tripsit_name": null,
+      "dist": 21.3494420428
+    },
+    {
+      "name": "psyc_adrafinil",
+      "psychonaut_name": null,
+      "tripsit_name": "adrafinil",
+      "dist": 21.3494420428
+    }
+  ]
+}

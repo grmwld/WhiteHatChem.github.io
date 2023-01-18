@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C2HBrClF3/c3-1(4)2(5,6)7/h1H",
+  "psychonaut_name": null,
+  "tripsit_name": "halothane",
+  "synonyms": null,
+  "distances": [
+    1.3487e-06,
+    25.2985602531,
+    28.8286341842,
+    28.8286341842,
+    28.8558164343,
+    28.8558164343,
+    29.3348649521,
+    29.597365226,
+    30.7886372798,
+    30.7886372798
+  ],
+  "indices": [
+    346,
+    540,
+    39,
+    474,
+    338,
+    179,
+    731,
+    399,
+    352,
+    42
+  ],
+  "name": "psyc_halothane",
+  "svg": "psyc_halothane.svg",
+  "sim": [
+    {
+      "name": "psyc_halothane",
+      "psychonaut_name": null,
+      "tripsit_name": "halothane",
+      "dist": 1.3487e-06
+    },
+    {
+      "name": "psyc_chloroform",
+      "psychonaut_name": null,
+      "tripsit_name": "chloroform",
+      "dist": 25.2985602531
+    },
+    {
+      "name": "trip_2M2B",
+      "psychonaut_name": "2M2B",
+      "tripsit_name": null,
+      "dist": 28.8286341842
+    },
+    {
+      "name": "psyc_2-methyl-2-butanol",
+      "psychonaut_name": null,
+      "tripsit_name": "2-methyl-2-butanol",
+      "dist": 28.8286341842
+    },
+    {
+      "name": "psyc_gbl",
+      "psychonaut_name": null,
+      "tripsit_name": "gbl",
+      "dist": 28.8558164343
+    },
+    {
+      "name": "trip_GBL",
+      "psychonaut_name": "GBL",
+      "tripsit_name": null,
+      "dist": 28.8558164343
+    },
+    {
+      "name": "psyc_thiopropamine",
+      "psychonaut_name": null,
+      "tripsit_name": "thiopropamine",
+      "dist": 29.3348649521
+    },
+    {
+      "name": "psyc_clomethiazole",
+      "psychonaut_name": null,
+      "tripsit_name": "clomethiazole",
+      "dist": 29.597365226
+    },
+    {
+      "name": "psyc_3-fa",
+      "psychonaut_name": null,
+      "tripsit_name": "3-fa",
+      "dist": 30.7886372798
+    },
+    {
+      "name": "trip_3-FA",
+      "psychonaut_name": "3-FA",
+      "tripsit_name": null,
+      "dist": 30.7886372798
+    }
+  ]
+}

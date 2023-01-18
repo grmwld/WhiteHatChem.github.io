@@ -1,0 +1,119 @@
+{
+  "inchi": "InChI=1S/C9H12FN/c1-7(11)6-8-4-2-3-5-9(8)10/h2-5,7H,6,11H2,1H3",
+  "psychonaut_name": "2-FA",
+  "tripsit_name": null,
+  "synonyms": [
+    "o-Fluoro-alpha-methylphenethylamine",
+    "2F-AMP",
+    "2-Fluoroamphetamine",
+    "1716-60-5",
+    "DTXSID30938009",
+    "Q4029768",
+    "A1-19081",
+    "o-Fluoro-a-methylphenethylamine",
+    "2-FLUORO-.ALPHA.-METHYLBENZENEETHANAMINE",
+    "PHENETHYLAMINE, O-FLUORO-.ALPHA.-METHYL-",
+    "N10828",
+    "AKOS000163127",
+    "SCHEMBL2563200",
+    "BRN 2082933",
+    "UNII-V8Q7K3989D",
+    "EN300-53046",
+    "1-(2-FLUOROPHENYL)-2-PROPYLAMINE",
+    "AKOS022196415",
+    "Benzeneethanamine,2-fluoro-a-methyl-",
+    "Phenethylamine, o-fluoro-alpha-methyl-",
+    "Benzeneethanamine, 2-fluoro-.alpha.-methyl-",
+    "1-(2-fluorophenyl)propan-2-amine",
+    "2-FA",
+    "V8Q7K3989D"
+  ],
+  "distances": [
+    1.5079e-06,
+    1.5079e-06,
+    3.7207326012,
+    3.7207326012,
+    4.168871309,
+    4.168871309,
+    8.3042368726,
+    8.3042368726,
+    8.3042368726,
+    8.4127172388
+  ],
+  "indices": [
+    752,
+    12,
+    352,
+    42,
+    433,
+    61,
+    741,
+    703,
+    144,
+    329
+  ],
+  "name": "trip_2-FA",
+  "svg": "trip_2-FA.svg",
+  "sim": [
+    {
+      "name": "psyc_2-fa",
+      "psychonaut_name": null,
+      "tripsit_name": "2-fa",
+      "dist": 1.5079e-06
+    },
+    {
+      "name": "trip_2-FA",
+      "psychonaut_name": "2-FA",
+      "tripsit_name": null,
+      "dist": 1.5079e-06
+    },
+    {
+      "name": "psyc_3-fa",
+      "psychonaut_name": null,
+      "tripsit_name": "3-fa",
+      "dist": 3.7207326012
+    },
+    {
+      "name": "trip_3-FA",
+      "psychonaut_name": "3-FA",
+      "tripsit_name": null,
+      "dist": 3.7207326012
+    },
+    {
+      "name": "psyc_4-fa",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fa",
+      "dist": 4.168871309
+    },
+    {
+      "name": "trip_4-FA",
+      "psychonaut_name": "4-FA",
+      "tripsit_name": null,
+      "dist": 4.168871309
+    },
+    {
+      "name": "psyc_amphetamine",
+      "psychonaut_name": null,
+      "tripsit_name": "amphetamine",
+      "dist": 8.3042368726
+    },
+    {
+      "name": "psyc_dexedrine",
+      "psychonaut_name": null,
+      "tripsit_name": "dexedrine",
+      "dist": 8.3042368726
+    },
+    {
+      "name": "trip_Dexamphetamine",
+      "psychonaut_name": "Dexamphetamine",
+      "tripsit_name": null,
+      "dist": 8.3042368726
+    },
+    {
+      "name": "psyc_2-methylamphetamine",
+      "psychonaut_name": null,
+      "tripsit_name": "2-methylamphetamine",
+      "dist": 8.4127172388
+    }
+  ]
+}

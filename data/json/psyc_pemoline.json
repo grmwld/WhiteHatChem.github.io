@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C9H8N2O2/c10-9-11-8(12)7(13-9)6-4-2-1-3-5-6/h1-5,7H,(H2,10,11,12)",
+  "psychonaut_name": null,
+  "tripsit_name": "pemoline",
+  "synonyms": null,
+  "distances": [
+    0.0,
+    15.7762416635,
+    16.9514184049,
+    20.0679935528,
+    20.4987993587,
+    21.6711138734,
+    23.8976981232,
+    23.8976981232,
+    24.0320906672,
+    24.0320906672
+  ],
+  "indices": [
+    801,
+    451,
+    327,
+    131,
+    512,
+    679,
+    11,
+    416,
+    272,
+    706
+  ],
+  "name": "psyc_pemoline",
+  "svg": "psyc_pemoline.svg",
+  "sim": [
+    {
+      "name": "psyc_pemoline",
+      "psychonaut_name": null,
+      "tripsit_name": "pemoline",
+      "dist": 0.0
+    },
+    {
+      "name": "psyc_aminorex",
+      "psychonaut_name": null,
+      "tripsit_name": "aminorex",
+      "dist": 15.7762416635
+    },
+    {
+      "name": "psyc_4-methylaminorex",
+      "psychonaut_name": null,
+      "tripsit_name": "4-methylaminorex",
+      "dist": 16.9514184049
+    },
+    {
+      "name": "trip_Cyclazodone",
+      "psychonaut_name": "Cyclazodone",
+      "tripsit_name": null,
+      "dist": 20.0679935528
+    },
+    {
+      "name": "psyc_4,4-dmar",
+      "psychonaut_name": null,
+      "tripsit_name": "4,4-dmar",
+      "dist": 20.4987993587
+    },
+    {
+      "name": "psyc_2-pta",
+      "psychonaut_name": null,
+      "tripsit_name": "2-pta",
+      "dist": 21.6711138734
+    },
+    {
+      "name": "trip_2-Aminoindane",
+      "psychonaut_name": "2-Aminoindane",
+      "tripsit_name": null,
+      "dist": 23.8976981232
+    },
+    {
+      "name": "psyc_2-ai",
+      "psychonaut_name": null,
+      "tripsit_name": "2-ai",
+      "dist": 23.8976981232
+    },
+    {
+      "name": "trip_Phenmetrazine",
+      "psychonaut_name": "Phenmetrazine",
+      "tripsit_name": null,
+      "dist": 24.0320906672
+    },
+    {
+      "name": "psyc_phenmetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "phenmetrazine",
+      "dist": 24.0320906672
+    }
+  ]
+}

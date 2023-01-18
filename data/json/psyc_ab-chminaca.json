@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C20H28N4O2/c1-13(2)17(19(21)25)22-20(26)18-15-10-6-7-11-16(15)24(23-18)12-14-8-4-3-5-9-14/h6-7,10-11,13-14,17H,3-5,8-9,12H2,1-2H3,(H2,21,25)(H,22,26)/t17-/m0/s1",
+  "psychonaut_name": null,
+  "tripsit_name": "ab-chminaca",
+  "synonyms": null,
+  "distances": [
+    1.9073e-06,
+    28.4921864289,
+    28.4921864289,
+    30.771539355,
+    30.771539355,
+    32.5826960222,
+    32.6234584166,
+    32.7413495702,
+    32.8083535327,
+    33.212265286
+  ],
+  "indices": [
+    502,
+    93,
+    802,
+    755,
+    252,
+    481,
+    830,
+    9,
+    714,
+    467
+  ],
+  "name": "psyc_ab-chminaca",
+  "svg": "psyc_ab-chminaca.svg",
+  "sim": [
+    {
+      "name": "psyc_ab-chminaca",
+      "psychonaut_name": null,
+      "tripsit_name": "ab-chminaca",
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "trip_AB-FUBINACA",
+      "psychonaut_name": "AB-FUBINACA",
+      "tripsit_name": null,
+      "dist": 28.4921864289
+    },
+    {
+      "name": "psyc_ab-fubinaca",
+      "psychonaut_name": null,
+      "tripsit_name": "ab-fubinaca",
+      "dist": 28.4921864289
+    },
+    {
+      "name": "psyc_noopept",
+      "psychonaut_name": null,
+      "tripsit_name": "noopept",
+      "dist": 30.771539355
+    },
+    {
+      "name": "trip_Omberacetam",
+      "psychonaut_name": "Omberacetam",
+      "tripsit_name": null,
+      "dist": 30.771539355
+    },
+    {
+      "name": "psyc_hdep-28",
+      "psychonaut_name": null,
+      "tripsit_name": "hdep-28",
+      "dist": 32.5826960222
+    },
+    {
+      "name": "psyc_5-bpdi",
+      "psychonaut_name": null,
+      "tripsit_name": "5-bpdi",
+      "dist": 32.6234584166
+    },
+    {
+      "name": "trip_1cP-MiPLA",
+      "psychonaut_name": "1cP-MiPLA",
+      "tripsit_name": null,
+      "dist": 32.7413495702
+    },
+    {
+      "name": "psyc_dipipanone",
+      "psychonaut_name": null,
+      "tripsit_name": "dipipanone",
+      "dist": 32.8083535327
+    },
+    {
+      "name": "psyc_naphyrone",
+      "psychonaut_name": null,
+      "tripsit_name": "naphyrone",
+      "dist": 33.212265286
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C10H13NO2/c11-7-9(6-10(12)13)8-4-2-1-3-5-8/h1-5,9H,6-7,11H2,(H,12,13)",
+  "psychonaut_name": null,
+  "tripsit_name": "phenibut",
+  "synonyms": null,
+  "distances": [
+    9.537e-07,
+    9.537e-07,
+    7.6058055488,
+    7.9459599144,
+    7.9459599144,
+    8.4945185321,
+    8.4945185321,
+    15.1155169054,
+    18.2766612497,
+    18.2766612497
+  ],
+  "indices": [
+    271,
+    785,
+    364,
+    370,
+    108,
+    420,
+    170,
+    315,
+    156,
+    808
+  ],
+  "name": "psyc_phenibut",
+  "svg": "psyc_phenibut.svg",
+  "sim": [
+    {
+      "name": "trip_Phenibut",
+      "psychonaut_name": "Phenibut",
+      "tripsit_name": null,
+      "dist": 9.537e-07
+    },
+    {
+      "name": "psyc_phenibut",
+      "psychonaut_name": null,
+      "tripsit_name": "phenibut",
+      "dist": 9.537e-07
+    },
+    {
+      "name": "psyc_tolibut",
+      "psychonaut_name": null,
+      "tripsit_name": "tolibut",
+      "dist": 7.6058055488
+    },
+    {
+      "name": "psyc_baclofen",
+      "psychonaut_name": null,
+      "tripsit_name": "baclofen",
+      "dist": 7.9459599144
+    },
+    {
+      "name": "trip_Baclofen",
+      "psychonaut_name": "Baclofen",
+      "tripsit_name": null,
+      "dist": 7.9459599144
+    },
+    {
+      "name": "psyc_fluorophenibut",
+      "psychonaut_name": null,
+      "tripsit_name": "fluorophenibut",
+      "dist": 8.4945185321
+    },
+    {
+      "name": "trip_F-Phenibut",
+      "psychonaut_name": "F-Phenibut",
+      "tripsit_name": null,
+      "dist": 8.4945185321
+    },
+    {
+      "name": "trip_Tyrosine",
+      "psychonaut_name": "Tyrosine",
+      "tripsit_name": null,
+      "dist": 15.1155169054
+    },
+    {
+      "name": "trip_ETH-CAT",
+      "psychonaut_name": "ETH-CAT",
+      "tripsit_name": null,
+      "dist": 18.2766612497
+    },
+    {
+      "name": "psyc_ethylcathinone",
+      "psychonaut_name": null,
+      "tripsit_name": "ethylcathinone",
+      "dist": 18.2766612497
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "inchi": "InChI=1S/C23H30N2O/c1-2-9-23(26)25(21-12-7-4-8-13-21)22-15-18-24(19-16-22)17-14-20-10-5-3-6-11-20/h3-8,10-13,22H,2,9,14-19H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "butyrfentanyl",
+  "synonyms": [
+    "bf",
+    "b-f"
+  ],
+  "distances": [
+    1.9073e-06,
+    5.8999280246,
+    7.9052912315,
+    7.9052912315,
+    8.4945185321,
+    9.7941692211,
+    10.5653350456,
+    14.2691569808,
+    14.2691569808,
+    18.6577924797
+  ],
+  "indices": [
+    350,
+    692,
+    172,
+    348,
+    746,
+    612,
+    687,
+    97,
+    337,
+    762
+  ],
+  "name": "psyc_butyrfentanyl",
+  "svg": "psyc_butyrfentanyl.svg",
+  "sim": [
+    {
+      "name": "psyc_butyrfentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "butyrfentanyl",
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "psyc_valerylfentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "valerylfentanyl",
+      "dist": 5.8999280246
+    },
+    {
+      "name": "trip_Fentanyl",
+      "psychonaut_name": "Fentanyl",
+      "tripsit_name": null,
+      "dist": 7.9052912315
+    },
+    {
+      "name": "psyc_fentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "fentanyl",
+      "dist": 7.9052912315
+    },
+    {
+      "name": "psyc_parafluorobutyrfentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "parafluorobutyrfentanyl",
+      "dist": 8.4945185321
+    },
+    {
+      "name": "psyc_methoxyacetyl-fentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "methoxyacetyl-fentanyl",
+      "dist": 9.7941692211
+    },
+    {
+      "name": "psyc_parafluorofentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "parafluorofentanyl",
+      "dist": 10.5653350456
+    },
+    {
+      "name": "trip_Acetylfentanyl",
+      "psychonaut_name": "Acetylfentanyl",
+      "tripsit_name": null,
+      "dist": 14.2691569808
+    },
+    {
+      "name": "psyc_acetylfentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "acetylfentanyl",
+      "dist": 14.2691569808
+    },
+    {
+      "name": "psyc_acryl-fentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "acryl-fentanyl",
+      "dist": 18.6577924797
+    }
+  ]
+}

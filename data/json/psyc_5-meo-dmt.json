@@ -1,0 +1,100 @@
+{
+  "inchi": "InChI=1S/C13H18N2O/c1-15(2)7-6-10-9-14-13-5-4-11(16-3)8-12(10)13/h4-5,8-9,14H,6-7H2,1-3H3",
+  "psychonaut_name": null,
+  "tripsit_name": "5-meo-dmt",
+  "synonyms": [
+    "5meodmt",
+    "toads",
+    "5-meo",
+    "5meo",
+    "5-medmt"
+  ],
+  "distances": [
+    2.336e-06,
+    2.336e-06,
+    8.442964268,
+    10.785384737,
+    10.8515136366,
+    11.5310687126,
+    11.5310687126,
+    11.5999966062,
+    11.9728862896,
+    11.9728862896
+  ],
+  "indices": [
+    519,
+    80,
+    528,
+    601,
+    113,
+    285,
+    423,
+    641,
+    134,
+    796
+  ],
+  "name": "psyc_5-meo-dmt",
+  "svg": "psyc_5-meo-dmt.svg",
+  "sim": [
+    {
+      "name": "psyc_5-meo-dmt",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-dmt",
+      "dist": 2.336e-06
+    },
+    {
+      "name": "trip_5-MeO-DMT",
+      "psychonaut_name": "5-MeO-DMT",
+      "tripsit_name": null,
+      "dist": 2.336e-06
+    },
+    {
+      "name": "psyc_5-meo-met",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-met",
+      "dist": 8.442964268
+    },
+    {
+      "name": "psyc_indapex",
+      "psychonaut_name": null,
+      "tripsit_name": "indapex",
+      "dist": 10.785384737
+    },
+    {
+      "name": "trip_Bufotenin",
+      "psychonaut_name": "Bufotenin",
+      "tripsit_name": null,
+      "dist": 10.8515136366
+    },
+    {
+      "name": "trip_Psilocin",
+      "psychonaut_name": "Psilocin",
+      "tripsit_name": null,
+      "dist": 11.5310687126
+    },
+    {
+      "name": "psyc_psilocin",
+      "psychonaut_name": null,
+      "tripsit_name": "psilocin",
+      "dist": 11.5310687126
+    },
+    {
+      "name": "psyc_5-br-dmt",
+      "psychonaut_name": null,
+      "tripsit_name": "5-br-dmt",
+      "dist": 11.5999966062
+    },
+    {
+      "name": "trip_DMT",
+      "psychonaut_name": "DMT",
+      "tripsit_name": null,
+      "dist": 11.9728862896
+    },
+    {
+      "name": "psyc_dmt",
+      "psychonaut_name": null,
+      "tripsit_name": "dmt",
+      "dist": 11.9728862896
+    }
+  ]
+}

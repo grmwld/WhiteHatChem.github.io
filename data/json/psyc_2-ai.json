@@ -1,0 +1,97 @@
+{
+  "inchi": "InChI=1S/C9H11N/c10-9-5-7-3-1-2-4-8(7)6-9/h1-4,9H,5-6,10H2",
+  "psychonaut_name": null,
+  "tripsit_name": "2-ai",
+  "synonyms": [
+    "2ai",
+    "2-aminoindan"
+  ],
+  "distances": [
+    1.5079e-06,
+    1.5079e-06,
+    10.9856070944,
+    11.4516973712,
+    11.4516973712,
+    18.3558997708,
+    18.3558997708,
+    18.5281421957,
+    19.256942488,
+    19.256942488
+  ],
+  "indices": [
+    416,
+    11,
+    589,
+    245,
+    693,
+    247,
+    763,
+    451,
+    575,
+    270
+  ],
+  "name": "psyc_2-ai",
+  "svg": "psyc_2-ai.svg",
+  "sim": [
+    {
+      "name": "psyc_2-ai",
+      "psychonaut_name": null,
+      "tripsit_name": "2-ai",
+      "dist": 1.5079e-06
+    },
+    {
+      "name": "trip_2-Aminoindane",
+      "psychonaut_name": "2-Aminoindane",
+      "tripsit_name": null,
+      "dist": 1.5079e-06
+    },
+    {
+      "name": "psyc_5-iai",
+      "psychonaut_name": null,
+      "tripsit_name": "5-iai",
+      "dist": 10.9856070944
+    },
+    {
+      "name": "trip_NM-2-AI",
+      "psychonaut_name": "NM-2-AI",
+      "tripsit_name": null,
+      "dist": 11.4516973712
+    },
+    {
+      "name": "psyc_nm-2-ai",
+      "psychonaut_name": null,
+      "tripsit_name": "nm-2-ai",
+      "dist": 11.4516973712
+    },
+    {
+      "name": "trip_Nicotine",
+      "psychonaut_name": "Nicotine",
+      "tripsit_name": null,
+      "dist": 18.3558997708
+    },
+    {
+      "name": "psyc_nicotine",
+      "psychonaut_name": null,
+      "tripsit_name": "nicotine",
+      "dist": 18.3558997708
+    },
+    {
+      "name": "psyc_aminorex",
+      "psychonaut_name": null,
+      "tripsit_name": "aminorex",
+      "dist": 18.5281421957
+    },
+    {
+      "name": "psyc_phenethylamine",
+      "psychonaut_name": null,
+      "tripsit_name": "phenethylamine",
+      "dist": 19.256942488
+    },
+    {
+      "name": "trip_Phenethylamine (compound)",
+      "psychonaut_name": "Phenethylamine (compound)",
+      "tripsit_name": null,
+      "dist": 19.256942488
+    }
+  ]
+}

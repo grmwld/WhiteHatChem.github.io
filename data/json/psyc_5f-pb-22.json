@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C23H21FN2O2/c24-13-4-1-5-15-26-16-19(18-10-2-3-11-20(18)26)23(27)28-21-12-6-8-17-9-7-14-25-22(17)21/h2-3,6-12,14,16H,1,4-5,13,15H2",
+  "psychonaut_name": null,
+  "tripsit_name": "5f-pb-22",
+  "synonyms": null,
+  "distances": [
+    3.8147e-06,
+    3.8147e-06,
+    10.9389619559,
+    12.6137379185,
+    15.61548343,
+    17.5399168083,
+    18.6020858415,
+    28.0800606682,
+    28.0800606682,
+    29.1531903623
+  ],
+  "indices": [
+    587,
+    87,
+    432,
+    298,
+    193,
+    297,
+    194,
+    109,
+    810,
+    746
+  ],
+  "name": "psyc_5f-pb-22",
+  "svg": "psyc_5f-pb-22.svg",
+  "sim": [
+    {
+      "name": "psyc_5f-pb-22",
+      "psychonaut_name": null,
+      "tripsit_name": "5f-pb-22",
+      "dist": 3.8147e-06
+    },
+    {
+      "name": "trip_5F-PB-22",
+      "psychonaut_name": "5F-PB-22",
+      "tripsit_name": null,
+      "dist": 3.8147e-06
+    },
+    {
+      "name": "psyc_am-2201",
+      "psychonaut_name": null,
+      "tripsit_name": "am-2201",
+      "dist": 10.9389619559
+    },
+    {
+      "name": "trip_THJ-2201",
+      "psychonaut_name": "THJ-2201",
+      "tripsit_name": null,
+      "dist": 12.6137379185
+    },
+    {
+      "name": "trip_JWH-018",
+      "psychonaut_name": "JWH-018",
+      "tripsit_name": null,
+      "dist": 15.61548343
+    },
+    {
+      "name": "trip_THJ-018",
+      "psychonaut_name": "THJ-018",
+      "tripsit_name": null,
+      "dist": 17.5399168083
+    },
+    {
+      "name": "trip_JWH-073",
+      "psychonaut_name": "JWH-073",
+      "tripsit_name": null,
+      "dist": 18.6020858415
+    },
+    {
+      "name": "trip_Benzydamine",
+      "psychonaut_name": "Benzydamine",
+      "tripsit_name": null,
+      "dist": 28.0800606682
+    },
+    {
+      "name": "psyc_benzydamine",
+      "psychonaut_name": null,
+      "tripsit_name": "benzydamine",
+      "dist": 28.0800606682
+    },
+    {
+      "name": "psyc_parafluorobutyrfentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "parafluorobutyrfentanyl",
+      "dist": 29.1531903623
+    }
+  ]
+}

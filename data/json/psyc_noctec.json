@@ -1,0 +1,98 @@
+{
+  "inchi": "InChI=1S/C2H3Cl3O2/c3-2(4,5)1(6)7/h1,6-7H",
+  "psychonaut_name": null,
+  "tripsit_name": "noctec",
+  "synonyms": [
+    "chloral-hydrate",
+    "aquachloral",
+    "somnos"
+  ],
+  "distances": [
+    1.3487e-06,
+    30.7730120639,
+    31.5516766715,
+    35.4720538109,
+    35.4720538109,
+    36.2588300803,
+    36.2588300803,
+    36.7590055266,
+    37.5316402977,
+    37.5316402977
+  ],
+  "indices": [
+    334,
+    540,
+    346,
+    39,
+    474,
+    546,
+    99,
+    399,
+    338,
+    179
+  ],
+  "name": "psyc_noctec",
+  "svg": "psyc_noctec.svg",
+  "sim": [
+    {
+      "name": "psyc_noctec",
+      "psychonaut_name": null,
+      "tripsit_name": "noctec",
+      "dist": 1.3487e-06
+    },
+    {
+      "name": "psyc_chloroform",
+      "psychonaut_name": null,
+      "tripsit_name": "chloroform",
+      "dist": 30.7730120639
+    },
+    {
+      "name": "psyc_halothane",
+      "psychonaut_name": null,
+      "tripsit_name": "halothane",
+      "dist": 31.5516766715
+    },
+    {
+      "name": "trip_2M2B",
+      "psychonaut_name": "2M2B",
+      "tripsit_name": null,
+      "dist": 35.4720538109
+    },
+    {
+      "name": "psyc_2-methyl-2-butanol",
+      "psychonaut_name": null,
+      "tripsit_name": "2-methyl-2-butanol",
+      "dist": 35.4720538109
+    },
+    {
+      "name": "psyc_alcohol",
+      "psychonaut_name": null,
+      "tripsit_name": "alcohol",
+      "dist": 36.2588300803
+    },
+    {
+      "name": "trip_Alcohol",
+      "psychonaut_name": "Alcohol",
+      "tripsit_name": null,
+      "dist": 36.2588300803
+    },
+    {
+      "name": "psyc_clomethiazole",
+      "psychonaut_name": null,
+      "tripsit_name": "clomethiazole",
+      "dist": 36.7590055266
+    },
+    {
+      "name": "psyc_gbl",
+      "psychonaut_name": null,
+      "tripsit_name": "gbl",
+      "dist": 37.5316402977
+    },
+    {
+      "name": "trip_GBL",
+      "psychonaut_name": "GBL",
+      "tripsit_name": null,
+      "dist": 37.5316402977
+    }
+  ]
+}

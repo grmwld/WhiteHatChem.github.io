@@ -1,0 +1,96 @@
+{
+  "inchi": "InChI=1S/C21H20Cl2N6O3/c1-28(2)21(32)20-26-17(11-25-18(30)10-24)29(27-20)16-8-7-12(22)9-14(16)19(31)13-5-3-4-6-15(13)23/h3-9H,10-11,24H2,1-2H3,(H,25,30)",
+  "psychonaut_name": null,
+  "tripsit_name": "rilmazafone",
+  "synonyms": [
+    "rhythmy"
+  ],
+  "distances": [
+    3.8147e-06,
+    33.0141330857,
+    33.0141330857,
+    34.1990721817,
+    37.3832802674,
+    37.7368933554,
+    37.7368933554,
+    37.8860467595,
+    38.7207219912,
+    38.8117027017
+  ],
+  "indices": [
+    529,
+    802,
+    93,
+    838,
+    297,
+    587,
+    87,
+    298,
+    193,
+    777
+  ],
+  "name": "psyc_rilmazafone",
+  "svg": "psyc_rilmazafone.svg",
+  "sim": [
+    {
+      "name": "psyc_rilmazafone",
+      "psychonaut_name": null,
+      "tripsit_name": "rilmazafone",
+      "dist": 3.8147e-06
+    },
+    {
+      "name": "psyc_ab-fubinaca",
+      "psychonaut_name": null,
+      "tripsit_name": "ab-fubinaca",
+      "dist": 33.0141330857
+    },
+    {
+      "name": "trip_AB-FUBINACA",
+      "psychonaut_name": "AB-FUBINACA",
+      "tripsit_name": null,
+      "dist": 33.0141330857
+    },
+    {
+      "name": "psyc_pagoclone",
+      "psychonaut_name": null,
+      "tripsit_name": "pagoclone",
+      "dist": 34.1990721817
+    },
+    {
+      "name": "trip_THJ-018",
+      "psychonaut_name": "THJ-018",
+      "tripsit_name": null,
+      "dist": 37.3832802674
+    },
+    {
+      "name": "psyc_5f-pb-22",
+      "psychonaut_name": null,
+      "tripsit_name": "5f-pb-22",
+      "dist": 37.7368933554
+    },
+    {
+      "name": "trip_5F-PB-22",
+      "psychonaut_name": "5F-PB-22",
+      "tripsit_name": null,
+      "dist": 37.7368933554
+    },
+    {
+      "name": "trip_THJ-2201",
+      "psychonaut_name": "THJ-2201",
+      "tripsit_name": null,
+      "dist": 37.8860467595
+    },
+    {
+      "name": "trip_JWH-018",
+      "psychonaut_name": "JWH-018",
+      "tripsit_name": null,
+      "dist": 38.7207219912
+    },
+    {
+      "name": "psyc_dramamine",
+      "psychonaut_name": null,
+      "tripsit_name": "dramamine",
+      "dist": 38.8117027017
+    }
+  ]
+}

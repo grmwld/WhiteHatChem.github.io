@@ -1,0 +1,97 @@
+{
+  "inchi": "InChI=1S/C16H12Cl2N2O/c1-20-14-7-6-12(18)8-13(14)16(19-9-15(20)21)10-2-4-11(17)5-3-10/h2-8H,9H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "4-chlorodiazepam",
+  "synonyms": [
+    "ro5-4864",
+    "4'-chlorodiazepam"
+  ],
+  "distances": [
+    1.9073e-06,
+    3.932254749,
+    3.932254749,
+    7.9459603945,
+    7.9459603945,
+    13.8171550105,
+    16.6741913149,
+    16.7527208538,
+    17.0327309061,
+    17.0639164934
+  ],
+  "indices": [
+    653,
+    605,
+    150,
+    600,
+    148,
+    594,
+    805,
+    725,
+    545,
+    749
+  ],
+  "name": "psyc_4-chlorodiazepam",
+  "svg": "psyc_4-chlorodiazepam.svg",
+  "sim": [
+    {
+      "name": "psyc_4-chlorodiazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "4-chlorodiazepam",
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "psyc_diclazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "diclazepam",
+      "dist": 3.932254749
+    },
+    {
+      "name": "trip_Diclazepam",
+      "psychonaut_name": "Diclazepam",
+      "tripsit_name": null,
+      "dist": 3.932254749
+    },
+    {
+      "name": "psyc_diazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "diazepam",
+      "dist": 7.9459603945
+    },
+    {
+      "name": "trip_Diazepam",
+      "psychonaut_name": "Diazepam",
+      "tripsit_name": null,
+      "dist": 7.9459603945
+    },
+    {
+      "name": "psyc_medazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "medazepam",
+      "dist": 13.8171550105
+    },
+    {
+      "name": "psyc_clotiazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "clotiazepam",
+      "dist": 16.6741913149
+    },
+    {
+      "name": "psyc_delorazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "delorazepam",
+      "dist": 16.7527208538
+    },
+    {
+      "name": "psyc_lormetazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "lormetazepam",
+      "dist": 17.0327309061
+    },
+    {
+      "name": "psyc_clobazam",
+      "psychonaut_name": null,
+      "tripsit_name": "clobazam",
+      "dist": 17.0639164934
+    }
+  ]
+}

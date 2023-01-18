@@ -1,0 +1,96 @@
+{
+  "inchi": "InChI=1S/C15H10Cl2N2O2/c16-8-5-6-12-10(7-8)13(19-15(21)14(20)18-12)9-3-1-2-4-11(9)17/h1-7,15,21H,(H,18,20)",
+  "psychonaut_name": null,
+  "tripsit_name": "lorazepam",
+  "synonyms": [
+    "ativan"
+  ],
+  "distances": [
+    1.9073e-06,
+    1.9073e-06,
+    7.6013088204,
+    8.5584417597,
+    15.9609121658,
+    16.1576005087,
+    16.3661200055,
+    16.9757957935,
+    16.9757957935,
+    17.9643617264
+  ],
+  "indices": [
+    203,
+    697,
+    719,
+    788,
+    803,
+    545,
+    725,
+    304,
+    695,
+    539
+  ],
+  "name": "psyc_lorazepam",
+  "svg": "psyc_lorazepam.svg",
+  "sim": [
+    {
+      "name": "trip_Lorazepam",
+      "psychonaut_name": "Lorazepam",
+      "tripsit_name": null,
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "psyc_lorazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "lorazepam",
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "psyc_oxazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "oxazepam",
+      "dist": 7.6013088204
+    },
+    {
+      "name": "psyc_3-oh-phenazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "3-oh-phenazepam",
+      "dist": 8.5584417597
+    },
+    {
+      "name": "psyc_clorazepate",
+      "psychonaut_name": null,
+      "tripsit_name": "clorazepate",
+      "dist": 15.9609121658
+    },
+    {
+      "name": "psyc_lormetazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "lormetazepam",
+      "dist": 16.1576005087
+    },
+    {
+      "name": "psyc_delorazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "delorazepam",
+      "dist": 16.3661200055
+    },
+    {
+      "name": "trip_Temazepam",
+      "psychonaut_name": "Temazepam",
+      "tripsit_name": null,
+      "dist": 16.9757957935
+    },
+    {
+      "name": "psyc_temazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "temazepam",
+      "dist": 16.9757957935
+    },
+    {
+      "name": "psyc_norflurazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "norflurazepam",
+      "dist": 17.9643617264
+    }
+  ]
+}

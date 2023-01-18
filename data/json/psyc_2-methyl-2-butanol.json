@@ -1,0 +1,96 @@
+{
+  "inchi": "InChI=1S/C5H12O/c1-4-5(2,3)6/h6H,4H2,1-3H3",
+  "psychonaut_name": null,
+  "tripsit_name": "2-methyl-2-butanol",
+  "synonyms": [
+    "2m2b"
+  ],
+  "distances": [
+    9.537e-07,
+    9.537e-07,
+    20.5140251006,
+    20.5140251006,
+    20.6724566481,
+    23.9559710679,
+    23.9559710679,
+    24.0119573688,
+    24.0119573688,
+    25.4925226955
+  ],
+  "indices": [
+    474,
+    39,
+    99,
+    546,
+    757,
+    579,
+    2,
+    180,
+    353,
+    179
+  ],
+  "name": "psyc_2-methyl-2-butanol",
+  "svg": "psyc_2-methyl-2-butanol.svg",
+  "sim": [
+    {
+      "name": "psyc_2-methyl-2-butanol",
+      "psychonaut_name": null,
+      "tripsit_name": "2-methyl-2-butanol",
+      "dist": 9.537e-07
+    },
+    {
+      "name": "trip_2M2B",
+      "psychonaut_name": "2M2B",
+      "tripsit_name": null,
+      "dist": 9.537e-07
+    },
+    {
+      "name": "trip_Alcohol",
+      "psychonaut_name": "Alcohol",
+      "tripsit_name": null,
+      "dist": 20.5140251006
+    },
+    {
+      "name": "psyc_alcohol",
+      "psychonaut_name": null,
+      "tripsit_name": "alcohol",
+      "dist": 20.5140251006
+    },
+    {
+      "name": "psyc_diethyl-ether",
+      "psychonaut_name": null,
+      "tripsit_name": "diethyl-ether",
+      "dist": 20.6724566481
+    },
+    {
+      "name": "psyc_1,4-butanediol",
+      "psychonaut_name": null,
+      "tripsit_name": "1,4-butanediol",
+      "dist": 23.9559710679
+    },
+    {
+      "name": "trip_1,4-Butanediol",
+      "psychonaut_name": "1,4-Butanediol",
+      "tripsit_name": null,
+      "dist": 23.9559710679
+    },
+    {
+      "name": "trip_GHB",
+      "psychonaut_name": "GHB",
+      "tripsit_name": null,
+      "dist": 24.0119573688
+    },
+    {
+      "name": "psyc_ghb",
+      "psychonaut_name": null,
+      "tripsit_name": "ghb",
+      "dist": 24.0119573688
+    },
+    {
+      "name": "trip_GBL",
+      "psychonaut_name": "GBL",
+      "tripsit_name": null,
+      "dist": 25.4925226955
+    }
+  ]
+}

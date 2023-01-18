@@ -1,0 +1,96 @@
+{
+  "inchi": "InChI=1S/C15H10BrClN4S/c1-8-19-20-13-7-18-14(9-4-2-3-5-11(9)17)10-6-12(16)22-15(10)21(8)13/h2-6H,7H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "brotizolam",
+  "synonyms": [
+    "lendormin"
+  ],
+  "distances": [
+    1.9073e-06,
+    8.9039792027,
+    8.9039792027,
+    11.9433042785,
+    11.9433042785,
+    12.9858280108,
+    12.9858280108,
+    13.2942543182,
+    13.2942543182,
+    13.6781520189
+  ],
+  "indices": [
+    654,
+    176,
+    843,
+    168,
+    333,
+    784,
+    232,
+    286,
+    748,
+    809
+  ],
+  "name": "psyc_brotizolam",
+  "svg": "psyc_brotizolam.svg",
+  "sim": [
+    {
+      "name": "psyc_brotizolam",
+      "psychonaut_name": null,
+      "tripsit_name": "brotizolam",
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "trip_Fluclotizolam",
+      "psychonaut_name": "Fluclotizolam",
+      "tripsit_name": null,
+      "dist": 8.9039792027
+    },
+    {
+      "name": "psyc_fluclotizolam",
+      "psychonaut_name": null,
+      "tripsit_name": "fluclotizolam",
+      "dist": 8.9039792027
+    },
+    {
+      "name": "trip_Etizolam",
+      "psychonaut_name": "Etizolam",
+      "tripsit_name": null,
+      "dist": 11.9433042785
+    },
+    {
+      "name": "psyc_etizolam",
+      "psychonaut_name": null,
+      "tripsit_name": "etizolam",
+      "dist": 11.9433042785
+    },
+    {
+      "name": "psyc_metizolam",
+      "psychonaut_name": null,
+      "tripsit_name": "metizolam",
+      "dist": 12.9858280108
+    },
+    {
+      "name": "trip_Metizolam",
+      "psychonaut_name": "Metizolam",
+      "tripsit_name": null,
+      "dist": 12.9858280108
+    },
+    {
+      "name": "trip_Pyrazolam",
+      "psychonaut_name": "Pyrazolam",
+      "tripsit_name": null,
+      "dist": 13.2942543182
+    },
+    {
+      "name": "psyc_pyrazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "pyrazolam",
+      "dist": 13.2942543182
+    },
+    {
+      "name": "psyc_deschloroetizolam",
+      "psychonaut_name": null,
+      "tripsit_name": "deschloroetizolam",
+      "dist": 13.6781520189
+    }
+  ]
+}

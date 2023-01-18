@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C13H18O2/c1-9(2)8-11-4-6-12(7-5-11)10(3)13(14)15/h4-7,9-10H,8H2,1-3H3,(H,14,15)",
+  "psychonaut_name": null,
+  "tripsit_name": "ibuprofen",
+  "synonyms": null,
+  "distances": [
+    1.6518e-06,
+    15.1375982607,
+    17.816456352,
+    18.5617856489,
+    18.5700668171,
+    18.5700668171,
+    18.7442455362,
+    18.7920475799,
+    18.9043912116,
+    19.4174929376
+  ],
+  "indices": [
+    758,
+    447,
+    373,
+    339,
+    70,
+    603,
+    389,
+    655,
+    364,
+    361
+  ],
+  "name": "psyc_ibuprofen",
+  "svg": "psyc_ibuprofen.svg",
+  "sim": [
+    {
+      "name": "psyc_ibuprofen",
+      "psychonaut_name": null,
+      "tripsit_name": "ibuprofen",
+      "dist": 1.6518e-06
+    },
+    {
+      "name": "psyc_4-cic",
+      "psychonaut_name": null,
+      "tripsit_name": "4-cic",
+      "dist": 15.1375982607
+    },
+    {
+      "name": "psyc_4-emc",
+      "psychonaut_name": null,
+      "tripsit_name": "4-emc",
+      "dist": 17.816456352
+    },
+    {
+      "name": "psyc_2-mec",
+      "psychonaut_name": null,
+      "tripsit_name": "2-mec",
+      "dist": 18.5617856489
+    },
+    {
+      "name": "trip_4-MEC",
+      "psychonaut_name": "4-MEC",
+      "tripsit_name": null,
+      "dist": 18.5700668171
+    },
+    {
+      "name": "psyc_4-mec",
+      "psychonaut_name": null,
+      "tripsit_name": "4-mec",
+      "dist": 18.5700668171
+    },
+    {
+      "name": "psyc_3-mec",
+      "psychonaut_name": null,
+      "tripsit_name": "3-mec",
+      "dist": 18.7442455362
+    },
+    {
+      "name": "psyc_4-mpd",
+      "psychonaut_name": null,
+      "tripsit_name": "4-mpd",
+      "dist": 18.7920475799
+    },
+    {
+      "name": "psyc_tolibut",
+      "psychonaut_name": null,
+      "tripsit_name": "tolibut",
+      "dist": 18.9043912116
+    },
+    {
+      "name": "psyc_4-cbc",
+      "psychonaut_name": null,
+      "tripsit_name": "4-cbc",
+      "dist": 19.4174929376
+    }
+  ]
+}

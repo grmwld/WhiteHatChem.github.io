@@ -1,0 +1,98 @@
+{
+  "inchi": "InChI=1S/C15H20N2O2/c1-4-17(3)9-8-12-10-16-13-6-5-7-14(15(12)13)19-11(2)18/h5-7,10,16H,4,8-9H2,1-3H3",
+  "psychonaut_name": null,
+  "tripsit_name": "4-aco-met",
+  "synonyms": [
+    "metacetin",
+    "4-acetoxy-met",
+    "4acomet"
+  ],
+  "distances": [
+    1.9073e-06,
+    1.9073e-06,
+    8.4429633643,
+    8.4429633643,
+    9.3797851557,
+    9.3797851557,
+    12.743292746,
+    12.743292746,
+    13.3749372534,
+    15.4161501136
+  ],
+  "indices": [
+    323,
+    59,
+    560,
+    57,
+    56,
+    544,
+    792,
+    60,
+    528,
+    68
+  ],
+  "name": "psyc_4-aco-met",
+  "svg": "psyc_4-aco-met.svg",
+  "sim": [
+    {
+      "name": "psyc_4-aco-met",
+      "psychonaut_name": null,
+      "tripsit_name": "4-aco-met",
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "trip_4-AcO-MET",
+      "psychonaut_name": "4-AcO-MET",
+      "tripsit_name": null,
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "psyc_4-aco-dmt",
+      "psychonaut_name": null,
+      "tripsit_name": "4-aco-dmt",
+      "dist": 8.4429633643
+    },
+    {
+      "name": "trip_4-AcO-DMT",
+      "psychonaut_name": "4-AcO-DMT",
+      "tripsit_name": null,
+      "dist": 8.4429633643
+    },
+    {
+      "name": "trip_4-AcO-DET",
+      "psychonaut_name": "4-AcO-DET",
+      "tripsit_name": null,
+      "dist": 9.3797851557
+    },
+    {
+      "name": "psyc_4-aco-det",
+      "psychonaut_name": null,
+      "tripsit_name": "4-aco-det",
+      "dist": 9.3797851557
+    },
+    {
+      "name": "psyc_4-aco-mipt",
+      "psychonaut_name": null,
+      "tripsit_name": "4-aco-mipt",
+      "dist": 12.743292746
+    },
+    {
+      "name": "trip_4-AcO-MiPT",
+      "psychonaut_name": "4-AcO-MiPT",
+      "tripsit_name": null,
+      "dist": 12.743292746
+    },
+    {
+      "name": "psyc_5-meo-met",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-met",
+      "dist": 13.3749372534
+    },
+    {
+      "name": "trip_4-HO-MPT",
+      "psychonaut_name": "4-HO-MPT",
+      "tripsit_name": null,
+      "dist": 15.4161501136
+    }
+  ]
+}

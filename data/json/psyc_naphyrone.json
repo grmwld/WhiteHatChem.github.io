@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C19H23NO/c1-2-7-18(20-12-5-6-13-20)19(21)17-11-10-15-8-3-4-9-16(15)14-17/h3-4,8-11,14,18H,2,5-7,12-13H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "naphyrone",
+  "synonyms": null,
+  "distances": [
+    2.336e-06,
+    13.6006408765,
+    14.4838614265,
+    15.0621763329,
+    15.4406883252,
+    15.4406883252,
+    15.8477809375,
+    17.1841749269,
+    17.1841749269,
+    18.2190590467
+  ],
+  "indices": [
+    467,
+    458,
+    592,
+    405,
+    91,
+    617,
+    619,
+    92,
+    822,
+    846
+  ],
+  "name": "psyc_naphyrone",
+  "svg": "psyc_naphyrone.svg",
+  "sim": [
+    {
+      "name": "psyc_naphyrone",
+      "psychonaut_name": null,
+      "tripsit_name": "naphyrone",
+      "dist": 2.336e-06
+    },
+    {
+      "name": "psyc_4f-php",
+      "psychonaut_name": null,
+      "tripsit_name": "4f-php",
+      "dist": 13.6006408765
+    },
+    {
+      "name": "psyc_pyrophenidone",
+      "psychonaut_name": null,
+      "tripsit_name": "pyrophenidone",
+      "dist": 14.4838614265
+    },
+    {
+      "name": "psyc_4f-pvp",
+      "psychonaut_name": null,
+      "tripsit_name": "4f-pvp",
+      "dist": 15.0621763329
+    },
+    {
+      "name": "trip_A-PHP",
+      "psychonaut_name": "A-PHP",
+      "tripsit_name": null,
+      "dist": 15.4406883252
+    },
+    {
+      "name": "psyc_alpha-php",
+      "psychonaut_name": null,
+      "tripsit_name": "alpha-php",
+      "dist": 15.4406883252
+    },
+    {
+      "name": "psyc_pv-8",
+      "psychonaut_name": null,
+      "tripsit_name": "pv-8",
+      "dist": 15.8477809375
+    },
+    {
+      "name": "trip_A-PVP",
+      "psychonaut_name": "A-PVP",
+      "tripsit_name": null,
+      "dist": 17.1841749269
+    },
+    {
+      "name": "psyc_a-pvp",
+      "psychonaut_name": null,
+      "tripsit_name": "a-pvp",
+      "dist": 17.1841749269
+    },
+    {
+      "name": "psyc_5-dbfpv",
+      "psychonaut_name": null,
+      "tripsit_name": "5-dbfpv",
+      "dist": 18.2190590467
+    }
+  ]
+}

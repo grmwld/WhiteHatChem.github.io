@@ -1,0 +1,100 @@
+{
+  "inchi": "InChI=1S/C13H19NO/c1-3-8-12(14-4-2)13(15)11-9-6-5-7-10-11/h5-7,9-10,12,14H,3-4,8H2,1-2H3",
+  "psychonaut_name": "NEP",
+  "tripsit_name": null,
+  "synonyms": [
+    "N-Ethylpentedrone",
+    "\u03b1-Ethylaminopentiophenone",
+    "NEP",
+    "N-Ethylnorpentedrone",
+    "Ethyl pentedrone"
+  ],
+  "distances": [
+    1.3487e-06,
+    5.8999270548,
+    5.8999270548,
+    7.3651530591,
+    8.4646806125,
+    8.4646806125,
+    9.925252793,
+    9.925252793,
+    10.2090805922,
+    10.2090805922
+  ],
+  "indices": [
+    244,
+    242,
+    493,
+    680,
+    549,
+    187,
+    633,
+    265,
+    718,
+    375
+  ],
+  "name": "trip_NEP",
+  "svg": "trip_NEP.svg",
+  "sim": [
+    {
+      "name": "trip_NEP",
+      "psychonaut_name": "NEP",
+      "tripsit_name": null,
+      "dist": 1.3487e-06
+    },
+    {
+      "name": "trip_N-Ethylhexedrone",
+      "psychonaut_name": "N-Ethylhexedrone",
+      "tripsit_name": null,
+      "dist": 5.8999270548
+    },
+    {
+      "name": "psyc_hexen",
+      "psychonaut_name": null,
+      "tripsit_name": "hexen",
+      "dist": 5.8999270548
+    },
+    {
+      "name": "psyc_neb",
+      "psychonaut_name": null,
+      "tripsit_name": "neb",
+      "dist": 7.3651530591
+    },
+    {
+      "name": "psyc_hexedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "hexedrone",
+      "dist": 8.4646806125
+    },
+    {
+      "name": "trip_Hexedrone",
+      "psychonaut_name": "Hexedrone",
+      "tripsit_name": null,
+      "dist": 8.4646806125
+    },
+    {
+      "name": "psyc_pentedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "pentedrone",
+      "dist": 9.925252793
+    },
+    {
+      "name": "trip_Pentedrone",
+      "psychonaut_name": "Pentedrone",
+      "tripsit_name": null,
+      "dist": 9.925252793
+    },
+    {
+      "name": "psyc_ethyl-pentedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "ethyl-pentedrone",
+      "dist": 10.2090805922
+    },
+    {
+      "name": "psyc_4-epd",
+      "psychonaut_name": null,
+      "tripsit_name": "4-epd",
+      "dist": 10.2090805922
+    }
+  ]
+}

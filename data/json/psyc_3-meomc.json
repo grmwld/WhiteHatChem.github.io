@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C11H15NO2/c1-8(12-2)11(13)9-5-4-6-10(7-9)14-3/h4-8,12H,1-3H3",
+  "psychonaut_name": null,
+  "tripsit_name": "3-meomc",
+  "synonyms": null,
+  "distances": [
+    1.3487e-06,
+    1.9697514969,
+    8.6635090382,
+    8.6635090382,
+    8.7752343475,
+    8.7752343475,
+    8.9796956224,
+    8.9796956224,
+    9.494821442,
+    9.6178768602
+  ],
+  "indices": [
+    831,
+    716,
+    48,
+    377,
+    233,
+    473,
+    547,
+    218,
+    373,
+    16
+  ],
+  "name": "psyc_3-meomc",
+  "svg": "psyc_3-meomc.svg",
+  "sim": [
+    {
+      "name": "psyc_3-meomc",
+      "psychonaut_name": null,
+      "tripsit_name": "3-meomc",
+      "dist": 1.3487e-06
+    },
+    {
+      "name": "psyc_methedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "methedrone",
+      "dist": 1.9697514969
+    },
+    {
+      "name": "trip_3-MMC",
+      "psychonaut_name": "3-MMC",
+      "tripsit_name": null,
+      "dist": 8.6635090382
+    },
+    {
+      "name": "psyc_3-mmc",
+      "psychonaut_name": null,
+      "tripsit_name": "3-mmc",
+      "dist": 8.6635090382
+    },
+    {
+      "name": "trip_Mexedrone",
+      "psychonaut_name": "Mexedrone",
+      "tripsit_name": null,
+      "dist": 8.7752343475
+    },
+    {
+      "name": "psyc_mexedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "mexedrone",
+      "dist": 8.7752343475
+    },
+    {
+      "name": "psyc_mephedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "mephedrone",
+      "dist": 8.9796956224
+    },
+    {
+      "name": "trip_Mephedrone",
+      "psychonaut_name": "Mephedrone",
+      "tripsit_name": null,
+      "dist": 8.9796956224
+    },
+    {
+      "name": "psyc_4-emc",
+      "psychonaut_name": null,
+      "tripsit_name": "4-emc",
+      "dist": 9.494821442
+    },
+    {
+      "name": "trip_2-MMC",
+      "psychonaut_name": "2-MMC",
+      "tripsit_name": null,
+      "dist": 9.6178768602
+    }
+  ]
+}

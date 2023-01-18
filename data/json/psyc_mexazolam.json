@@ -1,0 +1,97 @@
+{
+  "inchi": "InChI=1S/C18H16Cl2N2O2/c1-11-10-24-18(13-4-2-3-5-15(13)20)14-8-12(19)6-7-16(14)21-17(23)9-22(11)18/h2-8,11H,9-10H2,1H3,(H,21,23)",
+  "psychonaut_name": null,
+  "tripsit_name": "mexazolam",
+  "synonyms": [
+    "melex",
+    "sedoxil"
+  ],
+  "distances": [
+    1.9073e-06,
+    12.3127280277,
+    14.0381201426,
+    23.8904155076,
+    25.4077538377,
+    26.6754102995,
+    27.3963367102,
+    27.8165420167,
+    28.3287412026,
+    28.5009294325
+  ],
+  "indices": [
+    689,
+    622,
+    736,
+    839,
+    495,
+    490,
+    545,
+    628,
+    574,
+    486
+  ],
+  "name": "psyc_mexazolam",
+  "svg": "psyc_mexazolam.svg",
+  "sim": [
+    {
+      "name": "psyc_mexazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "mexazolam",
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "psyc_cloxazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "cloxazolam",
+      "dist": 12.3127280277
+    },
+    {
+      "name": "psyc_oxazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "oxazolam",
+      "dist": 14.0381201426
+    },
+    {
+      "name": "psyc_flutazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "flutazolam",
+      "dist": 23.8904155076
+    },
+    {
+      "name": "psyc_ketazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "ketazolam",
+      "dist": 25.4077538377
+    },
+    {
+      "name": "psyc_homomazindol",
+      "psychonaut_name": null,
+      "tripsit_name": "homomazindol",
+      "dist": 26.6754102995
+    },
+    {
+      "name": "psyc_lormetazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "lormetazepam",
+      "dist": 27.3963367102
+    },
+    {
+      "name": "psyc_diclofensine",
+      "psychonaut_name": null,
+      "tripsit_name": "diclofensine",
+      "dist": 27.8165420167
+    },
+    {
+      "name": "psyc_flutoprazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "flutoprazepam",
+      "dist": 28.3287412026
+    },
+    {
+      "name": "psyc_prazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "prazepam",
+      "dist": 28.5009294325
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "inchi": "InChI=1S/C13H15NO2/c1-2-13(10-6-4-3-5-7-10)9-8-11(15)14-12(13)16/h3-7H,2,8-9H2,1H3,(H,14,15,16)",
+  "psychonaut_name": null,
+  "tripsit_name": "glutethimide",
+  "synonyms": [
+    "doriden",
+    "elrodorm",
+    "noxyron",
+    "glimid"
+  ],
+  "distances": [
+    1.9073e-06,
+    19.0211313091,
+    19.0211313091,
+    20.0119250032,
+    20.0119250032,
+    21.7858009783,
+    22.1199648888,
+    22.1199648888,
+    22.2209447536,
+    22.2209447536
+  ],
+  "indices": [
+    462,
+    765,
+    273,
+    517,
+    251,
+    563,
+    730,
+    141,
+    778,
+    46
+  ],
+  "name": "psyc_glutethimide",
+  "svg": "psyc_glutethimide.svg",
+  "sim": [
+    {
+      "name": "psyc_glutethimide",
+      "psychonaut_name": null,
+      "tripsit_name": "glutethimide",
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "psyc_phenobarbital",
+      "psychonaut_name": null,
+      "tripsit_name": "phenobarbital",
+      "dist": 19.0211313091
+    },
+    {
+      "name": "trip_Phenobarbital",
+      "psychonaut_name": "Phenobarbital",
+      "tripsit_name": null,
+      "dist": 19.0211313091
+    },
+    {
+      "name": "psyc_o-pce",
+      "psychonaut_name": null,
+      "tripsit_name": "o-pce",
+      "dist": 20.0119250032
+    },
+    {
+      "name": "trip_O-PCE",
+      "psychonaut_name": "O-PCE",
+      "tripsit_name": null,
+      "dist": 20.0119250032
+    },
+    {
+      "name": "psyc_ethketamine",
+      "psychonaut_name": null,
+      "tripsit_name": "ethketamine",
+      "dist": 21.7858009783
+    },
+    {
+      "name": "psyc_deschloroketamine",
+      "psychonaut_name": null,
+      "tripsit_name": "deschloroketamine",
+      "dist": 22.1199648888
+    },
+    {
+      "name": "trip_Deschloroketamine",
+      "psychonaut_name": "Deschloroketamine",
+      "tripsit_name": null,
+      "dist": 22.1199648888
+    },
+    {
+      "name": "psyc_3-ho-pce",
+      "psychonaut_name": null,
+      "tripsit_name": "3-ho-pce",
+      "dist": 22.2209447536
+    },
+    {
+      "name": "trip_3-HO-PCE",
+      "psychonaut_name": "3-HO-PCE",
+      "tripsit_name": null,
+      "dist": 22.2209447536
+    }
+  ]
+}

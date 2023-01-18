@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C9H12N4O3/c1-10-5-6(11(2)8(10)15)12(3)9(16)13(4)7(5)14/h1-4H3",
+  "psychonaut_name": null,
+  "tripsit_name": "theacrine",
+  "synonyms": null,
+  "distances": [
+    2.6974e-06,
+    2.6974e-06,
+    16.5527268851,
+    16.5527268851,
+    22.7597755976,
+    29.0926517398,
+    38.6801522076,
+    38.7459706826,
+    38.82704664,
+    38.82704664
+  ],
+  "indices": [
+    595,
+    306,
+    117,
+    685,
+    90,
+    708,
+    543,
+    818,
+    106,
+    678
+  ],
+  "name": "psyc_theacrine",
+  "svg": "psyc_theacrine.svg",
+  "sim": [
+    {
+      "name": "psyc_theacrine",
+      "psychonaut_name": null,
+      "tripsit_name": "theacrine",
+      "dist": 2.6974e-06
+    },
+    {
+      "name": "trip_Theacrine",
+      "psychonaut_name": "Theacrine",
+      "tripsit_name": null,
+      "dist": 2.6974e-06
+    },
+    {
+      "name": "trip_Caffeine",
+      "psychonaut_name": "Caffeine",
+      "tripsit_name": null,
+      "dist": 16.5527268851
+    },
+    {
+      "name": "psyc_caffeine",
+      "psychonaut_name": null,
+      "tripsit_name": "caffeine",
+      "dist": 16.5527268851
+    },
+    {
+      "name": "trip_8-Chlorotheophylline",
+      "psychonaut_name": "8-Chlorotheophylline",
+      "tripsit_name": null,
+      "dist": 22.7597755976
+    },
+    {
+      "name": "psyc_theobromine",
+      "psychonaut_name": null,
+      "tripsit_name": "theobromine",
+      "dist": 29.0926517398
+    },
+    {
+      "name": "psyc_zolazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "zolazepam",
+      "dist": 38.6801522076
+    },
+    {
+      "name": "psyc_nefiracetam",
+      "psychonaut_name": null,
+      "tripsit_name": "nefiracetam",
+      "dist": 38.7459706826
+    },
+    {
+      "name": "trip_Aniracetam",
+      "psychonaut_name": "Aniracetam",
+      "tripsit_name": null,
+      "dist": 38.82704664
+    },
+    {
+      "name": "psyc_aniracetam",
+      "psychonaut_name": null,
+      "tripsit_name": "aniracetam",
+      "dist": 38.82704664
+    }
+  ]
+}

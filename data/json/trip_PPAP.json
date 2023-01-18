@@ -1,0 +1,104 @@
+{
+  "inchi": "InChI=1S/C18H23N.ClH/c1-16(15-18-11-6-3-7-12-18)19-14-8-13-17-9-4-2-5-10-17;/h2-7,9-12,16,19H,8,13-15H2,1H3;1H/t16-;/m1./s1",
+  "psychonaut_name": "PPAP",
+  "tripsit_name": null,
+  "synonyms": [
+    "Benzenepropanamine, N-(1-methyl-2-phenylethyl)-, hydrochloride, (R)-",
+    "131903-56-5",
+    "SCHEMBL8093047",
+    "R(-)-N-(3-Phenyl-n-propyl)-1-phenyl-2-aminopropane hydrochloride",
+    "(2R)-1-phenyl-N-(3-phenylpropyl)propan-2-amine;hydrochloride",
+    "PPAP",
+    "DTXSID20157247",
+    "N-(3-Phenyl-n-propyl)-1-phenyl-2-aminopropane",
+    "R(-)PPAP"
+  ],
+  "distances": [
+    3.0158e-06,
+    15.9834461408,
+    15.9834461408,
+    16.501451833,
+    17.1907480951,
+    20.8269681845,
+    21.2940877097,
+    21.9866396477,
+    23.3091839025,
+    25.4839594636
+  ],
+  "indices": [
+    263,
+    160,
+    411,
+    525,
+    554,
+    614,
+    469,
+    152,
+    254,
+    109
+  ],
+  "name": "trip_PPAP",
+  "svg": "trip_PPAP.svg",
+  "sim": [
+    {
+      "name": "trip_PPAP",
+      "psychonaut_name": "PPAP",
+      "tripsit_name": null,
+      "dist": 3.0158e-06
+    },
+    {
+      "name": "trip_Ephenidine",
+      "psychonaut_name": "Ephenidine",
+      "tripsit_name": null,
+      "dist": 15.9834461408
+    },
+    {
+      "name": "psyc_ephenidine",
+      "psychonaut_name": null,
+      "tripsit_name": "ephenidine",
+      "dist": 15.9834461408
+    },
+    {
+      "name": "psyc_2-chloro-ephenidine",
+      "psychonaut_name": null,
+      "tripsit_name": "2-chloro-ephenidine",
+      "dist": 16.501451833
+    },
+    {
+      "name": "psyc_atomoxetine",
+      "psychonaut_name": null,
+      "tripsit_name": "atomoxetine",
+      "dist": 17.1907480951
+    },
+    {
+      "name": "psyc_propranolol",
+      "psychonaut_name": null,
+      "tripsit_name": "propranolol",
+      "dist": 20.8269681845
+    },
+    {
+      "name": "psyc_prl-8-53",
+      "psychonaut_name": null,
+      "tripsit_name": "prl-8-53",
+      "dist": 21.2940877097
+    },
+    {
+      "name": "trip_Diphenhydramine",
+      "psychonaut_name": "Diphenhydramine",
+      "tripsit_name": null,
+      "dist": 21.9866396477
+    },
+    {
+      "name": "trip_Orphenadrine",
+      "psychonaut_name": "Orphenadrine",
+      "tripsit_name": null,
+      "dist": 23.3091839025
+    },
+    {
+      "name": "trip_Benzydamine",
+      "psychonaut_name": "Benzydamine",
+      "tripsit_name": null,
+      "dist": 25.4839594636
+    }
+  ]
+}

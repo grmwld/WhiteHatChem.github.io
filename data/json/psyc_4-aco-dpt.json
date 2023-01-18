@@ -1,0 +1,96 @@
+{
+  "inchi": "InChI=1S/C18H26N2O2/c1-4-10-20(11-5-2)12-9-15-13-19-16-7-6-8-17(18(15)16)22-14(3)21/h6-8,13,19H,4-5,9-12H2,1-3H3",
+  "psychonaut_name": null,
+  "tripsit_name": "4-aco-dpt",
+  "synonyms": [
+    "4acodpt"
+  ],
+  "distances": [
+    2.6974e-06,
+    13.3749372534,
+    13.6075405982,
+    13.6075405982,
+    17.3390310655,
+    17.3390310655,
+    19.261864907,
+    19.261864907,
+    19.8101285364,
+    19.8101285364
+  ],
+  "indices": [
+    336,
+    406,
+    56,
+    544,
+    485,
+    64,
+    59,
+    323,
+    139,
+    793
+  ],
+  "name": "psyc_4-aco-dpt",
+  "svg": "psyc_4-aco-dpt.svg",
+  "sim": [
+    {
+      "name": "psyc_4-aco-dpt",
+      "psychonaut_name": null,
+      "tripsit_name": "4-aco-dpt",
+      "dist": 2.6974e-06
+    },
+    {
+      "name": "psyc_5-meo-dpt",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-dpt",
+      "dist": 13.3749372534
+    },
+    {
+      "name": "trip_4-AcO-DET",
+      "psychonaut_name": "4-AcO-DET",
+      "tripsit_name": null,
+      "dist": 13.6075405982
+    },
+    {
+      "name": "psyc_4-aco-det",
+      "psychonaut_name": null,
+      "tripsit_name": "4-aco-det",
+      "dist": 13.6075405982
+    },
+    {
+      "name": "psyc_4-ho-dpt",
+      "psychonaut_name": null,
+      "tripsit_name": "4-ho-dpt",
+      "dist": 17.3390310655
+    },
+    {
+      "name": "trip_4-HO-DPT",
+      "psychonaut_name": "4-HO-DPT",
+      "tripsit_name": null,
+      "dist": 17.3390310655
+    },
+    {
+      "name": "trip_4-AcO-MET",
+      "psychonaut_name": "4-AcO-MET",
+      "tripsit_name": null,
+      "dist": 19.261864907
+    },
+    {
+      "name": "psyc_4-aco-met",
+      "psychonaut_name": null,
+      "tripsit_name": "4-aco-met",
+      "dist": 19.261864907
+    },
+    {
+      "name": "trip_DPT",
+      "psychonaut_name": "DPT",
+      "tripsit_name": null,
+      "dist": 19.8101285364
+    },
+    {
+      "name": "psyc_dpt",
+      "psychonaut_name": null,
+      "tripsit_name": "dpt",
+      "dist": 19.8101285364
+    }
+  ]
+}

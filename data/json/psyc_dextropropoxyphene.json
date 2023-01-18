@@ -1,0 +1,100 @@
+{
+  "inchi": "InChI=1S/C22H29NO2/c1-5-21(24)25-22(18(2)17-23(3)4,20-14-10-7-11-15-20)16-19-12-8-6-9-13-19/h6-15,18H,5,16-17H2,1-4H3/t18-,22+/m1/s1",
+  "psychonaut_name": null,
+  "tripsit_name": "dextropropoxyphene",
+  "synonyms": [
+    "darvocet",
+    "co-proxamol",
+    "coproxamol",
+    "capadex",
+    "di-gesic"
+  ],
+  "distances": [
+    2.6974e-06,
+    2.6974e-06,
+    2.6974e-06,
+    13.410596023,
+    16.4852932209,
+    16.4852932209,
+    23.7819352521,
+    26.2061703936,
+    26.2061703936,
+    27.9456291917
+  ],
+  "indices": [
+    146,
+    754,
+    347,
+    582,
+    586,
+    221,
+    469,
+    109,
+    810,
+    408
+  ],
+  "name": "psyc_dextropropoxyphene",
+  "svg": "psyc_dextropropoxyphene.svg",
+  "sim": [
+    {
+      "name": "trip_Dextropropoxyphene",
+      "psychonaut_name": "Dextropropoxyphene",
+      "tripsit_name": null,
+      "dist": 2.6974e-06
+    },
+    {
+      "name": "psyc_dextropropoxyphene",
+      "psychonaut_name": null,
+      "tripsit_name": "dextropropoxyphene",
+      "dist": 2.6974e-06
+    },
+    {
+      "name": "psyc_propoxyphene",
+      "psychonaut_name": null,
+      "tripsit_name": "propoxyphene",
+      "dist": 2.6974e-06
+    },
+    {
+      "name": "psyc_isomethadone",
+      "psychonaut_name": null,
+      "tripsit_name": "isomethadone",
+      "dist": 13.410596023
+    },
+    {
+      "name": "psyc_methadone",
+      "psychonaut_name": null,
+      "tripsit_name": "methadone",
+      "dist": 16.4852932209
+    },
+    {
+      "name": "trip_Methadone",
+      "psychonaut_name": "Methadone",
+      "tripsit_name": null,
+      "dist": 16.4852932209
+    },
+    {
+      "name": "psyc_prl-8-53",
+      "psychonaut_name": null,
+      "tripsit_name": "prl-8-53",
+      "dist": 23.7819352521
+    },
+    {
+      "name": "trip_Benzydamine",
+      "psychonaut_name": "Benzydamine",
+      "tripsit_name": null,
+      "dist": 26.2061703936
+    },
+    {
+      "name": "psyc_benzydamine",
+      "psychonaut_name": null,
+      "tripsit_name": "benzydamine",
+      "dist": 26.2061703936
+    },
+    {
+      "name": "psyc_doxylamine",
+      "psychonaut_name": null,
+      "tripsit_name": "doxylamine",
+      "dist": 27.9456291917
+    }
+  ]
+}

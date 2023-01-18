@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C17H23NO2/c1-2-5-15(18-9-3-4-10-18)17(19)14-6-7-16-13(12-14)8-11-20-16/h6-7,12,15H,2-5,8-11H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "5-dbfpv",
+  "synonyms": null,
+  "distances": [
+    1.9073e-06,
+    8.9216757517,
+    8.9216757517,
+    10.5928857501,
+    10.6698298135,
+    11.2933909846,
+    11.3831368991,
+    14.953491334,
+    15.3456095328,
+    17.303055263
+  ],
+  "indices": [
+    846,
+    209,
+    523,
+    555,
+    830,
+    455,
+    357,
+    458,
+    405,
+    91
+  ],
+  "name": "psyc_5-dbfpv",
+  "svg": "psyc_5-dbfpv.svg",
+  "sim": [
+    {
+      "name": "psyc_5-dbfpv",
+      "psychonaut_name": null,
+      "tripsit_name": "5-dbfpv",
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "trip_MDPV",
+      "psychonaut_name": "MDPV",
+      "tripsit_name": null,
+      "dist": 8.9216757517
+    },
+    {
+      "name": "psyc_mdpv",
+      "psychonaut_name": null,
+      "tripsit_name": "mdpv",
+      "dist": 8.9216757517
+    },
+    {
+      "name": "psyc_mdphp",
+      "psychonaut_name": null,
+      "tripsit_name": "mdphp",
+      "dist": 10.5928857501
+    },
+    {
+      "name": "psyc_5-bpdi",
+      "psychonaut_name": null,
+      "tripsit_name": "5-bpdi",
+      "dist": 10.6698298135
+    },
+    {
+      "name": "psyc_5-ppdi",
+      "psychonaut_name": null,
+      "tripsit_name": "5-ppdi",
+      "dist": 11.2933909846
+    },
+    {
+      "name": "psyc_th-pvp",
+      "psychonaut_name": null,
+      "tripsit_name": "th-pvp",
+      "dist": 11.3831368991
+    },
+    {
+      "name": "psyc_4f-php",
+      "psychonaut_name": null,
+      "tripsit_name": "4f-php",
+      "dist": 14.953491334
+    },
+    {
+      "name": "psyc_4f-pvp",
+      "psychonaut_name": null,
+      "tripsit_name": "4f-pvp",
+      "dist": 15.3456095328
+    },
+    {
+      "name": "trip_A-PHP",
+      "psychonaut_name": "A-PHP",
+      "tripsit_name": null,
+      "dist": 17.303055263
+    }
+  ]
+}

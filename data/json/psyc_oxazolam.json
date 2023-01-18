@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C18H17ClN2O2/c1-12-10-21-11-17(22)20-16-8-7-14(19)9-15(16)18(21,23-12)13-5-3-2-4-6-13/h2-9,12H,10-11H2,1H3,(H,20,22)",
+  "psychonaut_name": null,
+  "tripsit_name": "oxazolam",
+  "synonyms": null,
+  "distances": [
+    2.6974e-06,
+    13.902243322,
+    14.0381201426,
+    22.907511636,
+    24.8556341957,
+    26.0381647385,
+    26.4778534098,
+    26.5618474185,
+    26.5618474185,
+    26.6430889165
+  ],
+  "indices": [
+    736,
+    622,
+    689,
+    490,
+    839,
+    495,
+    486,
+    695,
+    304,
+    545
+  ],
+  "name": "psyc_oxazolam",
+  "svg": "psyc_oxazolam.svg",
+  "sim": [
+    {
+      "name": "psyc_oxazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "oxazolam",
+      "dist": 2.6974e-06
+    },
+    {
+      "name": "psyc_cloxazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "cloxazolam",
+      "dist": 13.902243322
+    },
+    {
+      "name": "psyc_mexazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "mexazolam",
+      "dist": 14.0381201426
+    },
+    {
+      "name": "psyc_homomazindol",
+      "psychonaut_name": null,
+      "tripsit_name": "homomazindol",
+      "dist": 22.907511636
+    },
+    {
+      "name": "psyc_flutazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "flutazolam",
+      "dist": 24.8556341957
+    },
+    {
+      "name": "psyc_ketazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "ketazolam",
+      "dist": 26.0381647385
+    },
+    {
+      "name": "psyc_prazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "prazepam",
+      "dist": 26.4778534098
+    },
+    {
+      "name": "psyc_temazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "temazepam",
+      "dist": 26.5618474185
+    },
+    {
+      "name": "trip_Temazepam",
+      "psychonaut_name": "Temazepam",
+      "tripsit_name": null,
+      "dist": 26.5618474185
+    },
+    {
+      "name": "psyc_lormetazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "lormetazepam",
+      "dist": 26.6430889165
+    }
+  ]
+}

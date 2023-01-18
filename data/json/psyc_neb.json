@@ -1,0 +1,96 @@
+{
+  "inchi": "InChI=1S/C12H17NO/c1-3-11(13-4-2)12(14)10-8-6-5-7-9-10/h5-9,11,13H,3-4H2,1-2H3",
+  "psychonaut_name": null,
+  "tripsit_name": "neb",
+  "synonyms": [
+    "n-ethylbuphedrone"
+  ],
+  "distances": [
+    1.3487e-06,
+    7.3651530591,
+    7.9876267592,
+    7.9876267592,
+    8.494517634,
+    9.6143244209,
+    9.6143244209,
+    9.8876254338,
+    9.9252524087,
+    10.2429487584
+  ],
+  "indices": [
+    680,
+    244,
+    808,
+    156,
+    825,
+    265,
+    633,
+    339,
+    372,
+    389
+  ],
+  "name": "psyc_neb",
+  "svg": "psyc_neb.svg",
+  "sim": [
+    {
+      "name": "psyc_neb",
+      "psychonaut_name": null,
+      "tripsit_name": "neb",
+      "dist": 1.3487e-06
+    },
+    {
+      "name": "trip_NEP",
+      "psychonaut_name": "NEP",
+      "tripsit_name": null,
+      "dist": 7.3651530591
+    },
+    {
+      "name": "psyc_ethylcathinone",
+      "psychonaut_name": null,
+      "tripsit_name": "ethylcathinone",
+      "dist": 7.9876267592
+    },
+    {
+      "name": "trip_ETH-CAT",
+      "psychonaut_name": "ETH-CAT",
+      "tripsit_name": null,
+      "dist": 7.9876267592
+    },
+    {
+      "name": "psyc_4f-neb",
+      "psychonaut_name": null,
+      "tripsit_name": "4f-neb",
+      "dist": 8.494517634
+    },
+    {
+      "name": "trip_Pentedrone",
+      "psychonaut_name": "Pentedrone",
+      "tripsit_name": null,
+      "dist": 9.6143244209
+    },
+    {
+      "name": "psyc_pentedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "pentedrone",
+      "dist": 9.6143244209
+    },
+    {
+      "name": "psyc_2-mec",
+      "psychonaut_name": null,
+      "tripsit_name": "2-mec",
+      "dist": 9.8876254338
+    },
+    {
+      "name": "psyc_buphedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "buphedrone",
+      "dist": 9.9252524087
+    },
+    {
+      "name": "psyc_3-mec",
+      "psychonaut_name": null,
+      "tripsit_name": "3-mec",
+      "dist": 10.2429487584
+    }
+  ]
+}

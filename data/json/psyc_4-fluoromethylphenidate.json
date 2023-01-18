@@ -1,0 +1,100 @@
+{
+  "inchi": "InChI=1S/C14H18FNO2/c1-18-14(17)13(12-4-2-3-9-16-12)10-5-7-11(15)8-6-10/h5-8,12-13,16H,2-4,9H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "4-fluoromethylphenidate",
+  "synonyms": [
+    "4f-mph",
+    "4-fmph",
+    "4fmph",
+    "4-fl-mph",
+    "4-fluoro-mph"
+  ],
+  "distances": [
+    2.336e-06,
+    2.336e-06,
+    8.142048014,
+    8.291845374,
+    8.4945189812,
+    8.4945189812,
+    8.9217681077,
+    8.9217681077,
+    11.858085713,
+    11.858085713
+  ],
+  "indices": [
+    75,
+    780,
+    360,
+    672,
+    427,
+    231,
+    74,
+    751,
+    504,
+    167
+  ],
+  "name": "psyc_4-fluoromethylphenidate",
+  "svg": "psyc_4-fluoromethylphenidate.svg",
+  "sim": [
+    {
+      "name": "trip_4F-MPH",
+      "psychonaut_name": "4F-MPH",
+      "tripsit_name": null,
+      "dist": 2.336e-06
+    },
+    {
+      "name": "psyc_4-fluoromethylphenidate",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fluoromethylphenidate",
+      "dist": 2.336e-06
+    },
+    {
+      "name": "psyc_4-methylmethylphenidate",
+      "psychonaut_name": null,
+      "tripsit_name": "4-methylmethylphenidate",
+      "dist": 8.142048014
+    },
+    {
+      "name": "psyc_focalin",
+      "psychonaut_name": null,
+      "tripsit_name": "focalin",
+      "dist": 8.291845374
+    },
+    {
+      "name": "psyc_methylphenidate",
+      "psychonaut_name": null,
+      "tripsit_name": "methylphenidate",
+      "dist": 8.4945189812
+    },
+    {
+      "name": "trip_Methylphenidate",
+      "psychonaut_name": "Methylphenidate",
+      "tripsit_name": null,
+      "dist": 8.4945189812
+    },
+    {
+      "name": "trip_4F-EPH",
+      "psychonaut_name": "4F-EPH",
+      "tripsit_name": null,
+      "dist": 8.9217681077
+    },
+    {
+      "name": "psyc_4-fluoroethylphenidate",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fluoroethylphenidate",
+      "dist": 8.9217681077
+    },
+    {
+      "name": "psyc_ethylphenidate",
+      "psychonaut_name": null,
+      "tripsit_name": "ethylphenidate",
+      "dist": 11.858085713
+    },
+    {
+      "name": "trip_Ethylphenidate",
+      "psychonaut_name": "Ethylphenidate",
+      "tripsit_name": null,
+      "dist": 11.858085713
+    }
+  ]
+}

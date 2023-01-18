@@ -1,0 +1,128 @@
+{
+  "inchi": "InChI=1S/C12H19NO2S/c1-4-16-12-8-10(14-2)9(5-6-13)7-11(12)15-3/h7-8H,4-6,13H2,1-3H3",
+  "psychonaut_name": "2C-T-2",
+  "tripsit_name": null,
+  "synonyms": [
+    "J-507656",
+    "DTXSID40174850",
+    "2-[4-(ethylthio)-2,5-dimethoxyphenyl]ethanamine",
+    "AC-12553",
+    "SCHEMBL1077737",
+    "4-Ethylthio-2,5-dimethoxyphenethylamine",
+    "2,5-DIMETHOXY-4-ETHYLTHIOPHENYLAMINE",
+    "FT-0643939",
+    "Rosy [Street Name]",
+    "ZINC2513912",
+    "Q2443432",
+    "DEA No. 7385",
+    "2,5-dimethoxy-4-ethylthiophenethylamine",
+    "2-(4-ethylsulfanyl-2,5-dimethoxy-phenyl)ethanamine",
+    "2,5-Dimethoxy-4-ethylthiophenethylamine",
+    "4-ETHYLTHIO-2,5-DIMETHOXY-.BETA.-PHENETHYLAMINE",
+    "AKOS015888164",
+    "207740-24-7",
+    "J1.114.642B",
+    "A814870",
+    "2,5-Dimetoxy-4-ethylthiophenethlamine",
+    "2,5-Dimethoxy-4-(ethylthio)phenethylamine",
+    "CHEMBL339223",
+    "AB16675",
+    "Benzeneethanamine, 4-(ethylthio)-2,5-dimethoxy-",
+    "UNII-WPS2KSX2TJ",
+    "2C-T2",
+    "2C-T-2",
+    "2-(4-(ethylthio)-2,5-dimethoxyphenyl)ethan-1-amine",
+    "740D247",
+    "2-(4-ethylsulfanyl-2,5-dimethoxyphenyl)ethanamine",
+    "2,5-Dimethoxy-4-(ethylthio) phenethylamine",
+    "WPS2KSX2TJ"
+  ],
+  "distances": [
+    0.0,
+    0.0,
+    7.9594236363,
+    7.9594236363,
+    9.4716522503,
+    9.4716522503,
+    11.0045974834,
+    11.0045974834,
+    11.7389389895,
+    11.9067017477
+  ],
+  "indices": [
+    461,
+    36,
+    38,
+    729,
+    35,
+    402,
+    756,
+    31,
+    791,
+    34
+  ],
+  "name": "trip_2C-T-2",
+  "svg": "trip_2C-T-2.svg",
+  "sim": [
+    {
+      "name": "psyc_2c-t-2",
+      "psychonaut_name": null,
+      "tripsit_name": "2c-t-2",
+      "dist": 0.0
+    },
+    {
+      "name": "trip_2C-T-2",
+      "psychonaut_name": "2C-T-2",
+      "tripsit_name": null,
+      "dist": 0.0
+    },
+    {
+      "name": "trip_2C-T-7",
+      "psychonaut_name": "2C-T-7",
+      "tripsit_name": null,
+      "dist": 7.9594236363
+    },
+    {
+      "name": "psyc_2c-t-7",
+      "psychonaut_name": null,
+      "tripsit_name": "2c-t-7",
+      "dist": 7.9594236363
+    },
+    {
+      "name": "trip_2C-T",
+      "psychonaut_name": "2C-T",
+      "tripsit_name": null,
+      "dist": 9.4716522503
+    },
+    {
+      "name": "psyc_2c-t",
+      "psychonaut_name": null,
+      "tripsit_name": "2c-t",
+      "dist": 9.4716522503
+    },
+    {
+      "name": "psyc_2c-e",
+      "psychonaut_name": null,
+      "tripsit_name": "2c-e",
+      "dist": 11.0045974834
+    },
+    {
+      "name": "trip_2C-E",
+      "psychonaut_name": "2C-E",
+      "tripsit_name": null,
+      "dist": 11.0045974834
+    },
+    {
+      "name": "psyc_hot-2",
+      "psychonaut_name": null,
+      "tripsit_name": "hot-2",
+      "dist": 11.7389389895
+    },
+    {
+      "name": "trip_2C-P",
+      "psychonaut_name": "2C-P",
+      "tripsit_name": null,
+      "dist": 11.9067017477
+    }
+  ]
+}

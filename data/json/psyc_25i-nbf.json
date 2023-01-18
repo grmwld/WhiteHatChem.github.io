@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C17H19FINO2/c1-21-16-10-15(19)17(22-2)9-12(16)7-8-20-11-13-5-3-4-6-14(13)18/h3-6,9-10,20H,7-8,11H2,1-2H3",
+  "psychonaut_name": null,
+  "tripsit_name": "25i-nbf",
+  "synonyms": null,
+  "distances": [
+    2.336e-06,
+    9.3357139912,
+    9.3357139912,
+    11.3626460806,
+    11.3626460806,
+    13.4124283503,
+    13.4124283503,
+    13.9316689649,
+    13.9316689649,
+    15.3926875403
+  ],
+  "indices": [
+    696,
+    657,
+    24,
+    742,
+    25,
+    19,
+    505,
+    17,
+    503,
+    23
+  ],
+  "name": "psyc_25i-nbf",
+  "svg": "psyc_25i-nbf.svg",
+  "sim": [
+    {
+      "name": "psyc_25i-nbf",
+      "psychonaut_name": null,
+      "tripsit_name": "25i-nbf",
+      "dist": 2.336e-06
+    },
+    {
+      "name": "psyc_25i-nboh",
+      "psychonaut_name": null,
+      "tripsit_name": "25i-nboh",
+      "dist": 9.3357139912
+    },
+    {
+      "name": "trip_25I-NBOH",
+      "psychonaut_name": "25I-NBOH",
+      "tripsit_name": null,
+      "dist": 9.3357139912
+    },
+    {
+      "name": "psyc_25i-nbome",
+      "psychonaut_name": null,
+      "tripsit_name": "25i-nbome",
+      "dist": 11.3626460806
+    },
+    {
+      "name": "trip_25I-NBOMe",
+      "psychonaut_name": "25I-NBOMe",
+      "tripsit_name": null,
+      "dist": 11.3626460806
+    },
+    {
+      "name": "trip_25C-NBOH",
+      "psychonaut_name": "25C-NBOH",
+      "tripsit_name": null,
+      "dist": 13.4124283503
+    },
+    {
+      "name": "psyc_25c-nboh",
+      "psychonaut_name": null,
+      "tripsit_name": "25c-nboh",
+      "dist": 13.4124283503
+    },
+    {
+      "name": "trip_25B-NBOH",
+      "psychonaut_name": "25B-NBOH",
+      "tripsit_name": null,
+      "dist": 13.9316689649
+    },
+    {
+      "name": "psyc_25b-nboh",
+      "psychonaut_name": null,
+      "tripsit_name": "25b-nboh",
+      "dist": 13.9316689649
+    },
+    {
+      "name": "trip_25H-NBOMe",
+      "psychonaut_name": "25H-NBOMe",
+      "tripsit_name": null,
+      "dist": 15.3926875403
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "inchi": "InChI=1S/C15H10ClN3O3/c16-12-4-2-1-3-10(12)15-11-7-9(19(21)22)5-6-13(11)18-14(20)8-17-15/h1-7H,8H2,(H,18,20)",
+  "psychonaut_name": null,
+  "tripsit_name": "clonazepam",
+  "synonyms": [
+    "klonopin",
+    "kpin"
+  ],
+  "distances": [
+    1.9073e-06,
+    1.9073e-06,
+    6.8041518271,
+    7.6013103259,
+    13.6361217778,
+    17.3993004669,
+    17.4806874113,
+    17.4806874113,
+    17.5592859117,
+    17.6615580724
+  ],
+  "indices": [
+    400,
+    124,
+    774,
+    498,
+    559,
+    712,
+    248,
+    779,
+    725,
+    269
+  ],
+  "name": "psyc_clonazepam",
+  "svg": "psyc_clonazepam.svg",
+  "sim": [
+    {
+      "name": "psyc_clonazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "clonazepam",
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "trip_Clonazepam",
+      "psychonaut_name": "Clonazepam",
+      "tripsit_name": null,
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "psyc_desmethylflunitrazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "desmethylflunitrazepam",
+      "dist": 6.8041518271
+    },
+    {
+      "name": "psyc_nitrazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "nitrazepam",
+      "dist": 7.6013103259
+    },
+    {
+      "name": "psyc_meclonazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "meclonazepam",
+      "dist": 13.6361217778
+    },
+    {
+      "name": "psyc_nimetazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "nimetazepam",
+      "dist": 17.3993004669
+    },
+    {
+      "name": "trip_Nifoxipam",
+      "psychonaut_name": "Nifoxipam",
+      "tripsit_name": null,
+      "dist": 17.4806874113
+    },
+    {
+      "name": "psyc_nifoxipam",
+      "psychonaut_name": null,
+      "tripsit_name": "nifoxipam",
+      "dist": 17.4806874113
+    },
+    {
+      "name": "psyc_delorazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "delorazepam",
+      "dist": 17.5592859117
+    },
+    {
+      "name": "trip_Phenazepam",
+      "psychonaut_name": "Phenazepam",
+      "tripsit_name": null,
+      "dist": 17.6615580724
+    }
+  ]
+}

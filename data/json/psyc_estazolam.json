@@ -1,0 +1,98 @@
+{
+  "inchi": "InChI=1S/C16H11ClN4/c17-12-6-7-14-13(8-12)16(11-4-2-1-3-5-11)18-9-15-20-19-10-21(14)15/h1-8,10H,9H2",
+  "psychonaut_name": null,
+  "tripsit_name": "estazolam",
+  "synonyms": [
+    "prosom",
+    "eurodin",
+    "elprazolam"
+  ],
+  "distances": [
+    3.5683e-06,
+    9.969516067,
+    9.969516067,
+    13.0633836657,
+    13.0633836657,
+    13.3193456394,
+    13.3193456394,
+    13.4950015387,
+    13.4950015387,
+    14.6972893739
+  ],
+  "indices": [
+    787,
+    103,
+    378,
+    111,
+    664,
+    312,
+    691,
+    173,
+    738,
+    286
+  ],
+  "name": "psyc_estazolam",
+  "svg": "psyc_estazolam.svg",
+  "sim": [
+    {
+      "name": "psyc_estazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "estazolam",
+      "dist": 3.5683e-06
+    },
+    {
+      "name": "trip_Alprazolam",
+      "psychonaut_name": "Alprazolam",
+      "tripsit_name": null,
+      "dist": 9.969516067
+    },
+    {
+      "name": "psyc_alprazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "alprazolam",
+      "dist": 9.969516067
+    },
+    {
+      "name": "trip_Bromazolam",
+      "psychonaut_name": "Bromazolam",
+      "tripsit_name": null,
+      "dist": 13.0633836657
+    },
+    {
+      "name": "psyc_bromazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "bromazolam",
+      "dist": 13.0633836657
+    },
+    {
+      "name": "trip_Triazolam",
+      "psychonaut_name": "Triazolam",
+      "tripsit_name": null,
+      "dist": 13.3193456394
+    },
+    {
+      "name": "psyc_triazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "triazolam",
+      "dist": 13.3193456394
+    },
+    {
+      "name": "trip_Flualprazolam",
+      "psychonaut_name": "Flualprazolam",
+      "tripsit_name": null,
+      "dist": 13.4950015387
+    },
+    {
+      "name": "psyc_flualprazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "flualprazolam",
+      "dist": 13.4950015387
+    },
+    {
+      "name": "trip_Pyrazolam",
+      "psychonaut_name": "Pyrazolam",
+      "tripsit_name": null,
+      "dist": 14.6972893739
+    }
+  ]
+}

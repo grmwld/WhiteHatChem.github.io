@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C12H15NO3/c1-8(13(2)3)12(14)9-4-5-10-11(6-9)16-7-15-10/h4-6,8H,7H2,1-3H3",
+  "psychonaut_name": null,
+  "tripsit_name": "dimethylone",
+  "synonyms": null,
+  "distances": [
+    1.6518e-06,
+    8.5305707612,
+    15.2850753895,
+    15.809478833,
+    15.809478833,
+    16.182245882,
+    16.182245882,
+    17.2563712475,
+    17.2563712475,
+    19.0543727872
+  ],
+  "indices": [
+    452,
+    573,
+    744,
+    166,
+    700,
+    230,
+    460,
+    531,
+    115,
+    169
+  ],
+  "name": "psyc_dimethylone",
+  "svg": "psyc_dimethylone.svg",
+  "sim": [
+    {
+      "name": "psyc_dimethylone",
+      "psychonaut_name": null,
+      "tripsit_name": "dimethylone",
+      "dist": 1.6518e-06
+    },
+    {
+      "name": "psyc_dibutylone",
+      "psychonaut_name": null,
+      "tripsit_name": "dibutylone",
+      "dist": 8.5305707612
+    },
+    {
+      "name": "psyc_eflea",
+      "psychonaut_name": null,
+      "tripsit_name": "eflea",
+      "dist": 15.2850753895
+    },
+    {
+      "name": "trip_Ethylone",
+      "psychonaut_name": "Ethylone",
+      "tripsit_name": null,
+      "dist": 15.809478833
+    },
+    {
+      "name": "psyc_ethylone",
+      "psychonaut_name": null,
+      "tripsit_name": "ethylone",
+      "dist": 15.809478833
+    },
+    {
+      "name": "trip_Methylone",
+      "psychonaut_name": "Methylone",
+      "tripsit_name": null,
+      "dist": 16.182245882
+    },
+    {
+      "name": "psyc_methylone",
+      "psychonaut_name": null,
+      "tripsit_name": "methylone",
+      "dist": 16.182245882
+    },
+    {
+      "name": "psyc_butylone",
+      "psychonaut_name": null,
+      "tripsit_name": "butylone",
+      "dist": 17.2563712475
+    },
+    {
+      "name": "trip_Butylone",
+      "psychonaut_name": "Butylone",
+      "tripsit_name": null,
+      "dist": 17.2563712475
+    },
+    {
+      "name": "trip_Eutylone",
+      "psychonaut_name": "Eutylone",
+      "tripsit_name": null,
+      "dist": 19.0543727872
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "inchi": "InChI=1S/C10H15N/c1-9(11-2)8-10-6-4-3-5-7-10/h3-7,9,11H,8H2,1-2H3",
+  "psychonaut_name": "Methamphetamine",
+  "tripsit_name": null,
+  "synonyms": [
+    "MA",
+    "Methamphetamine"
+  ],
+  "distances": [
+    1.5079e-06,
+    1.5079e-06,
+    7.9459601544,
+    8.3042368726,
+    8.3042368726,
+    8.4945185321,
+    8.4945185321,
+    8.5037456562,
+    8.5037456562,
+    10.6638947303
+  ],
+  "indices": [
+    223,
+    684,
+    508,
+    14,
+    638,
+    62,
+    698,
+    344,
+    44,
+    225
+  ],
+  "name": "trip_Methamphetamine",
+  "svg": "trip_Methamphetamine.svg",
+  "sim": [
+    {
+      "name": "trip_Methamphetamine",
+      "psychonaut_name": "Methamphetamine",
+      "tripsit_name": null,
+      "dist": 1.5079e-06
+    },
+    {
+      "name": "psyc_methamphetamine",
+      "psychonaut_name": null,
+      "tripsit_name": "methamphetamine",
+      "dist": 1.5079e-06
+    },
+    {
+      "name": "psyc_4-cma",
+      "psychonaut_name": null,
+      "tripsit_name": "4-cma",
+      "dist": 7.9459601544
+    },
+    {
+      "name": "trip_2-FMA",
+      "psychonaut_name": "2-FMA",
+      "tripsit_name": null,
+      "dist": 8.3042368726
+    },
+    {
+      "name": "psyc_2-fma",
+      "psychonaut_name": null,
+      "tripsit_name": "2-fma",
+      "dist": 8.3042368726
+    },
+    {
+      "name": "trip_4-FMA",
+      "psychonaut_name": "4-FMA",
+      "tripsit_name": null,
+      "dist": 8.4945185321
+    },
+    {
+      "name": "psyc_4-fma",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fma",
+      "dist": 8.4945185321
+    },
+    {
+      "name": "psyc_3-fma",
+      "psychonaut_name": null,
+      "tripsit_name": "3-fma",
+      "dist": 8.5037456562
+    },
+    {
+      "name": "trip_3-FMA",
+      "psychonaut_name": "3-FMA",
+      "tripsit_name": null,
+      "dist": 8.5037456562
+    },
+    {
+      "name": "trip_Methcathinone",
+      "psychonaut_name": "Methcathinone",
+      "tripsit_name": null,
+      "dist": 10.6638947303
+    }
+  ]
+}

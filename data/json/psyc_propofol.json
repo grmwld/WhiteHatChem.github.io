@@ -1,0 +1,97 @@
+{
+  "inchi": "InChI=1S/C12H18O/c1-8(2)10-6-5-7-11(9(3)4)12(10)13/h5-9,13H,1-4H3",
+  "psychonaut_name": null,
+  "tripsit_name": "propofol",
+  "synonyms": [
+    "milk-of-amnesia",
+    "diprivan"
+  ],
+  "distances": [
+    0.0,
+    20.6905600137,
+    21.149692167,
+    21.1509301669,
+    21.2346085402,
+    21.5833741805,
+    21.7152326851,
+    21.7152326851,
+    21.7248691638,
+    21.7248691638
+  ],
+  "indices": [
+    844,
+    758,
+    447,
+    690,
+    465,
+    262,
+    377,
+    48,
+    16,
+    580
+  ],
+  "name": "psyc_propofol",
+  "svg": "psyc_propofol.svg",
+  "sim": [
+    {
+      "name": "psyc_propofol",
+      "psychonaut_name": null,
+      "tripsit_name": "propofol",
+      "dist": 0.0
+    },
+    {
+      "name": "psyc_ibuprofen",
+      "psychonaut_name": null,
+      "tripsit_name": "ibuprofen",
+      "dist": 20.6905600137
+    },
+    {
+      "name": "psyc_4-cic",
+      "psychonaut_name": null,
+      "tripsit_name": "4-cic",
+      "dist": 21.149692167
+    },
+    {
+      "name": "psyc_mpa",
+      "psychonaut_name": null,
+      "tripsit_name": "mpa",
+      "dist": 21.1509301669
+    },
+    {
+      "name": "psyc_2-nmc",
+      "psychonaut_name": null,
+      "tripsit_name": "2-nmc",
+      "dist": 21.2346085402
+    },
+    {
+      "name": "trip_PMMA",
+      "psychonaut_name": "PMMA",
+      "tripsit_name": null,
+      "dist": 21.5833741805
+    },
+    {
+      "name": "psyc_3-mmc",
+      "psychonaut_name": null,
+      "tripsit_name": "3-mmc",
+      "dist": 21.7152326851
+    },
+    {
+      "name": "trip_3-MMC",
+      "psychonaut_name": "3-MMC",
+      "tripsit_name": null,
+      "dist": 21.7152326851
+    },
+    {
+      "name": "trip_2-MMC",
+      "psychonaut_name": "2-MMC",
+      "tripsit_name": null,
+      "dist": 21.7248691638
+    },
+    {
+      "name": "psyc_2-mmc",
+      "psychonaut_name": null,
+      "tripsit_name": "2-mmc",
+      "dist": 21.7248691638
+    }
+  ]
+}

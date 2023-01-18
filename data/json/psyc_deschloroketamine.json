@@ -1,0 +1,101 @@
+{
+  "inchi": "InChI=1S/C13H17NO/c1-14-13(10-6-5-9-12(13)15)11-7-3-2-4-8-11/h2-4,7-8,14H,5-6,9-10H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "deschloroketamine",
+  "synonyms": [
+    "2'-oxo-pcm",
+    "dxe",
+    "dck",
+    "o-pcm",
+    "opcm",
+    "2-oxo-pcm"
+  ],
+  "distances": [
+    1.3487e-06,
+    1.3487e-06,
+    8.0729401881,
+    8.0729401881,
+    8.5598880097,
+    8.5598880097,
+    10.0541411565,
+    10.0541411565,
+    11.9728856524,
+    12.3128482363
+  ],
+  "indices": [
+    730,
+    141,
+    196,
+    590,
+    15,
+    510,
+    517,
+    251,
+    599,
+    671
+  ],
+  "name": "psyc_deschloroketamine",
+  "svg": "psyc_deschloroketamine.svg",
+  "sim": [
+    {
+      "name": "psyc_deschloroketamine",
+      "psychonaut_name": null,
+      "tripsit_name": "deschloroketamine",
+      "dist": 1.3487e-06
+    },
+    {
+      "name": "trip_Deschloroketamine",
+      "psychonaut_name": "Deschloroketamine",
+      "tripsit_name": null,
+      "dist": 1.3487e-06
+    },
+    {
+      "name": "trip_Ketamine",
+      "psychonaut_name": "Ketamine",
+      "tripsit_name": null,
+      "dist": 8.0729401881
+    },
+    {
+      "name": "psyc_ketamine",
+      "psychonaut_name": null,
+      "tripsit_name": "ketamine",
+      "dist": 8.0729401881
+    },
+    {
+      "name": "trip_2-Fluorodeschloroketamine",
+      "psychonaut_name": "2-Fluorodeschloroketamine",
+      "tripsit_name": null,
+      "dist": 8.5598880097
+    },
+    {
+      "name": "psyc_2-fdck",
+      "psychonaut_name": null,
+      "tripsit_name": "2-fdck",
+      "dist": 8.5598880097
+    },
+    {
+      "name": "psyc_o-pce",
+      "psychonaut_name": null,
+      "tripsit_name": "o-pce",
+      "dist": 10.0541411565
+    },
+    {
+      "name": "trip_O-PCE",
+      "psychonaut_name": "O-PCE",
+      "tripsit_name": null,
+      "dist": 10.0541411565
+    },
+    {
+      "name": "psyc_mxm",
+      "psychonaut_name": null,
+      "tripsit_name": "mxm",
+      "dist": 11.9728856524
+    },
+    {
+      "name": "psyc_methoxyketamine",
+      "psychonaut_name": null,
+      "tripsit_name": "methoxyketamine",
+      "dist": 12.3128482363
+    }
+  ]
+}

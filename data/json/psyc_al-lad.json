@@ -1,0 +1,96 @@
+{
+  "inchi": "InChI=1S/C22H27N3O/c1-4-10-25-14-16(22(26)24(5-2)6-3)11-18-17-8-7-9-19-21(17)15(13-23-19)12-20(18)25/h4,7-9,11,13,16,20,23H,1,5-6,10,12,14H2,2-3H3/t16-,20-/m1/s1",
+  "psychonaut_name": null,
+  "tripsit_name": "al-lad",
+  "synonyms": [
+    "allad"
+  ],
+  "distances": [
+    2.6974e-06,
+    2.6974e-06,
+    17.0886771923,
+    17.0886771923,
+    17.9136544941,
+    17.9136544941,
+    19.5342200867,
+    19.5342200867,
+    19.5342200867,
+    23.9671991635
+  ],
+  "indices": [
+    624,
+    94,
+    704,
+    157,
+    264,
+    468,
+    199,
+    722,
+    191,
+    258
+  ],
+  "name": "psyc_al-lad",
+  "svg": "psyc_al-lad.svg",
+  "sim": [
+    {
+      "name": "psyc_al-lad",
+      "psychonaut_name": null,
+      "tripsit_name": "al-lad",
+      "dist": 2.6974e-06
+    },
+    {
+      "name": "trip_AL-LAD",
+      "psychonaut_name": "AL-LAD",
+      "tripsit_name": null,
+      "dist": 2.6974e-06
+    },
+    {
+      "name": "psyc_eth-lad",
+      "psychonaut_name": null,
+      "tripsit_name": "eth-lad",
+      "dist": 17.0886771923
+    },
+    {
+      "name": "trip_ETH-LAD",
+      "psychonaut_name": "ETH-LAD",
+      "tripsit_name": null,
+      "dist": 17.0886771923
+    },
+    {
+      "name": "trip_PRO-LAD",
+      "psychonaut_name": "PRO-LAD",
+      "tripsit_name": null,
+      "dist": 17.9136544941
+    },
+    {
+      "name": "psyc_pro-lad",
+      "psychonaut_name": null,
+      "tripsit_name": "pro-lad",
+      "dist": 17.9136544941
+    },
+    {
+      "name": "trip_LSD",
+      "psychonaut_name": "LSD",
+      "tripsit_name": null,
+      "dist": 19.5342200867
+    },
+    {
+      "name": "psyc_lsd",
+      "psychonaut_name": null,
+      "tripsit_name": "lsd",
+      "dist": 19.5342200867
+    },
+    {
+      "name": "trip_Iso-LSD",
+      "psychonaut_name": "Iso-LSD",
+      "tripsit_name": null,
+      "dist": 19.5342200867
+    },
+    {
+      "name": "trip_PARGY-LAD",
+      "psychonaut_name": "PARGY-LAD",
+      "tripsit_name": null,
+      "dist": 23.9671991635
+    }
+  ]
+}

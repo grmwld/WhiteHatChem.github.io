@@ -1,0 +1,112 @@
+{
+  "inchi": "InChI=1S/C14H21NO/c1-3-5-11-13(15-4-2)14(16)12-9-7-6-8-10-12/h6-10,13,15H,3-5,11H2,1-2H3",
+  "psychonaut_name": "N-Ethylhexedrone",
+  "tripsit_name": null,
+  "synonyms": [
+    "hex-en",
+    "Ethyl-hexedrone",
+    "DTXSID101018398",
+    "NEH",
+    "N-ethyl-Hexedrone",
+    "1-Hexanone, 2-(ethylamino)-1-phenyl-",
+    "alpha-ethylaminohexanophenone",
+    "Hexanophenone, 2-(ethylamino)-",
+    "2-(ethylamino)-1-phenylhexan-1-one",
+    "TAX3KSX6GY",
+    "802857-66-5",
+    "Ethyl-hex",
+    "Hexen",
+    "UNII-TAX3KSX6GY",
+    "N-Ethylhexedrone",
+    "CHEBI:183759",
+    "hexen"
+  ],
+  "distances": [
+    1.9073e-06,
+    1.9073e-06,
+    5.8999270548,
+    9.9252520243,
+    9.9252520243,
+    10.5859158787,
+    10.5859158787,
+    11.1782399646,
+    12.611387865,
+    13.8195572858
+  ],
+  "indices": [
+    493,
+    242,
+    244,
+    549,
+    187,
+    375,
+    718,
+    361,
+    680,
+    655
+  ],
+  "name": "trip_N-Ethylhexedrone",
+  "svg": "trip_N-Ethylhexedrone.svg",
+  "sim": [
+    {
+      "name": "psyc_hexen",
+      "psychonaut_name": null,
+      "tripsit_name": "hexen",
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "trip_N-Ethylhexedrone",
+      "psychonaut_name": "N-Ethylhexedrone",
+      "tripsit_name": null,
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "trip_NEP",
+      "psychonaut_name": "NEP",
+      "tripsit_name": null,
+      "dist": 5.8999270548
+    },
+    {
+      "name": "psyc_hexedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "hexedrone",
+      "dist": 9.9252520243
+    },
+    {
+      "name": "trip_Hexedrone",
+      "psychonaut_name": "Hexedrone",
+      "tripsit_name": null,
+      "dist": 9.9252520243
+    },
+    {
+      "name": "psyc_4-epd",
+      "psychonaut_name": null,
+      "tripsit_name": "4-epd",
+      "dist": 10.5859158787
+    },
+    {
+      "name": "psyc_ethyl-pentedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "ethyl-pentedrone",
+      "dist": 10.5859158787
+    },
+    {
+      "name": "psyc_4-cbc",
+      "psychonaut_name": null,
+      "tripsit_name": "4-cbc",
+      "dist": 11.1782399646
+    },
+    {
+      "name": "psyc_neb",
+      "psychonaut_name": null,
+      "tripsit_name": "neb",
+      "dist": 12.611387865
+    },
+    {
+      "name": "psyc_4-mpd",
+      "psychonaut_name": null,
+      "tripsit_name": "4-mpd",
+      "dist": 13.8195572858
+    }
+  ]
+}

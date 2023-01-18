@@ -1,0 +1,96 @@
+{
+  "inchi": "InChI=1S/C15H11BrN2O/c1-10-17-13-8-4-2-6-11(13)15(19)18(10)14-9-5-3-7-12(14)16/h2-9H,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "mebroqualone",
+  "synonyms": [
+    "mbq"
+  ],
+  "distances": [
+    3.0158e-06,
+    3.0158e-06,
+    8.8242978603,
+    8.8242978603,
+    8.8242978603,
+    13.7047645693,
+    16.4036930671,
+    19.6210132607,
+    19.6210132607,
+    20.4035526847
+  ],
+  "indices": [
+    798,
+    215,
+    647,
+    369,
+    224,
+    330,
+    710,
+    664,
+    111,
+    600
+  ],
+  "name": "psyc_mebroqualone",
+  "svg": "psyc_mebroqualone.svg",
+  "sim": [
+    {
+      "name": "psyc_mebroqualone",
+      "psychonaut_name": null,
+      "tripsit_name": "mebroqualone",
+      "dist": 3.0158e-06
+    },
+    {
+      "name": "trip_Mebroqualone",
+      "psychonaut_name": "Mebroqualone",
+      "tripsit_name": null,
+      "dist": 3.0158e-06
+    },
+    {
+      "name": "psyc_methaqualone",
+      "psychonaut_name": null,
+      "tripsit_name": "methaqualone",
+      "dist": 8.8242978603
+    },
+    {
+      "name": "psyc_ethaqualone",
+      "psychonaut_name": null,
+      "tripsit_name": "ethaqualone",
+      "dist": 8.8242978603
+    },
+    {
+      "name": "trip_Methaqualone",
+      "psychonaut_name": "Methaqualone",
+      "tripsit_name": null,
+      "dist": 8.8242978603
+    },
+    {
+      "name": "psyc_methylmethaqualone",
+      "psychonaut_name": null,
+      "tripsit_name": "methylmethaqualone",
+      "dist": 13.7047645693
+    },
+    {
+      "name": "psyc_afloqualone",
+      "psychonaut_name": null,
+      "tripsit_name": "afloqualone",
+      "dist": 16.4036930671
+    },
+    {
+      "name": "psyc_bromazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "bromazolam",
+      "dist": 19.6210132607
+    },
+    {
+      "name": "trip_Bromazolam",
+      "psychonaut_name": "Bromazolam",
+      "tripsit_name": null,
+      "dist": 19.6210132607
+    },
+    {
+      "name": "psyc_diazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "diazepam",
+      "dist": 20.4035526847
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C12H17NO/c1-12(2)9-14-11(8-13-12)10-6-4-3-5-7-10/h3-7,11,13H,8-9H2,1-2H3",
+  "psychonaut_name": null,
+  "tripsit_name": "g-130",
+  "synonyms": null,
+  "distances": [
+    1.9073e-06,
+    16.1432065866,
+    18.3314872968,
+    18.3314872968,
+    19.2198670598,
+    19.352968352,
+    19.352968352,
+    19.4877515619,
+    19.743203068,
+    19.8317177165
+  ],
+  "indices": [
+    761,
+    477,
+    706,
+    272,
+    448,
+    45,
+    604,
+    466,
+    552,
+    512
+  ],
+  "name": "psyc_g-130",
+  "svg": "psyc_g-130.svg",
+  "sim": [
+    {
+      "name": "psyc_g-130",
+      "psychonaut_name": null,
+      "tripsit_name": "g-130",
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "psyc_isophenmetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "isophenmetrazine",
+      "dist": 16.1432065866
+    },
+    {
+      "name": "psyc_phenmetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "phenmetrazine",
+      "dist": 18.3314872968
+    },
+    {
+      "name": "trip_Phenmetrazine",
+      "psychonaut_name": "Phenmetrazine",
+      "tripsit_name": null,
+      "dist": 18.3314872968
+    },
+    {
+      "name": "psyc_phenetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "phenetrazine",
+      "dist": 19.2198670598
+    },
+    {
+      "name": "trip_3-FPM",
+      "psychonaut_name": "3-FPM",
+      "tripsit_name": null,
+      "dist": 19.352968352
+    },
+    {
+      "name": "psyc_3-fpm",
+      "psychonaut_name": null,
+      "tripsit_name": "3-fpm",
+      "dist": 19.352968352
+    },
+    {
+      "name": "psyc_4-fpm",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fpm",
+      "dist": 19.4877515619
+    },
+    {
+      "name": "psyc_mephenmetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "mephenmetrazine",
+      "dist": 19.743203068
+    },
+    {
+      "name": "psyc_4,4-dmar",
+      "psychonaut_name": null,
+      "tripsit_name": "4,4-dmar",
+      "dist": 19.8317177165
+    }
+  ]
+}

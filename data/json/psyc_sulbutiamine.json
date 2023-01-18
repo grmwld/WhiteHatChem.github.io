@@ -1,0 +1,100 @@
+{
+  "inchi": "InChI=1S/C32H46N8O6S2/c1-19(2)31(43)45-11-9-27(21(5)39(17-41)15-25-13-35-23(7)37-29(25)33)47-48-28(10-12-46-32(44)20(3)4)22(6)40(18-42)16-26-14-36-24(8)38-30(26)34/h13-14,17-20H,9-12,15-16H2,1-8H3,(H2,33,35,37)(H2,34,36,38)/b27-21-,28-22-",
+  "psychonaut_name": null,
+  "tripsit_name": "sulbutiamine",
+  "synonyms": [
+    "sulbut",
+    "arcalion",
+    "enerion",
+    "bisibuthiamine",
+    "youvitan"
+  ],
+  "distances": [
+    5.3948e-06,
+    81.1465988678,
+    90.6325535645,
+    91.9924366371,
+    95.5896840423,
+    95.915271244,
+    97.3692582951,
+    97.3692582951,
+    98.2332851956,
+    100.1109833354
+  ],
+  "indices": [
+    753,
+    532,
+    813,
+    116,
+    454,
+    817,
+    119,
+    773,
+    6,
+    515
+  ],
+  "name": "psyc_sulbutiamine",
+  "svg": "psyc_sulbutiamine.svg",
+  "sim": [
+    {
+      "name": "psyc_sulbutiamine",
+      "psychonaut_name": null,
+      "tripsit_name": "sulbutiamine",
+      "dist": 5.3948e-06
+    },
+    {
+      "name": "psyc_viagra",
+      "psychonaut_name": null,
+      "tripsit_name": "viagra",
+      "dist": 81.1465988678
+    },
+    {
+      "name": "psyc_pst",
+      "psychonaut_name": null,
+      "tripsit_name": "pst",
+      "dist": 90.6325535645
+    },
+    {
+      "name": "trip_Cabergoline",
+      "psychonaut_name": "Cabergoline",
+      "tripsit_name": null,
+      "dist": 91.9924366371
+    },
+    {
+      "name": "psyc_acetildenafil",
+      "psychonaut_name": null,
+      "tripsit_name": "acetildenafil",
+      "dist": 95.5896840423
+    },
+    {
+      "name": "psyc_doip",
+      "psychonaut_name": null,
+      "tripsit_name": "doip",
+      "dist": 95.915271244
+    },
+    {
+      "name": "trip_Cannabis",
+      "psychonaut_name": "Cannabis",
+      "tripsit_name": null,
+      "dist": 97.3692582951
+    },
+    {
+      "name": "psyc_cannabis",
+      "psychonaut_name": null,
+      "tripsit_name": "cannabis",
+      "dist": 97.3692582951
+    },
+    {
+      "name": "trip_1V-LSD",
+      "psychonaut_name": "1V-LSD",
+      "tripsit_name": null,
+      "dist": 98.2332851956
+    },
+    {
+      "name": "psyc_homosildenafil",
+      "psychonaut_name": null,
+      "tripsit_name": "homosildenafil",
+      "dist": 100.1109833354
+    }
+  ]
+}

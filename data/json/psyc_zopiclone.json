@@ -1,0 +1,97 @@
+{
+  "inchi": "InChI=1S/C17H17ClN6O3/c1-22-6-8-23(9-7-22)17(26)27-16-14-13(19-4-5-20-14)15(25)24(16)12-3-2-11(18)10-21-12/h2-5,10,16H,6-9H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "zopiclone",
+  "synonyms": [
+    "imovane",
+    "zimovane"
+  ],
+  "distances": [
+    2.6974e-06,
+    2.6974e-06,
+    2.6974e-06,
+    29.0538556112,
+    31.7570629524,
+    31.7570629524,
+    31.9981059468,
+    32.0620640656,
+    33.3807528106,
+    33.3855667817
+  ],
+  "indices": [
+    426,
+    319,
+    380,
+    625,
+    200,
+    598,
+    279,
+    237,
+    739,
+    288
+  ],
+  "name": "psyc_zopiclone",
+  "svg": "psyc_zopiclone.svg",
+  "sim": [
+    {
+      "name": "psyc_zopiclone",
+      "psychonaut_name": null,
+      "tripsit_name": "zopiclone",
+      "dist": 2.6974e-06
+    },
+    {
+      "name": "trip_Zopiclone",
+      "psychonaut_name": "Zopiclone",
+      "tripsit_name": null,
+      "dist": 2.6974e-06
+    },
+    {
+      "name": "psyc_eszopiclone",
+      "psychonaut_name": null,
+      "tripsit_name": "eszopiclone",
+      "dist": 2.6974e-06
+    },
+    {
+      "name": "psyc_trazodone",
+      "psychonaut_name": null,
+      "tripsit_name": "trazodone",
+      "dist": 29.0538556112
+    },
+    {
+      "name": "trip_LSM-775",
+      "psychonaut_name": "LSM-775",
+      "tripsit_name": null,
+      "dist": 31.7570629524
+    },
+    {
+      "name": "psyc_lsm-775",
+      "psychonaut_name": null,
+      "tripsit_name": "lsm-775",
+      "dist": 31.7570629524
+    },
+    {
+      "name": "trip_Prochlorperazine",
+      "psychonaut_name": "Prochlorperazine",
+      "tripsit_name": null,
+      "dist": 31.9981059468
+    },
+    {
+      "name": "trip_Mirtazapine",
+      "psychonaut_name": "Mirtazapine",
+      "tripsit_name": null,
+      "dist": 32.0620640656
+    },
+    {
+      "name": "psyc_indapyrophenidone",
+      "psychonaut_name": null,
+      "tripsit_name": "indapyrophenidone",
+      "dist": 33.3807528106
+    },
+    {
+      "name": "trip_Risperidone",
+      "psychonaut_name": "Risperidone",
+      "tripsit_name": null,
+      "dist": 33.3855667817
+    }
+  ]
+}

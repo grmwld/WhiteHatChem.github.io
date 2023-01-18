@@ -1,0 +1,96 @@
+{
+  "inchi": "InChI=1S/C17H11ClF4N2S/c18-10-5-6-14-12(7-10)16(11-3-1-2-4-13(11)19)23-8-15(25)24(14)9-17(20,21)22/h1-7H,8-9H2",
+  "psychonaut_name": null,
+  "tripsit_name": "quazepam",
+  "synonyms": [
+    "doral"
+  ],
+  "distances": [
+    2.6974e-06,
+    12.8577071414,
+    26.3889169722,
+    26.7873251934,
+    26.7873251934,
+    27.6754005465,
+    27.6754005465,
+    29.1695232046,
+    29.1695232046,
+    30.2490920254
+  ],
+  "indices": [
+    797,
+    431,
+    574,
+    236,
+    770,
+    173,
+    738,
+    175,
+    449,
+    177
+  ],
+  "name": "psyc_quazepam",
+  "svg": "psyc_quazepam.svg",
+  "sim": [
+    {
+      "name": "psyc_quazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "quazepam",
+      "dist": 2.6974e-06
+    },
+    {
+      "name": "psyc_halazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "halazepam",
+      "dist": 12.8577071414
+    },
+    {
+      "name": "psyc_flutoprazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "flutoprazepam",
+      "dist": 26.3889169722
+    },
+    {
+      "name": "trip_Midazolam",
+      "psychonaut_name": "Midazolam",
+      "tripsit_name": null,
+      "dist": 26.7873251934
+    },
+    {
+      "name": "psyc_midazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "midazolam",
+      "dist": 26.7873251934
+    },
+    {
+      "name": "trip_Flualprazolam",
+      "psychonaut_name": "Flualprazolam",
+      "tripsit_name": null,
+      "dist": 27.6754005465
+    },
+    {
+      "name": "psyc_flualprazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "flualprazolam",
+      "dist": 27.6754005465
+    },
+    {
+      "name": "trip_Flubromazolam",
+      "psychonaut_name": "Flubromazolam",
+      "tripsit_name": null,
+      "dist": 29.1695232046
+    },
+    {
+      "name": "psyc_flubromazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "flubromazolam",
+      "dist": 29.1695232046
+    },
+    {
+      "name": "trip_Flunitrazepam",
+      "psychonaut_name": "Flunitrazepam",
+      "tripsit_name": null,
+      "dist": 30.2490920254
+    }
+  ]
+}

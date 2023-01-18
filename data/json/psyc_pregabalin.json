@@ -1,0 +1,97 @@
+{
+  "inchi": "InChI=1S/C8H17NO2/c1-6(2)3-7(5-9)4-8(10)11/h6-7H,3-5,9H2,1-2H3,(H,10,11)/t7-/m0/s1",
+  "psychonaut_name": null,
+  "tripsit_name": "pregabalin",
+  "synonyms": [
+    "lyrica",
+    "pregablin"
+  ],
+  "distances": [
+    1.3487e-06,
+    1.3487e-06,
+    20.8902283818,
+    20.8902283818,
+    21.6999412712,
+    21.6999412712,
+    22.5696357581,
+    22.5696357581,
+    22.6898027413,
+    23.5222024128
+  ],
+  "indices": [
+    278,
+    355,
+    0,
+    507,
+    210,
+    501,
+    325,
+    307,
+    1,
+    364
+  ],
+  "name": "psyc_pregabalin",
+  "svg": "psyc_pregabalin.svg",
+  "sim": [
+    {
+      "name": "trip_Pregabalin",
+      "psychonaut_name": "Pregabalin",
+      "tripsit_name": null,
+      "dist": 1.3487e-06
+    },
+    {
+      "name": "psyc_pregabalin",
+      "psychonaut_name": null,
+      "tripsit_name": "pregabalin",
+      "dist": 1.3487e-06
+    },
+    {
+      "name": "trip_1,3-DMAA",
+      "psychonaut_name": "1,3-DMAA",
+      "tripsit_name": null,
+      "dist": 20.8902283818
+    },
+    {
+      "name": "psyc_dmaa",
+      "psychonaut_name": null,
+      "tripsit_name": "dmaa",
+      "dist": 20.8902283818
+    },
+    {
+      "name": "trip_MET",
+      "psychonaut_name": "MET",
+      "tripsit_name": null,
+      "dist": 21.6999412712
+    },
+    {
+      "name": "psyc_met",
+      "psychonaut_name": null,
+      "tripsit_name": "met",
+      "dist": 21.6999412712
+    },
+    {
+      "name": "psyc_l-theanine",
+      "psychonaut_name": null,
+      "tripsit_name": "l-theanine",
+      "dist": 22.5696357581
+    },
+    {
+      "name": "trip_Theanine",
+      "psychonaut_name": "Theanine",
+      "tripsit_name": null,
+      "dist": 22.5696357581
+    },
+    {
+      "name": "trip_1,3-dimethylbutylamine",
+      "psychonaut_name": "1,3-dimethylbutylamine",
+      "tripsit_name": null,
+      "dist": 22.6898027413
+    },
+    {
+      "name": "psyc_tolibut",
+      "psychonaut_name": null,
+      "tripsit_name": "tolibut",
+      "dist": 23.5222024128
+    }
+  ]
+}

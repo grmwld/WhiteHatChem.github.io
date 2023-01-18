@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C10H14ClN/c1-8(12-2)7-9-3-5-10(11)6-4-9/h3-6,8,12H,7H2,1-2H3",
+  "psychonaut_name": null,
+  "tripsit_name": "4-cma",
+  "synonyms": null,
+  "distances": [
+    1.3487e-06,
+    7.2015522131,
+    7.2015522131,
+    7.473104955,
+    7.473104955,
+    7.7765370999,
+    7.7765370999,
+    7.9459601544,
+    7.9459601544,
+    10.6638947303
+  ],
+  "indices": [
+    508,
+    698,
+    62,
+    44,
+    344,
+    14,
+    638,
+    223,
+    684,
+    760
+  ],
+  "name": "psyc_4-cma",
+  "svg": "psyc_4-cma.svg",
+  "sim": [
+    {
+      "name": "psyc_4-cma",
+      "psychonaut_name": null,
+      "tripsit_name": "4-cma",
+      "dist": 1.3487e-06
+    },
+    {
+      "name": "psyc_4-fma",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fma",
+      "dist": 7.2015522131
+    },
+    {
+      "name": "trip_4-FMA",
+      "psychonaut_name": "4-FMA",
+      "tripsit_name": null,
+      "dist": 7.2015522131
+    },
+    {
+      "name": "trip_3-FMA",
+      "psychonaut_name": "3-FMA",
+      "tripsit_name": null,
+      "dist": 7.473104955
+    },
+    {
+      "name": "psyc_3-fma",
+      "psychonaut_name": null,
+      "tripsit_name": "3-fma",
+      "dist": 7.473104955
+    },
+    {
+      "name": "trip_2-FMA",
+      "psychonaut_name": "2-FMA",
+      "tripsit_name": null,
+      "dist": 7.7765370999
+    },
+    {
+      "name": "psyc_2-fma",
+      "psychonaut_name": null,
+      "tripsit_name": "2-fma",
+      "dist": 7.7765370999
+    },
+    {
+      "name": "trip_Methamphetamine",
+      "psychonaut_name": "Methamphetamine",
+      "tripsit_name": null,
+      "dist": 7.9459601544
+    },
+    {
+      "name": "psyc_methamphetamine",
+      "psychonaut_name": null,
+      "tripsit_name": "methamphetamine",
+      "dist": 7.9459601544
+    },
+    {
+      "name": "psyc_4-cmc",
+      "psychonaut_name": null,
+      "tripsit_name": "4-cmc",
+      "dist": 10.6638947303
+    }
+  ]
+}

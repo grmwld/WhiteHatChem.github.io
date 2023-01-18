@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C22H19N3O4/c1-24-10-19(26)25-16(22(24)27)9-14-13-4-2-3-5-15(13)23-20(14)21(25)12-6-7-17-18(8-12)29-11-28-17/h2-8,16,21,23H,9-11H2,1H3/t16-,21-/m1/s1",
+  "psychonaut_name": null,
+  "tripsit_name": "cialis",
+  "synonyms": null,
+  "distances": [
+    1.9073e-06,
+    10.770489705,
+    32.9107290844,
+    33.4545462537,
+    33.5151587963,
+    34.7506481083,
+    34.7506481083,
+    36.3045403954,
+    36.7437265452,
+    37.2996798013
+  ],
+  "indices": [
+    513,
+    374,
+    495,
+    839,
+    768,
+    200,
+    598,
+    414,
+    574,
+    689
+  ],
+  "name": "psyc_cialis",
+  "svg": "psyc_cialis.svg",
+  "sim": [
+    {
+      "name": "psyc_cialis",
+      "psychonaut_name": null,
+      "tripsit_name": "cialis",
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "psyc_aminotadalafil",
+      "psychonaut_name": null,
+      "tripsit_name": "aminotadalafil",
+      "dist": 10.770489705
+    },
+    {
+      "name": "psyc_ketazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "ketazolam",
+      "dist": 32.9107290844
+    },
+    {
+      "name": "psyc_flutazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "flutazolam",
+      "dist": 33.4545462537
+    },
+    {
+      "name": "psyc_paroxetine",
+      "psychonaut_name": null,
+      "tripsit_name": "paroxetine",
+      "dist": 33.5151587963
+    },
+    {
+      "name": "trip_LSM-775",
+      "psychonaut_name": "LSM-775",
+      "tripsit_name": null,
+      "dist": 34.7506481083
+    },
+    {
+      "name": "psyc_lsm-775",
+      "psychonaut_name": null,
+      "tripsit_name": "lsm-775",
+      "dist": 34.7506481083
+    },
+    {
+      "name": "psyc_cloniprazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "cloniprazepam",
+      "dist": 36.3045403954
+    },
+    {
+      "name": "psyc_flutoprazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "flutoprazepam",
+      "dist": 36.7437265452
+    },
+    {
+      "name": "psyc_mexazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "mexazolam",
+      "dist": 37.2996798013
+    }
+  ]
+}

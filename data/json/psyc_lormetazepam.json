@@ -1,0 +1,96 @@
+{
+  "inchi": "InChI=1S/C16H12Cl2N2O2/c1-20-13-7-6-9(17)8-11(13)14(19-15(21)16(20)22)10-4-2-3-5-12(10)18/h2-8,15,21H,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "lormetazepam",
+  "synonyms": [
+    "noctamid"
+  ],
+  "distances": [
+    1.3487e-06,
+    7.6013108277,
+    7.6013108277,
+    16.1576005087,
+    16.1576005087,
+    16.2912506024,
+    16.2912506024,
+    17.0327309061,
+    18.4963268036,
+    18.6954088093
+  ],
+  "indices": [
+    545,
+    304,
+    695,
+    697,
+    203,
+    150,
+    605,
+    653,
+    788,
+    719
+  ],
+  "name": "psyc_lormetazepam",
+  "svg": "psyc_lormetazepam.svg",
+  "sim": [
+    {
+      "name": "psyc_lormetazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "lormetazepam",
+      "dist": 1.3487e-06
+    },
+    {
+      "name": "trip_Temazepam",
+      "psychonaut_name": "Temazepam",
+      "tripsit_name": null,
+      "dist": 7.6013108277
+    },
+    {
+      "name": "psyc_temazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "temazepam",
+      "dist": 7.6013108277
+    },
+    {
+      "name": "psyc_lorazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "lorazepam",
+      "dist": 16.1576005087
+    },
+    {
+      "name": "trip_Lorazepam",
+      "psychonaut_name": "Lorazepam",
+      "tripsit_name": null,
+      "dist": 16.1576005087
+    },
+    {
+      "name": "trip_Diclazepam",
+      "psychonaut_name": "Diclazepam",
+      "tripsit_name": null,
+      "dist": 16.2912506024
+    },
+    {
+      "name": "psyc_diclazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "diclazepam",
+      "dist": 16.2912506024
+    },
+    {
+      "name": "psyc_4-chlorodiazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "4-chlorodiazepam",
+      "dist": 17.0327309061
+    },
+    {
+      "name": "psyc_3-oh-phenazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "3-oh-phenazepam",
+      "dist": 18.4963268036
+    },
+    {
+      "name": "psyc_oxazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "oxazepam",
+      "dist": 18.6954088093
+    }
+  ]
+}

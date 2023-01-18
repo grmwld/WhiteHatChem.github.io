@@ -2,10 +2,20 @@
 import Base from '../../layouts/Base.astro';
 import Main from '../../layouts/Main.astro';
 import ComponentSvg from '../../components/ComponentSvg.astro'
+import CompoundName from '../../components/CompoundName.astro';
+
+interface SimilarMolecule {
+    name: string
+    psychonaut_name: string | null
+    tripsit_name: string | null
+    dist: number
+}
 
 interface NPSJsonFile {
     name: string
-    effects: Array<string>
+    psychonaut_name: string | null
+    tripsit_name: string | null
+    sim: Array<SimilarMolecule>
     synonyms: Array<string>
     svg: string
 }
@@ -18,33 +28,54 @@ export async function getStaticPaths({ paginate } : any) {
     }))
 }
 
-const { name, effects, synonyms, svg } = Astro.props as NPSJsonFile
+const { name, psychonaut_name, tripsit_name, synonyms, svg, sim } = Astro.props as NPSJsonFile
 ---
 
 <Base title="Compounds.">
 	<Main active="home">
         <section class="main-width mt-8">
             <div class="w-full flex flex-col items-center mb-8">
-                <h1 class="font-bold text-4xl">
-                    { name }
-                </h1>
                 { svg && <ComponentSvg svg={svg} name={name}/> }
+                <div class="flex flex-col text-xl">
+                    <a href={`https://drugs.tripsit.me/${tripsit_name}`} target="_blank">
+                        <CompoundName name={tripsit_name} site="tripsit"/>
+                    </a>
+                    <a href={`https://psychonautwiki.org/wiki/${psychonaut_name}`} target="_blank">
+                        <CompoundName name={psychonaut_name} site="psychonaut"/>
+                    </a>
+                    <p class="leading-snug text-sm">
+                        <span class="">Synonyms:</span>
+                        <span class="font-gray font-light text-neutral-800">{synonyms.join(',')}</span>
+                    </p>
+                </div>
             </div>
 
-            <div class="flex flex-col gap-8">
-                {
-                    effects && <p class="leading-snug">
-                        <span class="font-bold">Known effects:</span>
-                        <span class="font-gray font-light text-neutral-800 text-sm">{effects.join(',')}</span>
-                    </p>
-                }
-
-                {
-                    synonyms && <p class="leading-snug">
-                        <span class="font-bold">Synonyms:</span>
-                        <span class="font-gray font-light text-neutral-800 text-sm">{synonyms.join(',')}</span>
-                    </p>
-                }
+            <div class="w-full flex flex-col items-center mt-16">
+                <div class="w-full max-w-2xl">
+                    <span class="text-xl font-bold">Most similar drugs:</span>
+                    <div class="flex flex-col mt-4 gap-1">
+                        { sim.map((x) => {
+                            const sim = 1./(1.+x.dist);
+                            const green = Math.round(255 * sim);
+                            const red = Math.round(255 * (1-sim));
+                            return <a href={`/molecule/${x.name}`} class="flex lg:flex-row flex-col items-center justify-between">
+                                <div class="flex">
+                                    <CompoundName name={x.tripsit_name} site="tripsit"/>
+                                    <CompoundName name={x.psychonaut_name} site="psychonaut"/>
+                                </div>
+                                <div class="lg:w-60 w-full h-4 bg-neutral-200 rounded border border-neutral-300 overflow-hidden">
+                                    <div
+                                        class="h-full rounded"
+                                        style={{
+                                            width: `${100 * sim}%`,
+                                            backgroundColor: `rgb(${red}, ${green}, 0)`,
+                                        }}
+                                    />
+                                </div>
+                            </a>
+                        }) }
+                    </div>
+                </div>
             </div>
         </section>
 	</Main>

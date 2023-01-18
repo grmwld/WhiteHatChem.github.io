@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C14H14O3/c1-9(14(15)16)10-3-4-12-8-13(17-2)6-5-11(12)7-10/h3-9H,1-2H3,(H,15,16)/t9-/m0/s1",
+  "psychonaut_name": null,
+  "tripsit_name": "naproxen",
+  "synonyms": null,
+  "distances": [
+    1.9073e-06,
+    18.6127119043,
+    19.594492921,
+    19.9870082621,
+    20.4967462702,
+    20.6062037043,
+    20.7024616639,
+    20.9719916168,
+    20.998149972,
+    20.998149972
+  ],
+  "indices": [
+    726,
+    556,
+    819,
+    554,
+    758,
+    716,
+    831,
+    614,
+    764,
+    85
+  ],
+  "name": "psyc_naproxen",
+  "svg": "psyc_naproxen.svg",
+  "sim": [
+    {
+      "name": "psyc_naproxen",
+      "psychonaut_name": null,
+      "tripsit_name": "naproxen",
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "psyc_methamnetamine",
+      "psychonaut_name": null,
+      "tripsit_name": "methamnetamine",
+      "dist": 18.6127119043
+    },
+    {
+      "name": "psyc_5-meo-nipt",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-nipt",
+      "dist": 19.594492921
+    },
+    {
+      "name": "psyc_atomoxetine",
+      "psychonaut_name": null,
+      "tripsit_name": "atomoxetine",
+      "dist": 19.9870082621
+    },
+    {
+      "name": "psyc_ibuprofen",
+      "psychonaut_name": null,
+      "tripsit_name": "ibuprofen",
+      "dist": 20.4967462702
+    },
+    {
+      "name": "psyc_methedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "methedrone",
+      "dist": 20.6062037043
+    },
+    {
+      "name": "psyc_3-meomc",
+      "psychonaut_name": null,
+      "tripsit_name": "3-meomc",
+      "dist": 20.7024616639
+    },
+    {
+      "name": "psyc_propranolol",
+      "psychonaut_name": null,
+      "tripsit_name": "propranolol",
+      "dist": 20.9719916168
+    },
+    {
+      "name": "psyc_5-meo-amt",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-amt",
+      "dist": 20.998149972
+    },
+    {
+      "name": "trip_5-MeO-aMT",
+      "psychonaut_name": "5-MeO-aMT",
+      "tripsit_name": null,
+      "dist": 20.998149972
+    }
+  ]
+}

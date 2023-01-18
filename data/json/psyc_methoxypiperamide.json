@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C13H18N2O2/c1-14-7-9-15(10-8-14)13(16)11-3-5-12(17-2)6-4-11/h3-6H,7-10H2,1-2H3",
+  "psychonaut_name": null,
+  "tripsit_name": "methoxypiperamide",
+  "synonyms": null,
+  "distances": [
+    1.3487e-06,
+    13.445068499,
+    13.445068499,
+    17.1725618678,
+    18.8179611441,
+    18.8179611441,
+    18.8386851221,
+    19.2705871676,
+    19.7087674997,
+    20.2126965194
+  ],
+  "indices": [
+    435,
+    678,
+    106,
+    484,
+    769,
+    268,
+    440,
+    526,
+    565,
+    405
+  ],
+  "name": "psyc_methoxypiperamide",
+  "svg": "psyc_methoxypiperamide.svg",
+  "sim": [
+    {
+      "name": "psyc_methoxypiperamide",
+      "psychonaut_name": null,
+      "tripsit_name": "methoxypiperamide",
+      "dist": 1.3487e-06
+    },
+    {
+      "name": "psyc_aniracetam",
+      "psychonaut_name": null,
+      "tripsit_name": "aniracetam",
+      "dist": 13.445068499
+    },
+    {
+      "name": "trip_Aniracetam",
+      "psychonaut_name": "Aniracetam",
+      "tripsit_name": null,
+      "dist": 13.445068499
+    },
+    {
+      "name": "psyc_mbzp",
+      "psychonaut_name": null,
+      "tripsit_name": "mbzp",
+      "dist": 17.1725618678
+    },
+    {
+      "name": "psyc_demerol",
+      "psychonaut_name": null,
+      "tripsit_name": "demerol",
+      "dist": 18.8179611441
+    },
+    {
+      "name": "trip_Pethidine",
+      "psychonaut_name": "Pethidine",
+      "tripsit_name": null,
+      "dist": 18.8179611441
+    },
+    {
+      "name": "psyc_5-meo-pyr-t",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-pyr-t",
+      "dist": 18.8386851221
+    },
+    {
+      "name": "psyc_moclobemide",
+      "psychonaut_name": null,
+      "tripsit_name": "moclobemide",
+      "dist": 19.2705871676
+    },
+    {
+      "name": "psyc_\u03b1-pbp",
+      "psychonaut_name": null,
+      "tripsit_name": "\u03b1-pbp",
+      "dist": 19.7087674997
+    },
+    {
+      "name": "psyc_4f-pvp",
+      "psychonaut_name": null,
+      "tripsit_name": "4f-pvp",
+      "dist": 20.2126965194
+    }
+  ]
+}

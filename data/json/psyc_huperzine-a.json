@@ -1,0 +1,96 @@
+{
+  "inchi": "InChI=1S/C15H18N2O/c1-3-11-10-6-9(2)8-15(11,16)12-4-5-14(18)17-13(12)7-10/h3-6,10H,7-8,16H2,1-2H3,(H,17,18)",
+  "psychonaut_name": null,
+  "tripsit_name": "huperzine-a",
+  "synonyms": [
+    "h-a"
+  ],
+  "distances": [
+    1.9073e-06,
+    30.461448444,
+    31.2249284192,
+    31.3928385932,
+    31.6479833265,
+    31.9298069716,
+    31.9298069716,
+    32.09485111,
+    32.09485111,
+    32.3059901869
+  ],
+  "indices": [
+    588,
+    462,
+    671,
+    599,
+    491,
+    227,
+    669,
+    15,
+    510,
+    563
+  ],
+  "name": "psyc_huperzine-a",
+  "svg": "psyc_huperzine-a.svg",
+  "sim": [
+    {
+      "name": "psyc_huperzine-a",
+      "psychonaut_name": null,
+      "tripsit_name": "huperzine-a",
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "psyc_glutethimide",
+      "psychonaut_name": null,
+      "tripsit_name": "glutethimide",
+      "dist": 30.461448444
+    },
+    {
+      "name": "psyc_methoxyketamine",
+      "psychonaut_name": null,
+      "tripsit_name": "methoxyketamine",
+      "dist": 31.2249284192
+    },
+    {
+      "name": "psyc_mxm",
+      "psychonaut_name": null,
+      "tripsit_name": "mxm",
+      "dist": 31.3928385932
+    },
+    {
+      "name": "psyc_hexobarbital",
+      "psychonaut_name": null,
+      "tripsit_name": "hexobarbital",
+      "dist": 31.6479833265
+    },
+    {
+      "name": "trip_Methoxetamine",
+      "psychonaut_name": "Methoxetamine",
+      "tripsit_name": null,
+      "dist": 31.9298069716
+    },
+    {
+      "name": "psyc_mxe",
+      "psychonaut_name": null,
+      "tripsit_name": "mxe",
+      "dist": 31.9298069716
+    },
+    {
+      "name": "trip_2-Fluorodeschloroketamine",
+      "psychonaut_name": "2-Fluorodeschloroketamine",
+      "tripsit_name": null,
+      "dist": 32.09485111
+    },
+    {
+      "name": "psyc_2-fdck",
+      "psychonaut_name": null,
+      "tripsit_name": "2-fdck",
+      "dist": 32.09485111
+    },
+    {
+      "name": "psyc_ethketamine",
+      "psychonaut_name": null,
+      "tripsit_name": "ethketamine",
+      "dist": 32.3059901869
+    }
+  ]
+}

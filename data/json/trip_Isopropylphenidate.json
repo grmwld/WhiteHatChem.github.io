@@ -1,0 +1,105 @@
+{
+  "inchi": "InChI=1S/C16H23NO2/c1-12(2)19-16(18)15(13-8-4-3-5-9-13)14-10-6-7-11-17-14/h3-5,8-9,12,14-15,17H,6-7,10-11H2,1-2H3",
+  "psychonaut_name": "Isopropylphenidate",
+  "tripsit_name": null,
+  "synonyms": [
+    "FT-0700751",
+    "Q21098898",
+    "SCHEMBL12543306",
+    "J3.574.032E",
+    "2-Phenyl-2-(piperidine-2-yl)acetic acid isopropyl ester",
+    "DTXSID001032294",
+    "IPH",
+    "Isopropylphenidate",
+    "93148-46-0",
+    "ISOPROPYLPHENIDATE"
+  ],
+  "distances": [
+    2.336e-06,
+    2.336e-06,
+    12.8091750878,
+    12.8115311419,
+    12.8115311419,
+    13.0458141878,
+    13.4947409099,
+    13.4947409099,
+    13.8370298173,
+    14.1253278576
+  ],
+  "indices": [
+    192,
+    459,
+    360,
+    504,
+    167,
+    672,
+    231,
+    427,
+    591,
+    74
+  ],
+  "name": "trip_Isopropylphenidate",
+  "svg": "trip_Isopropylphenidate.svg",
+  "sim": [
+    {
+      "name": "trip_Isopropylphenidate",
+      "psychonaut_name": "Isopropylphenidate",
+      "tripsit_name": null,
+      "dist": 2.336e-06
+    },
+    {
+      "name": "psyc_isopropylphenidate",
+      "psychonaut_name": null,
+      "tripsit_name": "isopropylphenidate",
+      "dist": 2.336e-06
+    },
+    {
+      "name": "psyc_4-methylmethylphenidate",
+      "psychonaut_name": null,
+      "tripsit_name": "4-methylmethylphenidate",
+      "dist": 12.8091750878
+    },
+    {
+      "name": "psyc_ethylphenidate",
+      "psychonaut_name": null,
+      "tripsit_name": "ethylphenidate",
+      "dist": 12.8115311419
+    },
+    {
+      "name": "trip_Ethylphenidate",
+      "psychonaut_name": "Ethylphenidate",
+      "tripsit_name": null,
+      "dist": 12.8115311419
+    },
+    {
+      "name": "psyc_focalin",
+      "psychonaut_name": null,
+      "tripsit_name": "focalin",
+      "dist": 13.0458141878
+    },
+    {
+      "name": "trip_Methylphenidate",
+      "psychonaut_name": "Methylphenidate",
+      "tripsit_name": null,
+      "dist": 13.4947409099
+    },
+    {
+      "name": "psyc_methylphenidate",
+      "psychonaut_name": null,
+      "tripsit_name": "methylphenidate",
+      "dist": 13.4947409099
+    },
+    {
+      "name": "psyc_propylphenidate",
+      "psychonaut_name": null,
+      "tripsit_name": "propylphenidate",
+      "dist": 13.8370298173
+    },
+    {
+      "name": "trip_4F-EPH",
+      "psychonaut_name": "4F-EPH",
+      "tripsit_name": null,
+      "dist": 14.1253278576
+    }
+  ]
+}

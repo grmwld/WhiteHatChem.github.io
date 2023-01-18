@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C19H21NO/c1-15-9-11-17(12-10-15)19(21)18(20-13-5-6-14-20)16-7-3-2-4-8-16/h2-4,7-12,18H,5-6,13-14H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "pyrophenidone",
+  "synonyms": null,
+  "distances": [
+    1.9073e-06,
+    13.5230352473,
+    13.5230352473,
+    14.4838614265,
+    14.5227262047,
+    14.7528776821,
+    14.7528776821,
+    15.0357215242,
+    16.6168477428,
+    20.0919593025
+  ],
+  "indices": [
+    592,
+    153,
+    403,
+    467,
+    550,
+    629,
+    228,
+    814,
+    739,
+    143
+  ],
+  "name": "psyc_pyrophenidone",
+  "svg": "psyc_pyrophenidone.svg",
+  "sim": [
+    {
+      "name": "psyc_pyrophenidone",
+      "psychonaut_name": null,
+      "tripsit_name": "pyrophenidone",
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "trip_Diphenidine",
+      "psychonaut_name": "Diphenidine",
+      "tripsit_name": null,
+      "dist": 13.5230352473
+    },
+    {
+      "name": "psyc_diphenidine",
+      "psychonaut_name": null,
+      "tripsit_name": "diphenidine",
+      "dist": 13.5230352473
+    },
+    {
+      "name": "psyc_naphyrone",
+      "psychonaut_name": null,
+      "tripsit_name": "naphyrone",
+      "dist": 14.4838614265
+    },
+    {
+      "name": "psyc_fluorolintane",
+      "psychonaut_name": null,
+      "tripsit_name": "fluorolintane",
+      "dist": 14.5227262047
+    },
+    {
+      "name": "psyc_methoxphenidine",
+      "psychonaut_name": null,
+      "tripsit_name": "methoxphenidine",
+      "dist": 14.7528776821
+    },
+    {
+      "name": "trip_Methoxphenidine",
+      "psychonaut_name": "Methoxphenidine",
+      "tripsit_name": null,
+      "dist": 14.7528776821
+    },
+    {
+      "name": "psyc_cyclizine",
+      "psychonaut_name": null,
+      "tripsit_name": "cyclizine",
+      "dist": 15.0357215242
+    },
+    {
+      "name": "psyc_indapyrophenidone",
+      "psychonaut_name": null,
+      "tripsit_name": "indapyrophenidone",
+      "dist": 16.6168477428
+    },
+    {
+      "name": "trip_Desoxypipradrol",
+      "psychonaut_name": "Desoxypipradrol",
+      "tripsit_name": null,
+      "dist": 20.0919593025
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C7H8N4O2/c1-10-3-8-5-4(10)6(12)9-7(13)11(5)2/h3H,1-2H3,(H,9,12,13)",
+  "psychonaut_name": null,
+  "tripsit_name": "theobromine",
+  "synonyms": null,
+  "distances": [
+    0.0,
+    15.3470104972,
+    15.3470104972,
+    18.6005649932,
+    24.4162973977,
+    24.4162973977,
+    28.3152603252,
+    28.3152603252,
+    28.3152603252,
+    28.407168534
+  ],
+  "indices": [
+    708,
+    685,
+    117,
+    90,
+    763,
+    247,
+    89,
+    771,
+    497,
+    552
+  ],
+  "name": "psyc_theobromine",
+  "svg": "psyc_theobromine.svg",
+  "sim": [
+    {
+      "name": "psyc_theobromine",
+      "psychonaut_name": null,
+      "tripsit_name": "theobromine",
+      "dist": 0.0
+    },
+    {
+      "name": "psyc_caffeine",
+      "psychonaut_name": null,
+      "tripsit_name": "caffeine",
+      "dist": 15.3470104972
+    },
+    {
+      "name": "trip_Caffeine",
+      "psychonaut_name": "Caffeine",
+      "tripsit_name": null,
+      "dist": 15.3470104972
+    },
+    {
+      "name": "trip_8-Chlorotheophylline",
+      "psychonaut_name": "8-Chlorotheophylline",
+      "tripsit_name": null,
+      "dist": 18.6005649932
+    },
+    {
+      "name": "psyc_nicotine",
+      "psychonaut_name": null,
+      "tripsit_name": "nicotine",
+      "dist": 24.4162973977
+    },
+    {
+      "name": "trip_Nicotine",
+      "psychonaut_name": "Nicotine",
+      "tripsit_name": null,
+      "dist": 24.4162973977
+    },
+    {
+      "name": "trip_6-APDB",
+      "psychonaut_name": "6-APDB",
+      "tripsit_name": null,
+      "dist": 28.3152603252
+    },
+    {
+      "name": "psyc_5-apdb",
+      "psychonaut_name": null,
+      "tripsit_name": "5-apdb",
+      "dist": 28.3152603252
+    },
+    {
+      "name": "psyc_6-apdb",
+      "psychonaut_name": null,
+      "tripsit_name": "6-apdb",
+      "dist": 28.3152603252
+    },
+    {
+      "name": "psyc_mephenmetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "mephenmetrazine",
+      "dist": 28.407168534
+    }
+  ]
+}

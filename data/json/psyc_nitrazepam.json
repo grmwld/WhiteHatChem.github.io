@@ -1,0 +1,111 @@
+{
+  "inchi": "InChI=1S/C15H11N3O3/c19-14-9-16-15(10-4-2-1-3-5-10)12-8-11(18(20)21)6-7-13(12)17-14/h1-8H,9H2,(H,17,19)",
+  "psychonaut_name": null,
+  "tripsit_name": "nitrazepam",
+  "synonyms": [
+    "mogadon",
+    "baronite",
+    "dormin",
+    "dreem",
+    "enzed",
+    "gentravit",
+    "hypnonex",
+    "hypnoril",
+    "hypnotex",
+    "konit",
+    "nicare",
+    "nigap",
+    "nipam",
+    "nirosun",
+    "nitavan",
+    "nithra"
+  ],
+  "distances": [
+    3.0158e-06,
+    7.6013103259,
+    7.6013103259,
+    8.0848273506,
+    15.7505163683,
+    16.4052743385,
+    17.5592859117,
+    17.5804121776,
+    17.5804121776,
+    18.3555905342
+  ],
+  "indices": [
+    498,
+    400,
+    124,
+    774,
+    559,
+    712,
+    442,
+    439,
+    269,
+    539
+  ],
+  "name": "psyc_nitrazepam",
+  "svg": "psyc_nitrazepam.svg",
+  "sim": [
+    {
+      "name": "psyc_nitrazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "nitrazepam",
+      "dist": 3.0158e-06
+    },
+    {
+      "name": "psyc_clonazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "clonazepam",
+      "dist": 7.6013103259
+    },
+    {
+      "name": "trip_Clonazepam",
+      "psychonaut_name": "Clonazepam",
+      "tripsit_name": null,
+      "dist": 7.6013103259
+    },
+    {
+      "name": "psyc_desmethylflunitrazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "desmethylflunitrazepam",
+      "dist": 8.0848273506
+    },
+    {
+      "name": "psyc_meclonazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "meclonazepam",
+      "dist": 15.7505163683
+    },
+    {
+      "name": "psyc_nimetazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "nimetazepam",
+      "dist": 16.4052743385
+    },
+    {
+      "name": "psyc_nordazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "nordazepam",
+      "dist": 17.5592859117
+    },
+    {
+      "name": "psyc_phenazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "phenazepam",
+      "dist": 17.5804121776
+    },
+    {
+      "name": "trip_Phenazepam",
+      "psychonaut_name": "Phenazepam",
+      "tripsit_name": null,
+      "dist": 17.5804121776
+    },
+    {
+      "name": "psyc_norflurazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "norflurazepam",
+      "dist": 18.3555905342
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "inchi": "InChI=1S/C17H16N2O/c1-11-8-9-16(12(2)10-11)19-13(3)18-15-7-5-4-6-14(15)17(19)20/h4-10H,1-3H3",
+  "psychonaut_name": null,
+  "tripsit_name": "methylmethaqualone",
+  "synonyms": [
+    "mmq"
+  ],
+  "distances": [
+    0.0,
+    7.688532318,
+    7.688532318,
+    7.688532318,
+    13.7047645693,
+    13.7047645693,
+    16.4241476038,
+    22.6641648352,
+    22.6641648352,
+    22.729213063
+  ],
+  "indices": [
+    330,
+    647,
+    224,
+    369,
+    798,
+    215,
+    710,
+    103,
+    378,
+    111
+  ],
+  "name": "psyc_methylmethaqualone",
+  "svg": "psyc_methylmethaqualone.svg",
+  "sim": [
+    {
+      "name": "psyc_methylmethaqualone",
+      "psychonaut_name": null,
+      "tripsit_name": "methylmethaqualone",
+      "dist": 0.0
+    },
+    {
+      "name": "psyc_methaqualone",
+      "psychonaut_name": null,
+      "tripsit_name": "methaqualone",
+      "dist": 7.688532318
+    },
+    {
+      "name": "trip_Methaqualone",
+      "psychonaut_name": "Methaqualone",
+      "tripsit_name": null,
+      "dist": 7.688532318
+    },
+    {
+      "name": "psyc_ethaqualone",
+      "psychonaut_name": null,
+      "tripsit_name": "ethaqualone",
+      "dist": 7.688532318
+    },
+    {
+      "name": "psyc_mebroqualone",
+      "psychonaut_name": null,
+      "tripsit_name": "mebroqualone",
+      "dist": 13.7047645693
+    },
+    {
+      "name": "trip_Mebroqualone",
+      "psychonaut_name": "Mebroqualone",
+      "tripsit_name": null,
+      "dist": 13.7047645693
+    },
+    {
+      "name": "psyc_afloqualone",
+      "psychonaut_name": null,
+      "tripsit_name": "afloqualone",
+      "dist": 16.4241476038
+    },
+    {
+      "name": "trip_Alprazolam",
+      "psychonaut_name": "Alprazolam",
+      "tripsit_name": null,
+      "dist": 22.6641648352
+    },
+    {
+      "name": "psyc_alprazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "alprazolam",
+      "dist": 22.6641648352
+    },
+    {
+      "name": "trip_Bromazolam",
+      "psychonaut_name": "Bromazolam",
+      "tripsit_name": null,
+      "dist": 22.729213063
+    }
+  ]
+}

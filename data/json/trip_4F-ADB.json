@@ -1,0 +1,110 @@
+{
+  "inchi": "InChI=1S/C19H26FN3O3/c1-19(2,3)16(18(25)26-4)21-17(24)15-13-9-5-6-10-14(13)23(22-15)12-8-7-11-20/h5-6,9-10,16H,7-8,11-12H2,1-4H3,(H,21,24)/t16-/m1/s1",
+  "psychonaut_name": "4F-ADB",
+  "tripsit_name": null,
+  "synonyms": [
+    "Methyl (2S)-2-({[1-(4-fluorobutyl)-1H-indazol-3-yl]carbonyl}amino)-3,3-dimethylbutanoate",
+    "4F-ADB",
+    "methyl (2s)-2-{[1-(4-fluorobutyl)-1h-indazole-3-carbonyl]amino}-3,3-dimethylbutanoate",
+    "4-Fluoro-mdmb-binaca",
+    "UNII-ZH38UTM145",
+    "4F-Adb",
+    "ZH38UTM145",
+    "4F-Mdmb-binaca [NFLIS-DRUG]",
+    "L-Valine, N-((1-(4-fluorobutyl)-1H-indazol-3-yl)carbonyl)-3-methyl-, methyl ester",
+    "4F-Mdmb-binaca",
+    "DTXSID001017266",
+    "2390036-46-9",
+    "methyl (2S)-2-[[1-(4-fluorobutyl)indazole-3-carbonyl]amino]-3,3-dimethylbutanoate",
+    "Methyl (S)-2-(1-(4-fluorobutyl)-1H-indazole-3-carboxamido)-3,3-dimethylbutanoate",
+    "N-[[1-(4-fluorobutyl)-1H-indazol-3-yl]carbonyl]-3-methyl-L-valine, methyl ester"
+  ],
+  "distances": [
+    1.9073e-06,
+    30.6984570243,
+    30.6984570243,
+    30.6984570243,
+    31.3317563357,
+    31.3317563357,
+    34.2138909221,
+    34.5160264095,
+    34.5160264095,
+    34.5612037788
+  ],
+  "indices": [
+    73,
+    754,
+    347,
+    146,
+    93,
+    802,
+    502,
+    252,
+    755,
+    582
+  ],
+  "name": "trip_4F-ADB",
+  "svg": "trip_4F-ADB.svg",
+  "sim": [
+    {
+      "name": "trip_4F-ADB",
+      "psychonaut_name": "4F-ADB",
+      "tripsit_name": null,
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "psyc_dextropropoxyphene",
+      "psychonaut_name": null,
+      "tripsit_name": "dextropropoxyphene",
+      "dist": 30.6984570243
+    },
+    {
+      "name": "psyc_propoxyphene",
+      "psychonaut_name": null,
+      "tripsit_name": "propoxyphene",
+      "dist": 30.6984570243
+    },
+    {
+      "name": "trip_Dextropropoxyphene",
+      "psychonaut_name": "Dextropropoxyphene",
+      "tripsit_name": null,
+      "dist": 30.6984570243
+    },
+    {
+      "name": "trip_AB-FUBINACA",
+      "psychonaut_name": "AB-FUBINACA",
+      "tripsit_name": null,
+      "dist": 31.3317563357
+    },
+    {
+      "name": "psyc_ab-fubinaca",
+      "psychonaut_name": null,
+      "tripsit_name": "ab-fubinaca",
+      "dist": 31.3317563357
+    },
+    {
+      "name": "psyc_ab-chminaca",
+      "psychonaut_name": null,
+      "tripsit_name": "ab-chminaca",
+      "dist": 34.2138909221
+    },
+    {
+      "name": "trip_Omberacetam",
+      "psychonaut_name": "Omberacetam",
+      "tripsit_name": null,
+      "dist": 34.5160264095
+    },
+    {
+      "name": "psyc_noopept",
+      "psychonaut_name": null,
+      "tripsit_name": "noopept",
+      "dist": 34.5160264095
+    },
+    {
+      "name": "psyc_isomethadone",
+      "psychonaut_name": null,
+      "tripsit_name": "isomethadone",
+      "dist": 34.5612037788
+    }
+  ]
+}

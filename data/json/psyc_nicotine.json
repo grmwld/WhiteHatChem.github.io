@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C10H14N2/c1-12-7-3-5-10(12)9-4-2-6-11-8-9/h2,4,6,8,10H,3,5,7H2,1H3/t10-/m0/s1",
+  "psychonaut_name": null,
+  "tripsit_name": "nicotine",
+  "synonyms": null,
+  "distances": [
+    1.6518e-06,
+    1.6518e-06,
+    15.7470191678,
+    16.8983219194,
+    17.135537574,
+    17.135537574,
+    17.19331134,
+    17.3623940824,
+    17.6684769956,
+    18.0715621866
+  ],
+  "indices": [
+    763,
+    247,
+    552,
+    484,
+    812,
+    204,
+    656,
+    396,
+    823,
+    693
+  ],
+  "name": "psyc_nicotine",
+  "svg": "psyc_nicotine.svg",
+  "sim": [
+    {
+      "name": "psyc_nicotine",
+      "psychonaut_name": null,
+      "tripsit_name": "nicotine",
+      "dist": 1.6518e-06
+    },
+    {
+      "name": "trip_Nicotine",
+      "psychonaut_name": "Nicotine",
+      "tripsit_name": null,
+      "dist": 1.6518e-06
+    },
+    {
+      "name": "psyc_mephenmetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "mephenmetrazine",
+      "dist": 15.7470191678
+    },
+    {
+      "name": "psyc_mbzp",
+      "psychonaut_name": null,
+      "tripsit_name": "mbzp",
+      "dist": 16.8983219194
+    },
+    {
+      "name": "psyc_mcpp",
+      "psychonaut_name": null,
+      "tripsit_name": "mcpp",
+      "dist": 17.135537574
+    },
+    {
+      "name": "trip_MCPP",
+      "psychonaut_name": "MCPP",
+      "tripsit_name": null,
+      "dist": 17.135537574
+    },
+    {
+      "name": "psyc_4-benzylpiperidine",
+      "psychonaut_name": null,
+      "tripsit_name": "4-benzylpiperidine",
+      "dist": 17.19331134
+    },
+    {
+      "name": "psyc_bzp",
+      "psychonaut_name": null,
+      "tripsit_name": "bzp",
+      "dist": 17.3623940824
+    },
+    {
+      "name": "psyc_4-fpp",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fpp",
+      "dist": 17.6684769956
+    },
+    {
+      "name": "psyc_nm-2-ai",
+      "psychonaut_name": null,
+      "tripsit_name": "nm-2-ai",
+      "dist": 18.0715621866
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "inchi": "InChI=1S/C15H10ClFN2O/c16-9-5-6-13-11(7-9)15(18-8-14(20)19-13)10-3-1-2-4-12(10)17/h1-7H,8H2,(H,19,20)",
+  "psychonaut_name": null,
+  "tripsit_name": "norflurazepam",
+  "synonyms": [
+    "n-desalkylflurazepam"
+  ],
+  "distances": [
+    1.9073e-06,
+    6.8041526681,
+    8.0848278224,
+    8.474461055,
+    8.474461055,
+    8.5584422054,
+    8.5584422054,
+    13.1161602952,
+    17.3571167171,
+    17.3571167171
+  ],
+  "indices": [
+    539,
+    725,
+    442,
+    269,
+    439,
+    615,
+    174,
+    527,
+    600,
+    148
+  ],
+  "name": "psyc_norflurazepam",
+  "svg": "psyc_norflurazepam.svg",
+  "sim": [
+    {
+      "name": "psyc_norflurazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "norflurazepam",
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "psyc_delorazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "delorazepam",
+      "dist": 6.8041526681
+    },
+    {
+      "name": "psyc_nordazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "nordazepam",
+      "dist": 8.0848278224
+    },
+    {
+      "name": "trip_Phenazepam",
+      "psychonaut_name": "Phenazepam",
+      "tripsit_name": null,
+      "dist": 8.474461055
+    },
+    {
+      "name": "psyc_phenazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "phenazepam",
+      "dist": 8.474461055
+    },
+    {
+      "name": "psyc_flubromazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "flubromazepam",
+      "dist": 8.5584422054
+    },
+    {
+      "name": "trip_Flubromazepam",
+      "psychonaut_name": "Flubromazepam",
+      "tripsit_name": null,
+      "dist": 8.5584422054
+    },
+    {
+      "name": "psyc_bromazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "bromazepam",
+      "dist": 13.1161602952
+    },
+    {
+      "name": "psyc_diazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "diazepam",
+      "dist": 17.3571167171
+    },
+    {
+      "name": "trip_Diazepam",
+      "psychonaut_name": "Diazepam",
+      "tripsit_name": null,
+      "dist": 17.3571167171
+    }
+  ]
+}

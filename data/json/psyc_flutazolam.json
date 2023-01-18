@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C19H18ClFN2O3/c20-13-5-6-17-15(11-13)19(14-3-1-2-4-16(14)21)22(8-10-26-19)12-18(25)23(17)7-9-24/h1-6,11,24H,7-10,12H2",
+  "psychonaut_name": null,
+  "tripsit_name": "flutazolam",
+  "synonyms": null,
+  "distances": [
+    2.6974e-06,
+    22.5054436774,
+    23.1625526489,
+    23.7309416748,
+    23.8904155076,
+    24.3994831468,
+    24.8556341957,
+    25.8989347614,
+    26.8224345123,
+    28.300579332
+  ],
+  "indices": [
+    839,
+    622,
+    185,
+    495,
+    689,
+    574,
+    736,
+    279,
+    486,
+    414
+  ],
+  "name": "psyc_flutazolam",
+  "svg": "psyc_flutazolam.svg",
+  "sim": [
+    {
+      "name": "psyc_flutazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "flutazolam",
+      "dist": 2.6974e-06
+    },
+    {
+      "name": "psyc_cloxazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "cloxazolam",
+      "dist": 22.5054436774
+    },
+    {
+      "name": "trip_Haloperidol",
+      "psychonaut_name": "Haloperidol",
+      "tripsit_name": null,
+      "dist": 23.1625526489
+    },
+    {
+      "name": "psyc_ketazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "ketazolam",
+      "dist": 23.7309416748
+    },
+    {
+      "name": "psyc_mexazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "mexazolam",
+      "dist": 23.8904155076
+    },
+    {
+      "name": "psyc_flutoprazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "flutoprazepam",
+      "dist": 24.3994831468
+    },
+    {
+      "name": "psyc_oxazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "oxazolam",
+      "dist": 24.8556341957
+    },
+    {
+      "name": "trip_Prochlorperazine",
+      "psychonaut_name": "Prochlorperazine",
+      "tripsit_name": null,
+      "dist": 25.8989347614
+    },
+    {
+      "name": "psyc_prazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "prazepam",
+      "dist": 26.8224345123
+    },
+    {
+      "name": "psyc_cloniprazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "cloniprazepam",
+      "dist": 28.300579332
+    }
+  ]
+}

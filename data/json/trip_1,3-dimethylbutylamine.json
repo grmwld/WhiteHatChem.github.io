@@ -1,0 +1,163 @@
+{
+  "inchi": "InChI=1S/C6H15N/c1-5(2)4-6(3)7/h5-6H,4,7H2,1-3H3",
+  "psychonaut_name": "1,3-dimethylbutylamine",
+  "tripsit_name": null,
+  "synonyms": [
+    "NSC-48080",
+    "2-pentanamine, 4-methyl",
+    "NSC48080",
+    "STL168050",
+    "(+/-)-1,3-DIMETHYLBUTYLAMINE",
+    "1,3-dimethylbutylamin",
+    "NCGC00091725-01",
+    "1,3-Dimethylbutylamine",
+    "AKOS000134311",
+    "(1,3-Dimethylbutyl)amine",
+    "NSC 48080",
+    "DSSTox_CID_5113",
+    "ALBB-021344",
+    "Pentergy",
+    "DSSTox_RID_77671",
+    "1,3-DIMETHYLBUTYLAMINE [WHO-DD]",
+    "Butylamine, 1,3-dimethyl-",
+    "1,3-Dimethylbutylamine 100 microg/mL in Acetonitrile",
+    "NCGC00091725-02",
+    "cid_7908",
+    "4-methylpentan-2-amine",
+    "AKOS017258605",
+    "1,3-Dimethyl butylamine",
+    "DL-1,3-DIMETHYLBUTYLAMINE",
+    "MLS002454356",
+    "N12044",
+    "CHEMBL1447446",
+    "1,3-dimethylbutylamine",
+    "Tox21_201157",
+    "DB-040811",
+    "4-amino-2-pentanamine",
+    "1,3-Dimethyl-n-butylamine",
+    "UNII-KXP599H5R6",
+    "SCHEMBL11229",
+    "UN 2379",
+    "1,3-Dimethylbutylamine [UN2379]  [Flammable liquid]",
+    "J35.117B",
+    "4-methyl-2-pentanamine",
+    "1,3-DMBA",
+    "DMBA",
+    "D0694",
+    "MFCD00008088",
+    "(+/-)-4-METHYL-2-PENTANAMINE",
+    "SMR001371983",
+    "GEO-03466",
+    "BDBM74420",
+    "1,3-Dimethylbutylamine, 98%",
+    "4-amino-2-methylpentane",
+    "1,3-DIMETHYLBUTYLAMINE",
+    "UN2379",
+    "DSSTox_GSID_25113",
+    "CCRIS 4800",
+    "1,3-dimethyl-butylamine",
+    "4-Methyl-2-aminopentane",
+    "Butylamine,3-dimethyl-",
+    "108-09-8",
+    "EINECS 203-549-6",
+    "2-Pentanamine, 4-methyl-",
+    "AI3-35094",
+    "J-002057",
+    "DTXSID4025113",
+    "CAS-108-09-8",
+    "WLN: ZY1&1Y1&1",
+    "Q19595727",
+    "2-Amino-4-methylpentane",
+    "KXP599H5R6",
+    "NCGC00258709-01",
+    "1,3-Dimethylbutanamine"
+  ],
+  "distances": [
+    1.168e-06,
+    8.6081679479,
+    8.6081679479,
+    20.2761257852,
+    22.308202848,
+    22.308202848,
+    22.4804874158,
+    22.6898027413,
+    22.6898027413,
+    23.2292939552
+  ],
+  "indices": [
+    1,
+    507,
+    0,
+    731,
+    501,
+    210,
+    226,
+    355,
+    278,
+    450
+  ],
+  "name": "trip_1,3-dimethylbutylamine",
+  "svg": "trip_1,3-dimethylbutylamine.svg",
+  "sim": [
+    {
+      "name": "trip_1,3-dimethylbutylamine",
+      "psychonaut_name": "1,3-dimethylbutylamine",
+      "tripsit_name": null,
+      "dist": 1.168e-06
+    },
+    {
+      "name": "psyc_dmaa",
+      "psychonaut_name": null,
+      "tripsit_name": "dmaa",
+      "dist": 8.6081679479
+    },
+    {
+      "name": "trip_1,3-DMAA",
+      "psychonaut_name": "1,3-DMAA",
+      "tripsit_name": null,
+      "dist": 8.6081679479
+    },
+    {
+      "name": "psyc_thiopropamine",
+      "psychonaut_name": null,
+      "tripsit_name": "thiopropamine",
+      "dist": 20.2761257852
+    },
+    {
+      "name": "psyc_met",
+      "psychonaut_name": null,
+      "tripsit_name": "met",
+      "dist": 22.308202848
+    },
+    {
+      "name": "trip_MET",
+      "psychonaut_name": "MET",
+      "tripsit_name": null,
+      "dist": 22.308202848
+    },
+    {
+      "name": "trip_Methiopropamine",
+      "psychonaut_name": "Methiopropamine",
+      "tripsit_name": null,
+      "dist": 22.4804874158
+    },
+    {
+      "name": "psyc_pregabalin",
+      "psychonaut_name": null,
+      "tripsit_name": "pregabalin",
+      "dist": 22.6898027413
+    },
+    {
+      "name": "trip_Pregabalin",
+      "psychonaut_name": "Pregabalin",
+      "tripsit_name": null,
+      "dist": 22.6898027413
+    },
+    {
+      "name": "psyc_gaba",
+      "psychonaut_name": null,
+      "tripsit_name": "gaba",
+      "dist": 23.2292939552
+    }
+  ]
+}

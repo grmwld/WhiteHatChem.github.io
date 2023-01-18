@@ -1,0 +1,96 @@
+{
+  "inchi": "InChI=1S/C24H31NO/c1-3-23(26)24(21-13-7-4-8-14-21,22-15-9-5-10-16-22)19-20(2)25-17-11-6-12-18-25/h4-5,7-10,13-16,20H,3,6,11-12,17-19H2,1-2H3",
+  "psychonaut_name": null,
+  "tripsit_name": "dipipanone",
+  "synonyms": [
+    "diconal"
+  ],
+  "distances": [
+    0.0,
+    23.8741422968,
+    23.8741422968,
+    24.1075091428,
+    24.9950910708,
+    25.1271072946,
+    25.1271072946,
+    25.2571709148,
+    25.5188756158,
+    25.7399444205
+  ],
+  "indices": [
+    714,
+    348,
+    172,
+    687,
+    612,
+    97,
+    337,
+    350,
+    720,
+    629
+  ],
+  "name": "psyc_dipipanone",
+  "svg": "psyc_dipipanone.svg",
+  "sim": [
+    {
+      "name": "psyc_dipipanone",
+      "psychonaut_name": null,
+      "tripsit_name": "dipipanone",
+      "dist": 0.0
+    },
+    {
+      "name": "psyc_fentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "fentanyl",
+      "dist": 23.8741422968
+    },
+    {
+      "name": "trip_Fentanyl",
+      "psychonaut_name": "Fentanyl",
+      "tripsit_name": null,
+      "dist": 23.8741422968
+    },
+    {
+      "name": "psyc_parafluorofentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "parafluorofentanyl",
+      "dist": 24.1075091428
+    },
+    {
+      "name": "psyc_methoxyacetyl-fentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "methoxyacetyl-fentanyl",
+      "dist": 24.9950910708
+    },
+    {
+      "name": "trip_Acetylfentanyl",
+      "psychonaut_name": "Acetylfentanyl",
+      "tripsit_name": null,
+      "dist": 25.1271072946
+    },
+    {
+      "name": "psyc_acetylfentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "acetylfentanyl",
+      "dist": 25.1271072946
+    },
+    {
+      "name": "psyc_butyrfentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "butyrfentanyl",
+      "dist": 25.2571709148
+    },
+    {
+      "name": "psyc_palfium",
+      "psychonaut_name": null,
+      "tripsit_name": "palfium",
+      "dist": 25.5188756158
+    },
+    {
+      "name": "psyc_methoxphenidine",
+      "psychonaut_name": null,
+      "tripsit_name": "methoxphenidine",
+      "dist": 25.7399444205
+    }
+  ]
+}

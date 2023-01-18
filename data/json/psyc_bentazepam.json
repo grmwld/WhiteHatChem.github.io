@@ -1,0 +1,97 @@
+{
+  "inchi": "InChI=1S/C17H16N2OS/c20-14-10-18-16(11-6-2-1-3-7-11)15-12-8-4-5-9-13(12)21-17(15)19-14/h1-3,6-7H,4-5,8-10H2,(H,19,20)",
+  "psychonaut_name": null,
+  "tripsit_name": "bentazepam",
+  "synonyms": [
+    "thiadipone",
+    "tiadipona"
+  ],
+  "distances": [
+    1.3487e-06,
+    24.3764848306,
+    24.5598025018,
+    24.6994173668,
+    24.855311284,
+    24.855311284,
+    24.9375501742,
+    25.0169290826,
+    25.0169290826,
+    25.48976199
+  ],
+  "indices": [
+    390,
+    527,
+    442,
+    539,
+    269,
+    439,
+    805,
+    174,
+    615,
+    725
+  ],
+  "name": "psyc_bentazepam",
+  "svg": "psyc_bentazepam.svg",
+  "sim": [
+    {
+      "name": "psyc_bentazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "bentazepam",
+      "dist": 1.3487e-06
+    },
+    {
+      "name": "psyc_bromazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "bromazepam",
+      "dist": 24.3764848306
+    },
+    {
+      "name": "psyc_nordazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "nordazepam",
+      "dist": 24.5598025018
+    },
+    {
+      "name": "psyc_norflurazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "norflurazepam",
+      "dist": 24.6994173668
+    },
+    {
+      "name": "trip_Phenazepam",
+      "psychonaut_name": "Phenazepam",
+      "tripsit_name": null,
+      "dist": 24.855311284
+    },
+    {
+      "name": "psyc_phenazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "phenazepam",
+      "dist": 24.855311284
+    },
+    {
+      "name": "psyc_clotiazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "clotiazepam",
+      "dist": 24.9375501742
+    },
+    {
+      "name": "trip_Flubromazepam",
+      "psychonaut_name": "Flubromazepam",
+      "tripsit_name": null,
+      "dist": 25.0169290826
+    },
+    {
+      "name": "psyc_flubromazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "flubromazepam",
+      "dist": 25.0169290826
+    },
+    {
+      "name": "psyc_delorazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "delorazepam",
+      "dist": 25.48976199
+    }
+  ]
+}

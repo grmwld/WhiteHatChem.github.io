@@ -1,0 +1,128 @@
+{
+  "inchi": "InChI=1S/C10H13N/c1-11-10-6-8-4-2-3-5-9(8)7-10/h2-5,10-11H,6-7H2,1H3",
+  "psychonaut_name": "NM-2-AI",
+  "tripsit_name": null,
+  "synonyms": [
+    "N-Methyl-2-aminoindane",
+    "ZINC27860957",
+    "Indan-2-yl -methyl-amine",
+    "D86972",
+    "STK501614",
+    "N-methyl-2,3-dihydro-1H-inden-2-amine",
+    "24445-44-1",
+    "N-2,3-dihydro-1H-inden-2-yl-N-methylamine",
+    "INDAN-2-YL-METHYLAMINE",
+    "EN300-52709",
+    "DTXSID901010100",
+    "MFCD12027038",
+    "CHEMBL1188235",
+    "2-(N-methyl)aminoindan",
+    "JPC-6811",
+    "AB18567",
+    "AB01206867-03",
+    "N-Methyl-2-indanamine",
+    "ZLW84Y27HG",
+    "JPC 6811",
+    "ALBB-005169",
+    "NM-2-AI",
+    "1H-Inden-2-amine, 2,3-dihydro-N-methyl-",
+    "SCHEMBL714537",
+    "2,3-Dihydro-1H-Inden-2-Yl(Methyl)Amine(Saltdata: Hcl)",
+    "n-methyl-2-aminoindane",
+    "N-Methylindan-2-amine",
+    "NM2AI",
+    "NCGC00337276-01",
+    "Z802665896",
+    "UNII-ZLW84Y27HG",
+    "AKOS005171377",
+    "Q20707155"
+  ],
+  "distances": [
+    1.3487e-06,
+    1.3487e-06,
+    11.4516973712,
+    11.4516973712,
+    15.7715645557,
+    16.5449798623,
+    18.0715621866,
+    18.0715621866,
+    19.5527264735,
+    19.8403940322
+  ],
+  "indices": [
+    693,
+    245,
+    416,
+    11,
+    589,
+    328,
+    247,
+    763,
+    451,
+    477
+  ],
+  "name": "trip_NM-2-AI",
+  "svg": "trip_NM-2-AI.svg",
+  "sim": [
+    {
+      "name": "psyc_nm-2-ai",
+      "psychonaut_name": null,
+      "tripsit_name": "nm-2-ai",
+      "dist": 1.3487e-06
+    },
+    {
+      "name": "trip_NM-2-AI",
+      "psychonaut_name": "NM-2-AI",
+      "tripsit_name": null,
+      "dist": 1.3487e-06
+    },
+    {
+      "name": "psyc_2-ai",
+      "psychonaut_name": null,
+      "tripsit_name": "2-ai",
+      "dist": 11.4516973712
+    },
+    {
+      "name": "trip_2-Aminoindane",
+      "psychonaut_name": "2-Aminoindane",
+      "tripsit_name": null,
+      "dist": 11.4516973712
+    },
+    {
+      "name": "psyc_5-iai",
+      "psychonaut_name": null,
+      "tripsit_name": "5-iai",
+      "dist": 15.7715645557
+    },
+    {
+      "name": "psyc_mephtetramine",
+      "psychonaut_name": null,
+      "tripsit_name": "mephtetramine",
+      "dist": 16.5449798623
+    },
+    {
+      "name": "trip_Nicotine",
+      "psychonaut_name": "Nicotine",
+      "tripsit_name": null,
+      "dist": 18.0715621866
+    },
+    {
+      "name": "psyc_nicotine",
+      "psychonaut_name": null,
+      "tripsit_name": "nicotine",
+      "dist": 18.0715621866
+    },
+    {
+      "name": "psyc_aminorex",
+      "psychonaut_name": null,
+      "tripsit_name": "aminorex",
+      "dist": 19.5527264735
+    },
+    {
+      "name": "psyc_isophenmetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "isophenmetrazine",
+      "dist": 19.8403940322
+    }
+  ]
+}

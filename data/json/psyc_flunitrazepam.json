@@ -1,0 +1,97 @@
+{
+  "inchi": "InChI=1S/C16H12FN3O3/c1-19-14-7-6-10(20(22)23)8-12(14)16(18-9-15(19)21)11-4-2-3-5-13(11)17/h2-8H,9H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "flunitrazepam",
+  "synonyms": [
+    "roofies",
+    "rohypnol"
+  ],
+  "distances": [
+    3.3036e-06,
+    3.3036e-06,
+    8.0848282942,
+    16.4052743385,
+    17.3458428847,
+    17.4334751529,
+    17.4334751529,
+    17.7026181801,
+    18.0133337862,
+    18.0133337862
+  ],
+  "indices": [
+    177,
+    382,
+    712,
+    774,
+    724,
+    178,
+    394,
+    356,
+    400,
+    124
+  ],
+  "name": "psyc_flunitrazepam",
+  "svg": "psyc_flunitrazepam.svg",
+  "sim": [
+    {
+      "name": "trip_Flunitrazepam",
+      "psychonaut_name": "Flunitrazepam",
+      "tripsit_name": null,
+      "dist": 3.3036e-06
+    },
+    {
+      "name": "psyc_flunitrazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "flunitrazepam",
+      "dist": 3.3036e-06
+    },
+    {
+      "name": "psyc_nimetazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "nimetazepam",
+      "dist": 8.0848282942
+    },
+    {
+      "name": "psyc_desmethylflunitrazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "desmethylflunitrazepam",
+      "dist": 16.4052743385
+    },
+    {
+      "name": "psyc_nitemazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "nitemazepam",
+      "dist": 17.3458428847
+    },
+    {
+      "name": "trip_Flunitrazolam",
+      "psychonaut_name": "Flunitrazolam",
+      "tripsit_name": null,
+      "dist": 17.4334751529
+    },
+    {
+      "name": "psyc_flunitrazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "flunitrazolam",
+      "dist": 17.4334751529
+    },
+    {
+      "name": "psyc_nitrazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "nitrazolam",
+      "dist": 17.7026181801
+    },
+    {
+      "name": "psyc_clonazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "clonazepam",
+      "dist": 18.0133337862
+    },
+    {
+      "name": "trip_Clonazepam",
+      "psychonaut_name": "Clonazepam",
+      "tripsit_name": null,
+      "dist": 18.0133337862
+    }
+  ]
+}

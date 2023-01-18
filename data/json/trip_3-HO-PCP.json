@@ -1,0 +1,117 @@
+{
+  "inchi": "InChI=1S/C17H25NO/c19-16-9-7-8-15(14-16)17(10-3-1-4-11-17)18-12-5-2-6-13-18/h7-9,14,19H,1-6,10-13H2",
+  "psychonaut_name": "3-HO-PCP",
+  "tripsit_name": null,
+  "synonyms": [
+    "CHEMBL123708",
+    "3-(1-(1-PIPERIDINYL)CYCLOHEXYL)PHENOL",
+    "Phenol, 3-(1-(1-piperidinyl)cyclohexyl)-",
+    "3-OH-PCP",
+    "1-[1(3-hydroxyphenyl)cyclo-hexyl]pip eridine",
+    "79787-43-2",
+    "3-HYDROXY PCP",
+    "3-(1-(PIPERIDIN-1-YL)CYCLOHEXYL)PHENOL",
+    "1-(1-(3-HYDROXYPHENYL)CYCLOHEXYL)PIPERIDINE",
+    "3-HYDROXY PCP [NFLIS-DRUG]",
+    "1-(Piperidin-1-yl)-1-(3-hydroxyphenyl)cyclohexane",
+    "3-(1-piperidin-1-ylcyclohexyl)phenol",
+    "V886QLHNA6",
+    "DTXSID20229918",
+    "Q20707014",
+    "3-Hydroxyphencyclidine",
+    "1-(1-(3-Hydroxyphenyl)-cyclohexyl)piperidine",
+    "3-HO-PCP",
+    "UNII-V886QLHNA6",
+    "Pcp-3-OH",
+    "N-(1-(3-HYDROXYPHENYL)CYCLOHEXYL)PIPERIDINE",
+    "3-Hydroxy-PCP"
+  ],
+  "distances": [
+    2.6974e-06,
+    2.6974e-06,
+    8.2743614481,
+    8.709614004,
+    8.709614004,
+    8.953961771,
+    9.9167671092,
+    10.8515136366,
+    10.8515136366,
+    10.9361599346
+  ],
+  "indices": [
+    648,
+    47,
+    49,
+    571,
+    260,
+    41,
+    50,
+    53,
+    478,
+    71
+  ],
+  "name": "trip_3-HO-PCP",
+  "svg": "trip_3-HO-PCP.svg",
+  "sim": [
+    {
+      "name": "psyc_3-ho-pcp",
+      "psychonaut_name": null,
+      "tripsit_name": "3-ho-pcp",
+      "dist": 2.6974e-06
+    },
+    {
+      "name": "trip_3-HO-PCP",
+      "psychonaut_name": "3-HO-PCP",
+      "tripsit_name": null,
+      "dist": 2.6974e-06
+    },
+    {
+      "name": "trip_3-Me-PCP",
+      "psychonaut_name": "3-Me-PCP",
+      "tripsit_name": null,
+      "dist": 8.2743614481
+    },
+    {
+      "name": "psyc_pcp",
+      "psychonaut_name": null,
+      "tripsit_name": "pcp",
+      "dist": 8.709614004
+    },
+    {
+      "name": "trip_PCP",
+      "psychonaut_name": "PCP",
+      "tripsit_name": null,
+      "dist": 8.709614004
+    },
+    {
+      "name": "trip_3-Cl-PCP",
+      "psychonaut_name": "3-Cl-PCP",
+      "tripsit_name": null,
+      "dist": 8.953961771
+    },
+    {
+      "name": "trip_3-Me-PCPy",
+      "psychonaut_name": "3-Me-PCPy",
+      "tripsit_name": null,
+      "dist": 9.9167671092
+    },
+    {
+      "name": "trip_3-MeO-PCP",
+      "psychonaut_name": "3-MeO-PCP",
+      "tripsit_name": null,
+      "dist": 10.8515136366
+    },
+    {
+      "name": "psyc_3-meo-pcp",
+      "psychonaut_name": null,
+      "tripsit_name": "3-meo-pcp",
+      "dist": 10.8515136366
+    },
+    {
+      "name": "trip_4-MeO-PCP",
+      "psychonaut_name": "4-MeO-PCP",
+      "tripsit_name": null,
+      "dist": 10.9361599346
+    }
+  ]
+}

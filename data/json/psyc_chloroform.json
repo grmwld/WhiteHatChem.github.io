@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/CHCl3/c2-1(3)4/h1H",
+  "psychonaut_name": null,
+  "tripsit_name": "chloroform",
+  "synonyms": null,
+  "distances": [
+    7.539e-07,
+    20.797812655,
+    20.797812655,
+    24.792785038,
+    24.792785038,
+    25.2985602531,
+    25.9265790262,
+    25.9265790262,
+    26.1159628976,
+    27.9957620956
+  ],
+  "indices": [
+    540,
+    546,
+    99,
+    338,
+    179,
+    346,
+    249,
+    766,
+    757,
+    39
+  ],
+  "name": "psyc_chloroform",
+  "svg": "psyc_chloroform.svg",
+  "sim": [
+    {
+      "name": "psyc_chloroform",
+      "psychonaut_name": null,
+      "tripsit_name": "chloroform",
+      "dist": 7.539e-07
+    },
+    {
+      "name": "psyc_alcohol",
+      "psychonaut_name": null,
+      "tripsit_name": "alcohol",
+      "dist": 20.797812655
+    },
+    {
+      "name": "trip_Alcohol",
+      "psychonaut_name": "Alcohol",
+      "tripsit_name": null,
+      "dist": 20.797812655
+    },
+    {
+      "name": "psyc_gbl",
+      "psychonaut_name": null,
+      "tripsit_name": "gbl",
+      "dist": 24.792785038
+    },
+    {
+      "name": "trip_GBL",
+      "psychonaut_name": "GBL",
+      "tripsit_name": null,
+      "dist": 24.792785038
+    },
+    {
+      "name": "psyc_halothane",
+      "psychonaut_name": null,
+      "tripsit_name": "halothane",
+      "dist": 25.2985602531
+    },
+    {
+      "name": "trip_Nitrous",
+      "psychonaut_name": "Nitrous",
+      "tripsit_name": null,
+      "dist": 25.9265790262
+    },
+    {
+      "name": "psyc_nitrous",
+      "psychonaut_name": null,
+      "tripsit_name": "nitrous",
+      "dist": 25.9265790262
+    },
+    {
+      "name": "psyc_diethyl-ether",
+      "psychonaut_name": null,
+      "tripsit_name": "diethyl-ether",
+      "dist": 26.1159628976
+    },
+    {
+      "name": "trip_2M2B",
+      "psychonaut_name": "2M2B",
+      "tripsit_name": null,
+      "dist": 27.9957620956
+    }
+  ]
+}

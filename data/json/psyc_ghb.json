@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C4H8O3/c5-3-1-2-4(6)7/h5H,1-3H2,(H,6,7)",
+  "psychonaut_name": null,
+  "tripsit_name": "ghb",
+  "synonyms": null,
+  "distances": [
+    6.743e-07,
+    6.743e-07,
+    9.7736732461,
+    11.9260614527,
+    11.9260614527,
+    20.2419161261,
+    20.2419161261,
+    20.7051163547,
+    21.9511856906,
+    22.510279363
+  ],
+  "indices": [
+    353,
+    180,
+    450,
+    579,
+    2,
+    210,
+    501,
+    130,
+    757,
+    99
+  ],
+  "name": "psyc_ghb",
+  "svg": "psyc_ghb.svg",
+  "sim": [
+    {
+      "name": "psyc_ghb",
+      "psychonaut_name": null,
+      "tripsit_name": "ghb",
+      "dist": 6.743e-07
+    },
+    {
+      "name": "trip_GHB",
+      "psychonaut_name": "GHB",
+      "tripsit_name": null,
+      "dist": 6.743e-07
+    },
+    {
+      "name": "psyc_gaba",
+      "psychonaut_name": null,
+      "tripsit_name": "gaba",
+      "dist": 9.7736732461
+    },
+    {
+      "name": "psyc_1,4-butanediol",
+      "psychonaut_name": null,
+      "tripsit_name": "1,4-butanediol",
+      "dist": 11.9260614527
+    },
+    {
+      "name": "trip_1,4-Butanediol",
+      "psychonaut_name": "1,4-Butanediol",
+      "tripsit_name": null,
+      "dist": 11.9260614527
+    },
+    {
+      "name": "trip_MET",
+      "psychonaut_name": "MET",
+      "tripsit_name": null,
+      "dist": 20.2419161261
+    },
+    {
+      "name": "psyc_met",
+      "psychonaut_name": null,
+      "tripsit_name": "met",
+      "dist": 20.2419161261
+    },
+    {
+      "name": "trip_Creatine",
+      "psychonaut_name": "Creatine",
+      "tripsit_name": null,
+      "dist": 20.7051163547
+    },
+    {
+      "name": "psyc_diethyl-ether",
+      "psychonaut_name": null,
+      "tripsit_name": "diethyl-ether",
+      "dist": 21.9511856906
+    },
+    {
+      "name": "trip_Alcohol",
+      "psychonaut_name": "Alcohol",
+      "tripsit_name": null,
+      "dist": 22.510279363
+    }
+  ]
+}

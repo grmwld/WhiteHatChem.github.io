@@ -1,0 +1,144 @@
+{
+  "inchi": "InChI=1S/C23H21NO/c1-2-3-15-24-16-21(19-12-6-7-14-22(19)24)23(25)20-13-8-10-17-9-4-5-11-18(17)20/h4-14,16H,2-3,15H2,1H3",
+  "psychonaut_name": "JWH-073",
+  "tripsit_name": null,
+  "synonyms": [
+    "DTXSID20175042",
+    "CCG-208716",
+    "JWH-073; JWH073",
+    "naphthalen-1-yl-(1-butylindol-3-yl)methanone",
+    "A14167",
+    "JWH073",
+    "1-naphthalenyl(1-butyl-1h-indol-3-yl)methanone",
+    "CS-0827",
+    "JWH-073",
+    "PDSP2_000253",
+    "1-Butyl-3-(1-naphthoyl)indole",
+    "BCP24000",
+    "CTDP-32476 HCl",
+    "928046-68-8",
+    "(1-butylindol-3-yl)-naphthalen-1-ylmethanone",
+    "AKOS005146537",
+    "1-Butyl-3-(1-naphthoyl) indole",
+    "1-Naphthyl(1-butyl-1H-indole-3-yl)methanone",
+    "JWH-073 (methanol solution)",
+    "ZINC38928174",
+    "10.14272/VCHHHSMPMLNVGS-UHFFFAOYSA-N.1",
+    "Methanone, (1-butyl-1H-indol-3-yl)-1-naphthalenyl-",
+    "CHEBI:181123",
+    "ACT06672",
+    "(1-Butyl-1h-Indol-3-Yl)(Naphthalen-1-Yl)Methanone",
+    "1-Butyl-3-(1-naphthoyl)-1H-indole",
+    "PDSP1_000254",
+    "J2.856.750B",
+    "doi:10.14272/VCHHHSMPMLNVGS-UHFFFAOYSA-N.1",
+    "(1-butyl-1H-indole-3-yl)-1-naphthalenyl methanone",
+    "Q423476",
+    "HSDB 7999",
+    "JWH 073",
+    "HY-32733",
+    "DEA No.7173",
+    "987B488",
+    "Naphthaten-1-yl-(1-butylindol-3-yl)methanone",
+    "(1-BUTYL-1H-INDOLE-3-YL)(NAPHTHALENE-1-YL)METHANONE",
+    "CHEMBL2380416",
+    "FT-0664154",
+    "SCHEMBL11983320",
+    "(1-butyl-1H-indol-3-yl)(naphthalen-1-yl)methanone;JWH-073",
+    "BBX3BP2772",
+    "UNII-BBX3BP2772",
+    "208987-48-8",
+    "JWH-073 solution, 100 mug/mL in acetonitrile, ampule of 1 mL, (Spice Cannabinoid), certified reference material",
+    "FT-0664155",
+    "BDBM85804",
+    "NCGC00378993-02"
+  ],
+  "distances": [
+    2.6974e-06,
+    5.8999273781,
+    9.7263691465,
+    14.2200468373,
+    15.4156720365,
+    18.6020858415,
+    18.6020858415,
+    19.895027866,
+    23.3225370589,
+    23.3225370589
+  ],
+  "indices": [
+    194,
+    193,
+    297,
+    432,
+    298,
+    587,
+    87,
+    606,
+    810,
+    109
+  ],
+  "name": "trip_JWH-073",
+  "svg": "trip_JWH-073.svg",
+  "sim": [
+    {
+      "name": "trip_JWH-073",
+      "psychonaut_name": "JWH-073",
+      "tripsit_name": null,
+      "dist": 2.6974e-06
+    },
+    {
+      "name": "trip_JWH-018",
+      "psychonaut_name": "JWH-018",
+      "tripsit_name": null,
+      "dist": 5.8999273781
+    },
+    {
+      "name": "trip_THJ-018",
+      "psychonaut_name": "THJ-018",
+      "tripsit_name": null,
+      "dist": 9.7263691465
+    },
+    {
+      "name": "psyc_am-2201",
+      "psychonaut_name": null,
+      "tripsit_name": "am-2201",
+      "dist": 14.2200468373
+    },
+    {
+      "name": "trip_THJ-2201",
+      "psychonaut_name": "THJ-2201",
+      "tripsit_name": null,
+      "dist": 15.4156720365
+    },
+    {
+      "name": "psyc_5f-pb-22",
+      "psychonaut_name": null,
+      "tripsit_name": "5f-pb-22",
+      "dist": 18.6020858415
+    },
+    {
+      "name": "trip_5F-PB-22",
+      "psychonaut_name": "5F-PB-22",
+      "tripsit_name": null,
+      "dist": 18.6020858415
+    },
+    {
+      "name": "psyc_amfonelicacid",
+      "psychonaut_name": null,
+      "tripsit_name": "amfonelicacid",
+      "dist": 19.895027866
+    },
+    {
+      "name": "psyc_benzydamine",
+      "psychonaut_name": null,
+      "tripsit_name": "benzydamine",
+      "dist": 23.3225370589
+    },
+    {
+      "name": "trip_Benzydamine",
+      "psychonaut_name": "Benzydamine",
+      "tripsit_name": null,
+      "dist": 23.3225370589
+    }
+  ]
+}

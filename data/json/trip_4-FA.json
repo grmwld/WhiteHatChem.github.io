@@ -1,0 +1,143 @@
+{
+  "inchi": "InChI=1S/C9H12FN/c1-7(11)6-8-2-4-9(10)5-3-8/h2-5,7H,6,11H2,1H3",
+  "psychonaut_name": "4-FA",
+  "tripsit_name": null,
+  "synonyms": [
+    "AB76425",
+    "p-Fluoro-.alpha.-methylphenethylamine",
+    "AKOS000148841",
+    "1-(4-FLUOROPHENYL)-2-PROPYLAMINE",
+    "788123-23-9",
+    "J50.057G",
+    "SCHEMBL712487",
+    "PAL-303",
+    "4-Fluoroamphetamine",
+    "4-Fluoro-alpha-methylphenethylamine",
+    "AKOS022196416",
+    "NCI60_042091",
+    "(RS)-1-(4-FLUOROPHENYL)PROPAN-2-AMINE",
+    "4-FMP",
+    "72522-20-4",
+    "AC-26261",
+    "PHENETHYLAMINE, p-FLUORO-alpha-METHYL-",
+    "S5744XYR1Z",
+    "(+/-)-P-FLUOROAMPHETAMINE",
+    "4-Fluoro-.alpha.-methylphenethylamine",
+    "Benzeneethanamine, 4-fluoro-.alpha.-methyl-",
+    "4F-AMP",
+    "Q229962",
+    "AB76433",
+    "A826922",
+    "1-(4-Fluorophenyl)-2-propanamine #",
+    "DTXSID90894758",
+    "(1S)-2-(4-FLUOROPHENYL)-1-METHYLETHYLAMINE",
+    "DB-070693",
+    "CHEMBL2009392",
+    "1-(4-fluorophenyl)propan-2-amine",
+    "(1R)-2-(4-FLUOROPHENYL)-1-METHYLETHYLAMINE",
+    "4-FA",
+    "NCIOpen2_001428",
+    "(+-)-p-Fluoroamphetamine",
+    "2-(4-Fluoro-phenyl)-1-methyl-ethylamine",
+    "459-02-9",
+    "Phenethylamine, p-fluoro-.alpha.-methyl-",
+    "1-(4-FLUOROPHENYL)-2-PROPANEAMINE",
+    "459F029",
+    "1-(4-Fluorophenyl)propane-2-amine",
+    "UNII-S5744XYR1Z",
+    "PFA",
+    "(+/-)-2-(4-fluoro-phenyl)-1-methyl-ethyl-amine",
+    "Benzeneethanamine, p-fluoro-alpha-methyl-",
+    "p-Fluoro-alpha-methylphenethylamine",
+    "p-Fluoroamphetamine",
+    "EN300-43954"
+  ],
+  "distances": [
+    1.5079e-06,
+    1.5079e-06,
+    1.9697516179,
+    1.9697516179,
+    4.168871309,
+    4.168871309,
+    8.4945180831,
+    8.4945180831,
+    8.4945180831,
+    9.1798520597
+  ],
+  "indices": [
+    433,
+    61,
+    42,
+    352,
+    752,
+    12,
+    144,
+    703,
+    741,
+    329
+  ],
+  "name": "trip_4-FA",
+  "svg": "trip_4-FA.svg",
+  "sim": [
+    {
+      "name": "psyc_4-fa",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fa",
+      "dist": 1.5079e-06
+    },
+    {
+      "name": "trip_4-FA",
+      "psychonaut_name": "4-FA",
+      "tripsit_name": null,
+      "dist": 1.5079e-06
+    },
+    {
+      "name": "trip_3-FA",
+      "psychonaut_name": "3-FA",
+      "tripsit_name": null,
+      "dist": 1.9697516179
+    },
+    {
+      "name": "psyc_3-fa",
+      "psychonaut_name": null,
+      "tripsit_name": "3-fa",
+      "dist": 1.9697516179
+    },
+    {
+      "name": "psyc_2-fa",
+      "psychonaut_name": null,
+      "tripsit_name": "2-fa",
+      "dist": 4.168871309
+    },
+    {
+      "name": "trip_2-FA",
+      "psychonaut_name": "2-FA",
+      "tripsit_name": null,
+      "dist": 4.168871309
+    },
+    {
+      "name": "trip_Dexamphetamine",
+      "psychonaut_name": "Dexamphetamine",
+      "tripsit_name": null,
+      "dist": 8.4945180831
+    },
+    {
+      "name": "psyc_dexedrine",
+      "psychonaut_name": null,
+      "tripsit_name": "dexedrine",
+      "dist": 8.4945180831
+    },
+    {
+      "name": "psyc_amphetamine",
+      "psychonaut_name": null,
+      "tripsit_name": "amphetamine",
+      "dist": 8.4945180831
+    },
+    {
+      "name": "psyc_2-methylamphetamine",
+      "psychonaut_name": null,
+      "tripsit_name": "2-methylamphetamine",
+      "dist": 9.1798520597
+    }
+  ]
+}

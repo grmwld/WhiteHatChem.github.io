@@ -1,0 +1,96 @@
+{
+  "inchi": "InChI=1S/C14H20N2O/c1-10(2)15-7-6-11-9-16-14-5-4-12(17-3)8-13(11)14/h4-5,8-10,15-16H,6-7H2,1-3H3",
+  "psychonaut_name": null,
+  "tripsit_name": "5-meo-nipt",
+  "synonyms": [
+    "5meonipt"
+  ],
+  "distances": [
+    2.336e-06,
+    13.7206846363,
+    13.7206846363,
+    14.1964131728,
+    14.7099105955,
+    14.7099105955,
+    15.7525216158,
+    15.7525216158,
+    16.3937089344,
+    16.3937089344
+  ],
+  "indices": [
+    819,
+    326,
+    84,
+    470,
+    85,
+    764,
+    235,
+    443,
+    836,
+    69
+  ],
+  "name": "psyc_5-meo-nipt",
+  "svg": "psyc_5-meo-nipt.svg",
+  "sim": [
+    {
+      "name": "psyc_5-meo-nipt",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-nipt",
+      "dist": 2.336e-06
+    },
+    {
+      "name": "psyc_5-meo-mipt",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-mipt",
+      "dist": 13.7206846363
+    },
+    {
+      "name": "trip_5-MeO-MiPT",
+      "psychonaut_name": "5-MeO-MiPT",
+      "tripsit_name": null,
+      "dist": 13.7206846363
+    },
+    {
+      "name": "psyc_4-meo-mipt",
+      "psychonaut_name": null,
+      "tripsit_name": "4-meo-mipt",
+      "dist": 14.1964131728
+    },
+    {
+      "name": "trip_5-MeO-aMT",
+      "psychonaut_name": "5-MeO-aMT",
+      "tripsit_name": null,
+      "dist": 14.7099105955
+    },
+    {
+      "name": "psyc_5-meo-amt",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-amt",
+      "dist": 14.7099105955
+    },
+    {
+      "name": "trip_MiPT",
+      "psychonaut_name": "MiPT",
+      "tripsit_name": null,
+      "dist": 15.7525216158
+    },
+    {
+      "name": "psyc_mipt",
+      "psychonaut_name": null,
+      "tripsit_name": "mipt",
+      "dist": 15.7525216158
+    },
+    {
+      "name": "psyc_4-ho-mipt",
+      "psychonaut_name": null,
+      "tripsit_name": "4-ho-mipt",
+      "dist": 16.3937089344
+    },
+    {
+      "name": "trip_4-HO-MiPT",
+      "psychonaut_name": "4-HO-MiPT",
+      "tripsit_name": null,
+      "dist": 16.3937089344
+    }
+  ]
+}

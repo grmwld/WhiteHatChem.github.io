@@ -1,0 +1,97 @@
+{
+  "inchi": "InChI=1S/C14H21NO3/c1-16-12-7-11(5-6-15)8-13(17-2)14(12)18-9-10-3-4-10/h7-8,10H,3-6,9,15H2,1-2H3",
+  "psychonaut_name": null,
+  "tripsit_name": "cyclopropylmescaline",
+  "synonyms": [
+    "cpm",
+    "4-cyclopropylmethoxy-3"
+  ],
+  "distances": [
+    1.3487e-06,
+    14.6750861768,
+    14.6750861768,
+    14.7799487196,
+    14.7799487196,
+    17.1091975233,
+    17.1091975233,
+    17.3860100641,
+    17.3860100641,
+    17.7686557785
+  ],
+  "indices": [
+    444,
+    715,
+    283,
+    163,
+    728,
+    220,
+    620,
+    34,
+    421,
+    717
+  ],
+  "name": "psyc_cyclopropylmescaline",
+  "svg": "psyc_cyclopropylmescaline.svg",
+  "sim": [
+    {
+      "name": "psyc_cyclopropylmescaline",
+      "psychonaut_name": null,
+      "tripsit_name": "cyclopropylmescaline",
+      "dist": 1.3487e-06
+    },
+    {
+      "name": "psyc_proscaline",
+      "psychonaut_name": null,
+      "tripsit_name": "proscaline",
+      "dist": 14.6750861768
+    },
+    {
+      "name": "trip_Proscaline",
+      "psychonaut_name": "Proscaline",
+      "tripsit_name": null,
+      "dist": 14.6750861768
+    },
+    {
+      "name": "trip_Escaline",
+      "psychonaut_name": "Escaline",
+      "tripsit_name": null,
+      "dist": 14.7799487196
+    },
+    {
+      "name": "psyc_escaline",
+      "psychonaut_name": null,
+      "tripsit_name": "escaline",
+      "dist": 14.7799487196
+    },
+    {
+      "name": "trip_Mescaline",
+      "psychonaut_name": "Mescaline",
+      "tripsit_name": null,
+      "dist": 17.1091975233
+    },
+    {
+      "name": "psyc_mescaline",
+      "psychonaut_name": null,
+      "tripsit_name": "mescaline",
+      "dist": 17.1091975233
+    },
+    {
+      "name": "trip_2C-P",
+      "psychonaut_name": "2C-P",
+      "tripsit_name": null,
+      "dist": 17.3860100641
+    },
+    {
+      "name": "psyc_2c-p",
+      "psychonaut_name": null,
+      "tripsit_name": "2c-p",
+      "dist": 17.3860100641
+    },
+    {
+      "name": "psyc_isoproscaline",
+      "psychonaut_name": null,
+      "tripsit_name": "isoproscaline",
+      "dist": 17.7686557785
+    }
+  ]
+}

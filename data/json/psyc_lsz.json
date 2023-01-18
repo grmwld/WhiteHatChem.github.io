@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C21H25N3O/c1-12-7-13(2)24(12)21(25)15-8-17-16-5-4-6-18-20(16)14(10-22-18)9-19(17)23(3)11-15/h4-6,8,10,12-13,15,19,22H,7,9,11H2,1-3H3/t12-,13-,15+,19+/m0/s1",
+  "psychonaut_name": null,
+  "tripsit_name": "lsz",
+  "synonyms": null,
+  "distances": [
+    1.9073e-06,
+    1.9073e-06,
+    21.0560434107,
+    21.0560434107,
+    24.7135777518,
+    26.8678497029,
+    27.4890014849,
+    27.4890014849,
+    27.4890014849,
+    27.825904205
+  ],
+  "indices": [
+    201,
+    635,
+    598,
+    200,
+    234,
+    197,
+    722,
+    199,
+    191,
+    190
+  ],
+  "name": "psyc_lsz",
+  "svg": "psyc_lsz.svg",
+  "sim": [
+    {
+      "name": "trip_LSZ",
+      "psychonaut_name": "LSZ",
+      "tripsit_name": null,
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "psyc_lsz",
+      "psychonaut_name": null,
+      "tripsit_name": "lsz",
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "psyc_lsm-775",
+      "psychonaut_name": null,
+      "tripsit_name": "lsm-775",
+      "dist": 21.0560434107
+    },
+    {
+      "name": "trip_LSM-775",
+      "psychonaut_name": "LSM-775",
+      "tripsit_name": null,
+      "dist": 21.0560434107
+    },
+    {
+      "name": "trip_MiPLA",
+      "psychonaut_name": "MiPLA",
+      "tripsit_name": null,
+      "dist": 24.7135777518
+    },
+    {
+      "name": "trip_LAE-32",
+      "psychonaut_name": "LAE-32",
+      "tripsit_name": null,
+      "dist": 26.8678497029
+    },
+    {
+      "name": "psyc_lsd",
+      "psychonaut_name": null,
+      "tripsit_name": "lsd",
+      "dist": 27.4890014849
+    },
+    {
+      "name": "trip_LSD",
+      "psychonaut_name": "LSD",
+      "tripsit_name": null,
+      "dist": 27.4890014849
+    },
+    {
+      "name": "trip_Iso-LSD",
+      "psychonaut_name": "Iso-LSD",
+      "tripsit_name": null,
+      "dist": 27.4890014849
+    },
+    {
+      "name": "trip_Ibogaine",
+      "psychonaut_name": "Ibogaine",
+      "tripsit_name": null,
+      "dist": 27.825904205
+    }
+  ]
+}

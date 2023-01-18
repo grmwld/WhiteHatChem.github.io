@@ -1,0 +1,96 @@
+{
+  "inchi": "InChI=1S/C10H12ClNO2/c11-9-3-1-7(2-4-9)8(6-12)5-10(13)14/h1-4,8H,5-6,12H2,(H,13,14)",
+  "psychonaut_name": null,
+  "tripsit_name": "baclofen",
+  "synonyms": [
+    "gablofen"
+  ],
+  "distances": [
+    1.6518e-06,
+    1.6518e-06,
+    7.2015519483,
+    7.2015519483,
+    7.6015898497,
+    7.9459599144,
+    7.9459599144,
+    15.8167964843,
+    19.6671894241,
+    19.6760677993
+  ],
+  "indices": [
+    108,
+    370,
+    170,
+    420,
+    364,
+    785,
+    271,
+    315,
+    825,
+    381
+  ],
+  "name": "psyc_baclofen",
+  "svg": "psyc_baclofen.svg",
+  "sim": [
+    {
+      "name": "trip_Baclofen",
+      "psychonaut_name": "Baclofen",
+      "tripsit_name": null,
+      "dist": 1.6518e-06
+    },
+    {
+      "name": "psyc_baclofen",
+      "psychonaut_name": null,
+      "tripsit_name": "baclofen",
+      "dist": 1.6518e-06
+    },
+    {
+      "name": "trip_F-Phenibut",
+      "psychonaut_name": "F-Phenibut",
+      "tripsit_name": null,
+      "dist": 7.2015519483
+    },
+    {
+      "name": "psyc_fluorophenibut",
+      "psychonaut_name": null,
+      "tripsit_name": "fluorophenibut",
+      "dist": 7.2015519483
+    },
+    {
+      "name": "psyc_tolibut",
+      "psychonaut_name": null,
+      "tripsit_name": "tolibut",
+      "dist": 7.6015898497
+    },
+    {
+      "name": "psyc_phenibut",
+      "psychonaut_name": null,
+      "tripsit_name": "phenibut",
+      "dist": 7.9459599144
+    },
+    {
+      "name": "trip_Phenibut",
+      "psychonaut_name": "Phenibut",
+      "tripsit_name": null,
+      "dist": 7.9459599144
+    },
+    {
+      "name": "trip_Tyrosine",
+      "psychonaut_name": "Tyrosine",
+      "tripsit_name": null,
+      "dist": 15.8167964843
+    },
+    {
+      "name": "psyc_4f-neb",
+      "psychonaut_name": null,
+      "tripsit_name": "4f-neb",
+      "dist": 19.6671894241
+    },
+    {
+      "name": "psyc_4-fluoropentedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fluoropentedrone",
+      "dist": 19.6760677993
+    }
+  ]
+}

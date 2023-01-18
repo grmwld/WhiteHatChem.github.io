@@ -1,0 +1,98 @@
+{
+  "inchi": "InChI=1S/C24H29N3O2/c1-14(2)26(4)23(28)17-10-19-18-6-5-7-20-22(18)16(11-21(19)25(3)12-17)13-27(20)24(29)15-8-9-15/h5-7,10,13-15,17,21H,8-9,11-12H2,1-4H3/t17-,21-/m1/s1",
+  "psychonaut_name": "1cP-MiPLA",
+  "tripsit_name": null,
+  "synonyms": [
+    "1-(Cyclopropanecarbonyl)-N,6-dimethyl-N-(propan-2-yl)-9,10-didehydroergoline-8\u03b2-carboxamide",
+    "(8\u03b2)-1-(Cyclopropanecarbonyl)-N,6-dimethyl-N-(propan-2-yl)-9,10-didehydroergoline-8-carboxamide",
+    "(6aR,9R)-4-(Cyclopropanecarbonyl)-N,7-dimethyl-N-(propan-2-yl)-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide"
+  ],
+  "distances": [
+    3.3036e-06,
+    17.4621626388,
+    17.4621626388,
+    23.4684431155,
+    23.4684431155,
+    24.7313606127,
+    25.8722282068,
+    25.8722282068,
+    27.8295911759,
+    27.8295911759
+  ],
+  "indices": [
+    9,
+    578,
+    8,
+    95,
+    351,
+    234,
+    807,
+    5,
+    3,
+    683
+  ],
+  "name": "trip_1cP-MiPLA",
+  "svg": "trip_1cP-MiPLA.svg",
+  "sim": [
+    {
+      "name": "trip_1cP-MiPLA",
+      "psychonaut_name": "1cP-MiPLA",
+      "tripsit_name": null,
+      "dist": 3.3036e-06
+    },
+    {
+      "name": "psyc_1cp-lsd",
+      "psychonaut_name": null,
+      "tripsit_name": "1cp-lsd",
+      "dist": 17.4621626388
+    },
+    {
+      "name": "trip_1cP-LSD",
+      "psychonaut_name": "1cP-LSD",
+      "tripsit_name": null,
+      "dist": 17.4621626388
+    },
+    {
+      "name": "trip_ALD-52",
+      "psychonaut_name": "ALD-52",
+      "tripsit_name": null,
+      "dist": 23.4684431155
+    },
+    {
+      "name": "psyc_ald-52",
+      "psychonaut_name": null,
+      "tripsit_name": "ald-52",
+      "dist": 23.4684431155
+    },
+    {
+      "name": "trip_MiPLA",
+      "psychonaut_name": "MiPLA",
+      "tripsit_name": null,
+      "dist": 24.7313606127
+    },
+    {
+      "name": "psyc_1p-lsd",
+      "psychonaut_name": null,
+      "tripsit_name": "1p-lsd",
+      "dist": 25.8722282068
+    },
+    {
+      "name": "trip_1P-LSD",
+      "psychonaut_name": "1P-LSD",
+      "tripsit_name": null,
+      "dist": 25.8722282068
+    },
+    {
+      "name": "trip_1B-LSD",
+      "psychonaut_name": "1B-LSD",
+      "tripsit_name": null,
+      "dist": 27.8295911759
+    },
+    {
+      "name": "psyc_1b-lsd",
+      "psychonaut_name": null,
+      "tripsit_name": "1b-lsd",
+      "dist": 27.8295911759
+    }
+  ]
+}

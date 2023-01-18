@@ -1,0 +1,96 @@
+{
+  "inchi": "InChI=1S/C20H22BrNO3/c1-23-17-5-3-2-4-13(17)12-22-9-6-14-15-7-10-25-20(15)18(21)16-8-11-24-19(14)16/h2-5,22H,6-12H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "2c-b-fly-nbome",
+  "synonyms": [
+    "2cbflynbome"
+  ],
+  "distances": [
+    0.0,
+    22.487864973,
+    28.3843779674,
+    28.3843779674,
+    29.2513135305,
+    29.2513135305,
+    30.1611880672,
+    30.3965852125,
+    30.4072355795,
+    30.4072355795
+  ],
+  "indices": [
+    456,
+    341,
+    17,
+    503,
+    19,
+    505,
+    768,
+    696,
+    702,
+    18
+  ],
+  "name": "psyc_2c-b-fly-nbome",
+  "svg": "psyc_2c-b-fly-nbome.svg",
+  "sim": [
+    {
+      "name": "psyc_2c-b-fly-nbome",
+      "psychonaut_name": null,
+      "tripsit_name": "2c-b-fly-nbome",
+      "dist": 0.0
+    },
+    {
+      "name": "psyc_25i-nbmd",
+      "psychonaut_name": null,
+      "tripsit_name": "25i-nbmd",
+      "dist": 22.487864973
+    },
+    {
+      "name": "trip_25B-NBOH",
+      "psychonaut_name": "25B-NBOH",
+      "tripsit_name": null,
+      "dist": 28.3843779674
+    },
+    {
+      "name": "psyc_25b-nboh",
+      "psychonaut_name": null,
+      "tripsit_name": "25b-nboh",
+      "dist": 28.3843779674
+    },
+    {
+      "name": "trip_25C-NBOH",
+      "psychonaut_name": "25C-NBOH",
+      "tripsit_name": null,
+      "dist": 29.2513135305
+    },
+    {
+      "name": "psyc_25c-nboh",
+      "psychonaut_name": null,
+      "tripsit_name": "25c-nboh",
+      "dist": 29.2513135305
+    },
+    {
+      "name": "psyc_paroxetine",
+      "psychonaut_name": null,
+      "tripsit_name": "paroxetine",
+      "dist": 30.1611880672
+    },
+    {
+      "name": "psyc_25i-nbf",
+      "psychonaut_name": null,
+      "tripsit_name": "25i-nbf",
+      "dist": 30.3965852125
+    },
+    {
+      "name": "psyc_25b-nbome",
+      "psychonaut_name": null,
+      "tripsit_name": "25b-nbome",
+      "dist": 30.4072355795
+    },
+    {
+      "name": "trip_25B-NBOMe",
+      "psychonaut_name": "25B-NBOMe",
+      "tripsit_name": null,
+      "dist": 30.4072355795
+    }
+  ]
+}

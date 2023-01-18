@@ -1,0 +1,96 @@
+{
+  "inchi": "InChI=1S/C19H18ClN5/c1-24(2)12-18-23-22-17-11-21-19(13-6-4-3-5-7-13)15-10-14(20)8-9-16(15)25(17)18/h3-10H,11-12H2,1-2H3",
+  "psychonaut_name": null,
+  "tripsit_name": "adinazolam",
+  "synonyms": [
+    "deracyn"
+  ],
+  "distances": [
+    1.9073e-06,
+    17.3923823727,
+    17.3923823727,
+    17.5158419158,
+    17.5158419158,
+    17.761077433,
+    17.761077433,
+    19.5276254449,
+    19.5276254449,
+    19.5337217186
+  ],
+  "indices": [
+    335,
+    691,
+    312,
+    738,
+    173,
+    378,
+    103,
+    175,
+    449,
+    236
+  ],
+  "name": "psyc_adinazolam",
+  "svg": "psyc_adinazolam.svg",
+  "sim": [
+    {
+      "name": "psyc_adinazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "adinazolam",
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "psyc_triazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "triazolam",
+      "dist": 17.3923823727
+    },
+    {
+      "name": "trip_Triazolam",
+      "psychonaut_name": "Triazolam",
+      "tripsit_name": null,
+      "dist": 17.3923823727
+    },
+    {
+      "name": "psyc_flualprazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "flualprazolam",
+      "dist": 17.5158419158
+    },
+    {
+      "name": "trip_Flualprazolam",
+      "psychonaut_name": "Flualprazolam",
+      "tripsit_name": null,
+      "dist": 17.5158419158
+    },
+    {
+      "name": "psyc_alprazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "alprazolam",
+      "dist": 17.761077433
+    },
+    {
+      "name": "trip_Alprazolam",
+      "psychonaut_name": "Alprazolam",
+      "tripsit_name": null,
+      "dist": 17.761077433
+    },
+    {
+      "name": "trip_Flubromazolam",
+      "psychonaut_name": "Flubromazolam",
+      "tripsit_name": null,
+      "dist": 19.5276254449
+    },
+    {
+      "name": "psyc_flubromazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "flubromazolam",
+      "dist": 19.5276254449
+    },
+    {
+      "name": "trip_Midazolam",
+      "psychonaut_name": "Midazolam",
+      "tripsit_name": null,
+      "dist": 19.5337217186
+    }
+  ]
+}

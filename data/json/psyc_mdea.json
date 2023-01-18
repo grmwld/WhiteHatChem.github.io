@@ -1,0 +1,97 @@
+{
+  "inchi": "InChI=1S/C12H17NO2/c1-3-13-9(2)6-10-4-5-11-12(7-10)15-8-14-11/h4-5,7,9,13H,3,6,8H2,1-2H3",
+  "psychonaut_name": null,
+  "tripsit_name": "mdea",
+  "synonyms": [
+    "mde",
+    "eve"
+  ],
+  "distances": [
+    1.6518e-06,
+    1.6518e-06,
+    8.0604832219,
+    9.7559448116,
+    9.925252793,
+    9.925252793,
+    10.6638940148,
+    10.6638940148,
+    11.5702544732,
+    12.7648079843
+  ],
+  "indices": [
+    492,
+    207,
+    472,
+    488,
+    208,
+    609,
+    166,
+    700,
+    479,
+    169
+  ],
+  "name": "psyc_mdea",
+  "svg": "psyc_mdea.svg",
+  "sim": [
+    {
+      "name": "psyc_mdea",
+      "psychonaut_name": null,
+      "tripsit_name": "mdea",
+      "dist": 1.6518e-06
+    },
+    {
+      "name": "trip_MDEA",
+      "psychonaut_name": "MDEA",
+      "tripsit_name": null,
+      "dist": 1.6518e-06
+    },
+    {
+      "name": "psyc_mdpa",
+      "psychonaut_name": null,
+      "tripsit_name": "mdpa",
+      "dist": 8.0604832219
+    },
+    {
+      "name": "psyc_mbdb",
+      "psychonaut_name": null,
+      "tripsit_name": "mbdb",
+      "dist": 9.7559448116
+    },
+    {
+      "name": "trip_MDMA",
+      "psychonaut_name": "MDMA",
+      "tripsit_name": null,
+      "dist": 9.925252793
+    },
+    {
+      "name": "psyc_mdma",
+      "psychonaut_name": null,
+      "tripsit_name": "mdma",
+      "dist": 9.925252793
+    },
+    {
+      "name": "trip_Ethylone",
+      "psychonaut_name": "Ethylone",
+      "tripsit_name": null,
+      "dist": 10.6638940148
+    },
+    {
+      "name": "psyc_ethylone",
+      "psychonaut_name": null,
+      "tripsit_name": "ethylone",
+      "dist": 10.6638940148
+    },
+    {
+      "name": "psyc_mdoh",
+      "psychonaut_name": null,
+      "tripsit_name": "mdoh",
+      "dist": 11.5702544732
+    },
+    {
+      "name": "trip_Eutylone",
+      "psychonaut_name": "Eutylone",
+      "tripsit_name": null,
+      "dist": 12.7648079843
+    }
+  ]
+}

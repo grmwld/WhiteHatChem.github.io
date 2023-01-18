@@ -1,0 +1,94 @@
+{
+  "inchi": "InChI=1S/C17H15ClN2O/c18-13-8-6-12(7-9-13)17(21)15-5-2-1-4-14(15)16-19-10-3-11-20(16)17/h1-2,4-9,21H,3,10-11H2",
+  "psychonaut_name": null,
+  "tripsit_name": "homomazindol",
+  "synonyms": null,
+  "distances": [
+    1.9073e-06,
+    19.8424404403,
+    21.5079664508,
+    21.5079664508,
+    21.8865747837,
+    22.0691108633,
+    22.0691108633,
+    22.3312608507,
+    22.907511636,
+    23.0504936248
+  ],
+  "indices": [
+    490,
+    594,
+    148,
+    600,
+    486,
+    150,
+    605,
+    653,
+    736,
+    622
+  ],
+  "name": "psyc_homomazindol",
+  "svg": "psyc_homomazindol.svg",
+  "sim": [
+    {
+      "name": "psyc_homomazindol",
+      "psychonaut_name": null,
+      "tripsit_name": "homomazindol",
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "psyc_medazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "medazepam",
+      "dist": 19.8424404403
+    },
+    {
+      "name": "trip_Diazepam",
+      "psychonaut_name": "Diazepam",
+      "tripsit_name": null,
+      "dist": 21.5079664508
+    },
+    {
+      "name": "psyc_diazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "diazepam",
+      "dist": 21.5079664508
+    },
+    {
+      "name": "psyc_prazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "prazepam",
+      "dist": 21.8865747837
+    },
+    {
+      "name": "trip_Diclazepam",
+      "psychonaut_name": "Diclazepam",
+      "tripsit_name": null,
+      "dist": 22.0691108633
+    },
+    {
+      "name": "psyc_diclazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "diclazepam",
+      "dist": 22.0691108633
+    },
+    {
+      "name": "psyc_4-chlorodiazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "4-chlorodiazepam",
+      "dist": 22.3312608507
+    },
+    {
+      "name": "psyc_oxazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "oxazolam",
+      "dist": 22.907511636
+    },
+    {
+      "name": "psyc_cloxazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "cloxazolam",
+      "dist": 23.0504936248
+    }
+  ]
+}

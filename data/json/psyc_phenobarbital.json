@@ -1,0 +1,98 @@
+{
+  "inchi": "InChI=1S/C12H12N2O3/c1-2-12(8-6-4-3-5-7-8)9(15)13-11(17)14-10(12)16/h3-7H,2H2,1H3,(H2,13,14,15,16,17)",
+  "psychonaut_name": null,
+  "tripsit_name": "phenobarbital",
+  "synonyms": [
+    "pheno",
+    "phenobarbitone",
+    "luminal"
+  ],
+  "distances": [
+    2.336e-06,
+    2.336e-06,
+    19.0211313091,
+    23.4301941738,
+    25.4450138626,
+    25.4450138626,
+    25.8542810315,
+    25.8542810315,
+    27.6353911452,
+    27.7795099286
+  ],
+  "indices": [
+    765,
+    273,
+    462,
+    524,
+    105,
+    775,
+    660,
+    266,
+    410,
+    801
+  ],
+  "name": "psyc_phenobarbital",
+  "svg": "psyc_phenobarbital.svg",
+  "sim": [
+    {
+      "name": "psyc_phenobarbital",
+      "psychonaut_name": null,
+      "tripsit_name": "phenobarbital",
+      "dist": 2.336e-06
+    },
+    {
+      "name": "trip_Phenobarbital",
+      "psychonaut_name": "Phenobarbital",
+      "tripsit_name": null,
+      "dist": 2.336e-06
+    },
+    {
+      "name": "psyc_glutethimide",
+      "psychonaut_name": null,
+      "tripsit_name": "glutethimide",
+      "dist": 19.0211313091
+    },
+    {
+      "name": "psyc_barbital",
+      "psychonaut_name": null,
+      "tripsit_name": "barbital",
+      "dist": 23.4301941738
+    },
+    {
+      "name": "trip_Amobarbital",
+      "psychonaut_name": "Amobarbital",
+      "tripsit_name": null,
+      "dist": 25.4450138626
+    },
+    {
+      "name": "psyc_amobarbital",
+      "psychonaut_name": null,
+      "tripsit_name": "amobarbital",
+      "dist": 25.4450138626
+    },
+    {
+      "name": "psyc_pentobarbital",
+      "psychonaut_name": null,
+      "tripsit_name": "pentobarbital",
+      "dist": 25.8542810315
+    },
+    {
+      "name": "trip_Pentobarbital",
+      "psychonaut_name": "Pentobarbital",
+      "tripsit_name": null,
+      "dist": 25.8542810315
+    },
+    {
+      "name": "psyc_thiopental",
+      "psychonaut_name": null,
+      "tripsit_name": "thiopental",
+      "dist": 27.6353911452
+    },
+    {
+      "name": "psyc_pemoline",
+      "psychonaut_name": null,
+      "tripsit_name": "pemoline",
+      "dist": 27.7795099286
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "inchi": "InChI=1S/C15H15NO/c1-15(2,13-9-6-10-16-11-13)14(17)12-7-4-3-5-8-12/h3-11H,1-2H3",
+  "psychonaut_name": null,
+  "tripsit_name": "2-mppp",
+  "synonyms": [
+    "n-piperidinecathinone"
+  ],
+  "distances": [
+    1.9073e-06,
+    22.2060586171,
+    22.3482594881,
+    22.3482594881,
+    22.3751282076,
+    22.74786434,
+    22.74786434,
+    23.1242121382,
+    23.8085985567,
+    23.8765708846
+  ],
+  "indices": [
+    429,
+    726,
+    411,
+    160,
+    525,
+    154,
+    408,
+    556,
+    516,
+    554
+  ],
+  "name": "psyc_2-mppp",
+  "svg": "psyc_2-mppp.svg",
+  "sim": [
+    {
+      "name": "psyc_2-mppp",
+      "psychonaut_name": null,
+      "tripsit_name": "2-mppp",
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "psyc_naproxen",
+      "psychonaut_name": null,
+      "tripsit_name": "naproxen",
+      "dist": 22.2060586171
+    },
+    {
+      "name": "psyc_ephenidine",
+      "psychonaut_name": null,
+      "tripsit_name": "ephenidine",
+      "dist": 22.3482594881
+    },
+    {
+      "name": "trip_Ephenidine",
+      "psychonaut_name": "Ephenidine",
+      "tripsit_name": null,
+      "dist": 22.3482594881
+    },
+    {
+      "name": "psyc_2-chloro-ephenidine",
+      "psychonaut_name": null,
+      "tripsit_name": "2-chloro-ephenidine",
+      "dist": 22.3751282076
+    },
+    {
+      "name": "trip_Doxylamine",
+      "psychonaut_name": "Doxylamine",
+      "tripsit_name": null,
+      "dist": 22.74786434
+    },
+    {
+      "name": "psyc_doxylamine",
+      "psychonaut_name": null,
+      "tripsit_name": "doxylamine",
+      "dist": 22.74786434
+    },
+    {
+      "name": "psyc_methamnetamine",
+      "psychonaut_name": null,
+      "tripsit_name": "methamnetamine",
+      "dist": 23.1242121382
+    },
+    {
+      "name": "psyc_bupropion",
+      "psychonaut_name": null,
+      "tripsit_name": "bupropion",
+      "dist": 23.8085985567
+    },
+    {
+      "name": "psyc_atomoxetine",
+      "psychonaut_name": null,
+      "tripsit_name": "atomoxetine",
+      "dist": 23.8765708846
+    }
+  ]
+}
