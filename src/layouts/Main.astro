@@ -3,6 +3,8 @@ import HeaderButton from '../components/HeaderButton.astro';
 import HamburgerButton from '../components/HamburgerButton.astro';
 import MainLogo from '../assets/icons/main.svg';
 import Hamburger from '../assets/icons/Hamburger.astro';
+import Bitcoin from '../assets/icons/Bitcoin.svg';
+
 
 export interface Props {
 	active: 'home' | 'blog'
@@ -132,9 +134,13 @@ const { active } = Astro.props;
 <footer class="main-width mt-10">
 	<div id="support" class="">
 		<h1 class="text-xl mb-4">Support us</h1>
-		<p class="text-neutral-600 text-sm mb-4">If you like what we do here, you can support us by donating here:</p>
+		<p class="text-neutral-600 text-sm mb-4">If you like what we do, you can support us by donating here:</p>
 		<span class="w-full flex flex-col items-center">
-			<span>BTC: <span class="text-neutral-600 ml-2">bc1qcumaaw58tpknthrmn5hwukf4x64qv0fdxc3l5h9ppwler66gy52q74g3yc</span></span>
+			<span class="flex items-center gap-2">
+				<img src={Bitcoin} alt="btc" class="w-4 h-4"/>
+				BTC: 
+				<span class="text-neutral-600">bc1qcumaaw58tpknthrmn5hwukf4x64qv0fdxc3l5h9ppwler66gy52q74g3yc</span>
+			</span>
 		</span>
 		
 	</div>
