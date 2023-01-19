@@ -34,7 +34,7 @@ def generate_json_from_normalized(
         if len(names) == 0:
             names.append('null_{k}')
             print(f"WARNING: no name for {k}")
-        name = '_'.join(names).replace(' ', '_').replace('/', '_')
+        name = '_'.join(names).replace(' ', '_').replace('/', '_').replace('.', '_').replace('#', '_')[:100]
         v['name'] = name
 
     # generate and add images
