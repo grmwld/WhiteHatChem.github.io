@@ -66,8 +66,7 @@ const { active } = Astro.props;
 					</g>
 				</svg>
 			</a>
-			<HeaderButton href="/blog">Blog</HeaderButton>
-			<HeaderButton href="/about">About</HeaderButton>
+			<HeaderButton href="#support">Support us</HeaderButton>
 			<a
 				href="/list/1"
 				class="py-1 px-3 rounded-xl text-white bg-indigo-400 hover:bg-indigo-600 transition duration-150"
@@ -130,8 +129,16 @@ const { active } = Astro.props;
 
 <slot />
 
-<footer class="main-width border-t border-neutral-400/20 mt-10">
-	<div class="flex flex-row py-10">
+<footer class="main-width mt-10">
+	<div id="support" class="">
+		<h1 class="text-xl mb-4">Support us</h1>
+		<p class="text-neutral-600 text-sm mb-4">If you like what we do here, you can support us by donating here:</p>
+		<span class="w-full flex flex-col items-center">
+			<span>BTC: <span class="text-neutral-600 ml-2">bc1qcumaaw58tpknthrmn5hwukf4x64qv0fdxc3l5h9ppwler66gy52q74g3yc</span></span>
+		</span>
+		
+	</div>
+	<div class="flex flex-row py-10 border-t border-neutral-400/20 mt-10">
 		<span class="text-sm text-neutral-600">
 			Copyright © 2022 WhiteHatChemistry. All rights reserved.
 		</span>
