@@ -7,9 +7,9 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
+    "BDBM50539963",
     "3-[[2-[(1-ethylpiperidin-4-yl)-methyl-amino]thieno[3,2-d]pyrimidin-4-yl]-methyl-amino]propanenitrile",
-    "CHEMBL4637123",
-    "BDBM50539963"
+    "CHEMBL4637123"
   ],
   "distances": [
     32.7547352403,
@@ -17,7 +17,6 @@
     35.8001672837,
     36.2992307807,
     38.943539171,
-    38.950697816,
     39.2861115354,
     39.4475088825,
     39.7043163807,
@@ -30,7 +29,8 @@
     40.4664695303,
     40.6959206676,
     40.7316463773,
-    40.7746911632
+    40.8213449331,
+    40.8224782619
   ],
   "indices": [
     506,
@@ -38,7 +38,6 @@
     177,
     155,
     261,
-    683,
     550,
     257,
     249,
@@ -51,7 +50,8 @@
     250,
     557,
     226,
-    665
+    486,
+    556
   ],
   "name": "psyc_HXE",
   "svg": "psyc_HXE.svg",
@@ -106,15 +106,6 @@
       ],
       "isomerd_names": null,
       "dist": 38.943539171
-    },
-    {
-      "name": "isomer_BBAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "BBAT"
-      ],
-      "dist": 38.950697816
     },
     {
       "name": "trip_parafluorofentanyl",
@@ -241,13 +232,22 @@
       "dist": 40.7316463773
     },
     {
-      "name": "isomer_PEAT",
+      "name": "trip_5-dbfpv",
       "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "PEAT"
+      "tripsit_names": [
+        "5-dbfpv"
       ],
-      "dist": 40.7746911632
+      "isomerd_names": null,
+      "dist": 40.8213449331
+    },
+    {
+      "name": "trip_parafluorobutyrfentanyl",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "parafluorobutyrfentanyl"
+      ],
+      "isomerd_names": null,
+      "dist": 40.8224782619
     }
   ]
 }

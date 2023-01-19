@@ -9,43 +9,43 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "AKOS015897279",
-    "AC-12555",
-    "207740-26-9",
-    "TJG366J9BA",
-    "2C-T7",
-    "Benzeneethanamine, 2,5-dimethoxy-4-(propylthio)-",
-    "UNII-TJG366J9BA",
-    "2,5-DIMETHOXY-4-PROPYLTHIO-.BETA.-PHENETHYLAMINE",
     "AB16676",
-    "ZINC2513913",
-    "2,5-Dimethoxy-4-n-propylthiophenethylamine",
-    "2,5-DIMETHOXY-4-PROPYLTHIOPHENETHYLAMINE",
-    "DB01458",
-    "FT-0643940",
-    "2-(2,5-DIMETHOXY-4-(PROPYLTHIO)PHENYL)ETHANAMINE",
-    "740D269",
-    "CHEMBL126432",
-    "2ct7",
-    "2-(2,5-dimethoxy-4-propylsulfanylphenyl)ethanamine",
-    "DEA No. 7348",
-    "Tweety-Bird Mescaline",
-    "NCGC00247673-01",
-    "DTXSID90861566",
-    "HSDB 7554",
-    "2,5-DIMETHOXY-4-(N)-PROPYLTHIOPHENETHYLAMINE [HSDB]",
-    "2,5-DIMETHOXY-4-(PROPYLSULFANYL)PHENETHYLAMINE",
-    "4-Propylthio-2,5-dimethoxyphenethylamine",
     "J1.017.005B",
-    "Blue Mystic",
-    "AM20080771",
+    "207740-26-9",
+    "740D269",
     "2-(2,5-dimethoxy-4-(propylthio)phenyl)ethan-1-amine",
+    "HSDB 7554",
     "2,5 Dimethoxy-4-(propylthio) phenethylamine",
-    "2,5-Dimethoxy-4-(n)-propylthiophenethylamine",
+    "CHEMBL126432",
+    "UNII-TJG366J9BA",
+    "2-(2,5-dimethoxy-4-propylsulfanylphenyl)ethanamine",
+    "TJG366J9BA",
+    "2,5-DIMETHOXY-4-PROPYLTHIOPHENETHYLAMINE",
+    "NCGC00247673-01",
     "SCHEMBL1048251",
     "4-PROPYLTHIO-2,5-DIMETHOXYPHENETHYLAMINE",
-    "Q222010",
-    "2,5-DIMETHOXY-4-PROPYLTHIOPHENYLETHYLAMINE"
+    "Blue Mystic",
+    "2,5-DIMETHOXY-4-(N)-PROPYLTHIOPHENETHYLAMINE [HSDB]",
+    "2ct7",
+    "2,5-DIMETHOXY-4-PROPYLTHIOPHENYLETHYLAMINE",
+    "Benzeneethanamine, 2,5-dimethoxy-4-(propylthio)-",
+    "ZINC2513913",
+    "AKOS015897279",
+    "4-Propylthio-2,5-dimethoxyphenethylamine",
+    "2,5-Dimethoxy-4-n-propylthiophenethylamine",
+    "DTXSID90861566",
+    "DB01458",
+    "FT-0643940",
+    "AM20080771",
+    "AC-12555",
+    "2,5-DIMETHOXY-4-(PROPYLSULFANYL)PHENETHYLAMINE",
+    "2C-T7",
+    "2,5-Dimethoxy-4-(n)-propylthiophenethylamine",
+    "2,5-DIMETHOXY-4-PROPYLTHIO-.BETA.-PHENETHYLAMINE",
+    "DEA No. 7348",
+    "Tweety-Bird Mescaline",
+    "2-(2,5-DIMETHOXY-4-(PROPYLTHIO)PHENYL)ETHANAMINE",
+    "Q222010"
   ],
   "distances": [
     7.9594236363,
@@ -57,16 +57,16 @@
     13.3770927147,
     13.6054446373,
     14.0494785633,
-    14.3117505006,
     14.5597764771,
-    14.6322050686,
-    14.7329339044,
     15.0527078924,
     15.7954545255,
-    15.974811277,
-    16.4446240206,
-    16.6710832975,
-    17.1226359497
+    17.1226359497,
+    17.4186226995,
+    17.7521403997,
+    17.9542264675,
+    18.154043776,
+    18.161185088,
+    18.535343535
   ],
   "indices": [
     71,
@@ -78,16 +78,16 @@
     382,
     72,
     47,
-    643,
     402,
-    641,
-    626,
     401,
     422,
-    647,
-    642,
-    648,
-    400
+    400,
+    48,
+    46,
+    399,
+    379,
+    114,
+    404
   ],
   "name": "psyc_2C-T-7_trip_2c-t-7",
   "svg": "psyc_2C-T-7_trip_2c-t-7.svg",
@@ -188,15 +188,6 @@
       "dist": 14.0494785633
     },
     {
-      "name": "isomer_2-(2,5-Dimethoxy-4-propylphenyl)ethan-1-ol",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2-(2,5-Dimethoxy-4-propylphenyl)ethan-1-ol"
-      ],
-      "dist": 14.3117505006
-    },
-    {
       "name": "trip_2c-t-4",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -204,24 +195,6 @@
       ],
       "isomerd_names": null,
       "dist": 14.5597764771
-    },
-    {
-      "name": "isomer_1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-one",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-one"
-      ],
-      "dist": 14.6322050686
-    },
-    {
-      "name": "isomer_2-(2-Aminoethyl)-4-methoxy-5-propylphenol",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2-(2-Aminoethyl)-4-methoxy-5-propylphenol"
-      ],
-      "dist": 14.7329339044
     },
     {
       "name": "trip_aleph-2",
@@ -242,33 +215,6 @@
       "dist": 15.7954545255
     },
     {
-      "name": "isomer_2-Amino-1-(2,5-dimethoxy-4-propylphenyl)ethan-1-ol",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2-Amino-1-(2,5-dimethoxy-4-propylphenyl)ethan-1-ol"
-      ],
-      "dist": 15.974811277
-    },
-    {
-      "name": "isomer_3-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propanoic_acid",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propanoic acid"
-      ],
-      "dist": 16.4446240206
-    },
-    {
-      "name": "isomer_1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-ol",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-ol"
-      ],
-      "dist": 16.6710832975
-    },
-    {
       "name": "trip_2c-ip",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -276,6 +222,66 @@
       ],
       "isomerd_names": null,
       "dist": 17.1226359497
+    },
+    {
+      "name": "psyc_Mescaline_trip_mescaline",
+      "psychonaut_names": [
+        "Mescaline"
+      ],
+      "tripsit_names": [
+        "mescaline"
+      ],
+      "isomerd_names": null,
+      "dist": 17.4186226995
+    },
+    {
+      "name": "psyc_2C-D_trip_2c-d",
+      "psychonaut_names": [
+        "2C-D"
+      ],
+      "tripsit_names": [
+        "2c-d"
+      ],
+      "isomerd_names": null,
+      "dist": 17.7521403997
+    },
+    {
+      "name": "trip_doet",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "doet"
+      ],
+      "isomerd_names": null,
+      "dist": 17.9542264675
+    },
+    {
+      "name": "trip_2c-g",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "2c-g"
+      ],
+      "isomerd_names": null,
+      "dist": 18.154043776
+    },
+    {
+      "name": "psyc_3C-P_trip_3c-p",
+      "psychonaut_names": [
+        "3C-P"
+      ],
+      "tripsit_names": [
+        "3c-p"
+      ],
+      "isomerd_names": null,
+      "dist": 18.161185088
+    },
+    {
+      "name": "trip_isoproscaline",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "isoproscaline"
+      ],
+      "isomerd_names": null,
+      "dist": 18.535343535
     }
   ]
 }

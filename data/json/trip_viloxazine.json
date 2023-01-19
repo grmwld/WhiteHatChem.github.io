@@ -15,8 +15,6 @@
     23.4399725258,
     23.5271242129,
     23.5820982197,
-    23.5962177931,
-    23.667771148,
     24.0534302103,
     24.2210268587,
     24.2915877989,
@@ -26,7 +24,9 @@
     24.9861680485,
     25.0101310039,
     25.0774398758,
-    25.0988293135
+    25.0988293135,
+    25.1418813293,
+    25.3898485458
   ],
   "indices": [
     437,
@@ -36,8 +36,6 @@
     53,
     131,
     356,
-    653,
-    637,
     362,
     128,
     466,
@@ -47,7 +45,9 @@
     393,
     132,
     440,
-    347
+    347,
+    101,
+    414
   ],
   "name": "trip_viloxazine",
   "svg": "trip_viloxazine.svg",
@@ -118,24 +118,6 @@
       ],
       "isomerd_names": null,
       "dist": 23.5820982197
-    },
-    {
-      "name": "isomer_BHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "BHAT"
-      ],
-      "dist": 23.5962177931
-    },
-    {
-      "name": "isomer_PHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "PHAT"
-      ],
-      "dist": 23.667771148
     },
     {
       "name": "trip_4-benzylpiperidine",
@@ -232,6 +214,26 @@
       ],
       "isomerd_names": null,
       "dist": 25.0988293135
+    },
+    {
+      "name": "psyc_Methylphenidate_trip_methylphenidate",
+      "psychonaut_names": [
+        "Methylphenidate"
+      ],
+      "tripsit_names": [
+        "methylphenidate"
+      ],
+      "isomerd_names": null,
+      "dist": 25.1418813293
+    },
+    {
+      "name": "trip_focalin",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "focalin"
+      ],
+      "isomerd_names": null,
+      "dist": 25.3898485458
     }
   ]
 }

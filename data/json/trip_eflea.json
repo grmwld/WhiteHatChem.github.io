@@ -25,8 +25,8 @@
     20.1965394937,
     21.3322833915,
     21.5234779094,
-    22.8090389605,
-    23.311841531
+    23.7998897774,
+    23.9596141528
   ],
   "indices": [
     355,
@@ -46,8 +46,8 @@
     29,
     84,
     85,
-    590,
-    618
+    387,
+    363
   ],
   "name": "trip_eflea",
   "svg": "trip_eflea.svg",
@@ -222,22 +222,22 @@
       "dist": 21.5234779094
     },
     {
-      "name": "isomer_3-Bromosafrole",
+      "name": "trip_dimemebfe",
       "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3-Bromosafrole"
+      "tripsit_names": [
+        "dimemebfe"
       ],
-      "dist": 22.8090389605
+      "isomerd_names": null,
+      "dist": 23.7998897774
     },
     {
-      "name": "isomer_MMAT",
+      "name": "trip_5-apdi",
       "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MMAT"
+      "tripsit_names": [
+        "5-apdi"
       ],
-      "dist": 23.311841531
+      "isomerd_names": null,
+      "dist": 23.9596141528
     }
   ]
 }

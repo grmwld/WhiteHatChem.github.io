@@ -9,24 +9,24 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "Q15708284",
-    "1,2-DEP",
-    "UNII-H8Q4VPL82Y",
-    "1-(1,2-diphenylethyl)piperidine",
-    "CHEBI:104234",
-    "dpd",
-    "DPH",
-    "DPP",
-    "BRD-A86415025-103-01-7",
-    "Piperidine, 1-(1,2-diphenylethyl)-",
-    "1-(1,2-diphenyl-ethyl)piperidine",
     "BRD-A86415025-050-01-0",
     "DTXSID50724547",
-    "CHEMBL4303426",
+    "SCHEMBL3715253",
+    "1,2-DEP",
+    "dpd",
+    "Q15708284",
+    "UNII-H8Q4VPL82Y",
+    "Piperidine, 1-(1,2-diphenylethyl)-",
+    "1-(1,2-diphenyl-ethyl)piperidine",
     "J2.366.921H",
-    "H8Q4VPL82Y",
     "36794-52-2",
-    "SCHEMBL3715253"
+    "H8Q4VPL82Y",
+    "DPP",
+    "1-(1,2-diphenylethyl)piperidine",
+    "BRD-A86415025-103-01-7",
+    "DPH",
+    "CHEMBL4303426",
+    "CHEBI:104234"
   ],
   "distances": [
     8.3905840825,
@@ -34,7 +34,6 @@
     13.2616307296,
     13.5230352473,
     17.3232582351,
-    17.8979558193,
     18.8306930627,
     19.4016921731,
     19.457485706,
@@ -47,7 +46,8 @@
     24.7079251938,
     24.7416521887,
     24.8024469953,
-    25.0357556806
+    25.0357556806,
+    25.136005781
   ],
   "indices": [
     499,
@@ -55,12 +55,11 @@
     504,
     517,
     205,
-    678,
     519,
     539,
-    685,
-    684,
-    686,
+    608,
+    607,
+    609,
     207,
     181,
     436,
@@ -68,7 +67,8 @@
     481,
     458,
     130,
-    249
+    249,
+    520
   ],
   "name": "psyc_Diphenidine_trip_diphenidine",
   "svg": "psyc_Diphenidine_trip_diphenidine.svg",
@@ -121,15 +121,6 @@
       ],
       "isomerd_names": null,
       "dist": 17.3232582351
-    },
-    {
-      "name": "isomer_3-Fluoro_4-ANBP",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3-Fluoro 4-ANBP"
-      ],
-      "dist": 17.8979558193
     },
     {
       "name": "trip_naphyrone",
@@ -255,6 +246,15 @@
       ],
       "isomerd_names": null,
       "dist": 25.0357556806
+    },
+    {
+      "name": "trip_hdep-28",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "hdep-28"
+      ],
+      "isomerd_names": null,
+      "dist": 25.136005781
     }
   ]
 }

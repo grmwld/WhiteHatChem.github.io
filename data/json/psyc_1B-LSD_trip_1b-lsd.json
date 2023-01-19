@@ -9,18 +9,18 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "UNII-Y6JQX3L6LP",
     "ERGOLINE-8-CARBOXAMIDE, 9,10-DIDEHYDRO-N,N-DIETHYL-6-METHYL-1-(1-OXOBUTYL)-, (8.BETA.)-",
-    "Ergoline-8-carboxamide, 9,10-didehydro-N,N-diethyl-6-methyl-1-(1-oxobutyl)-, (8beta)-",
-    "N1-Butyryl-lysergic acid diethylamide",
     "(8\u03b2)-1-Butanoyl-N,N-diethyl-6-methyl-9,10-didehydroergoline-8-carboxamide",
-    "(6aR,9R)-4-Butanoyl-N,N-diethyl-7-methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide",
     "Y6JQX3L6LP",
-    "1-Butanoyl-N,N-diethyl-6-methyl-9,10-didehydroergoline-8\u03b2-carboxamide",
-    "2349376-12-9",
-    "(6aR,9R)-4-butanoyl-N,N-diethyl-7-methyl-6,6a,8,9-tetrahydroindolo[4,3-fg]quinoline-9-carboxamide",
+    "Ergoline-8-carboxamide, 9,10-didehydro-N,N-diethyl-6-methyl-1-(1-oxobutyl)-, (8beta)-",
     "1b",
-    "DTXSID801016274"
+    "DTXSID801016274",
+    "UNII-Y6JQX3L6LP",
+    "(6aR,9R)-4-butanoyl-N,N-diethyl-7-methyl-6,6a,8,9-tetrahydroindolo[4,3-fg]quinoline-9-carboxamide",
+    "1-Butanoyl-N,N-diethyl-6-methyl-9,10-didehydroergoline-8\u03b2-carboxamide",
+    "(6aR,9R)-4-Butanoyl-N,N-diethyl-7-methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide",
+    "N1-Butyryl-lysergic acid diethylamide",
+    "2349376-12-9"
   ],
   "distances": [
     5.8999283479,

@@ -14,7 +14,6 @@
     26.5192524773,
     26.889721622,
     27.0300408418,
-    28.5092522845,
     28.5783631329,
     28.9731068056,
     29.5870422044,
@@ -28,28 +27,29 @@
     30.1349868366,
     30.26767183,
     30.4059679699,
-    31.0878007421
+    31.0878007421,
+    31.1002780522
   ],
   "indices": [
     179,
     478,
     451,
     450,
-    678,
     144,
-    684,
+    607,
     181,
     510,
-    685,
+    608,
     498,
     511,
-    686,
+    609,
     449,
     517,
     448,
     249,
     147,
-    513
+    513,
+    242
   ],
   "name": "trip_2-pa",
   "svg": "trip_2-pa.svg",
@@ -91,15 +91,6 @@
       ],
       "isomerd_names": null,
       "dist": 27.0300408418
-    },
-    {
-      "name": "isomer_3-Fluoro_4-ANBP",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3-Fluoro 4-ANBP"
-      ],
-      "dist": 28.5092522845
     },
     {
       "name": "psyc_Flunitrazepam_trip_flunitrazepam",
@@ -232,6 +223,17 @@
       ],
       "isomerd_names": null,
       "dist": 31.0878007421
+    },
+    {
+      "name": "psyc_Methoxphenidine_trip_methoxphenidine",
+      "psychonaut_names": [
+        "Methoxphenidine"
+      ],
+      "tripsit_names": [
+        "methoxphenidine"
+      ],
+      "isomerd_names": null,
+      "dist": 31.1002780522
     }
   ]
 }

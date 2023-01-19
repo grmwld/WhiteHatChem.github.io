@@ -23,10 +23,10 @@
     17.9116177328,
     18.3216025998,
     18.8458471444,
-    19.2618260904,
     19.2638737609,
     19.92739124,
-    20.6005359173
+    20.6568247013,
+    20.80308636
   ],
   "indices": [
     59,
@@ -44,10 +44,10 @@
     106,
     104,
     339,
-    625,
     99,
     107,
-    606
+    372,
+    442
   ],
   "name": "trip_2-me-dmt",
   "svg": "trip_2-me-dmt.svg",
@@ -204,15 +204,6 @@
       "dist": 18.8458471444
     },
     {
-      "name": "isomer_N,N-Me-2,6-DMPEA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "N,N-Me-2,6-DMPEA"
-      ],
-      "dist": 19.2618260904
-    },
-    {
       "name": "psyc_4-AcO-DMT_trip_4-aco-dmt",
       "psychonaut_names": [
         "4-AcO-DMT"
@@ -235,13 +226,22 @@
       "dist": 19.92739124
     },
     {
-      "name": "isomer_TMePEA-3",
+      "name": "trip_2-nmc",
       "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "TMePEA-3"
+      "tripsit_names": [
+        "2-nmc"
       ],
-      "dist": 20.6005359173
+      "isomerd_names": null,
+      "dist": 20.6568247013
+    },
+    {
+      "name": "trip_4-meo-mipt",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-meo-mipt"
+      ],
+      "isomerd_names": null,
+      "dist": 20.80308636
     }
   ]
 }

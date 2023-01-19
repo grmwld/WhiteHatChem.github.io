@@ -12,44 +12,44 @@
   "distances": [
     7.9594236363,
     11.7389396394,
-    14.7604679528,
     14.9453553809,
     15.7579412876,
     16.3009670603,
-    16.5371378633,
-    16.8279436504,
     17.0248545547,
     17.433721974,
     17.6485732412,
-    18.1037380342,
-    18.2403078863,
     18.2536517109,
-    18.3662121577,
-    18.5327518363,
     18.6483859512,
     18.7219793881,
-    18.7522614196
+    19.4469493209,
+    19.4912668871,
+    20.2200600909,
+    20.3328668926,
+    20.7160675936,
+    20.9801520148,
+    21.1584482333,
+    21.2241585177
   ],
   "indices": [
     382,
     93,
-    643,
     71,
     91,
     67,
-    636,
-    644,
     94,
     401,
     422,
-    641,
-    642,
     72,
-    647,
-    617,
     69,
     402,
-    622
+    114,
+    47,
+    403,
+    399,
+    95,
+    400,
+    380,
+    92
   ],
   "name": "trip_hot-7",
   "svg": "trip_hot-7.svg",
@@ -73,15 +73,6 @@
       ],
       "isomerd_names": null,
       "dist": 11.7389396394
-    },
-    {
-      "name": "isomer_2-(2,5-Dimethoxy-4-propylphenyl)ethan-1-ol",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2-(2,5-Dimethoxy-4-propylphenyl)ethan-1-ol"
-      ],
-      "dist": 14.7604679528
     },
     {
       "name": "psyc_2C-T-2_trip_2c-t-2",
@@ -117,24 +108,6 @@
       "dist": 16.3009670603
     },
     {
-      "name": "isomer_[4-(3-Hydroxypropyl)-2,5-dimethoxyphenyl]acetic_acid",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "[4-(3-Hydroxypropyl)-2,5-dimethoxyphenyl]acetic acid"
-      ],
-      "dist": 16.5371378633
-    },
-    {
-      "name": "isomer_3-[4-(2-Hydroxyethyl)-2,5-dimethoxyphenyl]propan-1-ol",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3-[4-(2-Hydroxyethyl)-2,5-dimethoxyphenyl]propan-1-ol"
-      ],
-      "dist": 16.8279436504
-    },
-    {
       "name": "psyc_Proscaline_trip_proscaline",
       "psychonaut_names": [
         "Proscaline"
@@ -164,24 +137,6 @@
       "dist": 17.6485732412
     },
     {
-      "name": "isomer_1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-one",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-one"
-      ],
-      "dist": 18.1037380342
-    },
-    {
-      "name": "isomer_3-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propanoic_acid",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propanoic acid"
-      ],
-      "dist": 18.2403078863
-    },
-    {
       "name": "psyc_Escaline_trip_escaline",
       "psychonaut_names": [
         "Escaline"
@@ -191,24 +146,6 @@
       ],
       "isomerd_names": null,
       "dist": 18.2536517109
-    },
-    {
-      "name": "isomer_2-Amino-1-(2,5-dimethoxy-4-propylphenyl)ethan-1-ol",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2-Amino-1-(2,5-dimethoxy-4-propylphenyl)ethan-1-ol"
-      ],
-      "dist": 18.3662121577
-    },
-    {
-      "name": "isomer_(2-Hydroxy-5-methoxy-4-propylphenyl)acetic_acid",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "(2-Hydroxy-5-methoxy-4-propylphenyl)acetic acid"
-      ],
-      "dist": 18.5327518363
     },
     {
       "name": "psyc_2C-E_trip_2c-e",
@@ -231,13 +168,82 @@
       "dist": 18.7219793881
     },
     {
-      "name": "isomer_2-(2-Hydroxyethyl)-4-methoxy-5-propylphenol",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2-(2-Hydroxyethyl)-4-methoxy-5-propylphenol"
+      "name": "psyc_3C-P_trip_3c-p",
+      "psychonaut_names": [
+        "3C-P"
       ],
-      "dist": 18.7522614196
+      "tripsit_names": [
+        "3c-p"
+      ],
+      "isomerd_names": null,
+      "dist": 19.4469493209
+    },
+    {
+      "name": "psyc_2C-T_trip_2c-t",
+      "psychonaut_names": [
+        "2C-T"
+      ],
+      "tripsit_names": [
+        "2c-t"
+      ],
+      "isomerd_names": null,
+      "dist": 19.4912668871
+    },
+    {
+      "name": "trip_mem",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "mem"
+      ],
+      "isomerd_names": null,
+      "dist": 20.2200600909
+    },
+    {
+      "name": "trip_doet",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "doet"
+      ],
+      "isomerd_names": null,
+      "dist": 20.3328668926
+    },
+    {
+      "name": "psyc_3C-E_trip_3c-e",
+      "psychonaut_names": [
+        "3C-E"
+      ],
+      "tripsit_names": [
+        "3c-e"
+      ],
+      "isomerd_names": null,
+      "dist": 20.7160675936
+    },
+    {
+      "name": "trip_2c-ip",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "2c-ip"
+      ],
+      "isomerd_names": null,
+      "dist": 20.9801520148
+    },
+    {
+      "name": "trip_aleph",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "aleph"
+      ],
+      "isomerd_names": null,
+      "dist": 21.1584482333
+    },
+    {
+      "name": "psyc_4C-D",
+      "psychonaut_names": [
+        "4C-D"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 21.2241585177
     }
   ]
 }

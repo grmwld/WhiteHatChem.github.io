@@ -9,24 +9,24 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "Deschloro-N-ethyl-ketamine",
-    "2\u2032-Oxo-PCE",
-    "UNII-2TRF16U3MR",
-    "SCHEMBL23595823",
-    "Cyclohexanone, 2-(ethylamino)-2-phenyl-",
-    "2-oxo-pce",
-    "eticyclidone",
-    "opce",
-    "2'-oxo-pce",
-    "2TRF16U3MR",
     "N-ETHYLDESCHLOROKETAMINE",
-    "DTXSID601024409",
-    "Eticyclidone",
+    "Cyclohexanone, 2-(ethylamino)-2-phenyl-",
+    "2TRF16U3MR",
+    "2\u2032-Oxo-PCE",
     "ETICYCLIDONE",
-    "2-(Ethylamino)-2-phenylcyclohexanone",
+    "DTXSID601024409",
+    "eticyclidone",
+    "Deschloro-N-ethyl-ketamine",
+    "2'-oxo-pce",
     "6740-82-5",
-    "Deschloro-N-ethyl ketamine",
+    "SCHEMBL23595823",
     "2'-OXO-PCE",
+    "UNII-2TRF16U3MR",
+    "opce",
+    "2-oxo-pce",
+    "Deschloro-N-ethyl ketamine",
+    "Eticyclidone",
+    "2-(Ethylamino)-2-phenylcyclohexanone",
     "2-(ethylamino)-2-phenylcyclohexan-1-one"
   ],
   "distances": [
@@ -47,8 +47,8 @@
     19.3894138988,
     20.0119250032,
     20.2258405325,
-    20.4697943734,
-    20.5384525573
+    20.5384525573,
+    21.0612524552
   ],
   "indices": [
     410,
@@ -68,8 +68,8 @@
     441,
     383,
     160,
-    619,
-    353
+    353,
+    53
   ],
   "name": "psyc_O-PCE_trip_o-pce",
   "svg": "psyc_O-PCE_trip_o-pce.svg",
@@ -244,15 +244,6 @@
       "dist": 20.2258405325
     },
     {
-      "name": "isomer_EHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "EHAT"
-      ],
-      "dist": 20.4697943734
-    },
-    {
       "name": "trip_mephtetramine",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -260,6 +251,17 @@
       ],
       "isomerd_names": null,
       "dist": 20.5384525573
+    },
+    {
+      "name": "psyc_Aniracetam_trip_aniracetam",
+      "psychonaut_names": [
+        "Aniracetam"
+      ],
+      "tripsit_names": [
+        "aniracetam"
+      ],
+      "isomerd_names": null,
+      "dist": 21.0612524552
     }
   ]
 }

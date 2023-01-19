@@ -9,36 +9,36 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "DEA No. 7225",
-    "1-(5-Fluoropentyl)-1H-indole-3-carboxylic acid 8-quinolinyl ester",
+    "MFCD25976633",
+    "QUINOLIN-8-YL 1-PENTYL-2-FLUORO-1H-INDOLE-3-CARBOXYLATE",
+    "Quinolin-8-yl 1-(5-fluoropentyl)-1H-indole-3-carboxylate",
+    "AS-30767",
+    "SCHEMBL16201695",
+    "QUPIC N-5-(FLUOROPENTYL) ANALOG",
     "FT-0696684",
-    "1400742-41-7",
-    "AKOS022185543",
-    "1H-Indole-3-carboxylic acid, 1-(5-fluoropentyl)-, 8-quinolinyl ester",
-    "8-quinolinyl 1-(5-fluoropentyl)-1h-indole-3-carboxylate",
-    "5F-PB 22",
     "quinolin-8-yl 2-fluoro-1-pentyl-1H-indole-3-carboxylate",
     "ZINC95705077",
-    "AM-2201 carboxylate analogue quinolinyl derivative",
-    "Quinolin-8-yl 1-(5-fluoropentyl)-1H-indole-3-carboxylate",
-    "QUINOLIN-8-YL 1-(5-FLUOROPENTYL)INDOLE-3-CARBOXYLATE",
-    "5-fluoro-PB-22",
-    "QUINOLIN-8-YL 1-PENTYL-2-FLUORO-1H-INDOLE-3-CARBOXYLATE",
-    "MFCD25976633",
-    "BCP21264",
-    "AS-30767",
     "UNII-QCB63R9792",
+    "1H-Indole-3-carboxylic acid, 1-(5-fluoropentyl)-, 8-quinolinyl ester",
+    "5F-QUPIC",
+    "QUINOLIN-8-YL 1-(5-FLUOROPENTYL)INDOLE-3-CARBOXYLATE",
+    "1400742-41-7",
+    "5-fluoro-PB-22",
+    "8-quinolinyl 1-(5-fluoropentyl)-1h-indole-3-carboxylate",
+    "5F-PB 22",
+    "DEA No. 7225",
+    "AM-2201 carboxylate analogue quinolinyl derivative",
+    "5F-PB22",
+    "5FPB-22/ 5FPB22",
     "QCB63R9792",
     "5F-PB-22 compound",
-    "5F-PB22",
+    "CP175132",
+    "AKOS022185543",
     "DTXSID60857138",
     "J3.226.299F",
-    "QUPIC N-5-(FLUOROPENTYL) ANALOG",
-    "5FPB-22/ 5FPB22",
-    "SCHEMBL16201695",
-    "CP175132",
+    "1-(5-Fluoropentyl)-1H-indole-3-carboxylic acid 8-quinolinyl ester",
     "Q15708306",
-    "5F-QUPIC"
+    "BCP21264"
   ],
   "distances": [
     10.9389619559,
@@ -46,7 +46,6 @@
     15.61548343,
     17.5399168083,
     18.6020858415,
-    26.60465061,
     28.0800606682,
     29.1531903623,
     29.5156487808,
@@ -59,7 +58,8 @@
     30.8904116078,
     31.4616194131,
     32.0290014455,
-    32.0881887222
+    32.0881887222,
+    32.4872195424
   ],
   "indices": [
     559,
@@ -67,7 +67,6 @@
     272,
     265,
     264,
-    687,
     230,
     556,
     496,
@@ -80,7 +79,8 @@
     552,
     560,
     542,
-    538
+    538,
+    257
   ],
   "name": "psyc_5F-PB-22_trip_5f-pb-22",
   "svg": "psyc_5F-PB-22_trip_5f-pb-22.svg",
@@ -129,15 +129,6 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 18.6020858415
-    },
-    {
-      "name": "isomer_Ethylbenzyl-4CN-BINACA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "Ethylbenzyl-4CN-BINACA"
-      ],
-      "dist": 26.60465061
     },
     {
       "name": "psyc_Benzydamine_trip_benzydamine",
@@ -259,6 +250,17 @@
       ],
       "isomerd_names": null,
       "dist": 32.0881887222
+    },
+    {
+      "name": "psyc_Fentanyl_trip_fentanyl",
+      "psychonaut_names": [
+        "Fentanyl"
+      ],
+      "tripsit_names": [
+        "fentanyl"
+      ],
+      "isomerd_names": null,
+      "dist": 32.4872195424
     }
   ]
 }

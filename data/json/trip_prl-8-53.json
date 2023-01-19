@@ -10,7 +10,6 @@
     "prl853"
   ],
   "distances": [
-    3.1950476054,
     17.7891474183,
     19.310330266,
     20.6083236322,
@@ -28,10 +27,10 @@
     24.3886692942,
     24.5737080325,
     24.7979493801,
-    24.8472076505
+    24.8472076505,
+    25.0373853768
   ],
   "indices": [
-    679,
     230,
     217,
     189,
@@ -39,7 +38,7 @@
     483,
     193,
     543,
-    672,
+    602,
     186,
     260,
     219,
@@ -49,20 +48,12 @@
     496,
     226,
     234,
-    480
+    480,
+    187
   ],
   "name": "trip_prl-8-53",
   "svg": "trip_prl-8-53.svg",
   "sim": [
-    {
-      "name": "isomer_PRL-8-53",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "PRL-8-53"
-      ],
-      "dist": 3.1950476054
-    },
     {
       "name": "psyc_Benzydamine_trip_benzydamine",
       "psychonaut_names": [
@@ -243,6 +234,17 @@
       ],
       "isomerd_names": null,
       "dist": 24.8472076505
+    },
+    {
+      "name": "psyc_25I-NBOH_trip_25i-nboh",
+      "psychonaut_names": [
+        "25I-NBOH"
+      ],
+      "tripsit_names": [
+        "25i-nboh"
+      ],
+      "isomerd_names": null,
+      "dist": 25.0373853768
     }
   ]
 }

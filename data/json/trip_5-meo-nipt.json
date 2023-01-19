@@ -21,14 +21,14 @@
     18.3159926277,
     18.5345943836,
     19.1723923244,
-    19.3415924496,
     19.3741793551,
     19.3920634287,
-    19.4234132411,
-    19.4907071394,
     19.5278926802,
     19.5574987679,
-    19.594492921
+    19.594492921,
+    19.7732399486,
+    19.798869646,
+    19.798869646
   ],
   "indices": [
     135,
@@ -42,14 +42,14 @@
     468,
     339,
     400,
-    648,
     390,
     82,
-    628,
-    627,
     399,
     163,
-    407
+    407,
+    99,
+    385,
+    386
   ],
   "name": "trip_5-meo-nipt",
   "svg": "trip_5-meo-nipt.svg",
@@ -166,15 +166,6 @@
       "dist": 19.1723923244
     },
     {
-      "name": "isomer_1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-ol",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-ol"
-      ],
-      "dist": 19.3415924496
-    },
-    {
       "name": "trip_4-cbc",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -193,24 +184,6 @@
       ],
       "isomerd_names": null,
       "dist": 19.3920634287
-    },
-    {
-      "name": "isomer_N-Me-2,6-DMA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "N-Me-2,6-DMA"
-      ],
-      "dist": 19.4234132411
-    },
-    {
-      "name": "isomer_N-Me-3,5-DMA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "N-Me-3,5-DMA"
-      ],
-      "dist": 19.4907071394
     },
     {
       "name": "trip_doet",
@@ -240,6 +213,35 @@
       ],
       "isomerd_names": null,
       "dist": 19.594492921
+    },
+    {
+      "name": "psyc_4-AcO-DMT_trip_4-aco-dmt",
+      "psychonaut_names": [
+        "4-AcO-DMT"
+      ],
+      "tripsit_names": [
+        "4-aco-dmt"
+      ],
+      "isomerd_names": null,
+      "dist": 19.7732399486
+    },
+    {
+      "name": "trip_6-eapb",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "6-eapb"
+      ],
+      "isomerd_names": null,
+      "dist": 19.798869646
+    },
+    {
+      "name": "trip_5-eapb",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "5-eapb"
+      ],
+      "isomerd_names": null,
+      "dist": 19.798869646
     }
   ]
 }

@@ -13,7 +13,6 @@
   ],
   "distances": [
     8.763426153,
-    10.7609172654,
     11.5999966062,
     19.4036849779,
     20.0967850121,
@@ -27,15 +26,15 @@
     22.9338342715,
     23.5030165015,
     23.9167052301,
-    24.6722955553,
     24.824402844,
     24.9230823571,
-    24.939621914
+    24.939621914,
+    25.0025853155,
+    25.1351437565
   ],
   "indices": [
-    685,
-    678,
-    686,
+    608,
+    609,
     242,
     517,
     229,
@@ -48,10 +47,11 @@
     511,
     181,
     550,
-    688,
     437,
     384,
-    205
+    205,
+    552,
+    549
   ],
   "name": "isomer_Despropionyl-4-bromofentanyl",
   "svg": "isomer_Despropionyl-4-bromofentanyl.svg",
@@ -64,15 +64,6 @@
         "Despropionyl 3-FF"
       ],
       "dist": 8.763426153
-    },
-    {
-      "name": "isomer_3-Fluoro_4-ANBP",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3-Fluoro 4-ANBP"
-      ],
-      "dist": 10.7609172654
     },
     {
       "name": "isomer_Despropionyl-4-methoxyfentanyl",
@@ -200,15 +191,6 @@
       "dist": 23.9167052301
     },
     {
-      "name": "isomer_3F-Cyclopropylbenzylfentanyl",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3F-Cyclopropylbenzylfentanyl"
-      ],
-      "dist": 24.6722955553
-    },
-    {
       "name": "trip_5-meo-pyr-t",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -236,6 +218,24 @@
       ],
       "isomerd_names": null,
       "dist": 24.939621914
+    },
+    {
+      "name": "trip_methoxyacetyl-fentanyl",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "methoxyacetyl-fentanyl"
+      ],
+      "isomerd_names": null,
+      "dist": 25.0025853155
+    },
+    {
+      "name": "trip_acryl-fentanyl",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "acryl-fentanyl"
+      ],
+      "isomerd_names": null,
+      "dist": 25.1351437565
     }
   ]
 }

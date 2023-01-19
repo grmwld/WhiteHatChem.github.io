@@ -9,8 +9,8 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "DTXSID401032422",
     "98H5PQ3THV",
+    "DTXSID401032422",
     "2-(5-METHOXY-1-BENZOFURAN-3-YL)-N,N-DIISOPROPYLLETHANAMINE"
   ],
   "distances": [
@@ -25,14 +25,14 @@
     23.1285694564,
     23.4117358391,
     24.2638956745,
-    24.8322619862,
     24.8580872054,
-    24.901794418,
     24.9402900225,
     25.1045445922,
     25.5038856089,
     25.8461021451,
-    25.9006998446
+    25.9006998446,
+    26.0791524476,
+    26.214682808
   ],
   "indices": [
     202,
@@ -46,14 +46,14 @@
     468,
     106,
     400,
-    658,
     404,
-    648,
     417,
     422,
     103,
     129,
-    114
+    114,
+    113,
+    461
   ],
   "name": "psyc_5-MeO-DiBF_trip_5-meo-dibf",
   "svg": "psyc_5-MeO-DiBF_trip_5-meo-dibf.svg",
@@ -174,15 +174,6 @@
       "dist": 24.2638956745
     },
     {
-      "name": "isomer_N-Isopropylmethoxamine",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "N-Isopropylmethoxamine"
-      ],
-      "dist": 24.8322619862
-    },
-    {
       "name": "trip_isoproscaline",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -190,15 +181,6 @@
       ],
       "isomerd_names": null,
       "dist": 24.8580872054
-    },
-    {
-      "name": "isomer_1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-ol",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-ol"
-      ],
-      "dist": 24.901794418
     },
     {
       "name": "trip_5-meo-nipt",
@@ -250,6 +232,26 @@
       ],
       "isomerd_names": null,
       "dist": 25.9006998446
+    },
+    {
+      "name": "psyc_Tapentadol_trip_tapentadol",
+      "psychonaut_names": [
+        "Tapentadol"
+      ],
+      "tripsit_names": [
+        "tapentadol"
+      ],
+      "isomerd_names": null,
+      "dist": 26.0791524476
+    },
+    {
+      "name": "trip_propranolol",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "propranolol"
+      ],
+      "isomerd_names": null,
+      "dist": 26.214682808
     }
   ]
 }

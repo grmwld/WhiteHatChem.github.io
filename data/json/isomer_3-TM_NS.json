@@ -1,0 +1,254 @@
+{
+  "inchi": "InChI=1S/C11H13NO4S/c1-15-9-6-8(4-5-12(13)14)7-10(17-3)11(9)16-2/h4-7H,1-3H3",
+  "psychonaut_names": null,
+  "tripsit_names": null,
+  "isomerd_names": [
+    "3-TM NS"
+  ],
+  "isod_ids": [
+    7000
+  ],
+  "synonyms": [
+    "3,4-Dimethoxy-5-methylthio-\u03b2-nitrostyrene",
+    "3-TM NS"
+  ],
+  "distances": [
+    24.1562158898,
+    25.0136083568,
+    29.1966452148,
+    30.1936852731,
+    30.473611391,
+    30.7270183748,
+    31.0389248518,
+    31.3272073588,
+    31.4488885777,
+    31.5865085049,
+    31.6863885869,
+    31.7269212843,
+    31.8008462661,
+    31.8542374551,
+    31.9646611587,
+    32.1115723092,
+    32.1282696081,
+    32.3012118369,
+    32.5000957781
+  ],
+  "indices": [
+    330,
+    348,
+    47,
+    380,
+    1,
+    48,
+    11,
+    40,
+    382,
+    591,
+    71,
+    323,
+    12,
+    594,
+    46,
+    16,
+    74,
+    75,
+    73
+  ],
+  "name": "isomer_3-TM_NS",
+  "svg": "isomer_3-TM_NS.svg",
+  "sim": [
+    {
+      "name": "trip_2c-n",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "2c-n"
+      ],
+      "isomerd_names": null,
+      "dist": 24.1562158898
+    },
+    {
+      "name": "trip_don",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "don"
+      ],
+      "isomerd_names": null,
+      "dist": 25.0136083568
+    },
+    {
+      "name": "psyc_2C-T_trip_2c-t",
+      "psychonaut_names": [
+        "2C-T"
+      ],
+      "tripsit_names": [
+        "2c-t"
+      ],
+      "isomerd_names": null,
+      "dist": 29.1966452148
+    },
+    {
+      "name": "trip_aleph",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "aleph"
+      ],
+      "isomerd_names": null,
+      "dist": 30.1936852731
+    },
+    {
+      "name": "psyc_\u0392k-2C-B_trip_bk-2c-b",
+      "psychonaut_names": [
+        "\u0392k-2C-B"
+      ],
+      "tripsit_names": [
+        "bk-2c-b"
+      ],
+      "isomerd_names": null,
+      "dist": 30.473611391
+    },
+    {
+      "name": "psyc_Mescaline_trip_mescaline",
+      "psychonaut_names": [
+        "Mescaline"
+      ],
+      "tripsit_names": [
+        "mescaline"
+      ],
+      "isomerd_names": null,
+      "dist": 30.7270183748
+    },
+    {
+      "name": "psyc_2C-B_trip_2c-b",
+      "psychonaut_names": [
+        "2C-B"
+      ],
+      "tripsit_names": [
+        "2c-b"
+      ],
+      "isomerd_names": null,
+      "dist": 31.0389248518
+    },
+    {
+      "name": "psyc_DOB_trip_dob",
+      "psychonaut_names": [
+        "DOB"
+      ],
+      "tripsit_names": [
+        "dob"
+      ],
+      "isomerd_names": null,
+      "dist": 31.3272073588
+    },
+    {
+      "name": "trip_hot-2",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "hot-2"
+      ],
+      "isomerd_names": null,
+      "dist": 31.4488885777
+    },
+    {
+      "name": "isomer_2,3,4-MBM",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2,3,4-MBM"
+      ],
+      "dist": 31.5865085049
+    },
+    {
+      "name": "psyc_2C-T-2_trip_2c-t-2",
+      "psychonaut_names": [
+        "2C-T-2"
+      ],
+      "tripsit_names": [
+        "2c-t-2"
+      ],
+      "isomerd_names": null,
+      "dist": 31.6863885869
+    },
+    {
+      "name": "trip_bk-2c-i",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "bk-2c-i"
+      ],
+      "isomerd_names": null,
+      "dist": 31.7269212843
+    },
+    {
+      "name": "psyc_2C-C_trip_2c-c",
+      "psychonaut_names": [
+        "2C-C"
+      ],
+      "tripsit_names": [
+        "2c-c"
+      ],
+      "isomerd_names": null,
+      "dist": 31.8008462661
+    },
+    {
+      "name": "isomer_3,2,4-DOB",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3,2,4-DOB"
+      ],
+      "dist": 31.8542374551
+    },
+    {
+      "name": "psyc_2C-D_trip_2c-d",
+      "psychonaut_names": [
+        "2C-D"
+      ],
+      "tripsit_names": [
+        "2c-d"
+      ],
+      "isomerd_names": null,
+      "dist": 31.9646611587
+    },
+    {
+      "name": "psyc_2C-I_trip_2c-i",
+      "psychonaut_names": [
+        "2C-I"
+      ],
+      "tripsit_names": [
+        "2c-i"
+      ],
+      "isomerd_names": null,
+      "dist": 32.1115723092
+    },
+    {
+      "name": "psyc_TMA",
+      "psychonaut_names": [
+        "TMA"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 32.1282696081
+    },
+    {
+      "name": "psyc_TMA-2_trip_tma-2",
+      "psychonaut_names": [
+        "TMA-2"
+      ],
+      "tripsit_names": [
+        "tma-2"
+      ],
+      "isomerd_names": null,
+      "dist": 32.3012118369
+    },
+    {
+      "name": "psyc_TMA-6_trip_tma-6",
+      "psychonaut_names": [
+        "TMA-6"
+      ],
+      "tripsit_names": [
+        "tma-6"
+      ],
+      "isomerd_names": null,
+      "dist": 32.5000957781
+    }
+  ]
+}

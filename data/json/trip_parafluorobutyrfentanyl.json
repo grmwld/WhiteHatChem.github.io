@@ -7,9 +7,9 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "4-fbf",
     "4-fluorobutyrfentanyl",
-    "pfbf"
+    "pfbf",
+    "4-fbf"
   ],
   "distances": [
     7.9052914728,
@@ -19,7 +19,6 @@
     12.7871963361,
     17.7365499768,
     18.9300236312,
-    20.4077932992,
     20.8813678828,
     22.2507982432,
     22.5291139222,
@@ -30,7 +29,8 @@
     26.8752827474,
     28.0474625635,
     28.4269672716,
-    28.5358265343
+    28.5358265343,
+    28.6674479297
   ],
   "indices": [
     550,
@@ -40,18 +40,18 @@
     552,
     249,
     560,
-    688,
     549,
     565,
     261,
     244,
-    686,
+    609,
     542,
     561,
-    685,
+    608,
     265,
-    684,
-    272
+    607,
+    272,
+    230
   ],
   "name": "trip_parafluorobutyrfentanyl",
   "svg": "trip_parafluorobutyrfentanyl.svg",
@@ -122,15 +122,6 @@
       ],
       "isomerd_names": null,
       "dist": 18.9300236312
-    },
-    {
-      "name": "isomer_3F-Cyclopropylbenzylfentanyl",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3F-Cyclopropylbenzylfentanyl"
-      ],
-      "dist": 20.4077932992
     },
     {
       "name": "trip_acryl-fentanyl",
@@ -232,6 +223,17 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 28.5358265343
+    },
+    {
+      "name": "psyc_Benzydamine_trip_benzydamine",
+      "psychonaut_names": [
+        "Benzydamine"
+      ],
+      "tripsit_names": [
+        "benzydamine"
+      ],
+      "isomerd_names": null,
+      "dist": 28.6674479297
     }
   ]
 }

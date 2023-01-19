@@ -7,19 +7,19 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "THJ-018 ((Naphthalen-1-yl)(1-pentyl-1H-indazol-3-yl)methanone)",
-    "DTXSID901010031",
-    "THJ-018 ((Naphthalen-1-yl)(1-pentyl-1H-indazol-3-yl)methanone) 1.0 mg/ml in Acetonitrile",
-    "UNII-B39WNG6743",
-    "B39WNG6743",
-    "naphthalen-1-yl-(1-pentylindazol-3-yl)methanone",
+    "1364933-55-0",
     "1-naphthalenyl(1-pentyl-1h-indazol-3-yl)methanone",
-    "1-naphthalenyl(1-pentyl-1h-indazol-3-yl)-methanone",
-    "SGT-17",
-    "ZINC95705111",
+    "naphthalen-1-yl-(1-pentylindazol-3-yl)methanone",
+    "DTXSID901010031",
+    "B39WNG6743",
     "THJ 018",
+    "ZINC95705111",
+    "1-naphthalenyl(1-pentyl-1h-indazol-3-yl)-methanone",
+    "THJ-018 ((Naphthalen-1-yl)(1-pentyl-1H-indazol-3-yl)methanone)",
     "Methanone, 1-naphthalenyl(1-pentyl-1H-indazol-3-yl)-",
-    "1364933-55-0"
+    "THJ-018 ((Naphthalen-1-yl)(1-pentyl-1H-indazol-3-yl)methanone) 1.0 mg/ml in Acetonitrile",
+    "SGT-17",
+    "UNII-B39WNG6743"
   ],
   "distances": [
     8.3815286725,
@@ -27,7 +27,6 @@
     11.3210376536,
     14.9256759516,
     17.5399168083,
-    21.849282455,
     22.4197584476,
     22.8467823526,
     26.6525197969,
@@ -38,9 +37,10 @@
     28.1243500359,
     28.3974896678,
     28.4401784453,
-    28.6211350676,
     28.7147255154,
-    28.8393926997
+    28.8393926997,
+    29.0312090033,
+    29.3515968109
   ],
   "indices": [
     272,
@@ -48,7 +48,6 @@
     262,
     559,
     263,
-    687,
     230,
     496,
     259,
@@ -59,9 +58,10 @@
     257,
     529,
     550,
-    679,
     552,
-    555
+    555,
+    236,
+    560
   ],
   "name": "psyc_THJ-018",
   "svg": "psyc_THJ-018.svg",
@@ -112,15 +112,6 @@
       ],
       "isomerd_names": null,
       "dist": 17.5399168083
-    },
-    {
-      "name": "isomer_Ethylbenzyl-4CN-BINACA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "Ethylbenzyl-4CN-BINACA"
-      ],
-      "dist": 21.849282455
     },
     {
       "name": "psyc_Benzydamine_trip_benzydamine",
@@ -219,15 +210,6 @@
       "dist": 28.4401784453
     },
     {
-      "name": "isomer_PRL-8-53",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "PRL-8-53"
-      ],
-      "dist": 28.6211350676
-    },
-    {
       "name": "trip_methoxyacetyl-fentanyl",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -244,6 +226,26 @@
       ],
       "isomerd_names": null,
       "dist": 28.8393926997
+    },
+    {
+      "name": "psyc_AB-FUBINACA_trip_ab-fubinaca",
+      "psychonaut_names": [
+        "AB-FUBINACA"
+      ],
+      "tripsit_names": [
+        "ab-fubinaca"
+      ],
+      "isomerd_names": null,
+      "dist": 29.0312090033
+    },
+    {
+      "name": "trip_furanylfentanyl",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "furanylfentanyl"
+      ],
+      "isomerd_names": null,
+      "dist": 29.3515968109
     }
   ]
 }

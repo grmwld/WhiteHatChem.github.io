@@ -19,14 +19,14 @@
     23.5706763209,
     23.8573207408,
     24.3435569432,
-    24.7337371108,
     24.8432819826,
-    24.8830430719,
     25.2679609117,
-    25.3404648765,
-    25.3544850973,
     25.4572898872,
-    25.728767604
+    25.728767604,
+    26.0137867688,
+    26.110383686,
+    26.3697232577,
+    26.3897634832
   ],
   "indices": [
     289,
@@ -40,14 +40,14 @@
     300,
     576,
     295,
-    596,
     306,
-    690,
     283,
-    597,
-    689,
     305,
-    314
+    314,
+    296,
+    578,
+    292,
+    294
   ],
   "name": "trip_gaba",
   "svg": "trip_gaba.svg",
@@ -164,15 +164,6 @@
       "dist": 24.3435569432
     },
     {
-      "name": "isomer_2,6-DMePEA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2,6-DMePEA"
-      ],
-      "dist": 24.7337371108
-    },
-    {
       "name": "psyc_Pregabalin_trip_pregabalin",
       "psychonaut_names": [
         "Pregabalin"
@@ -184,15 +175,6 @@
       "dist": 24.8432819826
     },
     {
-      "name": "isomer_2,6-HPEA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2,6-HPEA"
-      ],
-      "dist": 24.8830430719
-    },
-    {
       "name": "psyc_Alcohol_trip_alcohol",
       "psychonaut_names": [
         "Alcohol"
@@ -202,24 +184,6 @@
       ],
       "isomerd_names": null,
       "dist": 25.2679609117
-    },
-    {
-      "name": "isomer_3,5-DMePEA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3,5-DMePEA"
-      ],
-      "dist": 25.3404648765
-    },
-    {
-      "name": "isomer_3,5-HPEA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3,5-HPEA"
-      ],
-      "dist": 25.3544850973
     },
     {
       "name": "psyc_Methiopropamine",
@@ -241,6 +205,46 @@
       ],
       "isomerd_names": null,
       "dist": 25.728767604
+    },
+    {
+      "name": "psyc_Oxiracetam_trip_oxiracetam",
+      "psychonaut_names": [
+        "Oxiracetam"
+      ],
+      "tripsit_names": [
+        "oxiracetam"
+      ],
+      "isomerd_names": null,
+      "dist": 26.0137867688
+    },
+    {
+      "name": "trip_clomethiazole",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "clomethiazole"
+      ],
+      "isomerd_names": null,
+      "dist": 26.110383686
+    },
+    {
+      "name": "psyc_2M2B_trip_2-methyl-2-butanol",
+      "psychonaut_names": [
+        "2M2B"
+      ],
+      "tripsit_names": [
+        "2-methyl-2-butanol"
+      ],
+      "isomerd_names": null,
+      "dist": 26.3697232577
+    },
+    {
+      "name": "psyc_N-Acetylcysteine",
+      "psychonaut_names": [
+        "N-Acetylcysteine"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 26.3897634832
     }
   ]
 }

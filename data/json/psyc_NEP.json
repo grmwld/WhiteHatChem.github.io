@@ -7,10 +7,10 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "\u03b1-Ethylaminopentiophenone",
     "N-Ethylpentedrone",
+    "Ethyl pentedrone",
     "N-Ethylnorpentedrone",
-    "Ethyl pentedrone"
+    "\u03b1-Ethylaminopentiophenone"
   ],
   "distances": [
     5.8999270548,
@@ -28,10 +28,10 @@
     13.6960027056,
     14.5971571153,
     14.6205734988,
-    15.4002636775,
     17.0095412463,
     17.3327615106,
-    17.5899344011
+    17.5899344011,
+    17.6292728088
   ],
   "indices": [
     111,
@@ -49,10 +49,10 @@
     369,
     340,
     368,
-    602,
     66,
     42,
-    41
+    41,
+    346
   ],
   "name": "psyc_NEP",
   "svg": "psyc_NEP.svg",
@@ -204,15 +204,6 @@
       "dist": 14.6205734988
     },
     {
-      "name": "isomer_4-Cl-Buphedrone",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "4-Cl-Buphedrone"
-      ],
-      "dist": 15.4002636775
-    },
-    {
       "name": "psyc_Mexedrone_trip_mexedrone",
       "psychonaut_names": [
         "Mexedrone"
@@ -244,6 +235,15 @@
       ],
       "isomerd_names": null,
       "dist": 17.5899344011
+    },
+    {
+      "name": "trip_4-fea",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-fea"
+      ],
+      "isomerd_names": null,
+      "dist": 17.6292728088
     }
   ]
 }

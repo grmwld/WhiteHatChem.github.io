@@ -7,12 +7,12 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "clozan",
-    "rize",
-    "veratran",
-    "distensan",
     "rizen",
-    "trecalmo"
+    "clozan",
+    "trecalmo",
+    "distensan",
+    "veratran",
+    "rize"
   ],
   "distances": [
     15.2379708296,

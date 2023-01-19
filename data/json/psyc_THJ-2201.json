@@ -7,24 +7,24 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "AM-2201 INDAZOLE ANALOG",
-    "(1-(5-Fluoropentyl)-1H-indazol-3-yl)(naphthalen-1-yl)methanone",
-    "DTXSID901010029",
-    "DEA No. 7024",
-    "UNII-D7P051IW0T",
-    "ZINC96024682",
-    "[1-(5-fluoropentyl)indazol-3-yl]-naphthalen-1-ylmethanone",
-    "THJ-2201 (1-[(5-Fluoropentyl)-1H-indazol-3-yl](naphthalen-1-yl)methanone) 0.1 mg/ml in Acetonitrile",
-    "D7P051IW0T",
-    "Q21098896",
-    "THJ-2201 (1-[(5-Fluoropentyl)-1H-indazol-3-yl](naphthalen-1-yl)methanone)",
     "THJ2201",
     "1801552-01-1",
-    "(1-(5-Fluoropentyl)-1H-indazole-3-yl)(1-naphthyl) ketone",
-    "THJ-2201 (1-[(5-Fluoropentyl)-1H-indazol-3-yl](naphthalen-1-yl)methanone) 1.0 mg/ml in Acetonitrile",
-    "AM-2201 Indazole",
+    "AM-2201 INDAZOLE ANALOG",
     "J3.314.549G",
-    "[1-(5-Fluoropentyl)-1H-indazol-3-yl](naphthalen-1-yl)methanone"
+    "Q21098896",
+    "AM-2201 Indazole",
+    "DEA No. 7024",
+    "D7P051IW0T",
+    "THJ-2201 (1-[(5-Fluoropentyl)-1H-indazol-3-yl](naphthalen-1-yl)methanone) 0.1 mg/ml in Acetonitrile",
+    "(1-(5-Fluoropentyl)-1H-indazol-3-yl)(naphthalen-1-yl)methanone",
+    "UNII-D7P051IW0T",
+    "THJ-2201 (1-[(5-Fluoropentyl)-1H-indazol-3-yl](naphthalen-1-yl)methanone) 1.0 mg/ml in Acetonitrile",
+    "(1-(5-Fluoropentyl)-1H-indazole-3-yl)(1-naphthyl) ketone",
+    "THJ-2201 (1-[(5-Fluoropentyl)-1H-indazol-3-yl](naphthalen-1-yl)methanone)",
+    "[1-(5-Fluoropentyl)-1H-indazol-3-yl](naphthalen-1-yl)methanone",
+    "ZINC96024682",
+    "[1-(5-fluoropentyl)indazol-3-yl]-naphthalen-1-ylmethanone",
+    "DTXSID901010029"
   ],
   "distances": [
     8.3815282174,
@@ -32,7 +32,6 @@
     12.6137379185,
     13.1930296094,
     15.4156720365,
-    24.1786336099,
     25.942847011,
     27.450024503,
     29.2406731758,
@@ -45,7 +44,8 @@
     31.0570537621,
     31.0598629728,
     31.0985921952,
-    31.1145629542
+    31.1145629542,
+    31.1257245696
   ],
   "indices": [
     559,
@@ -53,7 +53,6 @@
     263,
     272,
     264,
-    687,
     230,
     496,
     556,
@@ -66,7 +65,8 @@
     259,
     236,
     542,
-    257
+    257,
+    529
   ],
   "name": "psyc_THJ-2201",
   "svg": "psyc_THJ-2201.svg",
@@ -117,15 +117,6 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 15.4156720365
-    },
-    {
-      "name": "isomer_Ethylbenzyl-4CN-BINACA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "Ethylbenzyl-4CN-BINACA"
-      ],
-      "dist": 24.1786336099
     },
     {
       "name": "psyc_Benzydamine_trip_benzydamine",
@@ -251,6 +242,15 @@
       ],
       "isomerd_names": null,
       "dist": 31.1145629542
+    },
+    {
+      "name": "trip_clonitazene",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "clonitazene"
+      ],
+      "isomerd_names": null,
+      "dist": 31.1257245696
     }
   ]
 }

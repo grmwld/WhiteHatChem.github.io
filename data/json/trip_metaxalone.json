@@ -11,14 +11,10 @@
   ],
   "distances": [
     23.3407482173,
-    23.3710059359,
-    23.4796288035,
     23.5820982197,
     23.6841616732,
     23.906059793,
     24.0265927806,
-    24.0335928738,
-    24.0589663599,
     24.3610637243,
     24.401455495,
     24.5284694384,
@@ -26,20 +22,20 @@
     24.5494085858,
     24.6072208879,
     24.6238932869,
-    24.665065954,
     24.7317789225,
-    24.8312837237
+    24.8312837237,
+    24.9091280587,
+    24.9379931714,
+    25.0490254165,
+    25.1092291533,
+    25.2120777554
   ],
   "indices": [
     387,
-    637,
-    619,
     397,
     46,
     53,
     12,
-    608,
-    693,
     20,
     353,
     341,
@@ -47,9 +43,13 @@
     11,
     65,
     39,
-    618,
     366,
-    30
+    30,
+    371,
+    364,
+    336,
+    79,
+    591
   ],
   "name": "trip_metaxalone",
   "svg": "trip_metaxalone.svg",
@@ -62,24 +62,6 @@
       ],
       "isomerd_names": null,
       "dist": 23.3407482173
-    },
-    {
-      "name": "isomer_PHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "PHAT"
-      ],
-      "dist": 23.3710059359
-    },
-    {
-      "name": "isomer_EHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "EHAT"
-      ],
-      "dist": 23.4796288035
     },
     {
       "name": "trip_viloxazine",
@@ -122,24 +104,6 @@
       ],
       "isomerd_names": null,
       "dist": 24.0265927806
-    },
-    {
-      "name": "isomer_N-Me-3,5-DMPEA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "N-Me-3,5-DMPEA"
-      ],
-      "dist": 24.0335928738
-    },
-    {
-      "name": "isomer_3,5-HMPEA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3,5-HMPEA"
-      ],
-      "dist": 24.0589663599
     },
     {
       "name": "psyc_2C-H",
@@ -211,15 +175,6 @@
       "dist": 24.6238932869
     },
     {
-      "name": "isomer_MMAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MMAT"
-      ],
-      "dist": 24.665065954
-    },
-    {
       "name": "trip_phenetrazine",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -238,6 +193,51 @@
       ],
       "isomerd_names": null,
       "dist": 24.8312837237
+    },
+    {
+      "name": "trip_5-mapdb",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "5-mapdb"
+      ],
+      "isomerd_names": null,
+      "dist": 24.9091280587
+    },
+    {
+      "name": "trip_mephenmetrazine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "mephenmetrazine"
+      ],
+      "isomerd_names": null,
+      "dist": 24.9379931714
+    },
+    {
+      "name": "trip_4-fpm",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-fpm"
+      ],
+      "isomerd_names": null,
+      "dist": 25.0490254165
+    },
+    {
+      "name": "psyc_N-Methyl-Cyclazodone",
+      "psychonaut_names": [
+        "N-Methyl-Cyclazodone"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 25.1092291533
+    },
+    {
+      "name": "isomer_2,3,4-MBM",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2,3,4-MBM"
+      ],
+      "dist": 25.2120777554
     }
   ]
 }

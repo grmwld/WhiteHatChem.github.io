@@ -7,8 +7,8 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "4'-chlorodiazepam",
-    "ro5-4864"
+    "ro5-4864",
+    "4'-chlorodiazepam"
   ],
   "distances": [
     3.932254749,
@@ -46,7 +46,7 @@
     203,
     170,
     426,
-    669,
+    600,
     428,
     171,
     450,

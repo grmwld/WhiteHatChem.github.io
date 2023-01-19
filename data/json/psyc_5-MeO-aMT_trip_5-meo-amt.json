@@ -9,53 +9,53 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "5-meo-amt",
-    "CHEMBL31115",
-    "BCP09431",
-    "BDBM50014219",
-    "5-MEO-AMT-",
-    "137M048",
     "5-Methoxy-a-methyl tryptamine",
-    "DB-007076",
-    "alpha,O-DMS",
-    "DTXSID60893758",
-    "1H-INDOLE-3-ETHANAMINE, 5-METHOXY-.ALPHA.-METHYL-",
-    "BRD-A61866602-001-01-7",
-    "AC-12260",
-    "Tryptamine, 5-methoxy-\u03b1-methyl",
-    "5-MeO-AMT, 1.0 mg/mL in methanol, certified reference material",
-    "2-(5-Methoxy-1H-indol-3-yl)-1-methyl-ethylamine",
-    "5-Methoxy-.alpha.-methyltryptamine",
-    "1-(5-methoxy-1H-indol-3-yl)propan-2-amine",
-    "\u03b1,O-DMS",
-    "alpha,O-Dimethylserotonin",
-    ".ALPHA.,O-DIMETHYLSEROTONIN",
-    "SCHEMBL130876",
-    "5MeO-AMT",
-    "AM20020228",
-    "5-MeO-\u03b1MT",
     "5-MeO-AMT",
-    "3-(2-Aminopropyl)-5-methoxyindole",
     "INDOLE, 3-(2-AMINOPROPYL)-5-METHOXY-",
-    "5-Methoxy-alpha-methyltryptamine",
+    "Tryptamine, 5-methoxy-\u03b1-methyl",
     "5-Methoxy-\u03b1-methyltryptamine",
-    "UNII-U5XOB9AQ15",
-    "U5XOB9AQ15",
-    "\u03b1,O-Dimethylserotonin",
-    "5-Methoxy-alpha-methyltryptamine, free base",
-    "Serotonin, \u03b1,O-dimethyl",
-    "CHEBI:125422",
-    "Q4031586",
-    "AKOS015852158",
+    "1-(5-methoxy-1H-indol-3-yl)propan-2-amine",
     "1H-Indole-3-ethanamine, 5-methoxy-alpha-methyl-",
-    "Indole, 3-(2-aminopropyl)-5-methoxy",
-    "M-3547",
-    "1137-04-8",
+    "\u03b1,O-DMS",
     "FT-0633392",
-    "5-Methoxy-1H-indole-3-propane-2-amine",
-    "Alpha-O",
     "A2313",
+    "BDBM50014219",
+    "U5XOB9AQ15",
+    "BRD-A61866602-001-01-7",
+    "Q4031586",
+    "5-MeO-\u03b1MT",
+    "5-meo-amt",
+    "137M048",
+    "5-Methoxy-.alpha.-methyltryptamine",
+    "alpha,O-DMS",
+    "AKOS015852158",
+    "2-(5-Methoxy-1H-indol-3-yl)-1-methyl-ethylamine",
+    "\u03b1,O-Dimethylserotonin",
+    "5-MeO-AMT, 1.0 mg/mL in methanol, certified reference material",
+    "AM20020228",
+    "1137-04-8",
+    "BCP09431",
+    "DTXSID60893758",
+    "5MeO-AMT",
+    "5-MEO-AMT-",
+    "AC-12260",
+    "5-Methoxy-alpha-methyltryptamine",
+    "CHEBI:125422",
+    "Indole, 3-(2-aminopropyl)-5-methoxy",
+    "Alpha-O",
+    "SCHEMBL130876",
+    "5-Methoxy-alpha-methyltryptamine, free base",
+    ".ALPHA.,O-DIMETHYLSEROTONIN",
+    "CHEMBL31115",
     "5-MeO-\u03b1-MT",
+    "1H-INDOLE-3-ETHANAMINE, 5-METHOXY-.ALPHA.-METHYL-",
+    "UNII-U5XOB9AQ15",
+    "M-3547",
+    "alpha,O-Dimethylserotonin",
+    "3-(2-Aminopropyl)-5-methoxyindole",
+    "Serotonin, \u03b1,O-dimethyl",
+    "5-Methoxy-1H-indole-3-propane-2-amine",
+    "DB-007076",
     "5meoamt"
   ],
   "distances": [
@@ -64,20 +64,20 @@
     12.9177673527,
     14.6497530659,
     14.7099105955,
-    15.9263168294,
+    17.171382713,
     17.2519954688,
     17.5227609028,
     17.5445521406,
-    17.6773104484,
     17.770148219,
+    17.8377707597,
     17.9200154332,
     17.9200154332,
     18.2991123672,
     18.3526550202,
     18.8200003541,
+    18.9345233454,
     18.966044552,
-    19.179474286,
-    19.3152319695
+    19.179474286
   ],
   "indices": [
     31,
@@ -88,17 +88,17 @@
     594,
     40,
     70,
-    601,
-    605,
+    593,
     103,
+    596,
     28,
     27,
     86,
     43,
     399,
+    597,
     349,
-    60,
-    106
+    60
   ],
   "name": "psyc_5-MeO-aMT_trip_5-meo-amt",
   "svg": "psyc_5-MeO-aMT_trip_5-meo-amt.svg",
@@ -151,13 +151,13 @@
       "dist": 14.7099105955
     },
     {
-      "name": "isomer_2-Br-6-MA",
+      "name": "isomer_3,2,4-DOB",
       "psychonaut_names": null,
       "tripsit_names": null,
       "isomerd_names": [
-        "2-Br-6-MA"
+        "3,2,4-DOB"
       ],
-      "dist": 15.9263168294
+      "dist": 17.171382713
     },
     {
       "name": "psyc_DOB_trip_dob",
@@ -191,15 +191,6 @@
       "dist": 17.5445521406
     },
     {
-      "name": "isomer_4,2,3-DOB",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "4,2,3-DOB"
-      ],
-      "dist": 17.6773104484
-    },
-    {
       "name": "psyc_MiPT_trip_mipt",
       "psychonaut_names": [
         "MiPT"
@@ -209,6 +200,15 @@
       ],
       "isomerd_names": null,
       "dist": 17.770148219
+    },
+    {
+      "name": "isomer_4-Me-2,3-DOM",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "4-Me-2,3-DOM"
+      ],
+      "dist": 17.8377707597
     },
     {
       "name": "psyc_5-APB_trip_5-apb",
@@ -264,6 +264,15 @@
       "dist": 18.8200003541
     },
     {
+      "name": "isomer_4,2,3-DOET",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "4,2,3-DOET"
+      ],
+      "dist": 18.9345233454
+    },
+    {
       "name": "trip_mpa",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -280,17 +289,6 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 19.179474286
-    },
-    {
-      "name": "psyc_4-HO-MiPT_trip_4-ho-mipt",
-      "psychonaut_names": [
-        "4-HO-MiPT"
-      ],
-      "tripsit_names": [
-        "4-ho-mipt"
-      ],
-      "isomerd_names": null,
-      "dist": 19.3152319695
     }
   ]
 }

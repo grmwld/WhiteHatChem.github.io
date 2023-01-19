@@ -9,54 +9,54 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "2-Hexanamine, 4-methyl-",
-    "DMAA [Dietary Supplement]",
-    "AI3-16556",
-    "Forthane",
-    "WLN: ZY & 1Y2",
-    "MFCD00025613",
-    "1,3-dimethyl-pentylamine",
-    "Pentylamine,3-dimethyl-",
-    "1,3-Dimethylpentylamine",
-    "1,3-Dimethylamylamine 100 microg/mL in Acetonitrile",
-    "DTXSID60861715",
-    "Dimethylamylamine",
-    "1,3 dimethylamylamine HCL (DMAA)",
-    "NSC1106",
-    "Q2594649",
-    "4-Methyl-2-hexylamine",
     "4-Methyl-2-hexanamine",
-    "AC-369",
-    "EINECS 203-296-1",
-    "Methylhexanamine hydrochloride, >=98% (HPLC)",
-    "METHYLHEXANEAMINE [MI]",
-    "UNII-X49C572YQO",
-    "CHEBI:134754",
-    "105D419",
+    "Methylhexanamine",
+    "MFCD00025613",
     "AKOS011598451",
-    "BRN 1731697",
-    "Forthan",
-    "DB-040620",
-    "105-41-9",
-    "BCP18792",
-    "W-108787",
-    "HSDB 8164",
-    "1,3-Dimethylamylamine, analytical standard",
-    "4-methylhexan-2-amine",
-    "4-04-00-00747 (Beilstein Handbook Reference)",
-    "D88161",
-    "PENTYLAMINE, 1,3-DIMETHYL-",
-    "2-Amino-4-methylhexane",
-    "X49C572YQO",
-    "floradrene",
-    "SCHEMBL243596",
-    "Geranamine",
-    "METHYLHEXANEAMINE [WHO-DD]",
-    "1,3-Dimethylamylamine",
-    "NSC-1106",
     "NSC 1106",
+    "Methylhexanamine hydrochloride, >=98% (HPLC)",
+    "4-04-00-00747 (Beilstein Handbook Reference)",
+    "SCHEMBL243596",
+    "Q2594649",
+    "BRN 1731697",
+    "NSC-1106",
+    "METHYLHEXANEAMINE [WHO-DD]",
+    "4-Methyl-2-hexylamine",
+    "105D419",
+    "DTXSID60861715",
+    "BCP18792",
+    "EINECS 203-296-1",
+    "DB-040620",
+    "UNII-X49C572YQO",
+    "floradrene",
+    "WLN: ZY & 1Y2",
+    "AI3-16556",
+    "105-41-9",
+    "AC-369",
+    "2-Hexanamine, 4-methyl-",
+    "Pentylamine,3-dimethyl-",
+    "1,3 dimethylamylamine HCL (DMAA)",
+    "Forthane",
+    "1,3-Dimethylamylamine, analytical standard",
+    "W-108787",
+    "NSC1106",
+    "HSDB 8164",
+    "1,3-dimethyl-pentylamine",
+    "4-methylhexan-2-amine",
     "Methylhexaneamine",
-    "Methylhexanamine"
+    "2-Amino-4-methylhexane",
+    "Forthan",
+    "DMAA [Dietary Supplement]",
+    "CHEBI:134754",
+    "X49C572YQO",
+    "1,3-Dimethylamylamine 100 microg/mL in Acetonitrile",
+    "1,3-Dimethylpentylamine",
+    "METHYLHEXANEAMINE [MI]",
+    "Geranamine",
+    "PENTYLAMINE, 1,3-DIMETHYL-",
+    "D88161",
+    "Dimethylamylamine",
+    "1,3-Dimethylamylamine"
   ],
   "distances": [
     8.6081679479,
@@ -68,16 +68,16 @@
     24.1678585767,
     24.4699086272,
     24.751220673,
-    25.627568707,
     26.0249056738,
     26.2958537383,
     26.5197990877,
-    26.7820510655,
     26.8112047145,
     26.8268680089,
     27.0929513921,
     27.1925877513,
-    27.4109731713
+    27.4109731713,
+    28.1580719184,
+    28.2116622726
   ],
   "indices": [
     297,
@@ -89,16 +89,16 @@
     332,
     314,
     289,
-    607,
     576,
     333,
     18,
-    623,
     292,
     310,
     312,
     311,
-    287
+    287,
+    595,
+    19
   ],
   "name": "psyc_1,3-DMAA_trip_dmaa",
   "svg": "psyc_1,3-DMAA_trip_dmaa.svg",
@@ -194,15 +194,6 @@
       "dist": 24.751220673
     },
     {
-      "name": "isomer_3,5-DMeA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3,5-DMeA"
-      ],
-      "dist": 25.627568707
-    },
-    {
       "name": "trip_diethyl-ether",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -230,15 +221,6 @@
       ],
       "isomerd_names": null,
       "dist": 26.5197990877
-    },
-    {
-      "name": "isomer_4C-3,5-DMPEA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "4C-3,5-DMPEA"
-      ],
-      "dist": 26.7820510655
     },
     {
       "name": "psyc_2M2B_trip_2-methyl-2-butanol",
@@ -294,6 +276,28 @@
       ],
       "isomerd_names": null,
       "dist": 27.4109731713
+    },
+    {
+      "name": "isomer_TMeA-3",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "TMeA-3"
+      ],
+      "dist": 28.1580719184
+    },
+    {
+      "name": "psyc_Ephedrine_Pseudoephedrine_trip_pseudoephedrine_ephedrine",
+      "psychonaut_names": [
+        "Ephedrine",
+        "Pseudoephedrine"
+      ],
+      "tripsit_names": [
+        "pseudoephedrine",
+        "ephedrine"
+      ],
+      "isomerd_names": null,
+      "dist": 28.2116622726
     }
   ]
 }

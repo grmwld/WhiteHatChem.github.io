@@ -9,42 +9,42 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "GTPL7398",
-    "BDBM50023181",
-    "N-DEETHYLAMFEPRAMONE",
-    "UNII-HV3BCK77BB",
-    "Ethylaminopropiophenone HCl",
-    "e-cat",
-    "UR 1424",
-    "2-ethylamino-1-phenylpropan-1-one",
-    "Ethylpropion",
-    "Ethylaminopropionphenon",
-    "N-Ethylcathinone",
-    "Q5403044",
-    "J2.659.123F",
-    "1-Propanone, 2-(ethylamino)-1-phenyl-",
-    "(RS)-2-ETHYLAMINO-1-PHENYLPROPAN-1-ONE",
-    "eth-cat",
-    "2-(ETHYLAMINO)PROPIOPHENONE",
-    "ethcathinone",
-    "2-(Ethylamino) propiophenone",
-    "CHEMBL3298876",
-    "Ethcathinone",
-    "ethylpropion",
-    "DTXSID70939595",
-    "EAP",
-    "2-(Ethylamino)-1-phenyl-1-propanone",
-    "SCHEMBL3164278",
-    "2-(ethylamino)-1-phenylpropan-1-one",
-    "N-Ethylaminopropiophenone",
-    "ETHYLCATHINONE",
-    "NEC",
-    "HV3BCK77BB",
-    "18259-37-5",
     "UR-1424",
     "AKOS022329753",
+    "ETHYLCATHINONE",
+    "18259-37-5",
+    "NEC",
+    "Q5403044",
+    "eth-cat",
+    "2-ethylamino-1-phenylpropan-1-one",
+    "ethcathinone",
+    "CHEMBL3298876",
+    "(RS)-2-ETHYLAMINO-1-PHENYLPROPAN-1-ONE",
+    "Ethylpropion",
+    "2-(Ethylamino) propiophenone",
+    "BDBM50023181",
+    "SCHEMBL3164278",
+    "UR 1424",
+    "N-DEETHYLAMFEPRAMONE",
+    "EAP",
+    "1-Propanone, 2-(ethylamino)-1-phenyl-",
+    "e-cat",
+    "N-Ethylcathinone",
+    "N-Ethylaminopropiophenone",
+    "ethylpropion",
     "1-Phenyl-2-(ethylamino)-1-propanone",
-    "Ethylcathinone"
+    "UNII-HV3BCK77BB",
+    "2-(Ethylamino)-1-phenyl-1-propanone",
+    "J2.659.123F",
+    "HV3BCK77BB",
+    "DTXSID70939595",
+    "Ethylaminopropionphenon",
+    "Ethylcathinone",
+    "GTPL7398",
+    "Ethcathinone",
+    "Ethylaminopropiophenone HCl",
+    "2-(ethylamino)-1-phenylpropan-1-one",
+    "2-(ETHYLAMINO)PROPIOPHENONE"
   ],
   "distances": [
     7.2985085205,
@@ -60,12 +60,12 @@
     11.4972139384,
     11.9059962448,
     11.9146247306,
-    11.9245292139,
     12.0990839588,
     12.3225960946,
     12.3266736858,
     12.5192984573,
-    12.7725755873
+    12.7725755873,
+    12.7876342647
   ],
   "indices": [
     370,
@@ -81,12 +81,12 @@
     63,
     320,
     319,
-    602,
     359,
     322,
     321,
     42,
-    41
+    41,
+    346
   ],
   "name": "psyc_ETH-CAT_trip_ethylcathinone",
   "svg": "psyc_ETH-CAT_trip_ethylcathinone.svg",
@@ -219,15 +219,6 @@
       "dist": 11.9146247306
     },
     {
-      "name": "isomer_4-Cl-Buphedrone",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "4-Cl-Buphedrone"
-      ],
-      "dist": 11.9245292139
-    },
-    {
       "name": "trip_4f-neb",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -275,6 +266,15 @@
       ],
       "isomerd_names": null,
       "dist": 12.7725755873
+    },
+    {
+      "name": "trip_4-fea",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-fea"
+      ],
+      "isomerd_names": null,
+      "dist": 12.7876342647
     }
   ]
 }

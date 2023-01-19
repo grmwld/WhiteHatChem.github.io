@@ -1,0 +1,253 @@
+{
+  "inchi": "InChI=1S/C12H19N/c1-8-5-6-12(7-9(2)13)11(4)10(8)3/h5-6,9H,7,13H2,1-4H3",
+  "psychonaut_names": null,
+  "tripsit_names": null,
+  "isomerd_names": [
+    "TMeA-3"
+  ],
+  "isod_ids": [
+    7001
+  ],
+  "synonyms": [
+    "TMeA-3"
+  ],
+  "distances": [
+    13.9234959336,
+    18.0426545728,
+    18.3888319206,
+    18.5518262597,
+    18.8064628368,
+    18.871531591,
+    18.871531591,
+    18.904032831,
+    18.9953655815,
+    19.1013340349,
+    19.1038957228,
+    19.1488359302,
+    19.1535383735,
+    19.2581738049,
+    19.3074023979,
+    19.3720110157,
+    19.4911799902,
+    19.6923403648,
+    19.7842897608
+  ],
+  "indices": [
+    332,
+    596,
+    370,
+    369,
+    45,
+    28,
+    27,
+    70,
+    64,
+    36,
+    310,
+    312,
+    333,
+    35,
+    593,
+    349,
+    311,
+    34,
+    42
+  ],
+  "name": "isomer_TMeA-3",
+  "svg": "isomer_TMeA-3.svg",
+  "sim": [
+    {
+      "name": "trip_2-methylamphetamine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "2-methylamphetamine"
+      ],
+      "isomerd_names": null,
+      "dist": 13.9234959336
+    },
+    {
+      "name": "isomer_4-Me-2,3-DOM",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "4-Me-2,3-DOM"
+      ],
+      "dist": 18.0426545728
+    },
+    {
+      "name": "trip_2-mec",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "2-mec"
+      ],
+      "isomerd_names": null,
+      "dist": 18.3888319206
+    },
+    {
+      "name": "trip_3-mec",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "3-mec"
+      ],
+      "isomerd_names": null,
+      "dist": 18.5518262597
+    },
+    {
+      "name": "psyc_2,5-DMA",
+      "psychonaut_names": [
+        "2,5-DMA"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 18.8064628368
+    },
+    {
+      "name": "psyc_5-APB_trip_5-apb",
+      "psychonaut_names": [
+        "5-APB"
+      ],
+      "tripsit_names": [
+        "5-apb"
+      ],
+      "isomerd_names": null,
+      "dist": 18.871531591
+    },
+    {
+      "name": "psyc_6-APB_trip_6-apb",
+      "psychonaut_names": [
+        "6-APB"
+      ],
+      "tripsit_names": [
+        "6-apb"
+      ],
+      "isomerd_names": null,
+      "dist": 18.871531591
+    },
+    {
+      "name": "psyc_DOM_trip_dom",
+      "psychonaut_names": [
+        "DOM"
+      ],
+      "tripsit_names": [
+        "dom"
+      ],
+      "isomerd_names": null,
+      "dist": 18.904032831
+    },
+    {
+      "name": "psyc_4-MEC_trip_4-mec",
+      "psychonaut_names": [
+        "4-MEC"
+      ],
+      "tripsit_names": [
+        "4-mec"
+      ],
+      "isomerd_names": null,
+      "dist": 18.9953655815
+    },
+    {
+      "name": "psyc_2-MMC_trip_2-mmc",
+      "psychonaut_names": [
+        "2-MMC"
+      ],
+      "tripsit_names": [
+        "2-mmc"
+      ],
+      "isomerd_names": null,
+      "dist": 19.1013340349
+    },
+    {
+      "name": "psyc_3-FA_trip_3-fa",
+      "psychonaut_names": [
+        "3-FA"
+      ],
+      "tripsit_names": [
+        "3-fa"
+      ],
+      "isomerd_names": null,
+      "dist": 19.1038957228
+    },
+    {
+      "name": "psyc_2-FA_trip_2-fa",
+      "psychonaut_names": [
+        "2-FA"
+      ],
+      "tripsit_names": [
+        "2-fa"
+      ],
+      "isomerd_names": null,
+      "dist": 19.1488359302
+    },
+    {
+      "name": "trip_4-mta",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-mta"
+      ],
+      "isomerd_names": null,
+      "dist": 19.1535383735
+    },
+    {
+      "name": "psyc_3-MMC_trip_3-mmc",
+      "psychonaut_names": [
+        "3-MMC"
+      ],
+      "tripsit_names": [
+        "3-mmc"
+      ],
+      "isomerd_names": null,
+      "dist": 19.2581738049
+    },
+    {
+      "name": "isomer_4-APBT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "4-APBT"
+      ],
+      "dist": 19.3074023979
+    },
+    {
+      "name": "trip_mpa",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "mpa"
+      ],
+      "isomerd_names": null,
+      "dist": 19.3720110157
+    },
+    {
+      "name": "psyc_4-FA_trip_4-fa",
+      "psychonaut_names": [
+        "4-FA"
+      ],
+      "tripsit_names": [
+        "4-fa"
+      ],
+      "isomerd_names": null,
+      "dist": 19.4911799902
+    },
+    {
+      "name": "psyc_Mephedrone_trip_mephedrone",
+      "psychonaut_names": [
+        "Mephedrone"
+      ],
+      "tripsit_names": [
+        "mephedrone"
+      ],
+      "isomerd_names": null,
+      "dist": 19.6923403648
+    },
+    {
+      "name": "psyc_2-FEA_trip_2-fea",
+      "psychonaut_names": [
+        "2-FEA"
+      ],
+      "tripsit_names": [
+        "2-fea"
+      ],
+      "isomerd_names": null,
+      "dist": 19.7842897608
+    }
+  ]
+}

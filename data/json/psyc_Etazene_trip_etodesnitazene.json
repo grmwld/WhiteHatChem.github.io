@@ -9,21 +9,21 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "2-((4-Ethoxyphenyl)methyl)-N,N-diethyl-1H-benzimidazole-1-ethanamine",
+    "UNII-H7YW5L26CS",
+    "etazene",
+    "Benzimidazole, 1-(2-(diethylamino)ethyl)-2-(p-ethoxybenzyl)-",
     "Etazone",
-    "DEA NO. 9765",
-    "2-(2-(4-ethoxybenzyl)-1H-benzimidazol-1-yl)-N,N-diethylethan-1-amine",
-    "H7YW5L26CS",
+    "DTXSID601336496",
     "Etodesnitazene",
+    "Desnitroetonitazene",
+    "2-((4-Ethoxyphenyl)methyl)-N,N-diethyl-1H-benzimidazole-1-ethanamine",
+    "2-(2-(4-ethoxybenzyl)-1H-benzimidazol-1-yl)-N,N-diethylethan-1-amine",
     "14030-76-3",
     "1H-Benzimidazole-1-ethanamine, 2-((4-ethoxyphenyl)methyl)-N,N-diethyl-",
-    "etazene",
     "Etazen",
-    "DTXSID601336496",
-    "N,N-diethyl-2-{[(4-ethoxyphenyl)methyl]-1h-benzimidazol-1-yl}-ethan-1-amine",
-    "Benzimidazole, 1-(2-(diethylamino)ethyl)-2-(p-ethoxybenzyl)-",
-    "Desnitroetonitazene",
-    "UNII-H7YW5L26CS"
+    "H7YW5L26CS",
+    "DEA NO. 9765",
+    "N,N-diethyl-2-{[(4-ethoxyphenyl)methyl]-1h-benzimidazol-1-yl}-ethan-1-amine"
   ],
   "distances": [
     22.3093868189,
@@ -33,18 +33,18 @@
     27.7341439251,
     28.5034873569,
     28.6766610873,
-    28.8406720239,
     28.8971132097,
     28.9057738559,
     29.0438227535,
-    29.5591881734,
     29.6030861973,
     29.6833159058,
     30.0692458485,
     30.2186035658,
     30.4196960892,
     30.4544648002,
-    30.5074643866
+    30.5074643866,
+    30.7409178184,
+    31.0033715168
   ],
   "indices": [
     529,
@@ -54,18 +54,18 @@
     272,
     507,
     492,
-    687,
     502,
     234,
     264,
-    679,
     263,
     545,
     563,
     557,
     533,
     532,
-    556
+    556,
+    260,
+    496
   ],
   "name": "psyc_Etazene_trip_etodesnitazene",
   "svg": "psyc_Etazene_trip_etodesnitazene.svg",
@@ -136,15 +136,6 @@
       "dist": 28.6766610873
     },
     {
-      "name": "isomer_Ethylbenzyl-4CN-BINACA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "Ethylbenzyl-4CN-BINACA"
-      ],
-      "dist": 28.8406720239
-    },
-    {
       "name": "trip_prl-8-53",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -170,15 +161,6 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 29.0438227535
-    },
-    {
-      "name": "isomer_PRL-8-53",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "PRL-8-53"
-      ],
-      "dist": 29.5591881734
     },
     {
       "name": "psyc_5F-PB-22_trip_5f-pb-22",
@@ -244,6 +226,27 @@
       ],
       "isomerd_names": null,
       "dist": 30.5074643866
+    },
+    {
+      "name": "psyc_Dextropropoxyphene_trip_propoxyphene_dextropropoxyphene",
+      "psychonaut_names": [
+        "Dextropropoxyphene"
+      ],
+      "tripsit_names": [
+        "propoxyphene",
+        "dextropropoxyphene"
+      ],
+      "isomerd_names": null,
+      "dist": 30.7409178184
+    },
+    {
+      "name": "trip_amfonelicacid",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "amfonelicacid"
+      ],
+      "isomerd_names": null,
+      "dist": 31.0033715168
     }
   ]
 }

@@ -9,29 +9,29 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "2,5-Dimethoxy-N-[(2-methoxyphenyl)methyl]benzeneethanamine",
-    "DTXSID201014187",
-    "2-(2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine",
-    "N-(2-Methoxybenzyl)-2,5-dimethoxyphenethylamine",
-    "919797-16-3",
-    "DMPEA-NBOMe",
-    "Q27288204",
+    "UNII-RN5ZVN74Y9",
     "2,5-Dimethoxy-N-(2-methoxybenzyl)phenethylamine",
-    "CHEBI:191069",
     "25h",
-    "2,5-Dimethoxy-N-((2-methoxyphenyl)methyl)benzeneethanamine",
+    "919797-16-3",
+    "ZINC32186044",
+    "2,5-Dimethoxy-N-[(2-methoxyphenyl)methyl]benzeneethanamine",
+    "J3.538.015I",
+    "Q27288204",
     "25-h-nbome",
-    "2C-H-NBOMe",
     "25-NBOMe",
+    "Benzeneethanamine, 2,5-dimethoxy-N-((2-methoxyphenyl)methyl)-",
+    "2C-H-NBOMe",
+    "SCHEMBL17287296",
+    "2c-H-Nbome",
+    "DMPEA-NBOMe",
     "Benzeneethanamine, 2,5-dimethoxy-n-[(2-methoxyphenyl)methylene]-",
     "RN5ZVN74Y9",
-    "ZINC32186044",
-    "SCHEMBL17287296",
-    "J3.538.015I",
-    "Benzeneethanamine, 2,5-dimethoxy-N-((2-methoxyphenyl)methyl)-",
-    "2c-H-Nbome",
-    "UNII-RN5ZVN74Y9",
-    "2-(2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine"
+    "2,5-Dimethoxy-N-((2-methoxyphenyl)methyl)benzeneethanamine",
+    "CHEBI:191069",
+    "2-(2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine",
+    "2-(2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine",
+    "DTXSID201014187",
+    "N-(2-Methoxybenzyl)-2,5-dimethoxyphenethylamine"
   ],
   "distances": [
     7.9793281506,
@@ -52,7 +52,7 @@
     21.4844950281,
     21.8864911224,
     23.8286821144,
-    24.0009218675
+    26.785601446
   ],
   "indices": [
     233,
@@ -73,7 +73,7 @@
     546,
     500,
     502,
-    679
+    230
   ],
   "name": "psyc_25H-NBOMe_trip_25h-nbome",
   "svg": "psyc_25H-NBOMe_trip_25h-nbome.svg",
@@ -257,13 +257,15 @@
       "dist": 23.8286821144
     },
     {
-      "name": "isomer_PRL-8-53",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "PRL-8-53"
+      "name": "psyc_Benzydamine_trip_benzydamine",
+      "psychonaut_names": [
+        "Benzydamine"
       ],
-      "dist": 24.0009218675
+      "tripsit_names": [
+        "benzydamine"
+      ],
+      "isomerd_names": null,
+      "dist": 26.785601446
     }
   ]
 }

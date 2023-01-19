@@ -9,51 +9,51 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "C07432",
-    "Psychamine A 66",
-    "Phenmetrazin",
-    "Fenmetrazina [INN-Spanish]",
-    "SCHEMBL33984",
-    "AKOS003662804",
-    "3-Methyl-2-phenyltetrahydro-2H-1,4-oxazine",
-    "Dexphenmetrazine",
-    "FT-0699580",
-    "3-Methyl-2-phenylmorpholine",
-    "NCGC00164535-01",
-    "MFCD00864487",
+    "2-Phenyl-3-methylmorpholine",
     "3-Methyl-2-phenylmorpholine hydrochloride",
-    "preludin",
-    "Preludin",
-    "Q3329406",
-    "Defenmetrazin",
-    "CHEBI:8067",
-    "DTXSID5023455",
-    "AC-16023",
-    "Probese-P",
-    "HSDB 3156",
-    "Fenmetrazina",
-    "DB00830",
-    "Morpholine, 3-methyl-2-phenyl-",
-    "Phenmetrazinum [INN-Latin]",
-    "dl-2-Phenyl-3-methyltetrahydro-1,4-oxazine",
-    "NCGC00164535-02",
-    "phenmetrazine",
+    "C07432",
     "2-Fenyl-3-methylmorfolin",
-    "Oxazimedrine",
-    "Fenmetrazin",
-    "CHEMBL1201208",
-    "BRN 0140490",
-    "AB07481",
-    "Phenmetrazinum",
     "3-methyl-2-phenyl-morpholine",
-    "DEA No. 1631",
-    "Phenmetrazine [INN:BAN]",
-    "134-49-6",
+    "Probese-P",
+    "AB07481",
+    "Fenmetrazina",
     "2-Fenyl-3-methylmorfolin [Czech]",
-    "W-205439",
-    "EINECS 205-143-4",
     "134-49-6 (free)",
-    "2-Phenyl-3-methylmorpholine"
+    "EINECS 205-143-4",
+    "DEA No. 1631",
+    "AKOS003662804",
+    "SCHEMBL33984",
+    "BRN 0140490",
+    "Oxazimedrine",
+    "DTXSID5023455",
+    "Phenmetrazinum [INN-Latin]",
+    "Psychamine A 66",
+    "dl-2-Phenyl-3-methyltetrahydro-1,4-oxazine",
+    "CHEBI:8067",
+    "CHEMBL1201208",
+    "MFCD00864487",
+    "3-Methyl-2-phenyltetrahydro-2H-1,4-oxazine",
+    "phenmetrazine",
+    "preludin",
+    "Fenmetrazina [INN-Spanish]",
+    "Q3329406",
+    "FT-0699580",
+    "Defenmetrazin",
+    "Preludin",
+    "3-Methyl-2-phenylmorpholine",
+    "AC-16023",
+    "134-49-6",
+    "Dexphenmetrazine",
+    "Phenmetrazin",
+    "Morpholine, 3-methyl-2-phenyl-",
+    "Fenmetrazin",
+    "Phenmetrazine [INN:BAN]",
+    "DB00830",
+    "NCGC00164535-02",
+    "HSDB 3156",
+    "W-205439",
+    "NCGC00164535-01",
+    "Phenmetrazinum"
   ],
   "distances": [
     8.4945185321,
@@ -68,13 +68,13 @@
     18.3314872968,
     18.6286486438,
     19.6564735679,
-    20.7428606,
-    20.9097851785,
     20.9977306775,
     21.0505627047,
     21.1350694844,
     21.3896962111,
-    21.4837464397
+    21.4837464397,
+    21.4955056394,
+    22.6839014988
   ],
   "indices": [
     336,
@@ -89,13 +89,13 @@
     365,
     17,
     347,
-    592,
-    603,
     7,
     328,
     6,
     326,
-    353
+    353,
+    308,
+    338
   ],
   "name": "psyc_Phenmetrazine_trip_phenmetrazine",
   "svg": "psyc_Phenmetrazine_trip_phenmetrazine.svg",
@@ -213,24 +213,6 @@
       "dist": 19.6564735679
     },
     {
-      "name": "isomer_HHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "HHAT"
-      ],
-      "dist": 20.7428606
-    },
-    {
-      "name": "isomer_MHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MHAT"
-      ],
-      "dist": 20.9097851785
-    },
-    {
       "name": "psyc_NM-2-AI_trip_nm-2-ai",
       "psychonaut_names": [
         "NM-2-AI"
@@ -278,6 +260,26 @@
       ],
       "isomerd_names": null,
       "dist": 21.4837464397
+    },
+    {
+      "name": "psyc_2-Aminoindane_trip_2-ai",
+      "psychonaut_names": [
+        "2-Aminoindane"
+      ],
+      "tripsit_names": [
+        "2-ai"
+      ],
+      "isomerd_names": null,
+      "dist": 21.4955056394
+    },
+    {
+      "name": "trip_4,4-dmar",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4,4-dmar"
+      ],
+      "isomerd_names": null,
+      "dist": 22.6839014988
     }
   ]
 }

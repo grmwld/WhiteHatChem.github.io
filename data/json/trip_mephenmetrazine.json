@@ -7,8 +7,8 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "4-methylphenmetrazine",
-    "4-mpm"
+    "4-mpm",
+    "4-methylphenmetrazine"
   ],
   "distances": [
     14.0333008489,
@@ -20,16 +20,16 @@
     17.7370179749,
     19.743203068,
     19.8714650207,
-    20.8906651727,
     21.1983020894,
     21.3004091035,
-    21.3578890302,
     21.4359546694,
-    21.504830461,
-    21.6741293551,
     21.7770301967,
     22.2260228955,
-    22.344055942
+    22.344055942,
+    22.6640719256,
+    22.9673003901,
+    23.596856687,
+    23.6793098885
   ],
   "indices": [
     37,
@@ -41,16 +41,16 @@
     373,
     365,
     377,
-    603,
     324,
     362,
-    619,
     353,
-    618,
-    592,
     347,
     585,
-    7
+    7,
+    6,
+    326,
+    53,
+    308
   ],
   "name": "trip_mephenmetrazine",
   "svg": "trip_mephenmetrazine.svg",
@@ -143,15 +143,6 @@
       "dist": 19.8714650207
     },
     {
-      "name": "isomer_MHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MHAT"
-      ],
-      "dist": 20.8906651727
-    },
-    {
       "name": "trip_4-methylaminorex",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -170,15 +161,6 @@
       "dist": 21.3004091035
     },
     {
-      "name": "isomer_EHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "EHAT"
-      ],
-      "dist": 21.3578890302
-    },
-    {
       "name": "trip_mephtetramine",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -186,24 +168,6 @@
       ],
       "isomerd_names": null,
       "dist": 21.4359546694
-    },
-    {
-      "name": "isomer_MMAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MMAT"
-      ],
-      "dist": 21.504830461
-    },
-    {
-      "name": "isomer_HHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "HHAT"
-      ],
-      "dist": 21.6741293551
     },
     {
       "name": "trip_bzp",
@@ -233,6 +197,48 @@
       ],
       "isomerd_names": null,
       "dist": 22.344055942
+    },
+    {
+      "name": "psyc_MCPP_trip_mcpp",
+      "psychonaut_names": [
+        "MCPP"
+      ],
+      "tripsit_names": [
+        "mcpp"
+      ],
+      "isomerd_names": null,
+      "dist": 22.6640719256
+    },
+    {
+      "name": "trip_4-fpp",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-fpp"
+      ],
+      "isomerd_names": null,
+      "dist": 22.9673003901
+    },
+    {
+      "name": "psyc_Aniracetam_trip_aniracetam",
+      "psychonaut_names": [
+        "Aniracetam"
+      ],
+      "tripsit_names": [
+        "aniracetam"
+      ],
+      "isomerd_names": null,
+      "dist": 23.596856687
+    },
+    {
+      "name": "psyc_2-Aminoindane_trip_2-ai",
+      "psychonaut_names": [
+        "2-Aminoindane"
+      ],
+      "tripsit_names": [
+        "2-ai"
+      ],
+      "isomerd_names": null,
+      "dist": 23.6793098885
     }
   ]
 }

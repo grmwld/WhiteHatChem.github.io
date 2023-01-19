@@ -10,8 +10,6 @@
   "distances": [
     15.3386231848,
     17.2827068356,
-    29.7546495923,
-    31.0102443381,
     31.1495318578,
     31.4580923176,
     31.5721017264,
@@ -25,14 +23,14 @@
     33.3200752849,
     33.6914947916,
     33.7853150017,
-    33.7957137601,
-    33.9119936811
+    33.9119936811,
+    33.9673376834,
+    33.9724745687,
+    34.0292286618
   ],
   "indices": [
     489,
     155,
-    683,
-    665,
     462,
     168,
     241,
@@ -42,12 +40,14 @@
     487,
     249,
     222,
-    671,
+    601,
     258,
     486,
     557,
-    654,
-    522
+    522,
+    603,
+    140,
+    552
   ],
   "name": "trip_u-49900",
   "svg": "trip_u-49900.svg",
@@ -71,24 +71,6 @@
       ],
       "isomerd_names": null,
       "dist": 17.2827068356
-    },
-    {
-      "name": "isomer_BBAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "BBAT"
-      ],
-      "dist": 29.7546495923
-    },
-    {
-      "name": "isomer_PEAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "PEAT"
-      ],
-      "dist": 31.0102443381
     },
     {
       "name": "trip_ah-7921",
@@ -221,15 +203,6 @@
       "dist": 33.7853150017
     },
     {
-      "name": "isomer_EEAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "EEAT"
-      ],
-      "dist": 33.7957137601
-    },
-    {
       "name": "trip_5-bpdi",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -237,6 +210,35 @@
       ],
       "isomerd_names": null,
       "dist": 33.9119936811
+    },
+    {
+      "name": "isomer_2,5-Dimethyl-\u03b1-PVP",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2,5-Dimethyl-\u03b1-PVP"
+      ],
+      "dist": 33.9673376834
+    },
+    {
+      "name": "psyc_O-Desmethyltramadol_trip_o-desmethyltramadol",
+      "psychonaut_names": [
+        "O-Desmethyltramadol"
+      ],
+      "tripsit_names": [
+        "o-desmethyltramadol"
+      ],
+      "isomerd_names": null,
+      "dist": 33.9724745687
+    },
+    {
+      "name": "trip_methoxyacetyl-fentanyl",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "methoxyacetyl-fentanyl"
+      ],
+      "isomerd_names": null,
+      "dist": 34.0292286618
     }
   ]
 }

@@ -9,27 +9,27 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "UNII-168Y0PXM7S",
-    "168Y0PXM7S",
-    "D-Lysergic acid morpholide",
-    "Lysergic acid morpholide",
+    "Morpholine, 4-lysergoyl-",
+    "4-Lysergoylmorpholine",
+    "Morpholine, 4-(((8-beta)-9,10-didehydro-6-methylergolin-8-yl)carbonyl)-",
+    "SCHEMBL20970864",
+    "4314-63-0",
     "LSM",
+    "N-Morpholinyllysergamide",
+    "D-Lysergic acid morpholide",
+    "168Y0PXM7S",
+    "[(6aR,9R)-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinolin-9-yl]-morpholin-4-ylmethanone",
+    "Q6459970",
+    "4-Lysergic acid morpholine",
+    "((6aR,9R)-7-methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinolin-9-yl)(morpholino)methanone",
+    "Lysergic acid morpholide",
+    "Ergoline-8-beta-carboxylic acid, 9,10-didehydro-6-methyl-, morpholide",
     "MORPHOLINE, 4-(((8.BETA.)-9,10-DIDEHYDRO-6-METHYLERGOLIN-8-YL)CARBONYL)-",
     "LA-Morph",
-    "Morpholine, 4-(((8-beta)-9,10-didehydro-6-methylergolin-8-yl)carbonyl)-",
+    "UNII-168Y0PXM7S",
     "lsm",
-    "DTXSID50195718",
-    "4314-63-0",
-    "Q6459970",
-    "4-Lysergoylmorpholine",
-    "4-Lysergic acid morpholine",
-    "Morpholine, 4-lysergoyl-",
-    "((6aR,9R)-7-methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinolin-9-yl)(morpholino)methanone",
-    "N-Morpholinyllysergamide",
     "4-Lysergic acid morpholide",
-    "SCHEMBL20970864",
-    "Ergoline-8-beta-carboxylic acid, 9,10-didehydro-6-methyl-, morpholide",
-    "[(6aR,9R)-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinolin-9-yl]-morpholin-4-ylmethanone"
+    "DTXSID50195718"
   ],
   "distances": [
     21.0560434107,
@@ -45,12 +45,12 @@
     31.7926354284,
     31.8224664751,
     31.9244695011,
-    32.1629779921,
     32.5537434993,
     32.6109958569,
     32.7742355013,
     32.8151319629,
-    33.237653003
+    33.237653003,
+    33.3914658294
   ],
   "indices": [
     247,
@@ -66,12 +66,12 @@
     273,
     220,
     274,
-    688,
     201,
     459,
     562,
     523,
-    535
+    535,
+    486
   ],
   "name": "psyc_LSM-775_trip_lsm-775",
   "svg": "psyc_LSM-775_trip_lsm-775.svg",
@@ -209,15 +209,6 @@
       "dist": 31.9244695011
     },
     {
-      "name": "isomer_3F-Cyclopropylbenzylfentanyl",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3F-Cyclopropylbenzylfentanyl"
-      ],
-      "dist": 32.1629779921
-    },
-    {
       "name": "psyc_3-MeO-PCMo_trip_3-meo-pcmo",
       "psychonaut_names": [
         "3-MeO-PCMo"
@@ -263,6 +254,15 @@
       ],
       "isomerd_names": null,
       "dist": 33.237653003
+    },
+    {
+      "name": "trip_5-dbfpv",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "5-dbfpv"
+      ],
+      "isomerd_names": null,
+      "dist": 33.3914658294
     }
   ]
 }

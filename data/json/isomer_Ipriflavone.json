@@ -24,13 +24,13 @@
     25.2052366598,
     25.3175824373,
     25.5609348256,
-    26.1143759704,
     26.2540814814,
     26.341249974,
     26.6306031828,
     26.6920782446,
     27.0952604196,
-    27.171635772
+    27.171635772,
+    27.2460677083
   ],
   "indices": [
     145,
@@ -41,17 +41,17 @@
     124,
     496,
     453,
-    672,
+    602,
     461,
     217,
     458,
-    679,
     517,
     502,
     189,
     186,
     147,
-    185
+    185,
+    242
   ],
   "name": "isomer_Ipriflavone",
   "svg": "isomer_Ipriflavone.svg",
@@ -170,15 +170,6 @@
       "dist": 25.5609348256
     },
     {
-      "name": "isomer_PRL-8-53",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "PRL-8-53"
-      ],
-      "dist": 26.1143759704
-    },
-    {
       "name": "trip_pyrophenidone",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -237,6 +228,17 @@
       ],
       "isomerd_names": null,
       "dist": 27.171635772
+    },
+    {
+      "name": "psyc_Methoxphenidine_trip_methoxphenidine",
+      "psychonaut_names": [
+        "Methoxphenidine"
+      ],
+      "tripsit_names": [
+        "methoxphenidine"
+      ],
+      "isomerd_names": null,
+      "dist": 27.2460677083
     }
   ]
 }

@@ -14,7 +14,6 @@
     24.2478202548,
     24.7079251938,
     24.8776302001,
-    24.9617028443,
     26.2058431618,
     26.3887307824,
     26.5457725363,
@@ -28,28 +27,29 @@
     28.1717948383,
     28.3908389078,
     28.4068086441,
-    28.7747452102
+    28.7747452102,
+    28.7884540302
   ],
   "indices": [
     205,
     499,
     229,
     434,
-    678,
     517,
     207,
     504,
     456,
-    685,
+    608,
     181,
     98,
     179,
-    684,
+    607,
     242,
     414,
     454,
     101,
-    388
+    388,
+    520
   ],
   "name": "trip_d2pm",
   "svg": "trip_d2pm.svg",
@@ -93,15 +93,6 @@
       ],
       "isomerd_names": null,
       "dist": 24.8776302001
-    },
-    {
-      "name": "isomer_3-Fluoro_4-ANBP",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3-Fluoro 4-ANBP"
-      ],
-      "dist": 24.9617028443
     },
     {
       "name": "trip_pyrophenidone",
@@ -238,6 +229,15 @@
       ],
       "isomerd_names": null,
       "dist": 28.7747452102
+    },
+    {
+      "name": "trip_hdep-28",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "hdep-28"
+      ],
+      "isomerd_names": null,
+      "dist": 28.7884540302
     }
   ]
 }

@@ -22,13 +22,13 @@
     24.6147947901,
     24.7837645516,
     25.8980003262,
-    25.9796873121,
     26.1004622729,
     26.5192524773,
     26.6673161745,
     26.8958369895,
     27.0620038205,
-    27.0674049214
+    27.0674049214,
+    27.0895674666
   ],
   "indices": [
     179,
@@ -43,13 +43,13 @@
     147,
     511,
     509,
-    678,
     455,
     501,
     497,
     474,
     476,
-    686
+    609,
+    242
   ],
   "name": "trip_diclofensine",
   "svg": "trip_diclofensine.svg",
@@ -171,15 +171,6 @@
       "dist": 25.8980003262
     },
     {
-      "name": "isomer_3-Fluoro_4-ANBP",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3-Fluoro 4-ANBP"
-      ],
-      "dist": 25.9796873121
-    },
-    {
       "name": "trip_clotiazepam",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -232,6 +223,17 @@
         "Despropionyl-4-methoxyfentanyl"
       ],
       "dist": 27.0674049214
+    },
+    {
+      "name": "psyc_Methoxphenidine_trip_methoxphenidine",
+      "psychonaut_names": [
+        "Methoxphenidine"
+      ],
+      "tripsit_names": [
+        "methoxphenidine"
+      ],
+      "isomerd_names": null,
+      "dist": 27.0895674666
     }
   ]
 }

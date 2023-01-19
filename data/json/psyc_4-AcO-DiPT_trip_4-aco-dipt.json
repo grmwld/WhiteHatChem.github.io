@@ -9,33 +9,33 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "CHEBI:191025",
+    "UNII-XV36ISE3YQ",
+    "4-acetoxy DIPT",
+    "4-AcO-DIPT",
+    "ipracetin",
     "4-Acetoxy-N,N-diisopropyltryptamine, free base",
+    "AKOS022182911",
+    "4-Acetoxy-DIPT",
+    "4-acetoxy-dipt",
+    "XV36ISE3YQ",
+    "N,N-Diisopropyl-4-acetoxytryptamine",
+    "1H-INDOL-4-OL, 3-(2-(BIS(1-METHYLETHYL)AMINO)ETHYL)-, 4-ACETATE",
+    "IPRACETIN",
+    "aces",
+    "[3-[2-[di(propan-2-yl)amino]ethyl]-1H-indol-4-yl] acetate",
+    "SCHEMBL4210376",
+    "4acodipt",
+    "ZINC2539027",
+    "DTXSID30239482",
+    "936015-60-0",
+    "4-ACETOXY-N,N-DIISOPROPYLTRYPTAMINE",
+    "Ipracetin",
+    "4-Acetoxy-N,N-diisopropyltryptamine",
+    "Q3491199",
+    "3-(2-(BIS(1-METHYLETHYL)AMINO)ETHYL)-1H-INDOL-4-YL ACETATE",
     "4-Acetoxy-DiPT",
     "EN-0014",
-    "4acodipt",
-    "3-(2-(BIS(1-METHYLETHYL)AMINO)ETHYL)-1H-INDOL-4-YL ACETATE",
-    "SCHEMBL4210376",
-    "IPRACETIN",
-    "4-Acetoxy-DIPT",
-    "aces",
-    "4-acetoxy DIPT",
-    "4-ACETOXY-N,N-DIISOPROPYLTRYPTAMINE",
-    "DTXSID30239482",
-    "Q3491199",
-    "UNII-XV36ISE3YQ",
-    "936015-60-0",
-    "[3-[2-[di(propan-2-yl)amino]ethyl]-1H-indol-4-yl] acetate",
-    "AKOS022182911",
-    "1H-INDOL-4-OL, 3-(2-(BIS(1-METHYLETHYL)AMINO)ETHYL)-, 4-ACETATE",
-    "4-acetoxy-dipt",
-    "4-AcO-DIPT",
-    "ZINC2539027",
-    "Ipracetin",
-    "ipracetin",
-    "XV36ISE3YQ",
-    "4-Acetoxy-N,N-diisopropyltryptamine",
-    "N,N-Diisopropyl-4-acetoxytryptamine",
+    "CHEBI:191025",
     "iprocetyl",
     "3-(2-(Diisopropylamino)ethyl)-1H-indol-4-yl acetate"
   ],
@@ -55,10 +55,10 @@
     26.8402471067,
     27.371242875,
     29.0225405733,
-    29.7739684419,
     29.8685443878,
     30.0547413162,
-    30.0953511954
+    30.0953511954,
+    31.1597564163
   ],
   "indices": [
     202,
@@ -76,10 +76,10 @@
     99,
     106,
     417,
-    667,
     240,
     103,
-    492
+    492,
+    461
   ],
   "name": "psyc_4-AcO-DiPT_trip_4-aco-dipt",
   "svg": "psyc_4-AcO-DiPT_trip_4-aco-dipt.svg",
@@ -242,15 +242,6 @@
       "dist": 29.0225405733
     },
     {
-      "name": "isomer_N-{2-[4-(2-Hydroxypropyl)-2,5-dimethoxyphenyl]ethyl}acetamide",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "N-{2-[4-(2-Hydroxypropyl)-2,5-dimethoxyphenyl]ethyl}acetamide"
-      ],
-      "dist": 29.7739684419
-    },
-    {
       "name": "psyc_MiPLA",
       "psychonaut_names": [
         "MiPLA"
@@ -278,6 +269,15 @@
       ],
       "isomerd_names": null,
       "dist": 30.0953511954
+    },
+    {
+      "name": "trip_propranolol",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "propranolol"
+      ],
+      "isomerd_names": null,
+      "dist": 31.1597564163
     }
   ]
 }

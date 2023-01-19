@@ -9,235 +9,172 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "1,3-Dimethyl-5-adamantanamine",
-    "BPBio1_001117",
-    "Memantina",
-    "DSSTox_GSID_45174",
-    "DSSTox_CID_25174",
-    "Memantine (INN)",
-    "D08174",
-    "SCHEMBL2688",
-    "GTPL4253",
-    "Spectrum5_001355",
-    "BCP29702",
-    "1-amino-3,5-dimethyladamantan",
-    "alzantin",
-    "A814131",
-    "Memantina [INN-Spanish]",
-    "1-amino-3,5-dimethyl adamantane",
+    "Memantinum",
+    "1-Amino-3,5-dimethyladamantane",
     "AB00053600_14",
-    "SBI-0020417.P004",
-    "BBL000737",
-    "ALBB-013872",
-    "3,5-Dimethyl-1-aminoadamantane",
-    "DMAA [Antiparkinson Agent]",
-    "D145 pound>>D 145 pound>>D-145",
-    "Q412189",
-    "19982-08-2",
-    "CHEMBL807",
-    "SPBio_001456",
-    "Exiba (TN)",
-    "FT-0649142",
-    "DRG-0267",
-    "Memantinum [INN-Latin]",
-    "Oprea1_480562",
-    "KBioGR_001543",
-    "D 145",
-    "SPBio_002926",
-    "NCGC00015705-04",
-    "KBio2_006223",
-    "3,5-Dimethyl-adamantan-1-ylamine",
-    "Spectrum_000607",
-    "Prestwick0_000978",
-    "W8O17SJF3T",
-    "3,5-dimethyladamantan-1-amine",
-    "UNII-W8O17SJF3T",
-    "NCGC00015705-07",
-    "KBio3_001926",
-    "DivK1c_000068",
-    "Prestwick1_000978",
-    "HMS500D10",
-    "DSSTox_RID_80723",
-    "Biomol-NT_000209",
-    "MEMANTINE [WHO-DD]",
-    "KBio1_000068",
-    "BPBio1_001270",
-    "AB00053600",
-    "EU-0053634",
-    "DRG 0267",
-    "NCGC00024782-03",
-    "AKOS015953276",
-    "BSPBio_001015",
-    "CAS-19982-08-2",
-    "nemdatine",
-    "NINDS_000068",
     "NCGC00024782-02",
-    "TRICYCLO(3.3.1.1(SUP 3,7))DECAN-1-AMINE, 3,5-DIMETHYL-",
-    "3,5-Dimethyl-1-adamantylamine",
-    "DTXSID5045174",
-    "Tricyclo(3.3.1.1(3,7))decan-1-amine, 3,5-dimethyl-",
-    "SDCCGSBI-0020417.P005",
-    "NCGC00015705-16",
-    "D-145",
-    "AB00053600-13",
-    "AKOS000113995",
+    "MEMANTINE [MI]",
+    "nemdatine",
+    "NSC-757843",
+    "Exiba (TN)",
+    "DSSTox_CID_25174",
+    "Retyliumtosylate",
+    "DMAA [Antiparkinson Agent]",
+    "Memantine [INN:BAN]",
+    "A814131",
+    "Tox21_110199",
+    "BSPBio_001015",
+    "DSSTox_RID_80723",
     "BDBM50062599",
+    "Oprea1_480562",
+    "DS-3152",
+    "DSSTox_GSID_45174",
+    "AKOS016340748",
+    "DivK1c_000068",
+    "HSDB 7327",
+    "memantine",
+    "KBio2_006223",
+    "Prestwick1_000978",
+    "3,5-dimethyladamantan-1-amine",
+    "AB00053600_15",
+    "DRG-0267",
+    "Spectrum_000607",
+    "DTXSID5045174",
+    "CBMicro_020348",
+    "NINDS_000068",
+    "HMS500D10",
+    "SCHEMBL13213676",
+    "D08174",
+    "Tricyclo[3.3.1.13,7]decan-1-amine, 3,5-dimethyl-",
+    "SDCCGSBI-0020417.P005",
+    "CHEMBL807",
+    "KBioSS_001087",
+    "MEMANTINE [WHO-DD]",
+    "3,5-dimethyltricyclo[3.3.1.1~3,7~]decan-1-amine",
+    "3,5-Dimethyl-1-aminoadamantane",
+    "Memantinum [INN-Latin]",
+    "NCGC00015705-09",
     "KBio2_001087",
-    "KBio2_003655",
-    "Tox21_110199_1",
+    "MEMANTINE [VANDF]",
+    "Spectrum5_001355",
+    "Memantine (INN)",
+    "NCGC00015705-05",
+    "SPBio_001456",
+    "BPBio1_001117",
+    "19982-08-2",
+    "Biomol-NT_000209",
+    "Spectrum2_001408",
+    "Memantina [INN-Spanish]",
+    "3,5-Dimethyl-adamantan-1-ylamine",
+    "BCP29702",
+    "NCGC00015705-16",
+    "Q412189",
+    "DRG 0267",
+    "3,5-DIMETHYLTRICYCLO(3.3.1.1(SUP 3,7))DECAN-1-AMINE",
+    "Memantine [INN]",
+    "Spectrum4_001022",
+    "3,5-Dimethyl-1-adamantanamine",
+    "NCGC00015705-07",
+    "AB00053600-13",
+    "TRICYCLO(3.3.1.1(SUP 3,7))DECAN-1-AMINE, 3,5-DIMETHYL-",
+    "NSC 757843",
     "Prestwick2_000978",
+    "SCHEMBL2688",
+    "AB00053600",
+    "1,3-Dimethyl-5-adamantanamine",
+    "ALBB-013872",
+    "KBio1_000068",
+    "Prestwick0_000978",
+    "CAS-19982-08-2",
+    "IDI1_000068",
+    "AKOS015953276",
+    "Tox21_110199_1",
+    "BB 0216388",
+    "NCGC00015705-04",
+    "Memantina",
     "D94592",
     "NCGC00015705-03",
-    "STK520682",
-    "3,5-Dimethyl-1-adamantanamine",
-    "Tricyclo[3.3.1.13,7]decan-1-amine, 3,5-dimethyl-",
-    "Retyliumtosylate",
-    "Spectrum3_000923",
-    "NCGC00015705-09",
-    "DB01043",
-    "IDI1_000068",
-    "HSDB 7327",
-    "Lopac0_000861",
-    "MEMANTINE [HSDB]",
-    "NSC-757843",
-    "SCHEMBL13213676",
-    "AB00053600_15",
-    "Spectrum4_001022",
-    "KBioSS_001087",
-    "memantine",
-    "BB 0216388",
-    "Spectrum2_001408",
-    "Memantine [INN]",
-    "CCG-204092",
-    "NCGC00015705-05",
-    "3,5-DIMETHYLTRICYCLO(3.3.1.1(SUP 3,7))DECAN-1-AMINE",
-    "AKOS016340748",
-    "3,5-dimethyltricyclo[3.3.1.1~3,7~]decan-1-amine",
-    "1-Amino-3,5-dimethyladamantane",
-    "3,5-dimethyladamantanylamine",
-    "Memantinum",
-    "MEMANTINE [VANDF]",
-    "3,5-Dimethyl-1-aminoadamantane HCl",
     "1,3-Dimethyl-5-aminoadamantane",
-    "DS-3152",
-    "3,5-Dimethyltricyclo(3.3.1.1(3,7))decan-1-amine",
-    "Memantine [INN:BAN]",
-    "NSC 757843",
-    "1-amino-3,5-dimethyl-adamantane",
-    "MEMANTINE [MI]",
-    "Tox21_110199",
+    "Lopac0_000861",
+    "D-145",
+    "GTPL4253",
+    "1-amino-3,5-dimethyladamantan",
+    "SPBio_002926",
+    "D 145",
+    "KBio2_003655",
+    "NCGC00024782-03",
+    "Tricyclo(3.3.1.1(3,7))decan-1-amine, 3,5-dimethyl-",
     "Prestwick3_000978",
-    "CHEBI:64312",
-    "CBMicro_020348"
+    "3,5-dimethyladamantanylamine",
+    "KBioGR_001543",
+    "BPBio1_001270",
+    "FT-0649142",
+    "alzantin",
+    "SBI-0020417.P004",
+    "BBL000737",
+    "D145 pound>>D 145 pound>>D-145",
+    "STK520682",
+    "EU-0053634",
+    "3,5-Dimethyltricyclo(3.3.1.1(3,7))decan-1-amine",
+    "KBio3_001926",
+    "1-amino-3,5-dimethyl-adamantane",
+    "CCG-204092",
+    "MEMANTINE [HSDB]",
+    "3,5-Dimethyl-1-aminoadamantane HCl",
+    "Spectrum3_000923",
+    "AKOS000113995",
+    "1-amino-3,5-dimethyl adamantane",
+    "UNII-W8O17SJF3T",
+    "W8O17SJF3T",
+    "3,5-Dimethyl-1-adamantylamine",
+    "DB01043",
+    "CHEBI:64312"
   ],
   "distances": [
-    13.1234007815,
-    15.6459122752,
-    15.9684848353,
-    17.9631436566,
-    20.9650195196,
-    22.3532895938,
-    22.9026525569,
     27.7812016662,
-    29.8450005873,
-    29.9596245231,
-    30.3105025115,
-    31.0586927449,
-    31.4973966946,
-    31.974063853,
-    33.9950504066,
-    36.859249152,
     40.8289352436,
     41.9971210765,
-    42.4491064187
+    42.4491064187,
+    44.3995434437,
+    44.6592909763,
+    45.9647373546,
+    45.9736013543,
+    45.9978398355,
+    46.0767526923,
+    46.1029810672,
+    46.5523321532,
+    46.830510137,
+    47.0033840828,
+    47.2100784145,
+    47.3881675921,
+    47.5331761198,
+    47.5372078778,
+    47.9887071677
   ],
   "indices": [
-    650,
-    662,
-    660,
-    659,
-    634,
-    651,
-    661,
     23,
-    670,
-    615,
-    616,
-    680,
-    633,
-    635,
-    652,
-    663,
     22,
     365,
-    315
+    315,
+    376,
+    83,
+    109,
+    100,
+    334,
+    80,
+    81,
+    110,
+    361,
+    416,
+    21,
+    152,
+    410,
+    415,
+    338
   ],
   "name": "psyc_Memantine_trip_memantine",
   "svg": "psyc_Memantine_trip_memantine.svg",
   "sim": [
-    {
-      "name": "isomer_MRZ_2_169",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MRZ 2/169"
-      ],
-      "dist": 13.1234007815
-    },
-    {
-      "name": "isomer_MRZ_2_171",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MRZ 2/171"
-      ],
-      "dist": 15.6459122752
-    },
-    {
-      "name": "isomer_MRZ_2_138",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MRZ 2/138"
-      ],
-      "dist": 15.9684848353
-    },
-    {
-      "name": "isomer_MRZ_2_170",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MRZ 2/170"
-      ],
-      "dist": 17.9631436566
-    },
-    {
-      "name": "isomer_MRZ_2_175",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MRZ 2/175"
-      ],
-      "dist": 20.9650195196
-    },
-    {
-      "name": "isomer_MRZ_2_177",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MRZ 2/177"
-      ],
-      "dist": 22.3532895938
-    },
-    {
-      "name": "isomer_MRZ_2_150",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MRZ 2/150"
-      ],
-      "dist": 22.9026525569
-    },
     {
       "name": "psyc_Amantadine",
       "psychonaut_names": [
@@ -246,78 +183,6 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 27.7812016662
-    },
-    {
-      "name": "isomer_MRZ_2_180",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MRZ 2/180"
-      ],
-      "dist": 29.8450005873
-    },
-    {
-      "name": "isomer_MRZ_2_188",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MRZ 2/188"
-      ],
-      "dist": 29.9596245231
-    },
-    {
-      "name": "isomer_MRZ_2_16",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MRZ 2/16"
-      ],
-      "dist": 30.3105025115
-    },
-    {
-      "name": "isomer_MRZ_2_184",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MRZ 2/184"
-      ],
-      "dist": 31.0586927449
-    },
-    {
-      "name": "isomer_MRZ_2_187",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MRZ 2/187"
-      ],
-      "dist": 31.4973966946
-    },
-    {
-      "name": "isomer_MRZ_2_174",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MRZ 2/174"
-      ],
-      "dist": 31.974063853
-    },
-    {
-      "name": "isomer_MRZ_2_23",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MRZ 2/23"
-      ],
-      "dist": 33.9950504066
-    },
-    {
-      "name": "isomer_MRZ_2_24",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MRZ 2/24"
-      ],
-      "dist": 36.859249152
     },
     {
       "name": "psyc_Thujone",
@@ -347,6 +212,157 @@
       ],
       "isomerd_names": null,
       "dist": 42.4491064187
+    },
+    {
+      "name": "trip_tiletamine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "tiletamine"
+      ],
+      "isomerd_names": null,
+      "dist": 44.3995434437
+    },
+    {
+      "name": "psyc_Deschloroketamine_trip_deschloroketamine",
+      "psychonaut_names": [
+        "Deschloroketamine"
+      ],
+      "tripsit_names": [
+        "deschloroketamine"
+      ],
+      "isomerd_names": null,
+      "dist": 44.6592909763
+    },
+    {
+      "name": "psyc_PCE_trip_pce",
+      "psychonaut_names": [
+        "PCE"
+      ],
+      "tripsit_names": [
+        "pce"
+      ],
+      "isomerd_names": null,
+      "dist": 45.9647373546
+    },
+    {
+      "name": "psyc_O-PCE_trip_o-pce",
+      "psychonaut_names": [
+        "O-PCE"
+      ],
+      "tripsit_names": [
+        "o-pce"
+      ],
+      "isomerd_names": null,
+      "dist": 45.9736013543
+    },
+    {
+      "name": "trip_methyprylon",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "methyprylon"
+      ],
+      "isomerd_names": null,
+      "dist": 45.9978398355
+    },
+    {
+      "name": "psyc_Ketamine_trip_ketamine",
+      "psychonaut_names": [
+        "Ketamine"
+      ],
+      "tripsit_names": [
+        "ketamine"
+      ],
+      "isomerd_names": null,
+      "dist": 46.0767526923
+    },
+    {
+      "name": "psyc_2-Fluorodeschloroketamine_trip_2-fdck",
+      "psychonaut_names": [
+        "2-Fluorodeschloroketamine"
+      ],
+      "tripsit_names": [
+        "2-fdck"
+      ],
+      "isomerd_names": null,
+      "dist": 46.1029810672
+    },
+    {
+      "name": "psyc_3-HO-PCE_trip_3-ho-pce",
+      "psychonaut_names": [
+        "3-HO-PCE"
+      ],
+      "tripsit_names": [
+        "3-ho-pce"
+      ],
+      "isomerd_names": null,
+      "dist": 46.5523321532
+    },
+    {
+      "name": "trip_hexobarbital",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "hexobarbital"
+      ],
+      "isomerd_names": null,
+      "dist": 46.830510137
+    },
+    {
+      "name": "trip_mxm",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "mxm"
+      ],
+      "isomerd_names": null,
+      "dist": 47.0033840828
+    },
+    {
+      "name": "psyc_Fasoracetam_trip_fasoracetam",
+      "psychonaut_names": [
+        "Fasoracetam"
+      ],
+      "tripsit_names": [
+        "fasoracetam"
+      ],
+      "isomerd_names": null,
+      "dist": 47.2100784145
+    },
+    {
+      "name": "psyc_Bromantane_trip_bromantane",
+      "psychonaut_names": [
+        "Bromantane"
+      ],
+      "tripsit_names": [
+        "bromantane"
+      ],
+      "isomerd_names": null,
+      "dist": 47.3881675921
+    },
+    {
+      "name": "trip_ethketamine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "ethketamine"
+      ],
+      "isomerd_names": null,
+      "dist": 47.5331761198
+    },
+    {
+      "name": "trip_methoxyketamine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "methoxyketamine"
+      ],
+      "isomerd_names": null,
+      "dist": 47.5372078778
+    },
+    {
+      "name": "trip_4,4-dmar",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4,4-dmar"
+      ],
+      "isomerd_names": null,
+      "dist": 47.9887071677
     }
   ]
 }

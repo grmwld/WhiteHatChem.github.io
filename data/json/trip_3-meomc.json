@@ -20,13 +20,13 @@
     11.012809924,
     11.1473178529,
     11.2240528548,
-    11.6798984879,
     11.9728862896,
-    12.2424891276,
     12.2835570054,
     12.4982774692,
     12.581748071,
-    12.6593390569
+    12.9741317429,
+    13.3857059591,
+    13.5284023328
   ],
   "indices": [
     343,
@@ -41,13 +41,13 @@
     319,
     321,
     349,
-    621,
     8,
-    602,
     369,
     64,
     340,
-    620
+    370,
+    32,
+    395
   ],
   "name": "trip_3-meomc",
   "svg": "trip_3-meomc.svg",
@@ -169,15 +169,6 @@
       "dist": 11.2240528548
     },
     {
-      "name": "isomer_2,5-DMMA-\u03b2k",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2,5-DMMA-\u03b2k"
-      ],
-      "dist": 11.6798984879
-    },
-    {
       "name": "psyc_Methcathinone",
       "psychonaut_names": [
         "Methcathinone"
@@ -185,15 +176,6 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 11.9728862896
-    },
-    {
-      "name": "isomer_4-Cl-Buphedrone",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "4-Cl-Buphedrone"
-      ],
-      "dist": 12.2424891276
     },
     {
       "name": "trip_3-mec",
@@ -225,13 +207,33 @@
       "dist": 12.581748071
     },
     {
-      "name": "isomer_2-HO-N-Me-5-EA-\u03b2k",
+      "name": "trip_2-mec",
       "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2-HO-N-Me-5-EA-\u03b2k"
+      "tripsit_names": [
+        "2-mec"
       ],
-      "dist": 12.6593390569
+      "isomerd_names": null,
+      "dist": 12.9741317429
+    },
+    {
+      "name": "psyc_ETH-CAT_trip_ethylcathinone",
+      "psychonaut_names": [
+        "ETH-CAT"
+      ],
+      "tripsit_names": [
+        "ethylcathinone"
+      ],
+      "isomerd_names": null,
+      "dist": 13.3857059591
+    },
+    {
+      "name": "trip_4-mpd",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-mpd"
+      ],
+      "isomerd_names": null,
+      "dist": 13.5284023328
     }
   ]
 }

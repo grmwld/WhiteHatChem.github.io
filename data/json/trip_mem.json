@@ -16,14 +16,14 @@
     9.2394117635,
     9.375736462,
     10.8194684632,
+    10.8385081525,
     12.3876838801,
     12.8591643788,
     13.0013209919,
     13.0652600161,
     13.776247254,
-    14.9667987866,
+    14.327746404,
     14.9668380376,
-    15.0630829884,
     15.1666729826,
     15.356873783,
     15.7227513584
@@ -37,14 +37,14 @@
     73,
     74,
     92,
+    597,
     70,
     401,
     404,
     72,
     400,
-    647,
+    596,
     40,
-    648,
     94,
     380,
     48
@@ -133,6 +133,15 @@
       "dist": 10.8194684632
     },
     {
+      "name": "isomer_4,2,3-DOET",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "4,2,3-DOET"
+      ],
+      "dist": 10.8385081525
+    },
+    {
       "name": "psyc_DOM_trip_dom",
       "psychonaut_names": [
         "DOM"
@@ -182,13 +191,13 @@
       "dist": 13.776247254
     },
     {
-      "name": "isomer_2-Amino-1-(2,5-dimethoxy-4-propylphenyl)ethan-1-ol",
+      "name": "isomer_4-Me-2,3-DOM",
       "psychonaut_names": null,
       "tripsit_names": null,
       "isomerd_names": [
-        "2-Amino-1-(2,5-dimethoxy-4-propylphenyl)ethan-1-ol"
+        "4-Me-2,3-DOM"
       ],
-      "dist": 14.9667987866
+      "dist": 14.327746404
     },
     {
       "name": "psyc_DOB_trip_dob",
@@ -200,15 +209,6 @@
       ],
       "isomerd_names": null,
       "dist": 14.9668380376
-    },
-    {
-      "name": "isomer_1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-ol",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-ol"
-      ],
-      "dist": 15.0630829884
     },
     {
       "name": "psyc_Proscaline_trip_proscaline",

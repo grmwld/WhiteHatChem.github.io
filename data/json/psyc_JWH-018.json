@@ -7,52 +7,52 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
+    "SCHEMBL1707018",
+    "Q419020",
+    "JWH-018 solution, 100 mug/mL in methanol, ampule of 1 mL, (Spice Cannabinoid), certified reference material",
     "DTXSID10175117",
     "GTPL9706",
-    "UNII-G391998J57",
-    "JWH-018,1-Ii>>u-3-(1-YA(1/4)xo pound>>u)ssAssa",
-    "AKOS005145577",
-    "CHEBI:185787",
-    "1-pentyl-3-(1-naphthoyl)-indole",
-    "Methanone, 1-naphthalenyl(1-pentyl-1H-indol-3-yl)-",
-    "DS-3151",
-    "ZINC13476531",
-    "JWH-018 ((Naphthalen-1-yl)(1-pentylindol-3-yl)methanone) 0.1 mg/ml in Acetonitrile",
-    "CCG-208715",
-    "JWH 018",
-    "DEA No. 7118",
-    "ACT06673",
-    "BCP27424",
-    "JWH018",
-    "1-Pentyl-3-(1-naphthoyl) indole",
+    "JWH-018 ((Naphthalen-1-yl)(1-pentylindol-3-yl)methanone) 1.0 mg/ml in Acetonitrile",
     "Q-200132",
-    "Q419020",
+    "JWH-018,1-Ii>>u-3-(1-YA(1/4)xo pound>>u)ssAssa",
+    "1-Pentyl-3-(1-naphthoyl) indole",
+    "DB-003103",
+    "A14168",
+    "doi:10.14272/JDNLPKCAXICMBW-UHFFFAOYSA-N.1",
+    "NCGC00386566-01",
+    "JWH018",
+    "CHEBI:185787",
     "HSDB 7998",
-    "Naphthalen-1-yl-(1-pentylindol-3-yl)methanone",
+    "Naphthaten-1-yl-(1-pentylindol-3-yl)methanone",
+    "(1-Pentyl-1H-indol-3-yl)-1-naphthalenylmethanone",
     "AM 678",
     "J770.893I",
-    "1-Naphthalenyl-(1-pentyl-1H-indol-3-yl)methanone",
-    "DB-003103",
-    "1-Pentyl-3-(1-naphthoyl)indole",
-    "10.14272/JDNLPKCAXICMBW-UHFFFAOYSA-N.1",
-    "NCGC00386566-01",
-    "(1-Pentyl-1H-indol-3-yl)-1-naphthalenylmethanone",
-    "1-pentyl-3-1-naphthoyl-indole",
-    "414P073",
-    "G391998J57",
     "naphthalen-1-yl(1-pentyl-1H-indol-3-yl)methanone",
-    "Naphthaten-1-yl-(1-pentylindol-3-yl)methanone",
-    "JWH-018 solution, 100 mug/mL in methanol, ampule of 1 mL, (Spice Cannabinoid), certified reference material",
     "BDBM50353747",
-    "doi:10.14272/JDNLPKCAXICMBW-UHFFFAOYSA-N.1",
-    "SCHEMBL1707018",
-    "A14168",
-    "209414-07-3",
-    "JWH-018 ((Naphthalen-1-yl)(1-pentylindol-3-yl)methanone)",
+    "BCP27424",
+    "DEA No. 7118",
     "A4549",
+    "JWH 018",
+    "Naphthalen-1-yl-(1-pentylindol-3-yl)methanone",
+    "JWH-018 ((Naphthalen-1-yl)(1-pentylindol-3-yl)methanone)",
+    "1-Pentyl-3-(1-naphthoyl)indole",
+    "G391998J57",
+    "10.14272/JDNLPKCAXICMBW-UHFFFAOYSA-N.1",
+    "414P073",
+    "AKOS005145577",
+    "ZINC13476531",
+    "1-pentyl-3-(1-naphthoyl)-indole",
+    "209414-07-3",
+    "1-Naphthalenyl-(1-pentyl-1H-indol-3-yl)methanone",
+    "ACT06673",
     "CHEMBL561013",
-    "JWH-018 ((Naphthalen-1-yl)(1-pentylindol-3-yl)methanone) 1.0 mg/ml in Acetonitrile",
-    "AM-678"
+    "AM-678",
+    "CCG-208715",
+    "DS-3151",
+    "JWH-018 ((Naphthalen-1-yl)(1-pentylindol-3-yl)methanone) 0.1 mg/ml in Acetonitrile",
+    "Methanone, 1-naphthalenyl(1-pentyl-1H-indol-3-yl)-",
+    "1-pentyl-3-1-naphthoyl-indole",
+    "UNII-G391998J57"
   ],
   "distances": [
     5.8999273781,
@@ -61,7 +61,6 @@
     13.1930296094,
     15.61548343,
     23.1443173118,
-    24.4825165317,
     24.6615877164,
     27.7341439251,
     27.9559830323,
@@ -70,10 +69,11 @@
     28.5358265343,
     28.9786171842,
     29.1460544959,
-    29.2186580881,
     29.2267890846,
     29.4102888101,
-    29.5982540131
+    29.5982540131,
+    30.2688555,
+    30.7244419479
   ],
   "indices": [
     264,
@@ -82,7 +82,6 @@
     262,
     263,
     496,
-    687,
     230,
     259,
     557,
@@ -91,10 +90,11 @@
     556,
     257,
     550,
-    679,
     552,
     529,
-    560
+    560,
+    555,
+    538
   ],
   "name": "psyc_JWH-018",
   "svg": "psyc_JWH-018.svg",
@@ -154,15 +154,6 @@
       ],
       "isomerd_names": null,
       "dist": 23.1443173118
-    },
-    {
-      "name": "isomer_Ethylbenzyl-4CN-BINACA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "Ethylbenzyl-4CN-BINACA"
-      ],
-      "dist": 24.4825165317
     },
     {
       "name": "psyc_Benzydamine_trip_benzydamine",
@@ -243,15 +234,6 @@
       "dist": 29.1460544959
     },
     {
-      "name": "isomer_PRL-8-53",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "PRL-8-53"
-      ],
-      "dist": 29.2186580881
-    },
-    {
       "name": "trip_methoxyacetyl-fentanyl",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -277,6 +259,24 @@
       ],
       "isomerd_names": null,
       "dist": 29.5982540131
+    },
+    {
+      "name": "trip_pagoclone",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "pagoclone"
+      ],
+      "isomerd_names": null,
+      "dist": 30.2688555
+    },
+    {
+      "name": "trip_flurazepam",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "flurazepam"
+      ],
+      "isomerd_names": null,
+      "dist": 30.7244419479
     }
   ]
 }

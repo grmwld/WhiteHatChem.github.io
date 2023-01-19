@@ -18,17 +18,17 @@
     11.4556900212,
     11.7866729479,
     11.8599546188,
-    11.9493253765,
     12.8887972189,
     12.8887972189,
     13.1813603432,
     13.2021235521,
     13.4405315439,
-    13.4423768176,
     13.4424829515,
     13.5531975271,
     13.5707577647,
-    13.5848373485
+    13.5848373485,
+    13.8885816481,
+    14.0292434447
   ],
   "indices": [
     44,
@@ -39,17 +39,17 @@
     343,
     14,
     18,
-    628,
-    354,
     56,
+    354,
     35,
     36,
     42,
-    627,
     34,
     368,
     66,
-    41
+    41,
+    346,
+    340
   ],
   "name": "trip_mpa",
   "svg": "trip_mpa.svg",
@@ -135,30 +135,21 @@
       "dist": 11.8599546188
     },
     {
-      "name": "isomer_N-Me-2,6-DMA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "N-Me-2,6-DMA"
-      ],
-      "dist": 11.9493253765
-    },
-    {
-      "name": "trip_6-mapb",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "6-mapb"
-      ],
-      "isomerd_names": null,
-      "dist": 12.8887972189
-    },
-    {
       "name": "psyc_5-MAPB_trip_5-mapb",
       "psychonaut_names": [
         "5-MAPB"
       ],
       "tripsit_names": [
         "5-mapb"
+      ],
+      "isomerd_names": null,
+      "dist": 12.8887972189
+    },
+    {
+      "name": "trip_6-mapb",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "6-mapb"
       ],
       "isomerd_names": null,
       "dist": 12.8887972189
@@ -195,15 +186,6 @@
       ],
       "isomerd_names": null,
       "dist": 13.4405315439
-    },
-    {
-      "name": "isomer_N-Me-3,5-DMA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "N-Me-3,5-DMA"
-      ],
-      "dist": 13.4423768176
     },
     {
       "name": "psyc_Mephedrone_trip_mephedrone",
@@ -246,6 +228,24 @@
       ],
       "isomerd_names": null,
       "dist": 13.5848373485
+    },
+    {
+      "name": "trip_4-fea",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-fea"
+      ],
+      "isomerd_names": null,
+      "dist": 13.8885816481
+    },
+    {
+      "name": "trip_buphedrone",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "buphedrone"
+      ],
+      "isomerd_names": null,
+      "dist": 14.0292434447
     }
   ]
 }

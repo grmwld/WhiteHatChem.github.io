@@ -7,50 +7,50 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "cpm",
-    "4-cyclopropylmethoxy-3"
+    "4-cyclopropylmethoxy-3",
+    "cpm"
   ],
   "distances": [
     14.6750861768,
     14.7799487196,
     17.1091975233,
     17.3860100641,
-    17.6545742084,
     17.7686557785,
     18.58274277,
     18.9435477593,
     19.2241576488,
-    19.2447011021,
     19.3821071264,
     19.4710940791,
-    19.760181748,
-    19.800585898,
     19.928280986,
-    19.9288598356,
     19.9982688155,
     20.2724010754,
-    20.4438645838
+    20.4438645838,
+    20.5083995452,
+    20.6243408098,
+    20.7603844086,
+    20.8705560214,
+    21.0387520865
   ],
   "indices": [
     94,
     72,
     48,
     91,
-    641,
     404,
     69,
     114,
     95,
-    648,
     400,
     403,
-    642,
-    643,
     67,
-    647,
     93,
     112,
-    46
+    46,
+    422,
+    71,
+    379,
+    12,
+    90
   ],
   "name": "trip_cyclopropylmescaline",
   "svg": "trip_cyclopropylmescaline.svg",
@@ -100,15 +100,6 @@
       "dist": 17.3860100641
     },
     {
-      "name": "isomer_1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-one",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-one"
-      ],
-      "dist": 17.6545742084
-    },
-    {
       "name": "trip_isoproscaline",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -151,15 +142,6 @@
       "dist": 19.2241576488
     },
     {
-      "name": "isomer_1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-ol",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-ol"
-      ],
-      "dist": 19.2447011021
-    },
-    {
       "name": "trip_2c-ip",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -178,24 +160,6 @@
       "dist": 19.4710940791
     },
     {
-      "name": "isomer_3-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propanoic_acid",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propanoic acid"
-      ],
-      "dist": 19.760181748
-    },
-    {
-      "name": "isomer_2-(2,5-Dimethoxy-4-propylphenyl)ethan-1-ol",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2-(2,5-Dimethoxy-4-propylphenyl)ethan-1-ol"
-      ],
-      "dist": 19.800585898
-    },
-    {
       "name": "psyc_2C-T-21_trip_2c-t-21",
       "psychonaut_names": [
         "2C-T-21"
@@ -205,15 +169,6 @@
       ],
       "isomerd_names": null,
       "dist": 19.928280986
-    },
-    {
-      "name": "isomer_2-Amino-1-(2,5-dimethoxy-4-propylphenyl)ethan-1-ol",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2-Amino-1-(2,5-dimethoxy-4-propylphenyl)ethan-1-ol"
-      ],
-      "dist": 19.9288598356
     },
     {
       "name": "psyc_2C-T-7_trip_2c-t-7",
@@ -247,6 +202,57 @@
       ],
       "isomerd_names": null,
       "dist": 20.4438645838
+    },
+    {
+      "name": "trip_dopr",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "dopr"
+      ],
+      "isomerd_names": null,
+      "dist": 20.5083995452
+    },
+    {
+      "name": "psyc_2C-T-2_trip_2c-t-2",
+      "psychonaut_names": [
+        "2C-T-2"
+      ],
+      "tripsit_names": [
+        "2c-t-2"
+      ],
+      "isomerd_names": null,
+      "dist": 20.6243408098
+    },
+    {
+      "name": "trip_2c-g",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "2c-g"
+      ],
+      "isomerd_names": null,
+      "dist": 20.7603844086
+    },
+    {
+      "name": "psyc_2C-C_trip_2c-c",
+      "psychonaut_names": [
+        "2C-C"
+      ],
+      "tripsit_names": [
+        "2c-c"
+      ],
+      "isomerd_names": null,
+      "dist": 20.8705560214
+    },
+    {
+      "name": "psyc_Allylescaline_trip_allylescaline",
+      "psychonaut_names": [
+        "Allylescaline"
+      ],
+      "tripsit_names": [
+        "allylescaline"
+      ],
+      "isomerd_names": null,
+      "dist": 21.0387520865
     }
   ]
 }

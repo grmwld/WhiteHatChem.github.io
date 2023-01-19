@@ -11,7 +11,6 @@
     "cpf"
   ],
   "distances": [
-    14.0077721956,
     21.6732127156,
     21.7584983622,
     22.1724289979,
@@ -29,10 +28,10 @@
     30.61740479,
     30.740301324,
     30.777542805,
-    31.7983472479
+    31.7983472479,
+    31.9032953073
   ],
   "indices": [
-    688,
     550,
     552,
     562,
@@ -45,25 +44,17 @@
     549,
     566,
     568,
-    686,
+    609,
     539,
     261,
-    685,
+    608,
     561,
-    244
+    244,
+    607
   ],
   "name": "trip_cyclopentyl-fentanyl",
   "svg": "trip_cyclopentyl-fentanyl.svg",
   "sim": [
-    {
-      "name": "isomer_3F-Cyclopropylbenzylfentanyl",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3F-Cyclopropylbenzylfentanyl"
-      ],
-      "dist": 14.0077721956
-    },
     {
       "name": "trip_parafluorofentanyl",
       "psychonaut_names": null,
@@ -231,6 +222,15 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 31.7983472479
+    },
+    {
+      "name": "isomer_Despropionyl-4-bromofentanyl",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "Despropionyl-4-bromofentanyl"
+      ],
+      "dist": 31.9032953073
     }
   ]
 }

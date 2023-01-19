@@ -7,24 +7,24 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "BK-EBDB",
-    "Butyrophenone, 2-(ethylamino)-3',4'-(methylenedioxy)",
-    "MDEBP",
-    "EUTYLONE [NFLIS-DRUG]",
-    "bk-EBDB",
-    "2-(Ethylamino)-1-[3,4-(methylenedioxy)phenyl]butane-1-one",
-    "1-(1,3-benzodioxol-5-yl)-2-(ethylamino)butan-1-one",
-    "DL-eutylone",
-    "\u03b2-Keto-ethylbenzodioxolylbutanamine",
-    "1-Butanone, 1-(1,3-benzodioxol-5-yl)-2-(ethylamino)-",
-    "1-(2H-1,3-Benzodioxol-5-yl)-2-(ethylamino)butan-1-one",
     "Q5414615",
-    "802855-66-9",
+    "EUTYLONE [NFLIS-DRUG]",
+    "2-(Ethylamino)-1-[3,4-(methylenedioxy)phenyl]butane-1-one",
     "DTXSID401018397",
+    "1-(1,3-benzodioxol-5-yl)-2-(ethylamino)butan-1-one",
+    "bk-EBDB",
+    "BK-EBDB",
+    "\u03b2-Keto-ethylbenzodioxolylbutanamine",
     "D6WQJ7NF96",
-    "Euthylone",
+    "MDEBP",
     "BETA-KETO-ETHYLBENZODIOXOLYLBUTANAMINE",
-    "UNII-D6WQJ7NF96"
+    "Euthylone",
+    "802855-66-9",
+    "Butyrophenone, 2-(ethylamino)-3',4'-(methylenedioxy)",
+    "UNII-D6WQJ7NF96",
+    "1-(2H-1,3-Benzodioxol-5-yl)-2-(ethylamino)butan-1-one",
+    "1-Butanone, 1-(1,3-benzodioxol-5-yl)-2-(ethylamino)-",
+    "DL-eutylone"
   ],
   "distances": [
     7.3651533181,
@@ -41,11 +41,11 @@
     18.4076915753,
     19.0543727872,
     19.1210869669,
-    19.2693582276,
     19.3936008872,
     20.1334794467,
     20.1643402187,
-    20.2192178993
+    20.2192178993,
+    20.359771467
   ],
   "indices": [
     102,
@@ -62,11 +62,11 @@
     465,
     355,
     327,
-    620,
     390,
     420,
     371,
-    39
+    39,
+    360
   ],
   "name": "psyc_Eutylone",
   "svg": "psyc_Eutylone.svg",
@@ -210,15 +210,6 @@
       "dist": 19.1210869669
     },
     {
-      "name": "isomer_2-HO-N-Me-5-EA-\u03b2k",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2-HO-N-Me-5-EA-\u03b2k"
-      ],
-      "dist": 19.2693582276
-    },
-    {
       "name": "trip_4-cbc",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -254,6 +245,15 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 20.2192178993
+    },
+    {
+      "name": "trip_4-fluoropentedrone",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-fluoropentedrone"
+      ],
+      "isomerd_names": null,
+      "dist": 20.359771467
     }
   ]
 }

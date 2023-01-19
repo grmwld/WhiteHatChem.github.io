@@ -10,12 +10,11 @@
   ],
   "synonyms": [
     "Despropionyl meta-fluorofentanyl",
-    "Despropionyl 3-FF",
+    "3\u2032-Fluoro-despropionoylfentanyl",
     "o-Fluoro-despropionoylfentanyl",
-    "3\u2032-Fluoro-despropionoylfentanyl"
+    "Despropionyl 3-FF"
   ],
   "distances": [
-    6.4723889716,
     8.763426153,
     10.8925961608,
     18.3405139155,
@@ -26,19 +25,19 @@
     21.5309913299,
     21.5907671092,
     22.2026047562,
-    22.243506009,
     22.3177514828,
     22.360395215,
     22.5564227175,
     23.1827654259,
     23.8711905911,
     24.4585544591,
-    24.6225014595
+    24.6225014595,
+    24.9755837801,
+    25.0252289692
   ],
   "indices": [
-    678,
-    684,
-    686,
+    607,
+    609,
     499,
     242,
     229,
@@ -47,27 +46,19 @@
     539,
     519,
     550,
-    688,
     257,
     511,
     504,
     181,
     509,
     552,
-    205
+    205,
+    244,
+    549
   ],
   "name": "isomer_Despropionyl_3-FF",
   "svg": "isomer_Despropionyl_3-FF.svg",
   "sim": [
-    {
-      "name": "isomer_3-Fluoro_4-ANBP",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3-Fluoro 4-ANBP"
-      ],
-      "dist": 6.4723889716
-    },
     {
       "name": "isomer_Despropionyl-4-bromofentanyl",
       "psychonaut_names": null,
@@ -165,15 +156,6 @@
       "dist": 22.2026047562
     },
     {
-      "name": "isomer_3F-Cyclopropylbenzylfentanyl",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3F-Cyclopropylbenzylfentanyl"
-      ],
-      "dist": 22.243506009
-    },
-    {
       "name": "psyc_Fentanyl_trip_fentanyl",
       "psychonaut_names": [
         "Fentanyl"
@@ -239,6 +221,24 @@
       ],
       "isomerd_names": null,
       "dist": 24.6225014595
+    },
+    {
+      "name": "psyc_Haloperidol",
+      "psychonaut_names": [
+        "Haloperidol"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 24.9755837801
+    },
+    {
+      "name": "trip_acryl-fentanyl",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "acryl-fentanyl"
+      ],
+      "isomerd_names": null,
+      "dist": 25.0252289692
     }
   ]
 }

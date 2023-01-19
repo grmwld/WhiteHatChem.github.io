@@ -28,7 +28,7 @@
     15.5702865302,
     15.7512996077,
     15.8409621214,
-    16.017717089
+    16.7629927162
   ],
   "indices": [
     38,
@@ -49,7 +49,7 @@
     329,
     349,
     15,
-    638
+    57
   ],
   "name": "trip_5-mapdb",
   "svg": "trip_5-mapdb.svg",
@@ -237,13 +237,15 @@
       "dist": 15.8409621214
     },
     {
-      "name": "isomer_7-[(Propan-2-yl)amino]-5,6,7,8-tetrahydronaphthalen-1-ol",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "7-[(Propan-2-yl)amino]-5,6,7,8-tetrahydronaphthalen-1-ol"
+      "name": "psyc_Ethylone_trip_ethylone",
+      "psychonaut_names": [
+        "Ethylone"
       ],
-      "dist": 16.017717089
+      "tripsit_names": [
+        "ethylone"
+      ],
+      "isomerd_names": null,
+      "dist": 16.7629927162
     }
   ]
 }

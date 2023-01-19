@@ -21,11 +21,11 @@
     16.2129253299,
     16.8323825278,
     18.0867777883,
-    18.7835044079,
     19.0153417386,
     19.0153417386,
     19.1210869669,
     19.6194562918,
+    19.7807030866,
     19.7807030866
   ],
   "indices": [
@@ -42,11 +42,11 @@
     58,
     39,
     375,
-    590,
     354,
     56,
     84,
     85,
+    28,
     27
   ],
   "name": "trip_mdoh",
@@ -184,15 +184,6 @@
       "dist": 18.0867777883
     },
     {
-      "name": "isomer_3-Bromosafrole",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3-Bromosafrole"
-      ],
-      "dist": 18.7835044079
-    },
-    {
       "name": "trip_6-mapb",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -231,6 +222,17 @@
       ],
       "isomerd_names": null,
       "dist": 19.6194562918
+    },
+    {
+      "name": "psyc_5-APB_trip_5-apb",
+      "psychonaut_names": [
+        "5-APB"
+      ],
+      "tripsit_names": [
+        "5-apb"
+      ],
+      "isomerd_names": null,
+      "dist": 19.7807030866
     },
     {
       "name": "psyc_6-APB_trip_6-apb",

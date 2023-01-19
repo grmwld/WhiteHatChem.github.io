@@ -7,32 +7,31 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "(2-hydroxyethyl)trimethylazanium 3-carboxy-2,3-dihydroxypropanoate",
-    "87-67-2",
-    "SCHEMBL225595",
-    "Choline tartrate (1:1)",
-    "CHOLINE BITARTRATE",
-    "MFCD31726185",
     "Cholinebitartrate",
-    "2-Hydroxy-N,N,N-trimethylethanaminium 3-carboxy-2,3-dihydroxypropanoate",
+    "DB-057014",
+    "FT-0623770",
+    "87-67-2",
+    "CHOLINI BITARTRAS",
+    "CHOLINE BITARTRATE",
+    "2-hydroxyethyl(trimethyl)azanium;2,3,4-trihydroxy-4-oxobutanoate",
+    "Cholinibitatratis",
+    "AKOS015902411",
+    "2-hydroxyethyl(trimethyl)azanium;(2R,3R)-2,3,4-trihydroxy-4-oxobutanoate",
+    "W-104008",
     "B0607-300158",
     "AS-72782",
-    "CHOLINI BITARTRAS",
-    "2-hydroxyethyl(trimethyl)azanium;(2R,3R)-2,3,4-trihydroxy-4-oxobutanoate",
-    "2-hydroxyethyl(trimethyl)azanium;2,3,4-trihydroxy-4-oxobutanoate",
-    "AKOS015902411",
-    "W-104008",
+    "(2-hydroxyethyl)trimethylazanium 3-carboxy-2,3-dihydroxypropanoate",
+    "Choline tartrate (1:1)",
+    "MFCD31726185",
     "CHEMBL2105935",
+    "2-Hydroxy-N,N,N-trimethylethanaminium 3-carboxy-2,3-dihydroxypropanoate",
     "BCP23009",
-    "FT-0623770",
-    "Cholinibitatratis",
-    "DB-057014"
+    "SCHEMBL225595"
   ],
   "distances": [
     43.5132278851,
     47.6616159889,
     48.9225611777,
-    49.0082950967,
     49.2258253843,
     49.7356242971,
     49.8703519333,
@@ -41,19 +40,19 @@
     50.057420642,
     50.0753314353,
     50.0758092288,
-    50.1755901186,
-    50.6965375151,
-    50.8288767044,
     51.1153815066,
-    51.2479277401,
-    51.2484065111,
-    51.3204902998
+    51.3204902998,
+    51.3849856286,
+    51.3852255639,
+    51.4738276374,
+    51.561231045,
+    51.7533211495,
+    51.8232705181
   ],
   "indices": [
     307,
     299,
     141,
-    613,
     394,
     25,
     309,
@@ -62,13 +61,14 @@
     345,
     77,
     5,
-    632,
-    649,
-    600,
     111,
-    645,
-    620,
-    2
+    2,
+    10,
+    3,
+    88,
+    89,
+    420,
+    294
   ],
   "name": "psyc_Choline_bitartrate",
   "svg": "psyc_Choline_bitartrate.svg",
@@ -101,15 +101,6 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 48.9225611777
-    },
-    {
-      "name": "isomer_\u03b2,2-HO-5-EA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "\u03b2,2-HO-5-EA"
-      ],
-      "dist": 49.0082950967
     },
     {
       "name": "trip_ibuprofen",
@@ -194,33 +185,6 @@
       "dist": 50.0758092288
     },
     {
-      "name": "isomer_\u03b2,2-HO-N-Me-5-EA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "\u03b2,2-HO-N-Me-5-EA"
-      ],
-      "dist": 50.1755901186
-    },
-    {
-      "name": "isomer_3-[4-(2-Amino-1-hydroxyethyl)-2,5-dimethoxyphenyl]propan-1-ol",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3-[4-(2-Amino-1-hydroxyethyl)-2,5-dimethoxyphenyl]propan-1-ol"
-      ],
-      "dist": 50.6965375151
-    },
-    {
-      "name": "isomer_\u03b2,2-HO-5-EPEA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "\u03b2,2-HO-5-EPEA"
-      ],
-      "dist": 50.8288767044
-    },
-    {
       "name": "psyc_N-Ethylhexedrone_trip_hexen",
       "psychonaut_names": [
         "N-Ethylhexedrone"
@@ -232,24 +196,6 @@
       "dist": 51.1153815066
     },
     {
-      "name": "isomer_\u03b2-HO-2,5-DEA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "\u03b2-HO-2,5-DEA"
-      ],
-      "dist": 51.2479277401
-    },
-    {
-      "name": "isomer_2-HO-N-Me-5-EA-\u03b2k",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2-HO-N-Me-5-EA-\u03b2k"
-      ],
-      "dist": 51.2484065111
-    },
-    {
       "name": "psyc_Baclofen_trip_baclofen",
       "psychonaut_names": [
         "Baclofen"
@@ -259,6 +205,67 @@
       ],
       "isomerd_names": null,
       "dist": 51.3204902998
+    },
+    {
+      "name": "psyc_Phenibut_trip_phenibut",
+      "psychonaut_names": [
+        "Phenibut"
+      ],
+      "tripsit_names": [
+        "phenibut"
+      ],
+      "isomerd_names": null,
+      "dist": 51.3849856286
+    },
+    {
+      "name": "psyc_F-Phenibut_trip_fluorophenibut",
+      "psychonaut_names": [
+        "F-Phenibut"
+      ],
+      "tripsit_names": [
+        "fluorophenibut"
+      ],
+      "isomerd_names": null,
+      "dist": 51.3852255639
+    },
+    {
+      "name": "psyc_Hexedrone_trip_hexedrone",
+      "psychonaut_names": [
+        "Hexedrone"
+      ],
+      "tripsit_names": [
+        "hexedrone"
+      ],
+      "isomerd_names": null,
+      "dist": 51.4738276374
+    },
+    {
+      "name": "psyc_NEP",
+      "psychonaut_names": [
+        "NEP"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 51.561231045
+    },
+    {
+      "name": "trip_4-epd_ethyl-pentedrone",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-epd",
+        "ethyl-pentedrone"
+      ],
+      "isomerd_names": null,
+      "dist": 51.7533211495
+    },
+    {
+      "name": "psyc_N-Acetylcysteine",
+      "psychonaut_names": [
+        "N-Acetylcysteine"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 51.8232705181
     }
   ]
 }

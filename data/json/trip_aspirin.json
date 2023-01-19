@@ -10,8 +10,6 @@
     "acetylsalicylate"
   ],
   "distances": [
-    17.4035883569,
-    17.5080504293,
     17.6163733182,
     18.4461579248,
     18.8774145742,
@@ -28,12 +26,12 @@
     19.5049737309,
     19.5292889641,
     19.657734971,
-    19.9353263411
+    19.9451724988,
+    19.9496206912,
+    20.3442127744
   ],
   "indices": [
-    593,
-    604,
-    591,
+    590,
     32,
     343,
     344,
@@ -49,29 +47,13 @@
     321,
     322,
     340,
-    602
+    586,
+    66,
+    368
   ],
   "name": "trip_aspirin",
   "svg": "trip_aspirin.svg",
   "sim": [
-    {
-      "name": "isomer_2-Amino-1-(5-ethoxy-2-hydroxyphenyl)ethan-1-one",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2-Amino-1-(5-ethoxy-2-hydroxyphenyl)ethan-1-one"
-      ],
-      "dist": 17.4035883569
-    },
-    {
-      "name": "isomer_1-(5-Ethoxy-2-hydroxyphenyl)-2-(methylamino)ethan-1-one",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "1-(5-Ethoxy-2-hydroxyphenyl)-2-(methylamino)ethan-1-one"
-      ],
-      "dist": 17.5080504293
-    },
     {
       "name": "isomer_4-Methylpropiophenone",
       "psychonaut_names": null,
@@ -227,13 +209,33 @@
       "dist": 19.657734971
     },
     {
-      "name": "isomer_4-Cl-Buphedrone",
+      "name": "trip_2-pta",
       "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "4-Cl-Buphedrone"
+      "tripsit_names": [
+        "2-pta"
       ],
-      "dist": 19.9353263411
+      "isomerd_names": null,
+      "dist": 19.9451724988
+    },
+    {
+      "name": "psyc_Mexedrone_trip_mexedrone",
+      "psychonaut_names": [
+        "Mexedrone"
+      ],
+      "tripsit_names": [
+        "mexedrone"
+      ],
+      "isomerd_names": null,
+      "dist": 19.9496206912
+    },
+    {
+      "name": "trip_4-emc",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-emc"
+      ],
+      "isomerd_names": null,
+      "dist": 20.3442127744
     }
   ]
 }

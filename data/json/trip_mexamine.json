@@ -13,20 +13,20 @@
     14.6152154519,
     14.6497530659,
     15.1863847488,
-    15.5102313329,
     15.5129532372,
-    15.6548026324,
     16.3922764153,
     16.6791770267,
     16.8010223804,
     16.8152243523,
     16.918730411,
+    17.171382713,
     17.2519954688,
     17.5227617736,
-    17.6773104484,
-    18.1019510977,
     18.2997752692,
-    18.3526550202
+    18.3526550202,
+    18.5345943836,
+    18.8158633245,
+    18.8200011649
   ],
   "indices": [
     4,
@@ -34,20 +34,20 @@
     31,
     20,
     337,
-    693,
     59,
-    692,
     60,
     12,
     86,
     61,
     352,
+    591,
     11,
     46,
-    595,
-    593,
     87,
-    16
+    16,
+    417,
+    593,
+    69
   ],
   "name": "trip_mexamine",
   "svg": "trip_mexamine.svg",
@@ -102,15 +102,6 @@
       "dist": 15.1863847488
     },
     {
-      "name": "isomer_3,5-HMPEA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3,5-HMPEA"
-      ],
-      "dist": 15.5102313329
-    },
-    {
       "name": "psyc_DMT_trip_dmt",
       "psychonaut_names": [
         "DMT"
@@ -120,15 +111,6 @@
       ],
       "isomerd_names": null,
       "dist": 15.5129532372
-    },
-    {
-      "name": "isomer_2,6-HMPEA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2,6-HMPEA"
-      ],
-      "dist": 15.6548026324
     },
     {
       "name": "psyc_Bufotenin",
@@ -182,6 +164,15 @@
       "dist": 16.918730411
     },
     {
+      "name": "isomer_2,3,4-MBM",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2,3,4-MBM"
+      ],
+      "dist": 17.171382713
+    },
+    {
       "name": "psyc_2C-B_trip_2c-b",
       "psychonaut_names": [
         "2C-B"
@@ -204,24 +195,6 @@
       "dist": 17.5227617736
     },
     {
-      "name": "isomer_2,3,4-MMB",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2,3,4-MMB"
-      ],
-      "dist": 17.6773104484
-    },
-    {
-      "name": "isomer_2-Amino-1-(5-ethoxy-2-hydroxyphenyl)ethan-1-one",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2-Amino-1-(5-ethoxy-2-hydroxyphenyl)ethan-1-one"
-      ],
-      "dist": 18.1019510977
-    },
-    {
       "name": "psyc_4-HO-MET_trip_4-ho-met",
       "psychonaut_names": [
         "4-HO-MET"
@@ -242,6 +215,35 @@
       ],
       "isomerd_names": null,
       "dist": 18.3526550202
+    },
+    {
+      "name": "trip_5-meo-nipt",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "5-meo-nipt"
+      ],
+      "isomerd_names": null,
+      "dist": 18.5345943836
+    },
+    {
+      "name": "isomer_4-APBT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "4-APBT"
+      ],
+      "dist": 18.8158633245
+    },
+    {
+      "name": "psyc_2C-E_trip_2c-e",
+      "psychonaut_names": [
+        "2C-E"
+      ],
+      "tripsit_names": [
+        "2c-e"
+      ],
+      "isomerd_names": null,
+      "dist": 18.8200011649
     }
   ]
 }

@@ -7,8 +7,8 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "benadryl",
-    "diphenhydramine"
+    "diphenhydramine",
+    "benadryl"
   ],
   "distances": [
     22.3773383086,
@@ -49,7 +49,7 @@
     119,
     427,
     174,
-    669,
+    600,
     445
   ],
   "name": "trip_dph",

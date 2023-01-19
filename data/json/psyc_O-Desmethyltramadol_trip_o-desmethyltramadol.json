@@ -9,53 +9,53 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "o-smt",
-    "O-DSMT",
-    "odt",
     "Desmetramadol",
-    "o-dsmt"
+    "o-smt",
+    "o-dsmt",
+    "odt",
+    "O-DSMT"
   ],
   "distances": [
     10.8515132851,
     20.0229825531,
     21.7340759213,
     23.0845388747,
-    23.2846919645,
     23.3837417331,
     23.5266248152,
     24.234450556,
     24.2947195587,
-    24.3267037057,
     24.467643703,
     24.4800919595,
     24.6286221856,
     24.7947248694,
-    24.8408741948,
     24.9304611483,
     25.5554935768,
     25.7240452003,
-    25.776772812
+    25.776772812,
+    25.793368364,
+    26.0752448885,
+    26.272236443
   ],
   "indices": [
     168,
     441,
     110,
     139,
-    618,
     132,
     470,
     416,
     487,
-    654,
     162,
     133,
     100,
     410,
-    665,
     415,
     109,
     160,
-    411
+    411,
+    601,
+    81,
+    462
   ],
   "name": "psyc_O-Desmethyltramadol_trip_o-desmethyltramadol",
   "svg": "psyc_O-Desmethyltramadol_trip_o-desmethyltramadol.svg",
@@ -103,15 +103,6 @@
       "dist": 23.0845388747
     },
     {
-      "name": "isomer_MMAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MMAT"
-      ],
-      "dist": 23.2846919645
-    },
-    {
       "name": "psyc_Methoxetamine_trip_mxe",
       "psychonaut_names": [
         "Methoxetamine"
@@ -148,15 +139,6 @@
       ],
       "isomerd_names": null,
       "dist": 24.2947195587
-    },
-    {
-      "name": "isomer_EEAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "EEAT"
-      ],
-      "dist": 24.3267037057
     },
     {
       "name": "psyc_MXPr",
@@ -199,15 +181,6 @@
       "dist": 24.7947248694
     },
     {
-      "name": "isomer_PEAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "PEAT"
-      ],
-      "dist": 24.8408741948
-    },
-    {
       "name": "trip_methoxyketamine",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -244,6 +217,35 @@
       ],
       "isomerd_names": null,
       "dist": 25.776772812
+    },
+    {
+      "name": "isomer_Norsufentanil",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "Norsufentanil"
+      ],
+      "dist": 25.793368364
+    },
+    {
+      "name": "psyc_2-Fluorodeschloroketamine_trip_2-fdck",
+      "psychonaut_names": [
+        "2-Fluorodeschloroketamine"
+      ],
+      "tripsit_names": [
+        "2-fdck"
+      ],
+      "isomerd_names": null,
+      "dist": 26.0752448885
+    },
+    {
+      "name": "trip_ah-7921",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "ah-7921"
+      ],
+      "isomerd_names": null,
+      "dist": 26.272236443
     }
   ]
 }

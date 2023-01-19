@@ -16,7 +16,6 @@
     8.9009107145,
     8.998924615,
     9.1804703789,
-    9.2361800597,
     9.310123422,
     9.494821442,
     9.5450371754,
@@ -28,7 +27,8 @@
     10.9508923311,
     11.002888387,
     11.1011113203,
-    11.1412351636
+    11.1412351636,
+    11.1592500644
   ],
   "indices": [
     34,
@@ -37,7 +37,6 @@
     340,
     395,
     343,
-    602,
     64,
     344,
     369,
@@ -49,7 +48,8 @@
     320,
     321,
     360,
-    322
+    322,
+    8
   ],
   "name": "trip_4-emc",
   "svg": "trip_4-emc.svg",
@@ -113,15 +113,6 @@
       ],
       "isomerd_names": null,
       "dist": 9.1804703789
-    },
-    {
-      "name": "isomer_4-Cl-Buphedrone",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "4-Cl-Buphedrone"
-      ],
-      "dist": 9.2361800597
     },
     {
       "name": "psyc_4-MEC_trip_4-mec",
@@ -238,6 +229,15 @@
       ],
       "isomerd_names": null,
       "dist": 11.1412351636
+    },
+    {
+      "name": "psyc_Methcathinone",
+      "psychonaut_names": [
+        "Methcathinone"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 11.1592500644
     }
   ]
 }

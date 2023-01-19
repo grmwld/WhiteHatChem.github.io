@@ -7,40 +7,38 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "LD 3695",
-    "FT-0665406",
-    "14461-91-7",
-    "CYCLAZODONE",
-    "Cyclazodonum",
-    "CYCLAZODONE [INN]",
-    "4(5H)-Oxazolone, 2-(cyclopropylamino)-5-phenyl-",
     "2-(Cyclopropylamino)-4,5-dihydro-5-phenyl-4-oxazolon",
-    "DTXSID60864509",
-    "Cyclazodone [INN:DCF]",
-    "SCHEMBL1650015",
+    "14461-91-7",
+    "Cyclopropyl Pemoline",
     "J-007976",
-    "UNII-O8U55ZRL9K",
+    "Ciclazodona",
+    "DTXSID60864509",
+    "Ciclazodona [INN-Spanish]",
+    "4(5H)-Oxazolone, 2-(cyclopropylamino)-5-phenyl-",
+    "2-Oxazolin-4-one, 2-(cyclopropylamino)-5-phenyl-",
+    "BRN 3959190",
+    "Phenyl-5 cyclopropylamino-2 oxazolinone-4",
+    "CHEMBL2106536",
     "Cyclopropylpemoline",
     "2-(Cyclopropylamino)-5-phenyl-1,3-oxazol-4(5H)-one",
-    "Q5198127",
+    "CYCLAZODONE [INN]",
+    "UNII-O8U55ZRL9K",
+    "LD 3695",
+    "Cyclazodonum",
+    "SCHEMBL1650015",
     "Cyclopropyl Pemoline-[d5]",
-    "2-Oxazolin-4-one, 2-(cyclopropylamino)-5-phenyl-",
-    "2-(Cyclopropylamino)-5-phenyl-2-oxazolin-4-one",
-    "Phenyl-5 cyclopropylamino-2 oxazolinone-4",
-    "Ciclazodona",
-    "Cyclazodonum [INN-Latin]",
-    "CHEMBL2106536",
     "O8U55ZRL9K",
-    "Cyclopropyl Pemoline",
-    "BRN 3959190",
-    "Ciclazodona [INN-Spanish]"
+    "2-(Cyclopropylamino)-5-phenyl-2-oxazolin-4-one",
+    "CYCLAZODONE",
+    "Cyclazodonum [INN-Latin]",
+    "FT-0665406",
+    "Cyclazodone [INN:DCF]",
+    "Q5198127"
   ],
   "distances": [
     20.0679935528,
     21.8494158424,
     24.6715558679,
-    24.7049248732,
-    24.7502453724,
     24.8847624825,
     25.0657716361,
     25.1172518953,
@@ -49,19 +47,19 @@
     25.2229572176,
     25.2464113612,
     25.5408930783,
-    25.7714375266,
     25.8427533438,
     25.8623381516,
-    25.8829822851,
-    26.2473038515,
-    26.3329349278
+    26.3329349278,
+    26.7669053893,
+    26.8853927035,
+    27.2444233919,
+    27.2594291402,
+    27.3462945245
   ],
   "indices": [
     587,
     79,
     366,
-    619,
-    603,
     364,
     336,
     324,
@@ -70,12 +68,14 @@
     37,
     353,
     585,
-    592,
     383,
     342,
-    637,
-    638,
-    55
+    55,
+    356,
+    365,
+    411,
+    362,
+    17
   ],
   "name": "psyc_Cyclazodone",
   "svg": "psyc_Cyclazodone.svg",
@@ -106,24 +106,6 @@
       ],
       "isomerd_names": null,
       "dist": 24.6715558679
-    },
-    {
-      "name": "isomer_EHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "EHAT"
-      ],
-      "dist": 24.7049248732
-    },
-    {
-      "name": "isomer_MHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MHAT"
-      ],
-      "dist": 24.7502453724
     },
     {
       "name": "trip_mephenmetrazine",
@@ -202,15 +184,6 @@
       "dist": 25.5408930783
     },
     {
-      "name": "isomer_HHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "HHAT"
-      ],
-      "dist": 25.7714375266
-    },
-    {
       "name": "trip_glutethimide",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -229,24 +202,6 @@
       "dist": 25.8623381516
     },
     {
-      "name": "isomer_PHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "PHAT"
-      ],
-      "dist": 25.8829822851
-    },
-    {
-      "name": "isomer_7-[(Propan-2-yl)amino]-5,6,7,8-tetrahydronaphthalen-1-ol",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "7-[(Propan-2-yl)amino]-5,6,7,8-tetrahydronaphthalen-1-ol"
-      ],
-      "dist": 26.2473038515
-    },
-    {
       "name": "psyc_Phenylpiracetam_trip_carphedon",
       "psychonaut_names": [
         "Phenylpiracetam"
@@ -256,6 +211,53 @@
       ],
       "isomerd_names": null,
       "dist": 26.3329349278
+    },
+    {
+      "name": "trip_metaxalone",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "metaxalone"
+      ],
+      "isomerd_names": null,
+      "dist": 26.7669053893
+    },
+    {
+      "name": "trip_g-130",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "g-130"
+      ],
+      "isomerd_names": null,
+      "dist": 26.8853927035
+    },
+    {
+      "name": "trip_4-ho-mpmi",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-ho-mpmi"
+      ],
+      "isomerd_names": null,
+      "dist": 27.2444233919
+    },
+    {
+      "name": "trip_4-benzylpiperidine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-benzylpiperidine"
+      ],
+      "isomerd_names": null,
+      "dist": 27.2594291402
+    },
+    {
+      "name": "psyc_Nicotine_trip_nicotine",
+      "psychonaut_names": [
+        "Nicotine"
+      ],
+      "tripsit_names": [
+        "nicotine"
+      ],
+      "isomerd_names": null,
+      "dist": 27.3462945245
     }
   ]
 }

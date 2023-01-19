@@ -7,44 +7,44 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "Q4030702",
-    "1,3-Benzodioxole-5-ethanamine, 7-methoxy-alpha-methyl (9CI)",
-    "DTXSID50860757",
-    "Phenethylamine, .alpha.-methyl-3-methoxy-4,5-(methylenedioxy)-",
-    "13674-05-0",
-    "3-Methoxy-alpha-methyl-4,5-methylenedioxyphenethylamine",
-    "3-Methoxy-4,5-methylenedioxyamphetamine",
-    "Phenethylamine, alpha-methyl-3-methoxy-4,5-(methylenedioxy)-",
-    "3-Methoxy-.alpha.-methyl-4,5-methylenedioxyphenethylamine",
-    "SCHEMBL1739571",
-    "UNII-RG7FY73ZAA",
-    "(+/-)-MMDA",
-    "3-METHOXY-ALPHA-METHYL-4,5-(METHYLENEDIOXY)PHENETHYLAMINE",
-    ".BETA.-METHOXY-.ALPHA.-METHYL-4,5-(METHYLENEDIOXY)PHENETHYL AMINE",
-    "5-Methoxy-3,4-methylenedioxyamphetamine",
-    "CHEMBL126506",
-    "3-METHOXY-.ALPHA.-METHYL-4,5-(METHYLENEDIOXY)PHENETHYLAMINE",
-    "1,3-Benzodioxole-5-ethanamine, 7-methoxy-a-methyl- (9CI)",
-    "(.+/-.)-MMDA",
-    "(+-)-MMDA",
-    "1-(7-methoxy-2H-1,3-benzodioxol-5-yl)propan-2-amine",
-    "1,3-benzodioxole-5-ethanamine, 7-methoxy-alpha-methyl-",
-    "RG7FY73ZAA",
-    "NCGC00247692-01",
-    "1,3-Benzodioxole-5-ethanamine, 7-methoxy-a-methyl-",
-    "3-Methoxy-4,5-methylenedioxyphenylisopropylamine",
-    "(+/-)-5-METHOXY-3,4-METHYLENEDIOXYAMPHETAMINE",
-    "Phenethylamine, 3-methoxy-.alpha.-methyl-4,5-(methylenedioxy)-",
-    "Phenethylamine, 3-methoxy-alpha-methyl-4,5-(methylenedioxy)-",
     "1,3-Benzodioxole-5-ethanamine, 7-methoxy-alpha-methyl",
-    "1-(7-methoxy-1,3-benzodioxol-5-yl)propan-2-amine",
-    "BRN 1246630",
-    "3-METHOXY-METHYLENEDIOXYAMPHETAMINE",
-    "Amphetamine, 3,4-methylenedioxy-5-methoxy",
-    "DEA No. 7401",
+    "3-Methoxy-.alpha.-methyl-4,5-methylenedioxyphenethylamine",
     "2-(7-Methoxy-1,3-benzodioxol-5-yl)-1-methylethylamine",
+    "5-Methoxy-3,4-methylenedioxyamphetamine",
+    ".BETA.-METHOXY-.ALPHA.-METHYL-4,5-(METHYLENEDIOXY)PHENETHYL AMINE",
+    "3-Methoxy-4,5-methylenedioxyamphetamine",
+    "UNII-RG7FY73ZAA",
+    "Phenethylamine, 3-methoxy-.alpha.-methyl-4,5-(methylenedioxy)-",
+    "3-METHOXY-.ALPHA.-METHYL-4,5-(METHYLENEDIOXY)PHENETHYLAMINE",
+    "Amphetamine, 3,4-methylenedioxy-5-methoxy",
+    "DTXSID50860757",
+    "1,3-Benzodioxole-5-ethanamine, 7-methoxy-a-methyl-",
+    "3-METHOXY-ALPHA-METHYL-4,5-(METHYLENEDIOXY)PHENETHYLAMINE",
+    "BRN 1246630",
+    "(.+/-.)-MMDA",
+    "NCGC00247692-01",
+    "1-(7-methoxy-1,3-benzodioxol-5-yl)propan-2-amine",
+    "Phenethylamine, .alpha.-methyl-3-methoxy-4,5-(methylenedioxy)-",
+    "SCHEMBL1739571",
+    "RG7FY73ZAA",
+    "Phenethylamine, alpha-methyl-3-methoxy-4,5-(methylenedioxy)-",
+    "1-(7-methoxy-2H-1,3-benzodioxol-5-yl)propan-2-amine",
+    "Phenethylamine, 3-methoxy-alpha-methyl-4,5-(methylenedioxy)-",
+    "Q4030702",
+    "13674-05-0",
+    "DEA No. 7401",
+    "3-METHOXY-METHYLENEDIOXYAMPHETAMINE",
+    "1,3-benzodioxole-5-ethanamine, 7-methoxy-alpha-methyl-",
+    "(+/-)-MMDA",
+    "(+/-)-5-METHOXY-3,4-METHYLENEDIOXYAMPHETAMINE",
+    "beta-Methoxy-alpha-methyl-4,5-(methylenedioxy)phenethyl amine",
+    "1,3-Benzodioxole-5-ethanamine, 7-methoxy-a-methyl- (9CI)",
+    "3-Methoxy-alpha-methyl-4,5-methylenedioxyphenethylamine",
     "DB01442",
-    "beta-Methoxy-alpha-methyl-4,5-(methylenedioxy)phenethyl amine"
+    "(+-)-MMDA",
+    "3-Methoxy-4,5-methylenedioxyphenylisopropylamine",
+    "1,3-Benzodioxole-5-ethanamine, 7-methoxy-alpha-methyl (9CI)",
+    "CHEMBL126506"
   ],
   "distances": [
     12.5226308809,
@@ -56,13 +56,13 @@
     16.8323825278,
     17.2102681228,
     17.5296510453,
-    17.6921889489,
     17.7511243867,
     18.0370441297,
     18.224008943,
+    18.2569926204,
     18.3952201606,
     18.5424013599,
-    18.8517510934,
+    18.8924277986,
     18.9202492076,
     19.0650412945,
     19.768287401
@@ -77,13 +77,13 @@
     327,
     40,
     396,
-    605,
     45,
     57,
     29,
+    594,
     58,
     70,
-    594,
+    596,
     371,
     43,
     375
@@ -183,15 +183,6 @@
       "dist": 17.5296510453
     },
     {
-      "name": "isomer_4,2,3-DOB",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "4,2,3-DOB"
-      ],
-      "dist": 17.6921889489
-    },
-    {
       "name": "psyc_2,5-DMA",
       "psychonaut_names": [
         "2,5-DMA"
@@ -223,6 +214,15 @@
       "dist": 18.224008943
     },
     {
+      "name": "isomer_3,2,4-DOB",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3,2,4-DOB"
+      ],
+      "dist": 18.2569926204
+    },
+    {
       "name": "psyc_Butylone_trip_butylone",
       "psychonaut_names": [
         "Butylone"
@@ -245,13 +245,13 @@
       "dist": 18.5424013599
     },
     {
-      "name": "isomer_2-Br-6-MA",
+      "name": "isomer_4-Me-2,3-DOM",
       "psychonaut_names": null,
       "tripsit_names": null,
       "isomerd_names": [
-        "2-Br-6-MA"
+        "4-Me-2,3-DOM"
       ],
-      "dist": 18.8517510934
+      "dist": 18.8924277986
     },
     {
       "name": "trip_5-mapdb",

@@ -25,8 +25,8 @@
     24.3764848306,
     24.8472076505,
     25.0217117634,
-    25.1368095011,
-    26.7364284991
+    26.7364284991,
+    27.1577535724
   ],
   "indices": [
     187,
@@ -46,8 +46,8 @@
     545,
     502,
     544,
-    679,
-    483
+    483,
+    230
   ],
   "name": "trip_25i-nbf",
   "svg": "trip_25i-nbf.svg",
@@ -224,15 +224,6 @@
       "dist": 25.0217117634
     },
     {
-      "name": "isomer_PRL-8-53",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "PRL-8-53"
-      ],
-      "dist": 25.1368095011
-    },
-    {
       "name": "trip_atomoxetine",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -240,6 +231,17 @@
       ],
       "isomerd_names": null,
       "dist": 26.7364284991
+    },
+    {
+      "name": "psyc_Benzydamine_trip_benzydamine",
+      "psychonaut_names": [
+        "Benzydamine"
+      ],
+      "tripsit_names": [
+        "benzydamine"
+      ],
+      "isomerd_names": null,
+      "dist": 27.1577535724
     }
   ]
 }

@@ -20,19 +20,19 @@
     18.3472341839,
     18.4076915753,
     18.4675090134,
-    19.1899134208,
     19.2838075694,
     19.5797740975,
     19.7013716012,
     20.0080900996,
     20.0544835888,
-    20.6122948557
+    20.6122948557,
+    21.0011262138
   ],
   "indices": [
     102,
     159,
     390,
-    676,
+    603,
     111,
     463,
     420,
@@ -41,13 +41,13 @@
     436,
     84,
     89,
-    653,
     359,
     85,
     395,
     88,
     360,
-    508
+    508,
+    398
   ],
   "name": "trip_bk-ivp",
   "svg": "trip_bk-ivp.svg",
@@ -168,15 +168,6 @@
       "dist": 18.4675090134
     },
     {
-      "name": "isomer_BHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "BHAT"
-      ],
-      "dist": 19.1899134208
-    },
-    {
       "name": "trip_4f-neb",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -233,6 +224,15 @@
       ],
       "isomerd_names": null,
       "dist": 20.6122948557
+    },
+    {
+      "name": "trip_a-pvt",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "a-pvt"
+      ],
+      "isomerd_names": null,
+      "dist": 21.0011262138
     }
   ]
 }

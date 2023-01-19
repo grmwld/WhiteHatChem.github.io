@@ -27,9 +27,9 @@
     25.073254492,
     25.2216359582,
     25.3689125915,
-    25.3788205733,
-    25.8807573041,
-    25.9434563473
+    25.9434563473,
+    26.1528405596,
+    26.2340888348
   ],
   "indices": [
     324,
@@ -48,9 +48,9 @@
     353,
     51,
     83,
-    603,
-    592,
-    79
+    79,
+    55,
+    7
   ],
   "name": "trip_4,4-dmar",
   "svg": "trip_4,4-dmar.svg",
@@ -206,24 +206,6 @@
       "dist": 25.3689125915
     },
     {
-      "name": "isomer_MHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MHAT"
-      ],
-      "dist": 25.3788205733
-    },
-    {
-      "name": "isomer_HHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "HHAT"
-      ],
-      "dist": 25.8807573041
-    },
-    {
       "name": "psyc_N-Methyl-Cyclazodone",
       "psychonaut_names": [
         "N-Methyl-Cyclazodone"
@@ -231,6 +213,28 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 25.9434563473
+    },
+    {
+      "name": "psyc_Phenylpiracetam_trip_carphedon",
+      "psychonaut_names": [
+        "Phenylpiracetam"
+      ],
+      "tripsit_names": [
+        "carphedon"
+      ],
+      "isomerd_names": null,
+      "dist": 26.1528405596
+    },
+    {
+      "name": "psyc_NM-2-AI_trip_nm-2-ai",
+      "psychonaut_names": [
+        "NM-2-AI"
+      ],
+      "tripsit_names": [
+        "nm-2-ai"
+      ],
+      "isomerd_names": null,
+      "dist": 26.2340888348
     }
   ]
 }

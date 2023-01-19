@@ -7,321 +7,240 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "ADAMANTANE,1-AMINO",
-    "1-adamantanylamine",
-    "1-admantaneamine",
-    "Amantadina",
-    "NSC 341865",
-    "J-650234",
-    "DSSTox_CID_2117",
     "Amantadine [INN:BAN]",
-    "AB00053414_18",
-    "DB00915",
-    "BRN 2204333",
-    "Tricyclo[3.3.1.1(sup3,7)]decan-1-amine",
-    "ADS-5102, EXP 105-1",
-    "1-Adamantamine(1-Aminoadamantane)",
-    "CS-W008656",
-    "DSSTox_RID_76493",
-    "1-Adamantanamine",
-    "AC-25879",
-    "Oprea1_248648",
-    "SBI-0049993.P004",
-    "NCGC00015036-02",
-    "BCP09869",
-    "adamantan-1-amine",
-    "STR04703",
-    "KBio3_001322",
-    "BPBio1_000368",
-    "NINDS_000815",
-    "AS-14215",
-    "1-amino-adamantane",
-    "Tricyclo(3.3.1.13,7)decan-1-amine",
-    "IDI1_000815",
-    "Tricyclo(3.3.1.1(3,7))-decan-1-amine",
-    "Tricyclo(3.3.1.1(sup 3,7))decan-1-amine",
-    "AMANTADINE [MART.]",
-    "CHEBI:2618",
-    "1-adamantaneamine",
-    "AB00053414-16",
-    "WLN: L66 B6 A B- C 1B ITJ BZ",
-    "Amantadinum [INN-Latin]",
-    "(3s,5s,7s)-Tricyclo[3.3.1.1~3,7~]decan-1-Amine",
-    "Amant",
-    "Spectrum4_000134",
-    "1-Amantadine",
-    "SCHEMBL21310017",
-    "CCG-204100",
-    "SCHEMBL15672299",
-    "AB00053414_17",
-    "AKOS015935124",
-    "AmantadineHCl",
-    "MFCD00074732",
-    "Pk-merz",
-    "Amantadina [INN-Spanish]",
-    "AMANTADINE [INN]",
-    "Tox21_110068",
-    "TCMDC-125869",
-    "KBio2_002958",
-    "Spectrum3_000291",
-    "Spectrum2_000081",
-    "SPBio_002273",
-    "tricyclo[3.3.1.1~3,7~]decan-1-amine",
-    "HMS3604O07",
-    "NCGC00015036-06",
-    "EINECS 212-201-2",
-    "SDCCGSBI-0049993.P005",
-    "Tricyclo[3.3.1.1(3,7)]decan-1-amine",
-    "Amantidine",
-    "NCGC00015036-09",
-    "SCHEMBL20409394",
-    "KBio1_000815",
-    "W-104338",
-    "BSPBio_000334",
-    "adamantane-1-amine",
-    "CHEMBL660",
-    "Tox21_110068_1",
-    "AKOS000113994",
-    "1-Aminotricyclo(3.3.1.1(sup 3,7))decane",
-    "L000868",
-    "NSC83653",
-    "768-94-5",
-    "NCGC00179597-01",
-    "ACT02873",
-    "Q409761",
-    "NCGC00162039-02",
-    "Tricyclo[3.3.1.1^3,7]decan-1-amine",
-    "BRD-K70330367-003-03-8",
-    "AB01275427-01",
-    "CAS-768-94-5",
-    "AMANTADINE [MI]",
-    "GTPL4128",
-    "Adamantamine",
-    "D07441",
-    "AMANTADINE [WHO-DD]",
-    "Symmetrel (Salt/Mix)",
-    "1-Adamantylamine",
-    "BSPBio_001570",
-    "EC 212-201-2",
-    "SCHEMBL4098",
-    "SY017655",
-    "HY-B0402",
-    "NCGC00015036-01",
-    "1-Aminoadamantane",
-    "NCGC00162039-03",
-    "STK298781",
-    "AKOS007930692",
-    "NSC-341865",
-    "(3R,5S,7s)-Adamantan-1-amine",
-    "NCGC00162039-04",
-    "F0001-1962",
-    "HMS3887I19",
-    "Symadine",
-    "Prestwick2_000407",
-    "AMANTADINE [HSDB]",
-    "NCGC00162039-01",
-    "KBioGR_000548",
-    "ZINC968256",
-    "1-Adamantylamine, 97%",
-    "Prestwick0_000407",
-    "adamantan-1-ylamine",
-    "BDBM50033369",
-    "AE-641/01634060",
-    "DSSTox_GSID_22117",
-    "DTXSID8022117",
-    "KBio2_000390",
-    "Prestwick3_000407",
-    "Amantadine Base",
-    "ALBB-013871",
-    "NCIOpen2_001059",
-    "s5499",
-    "amantadine",
-    "Tricyclo(3.3.1.1(sup 3.7))decan-1-amine",
-    "SCHEMBL21309814",
-    "Adamantanamine",
-    "Gocovri",
-    "AMANTADINE [VANDF]",
-    "Lopac0_000004",
-    "768A945",
-    "1-Adamantamine",
-    "A838887",
-    "tricyclo[3.3.1.1(3,7)]decan-1-ylamine",
-    "C06818",
-    "adamantaneamine",
-    "NCGC00015036-13",
-    "adamantyl amine",
-    "SCHEMBL23419027",
-    "Spectrum5_000772",
-    "Amantadinum",
-    "tricyclo[3.3.1.1(3,7)]decane-1-amine",
-    "SPBio_000002",
-    "Mantadine (Salt/Mix)",
     "NCGC00015036-24",
-    "BF4C9Z1J53",
-    "UNII-BF4C9Z1J53",
-    "NCGC00015036-11",
-    "Lopac-A-1260",
-    "768-94-5 (FREE BASE)",
-    "Tricyclo[3.3.1.13,7]decan-1-amine",
-    "Spectrum_000030",
-    "Adamantylamine",
-    "Amantadine (INN)",
-    "NCGC00015036-08",
-    "Aminoadamantane",
-    "BIDD:GT0757",
-    "Q27453436",
-    "AB00053414-14",
-    "SCHEMBL2619248",
-    "BSPBio_001822",
+    "adamantan-1-amine",
+    "CHEBI:2618",
     "FT-0607338",
-    "NSC341865",
-    "1-adamantyl amine",
+    "BPBio1_000368",
+    "768-94-5 (FREE BASE)",
+    "DB00915",
+    "A838887",
+    "BP-13040",
+    "Pk-merz",
     "AKOS000119324",
-    "NCGC00015036-03",
-    "Exp-105-1 (Salt/Mix)",
-    "Tricyclo[3.3.1.13,7]decane-1-amine",
-    "HSDB 3202",
-    "NCGC00015036-04",
-    "AB00514655",
-    "BRD-K70330367-003-01-2",
-    "KBioSS_000390",
-    "NCGC00015036-05",
-    "KBio2_005526",
-    "Adamant-1-ylamine",
+    "ADS-5102, EXP 105-1",
+    "SCHEMBL20409394",
+    "Amantadina",
+    "BRD-K70330367-003-03-8",
+    "Amantadine Base",
     "NCGC00015036-07",
-    "HMS1791O12",
-    "1-Adamantanamine (purified by sublimation)",
+    "Prestwick2_000407",
+    "Tricyclo[3.3.1.1(3,7)]decan-1-amine",
+    "WLN: L66 B6 A B- C 1B ITJ BZ",
     "HMS1989O12",
+    "J-650234",
+    "CS-W008656",
+    "TCMDC-125869",
+    "BCP09869",
+    "768-94-5",
+    "Tricyclo(3.3.1.13,7)decan-1-amine",
+    "NCGC00179597-01",
+    "AS-14215",
+    "AKOS000113994",
+    "SCHEMBL15672299",
+    "HSDB 3202",
+    "GTPL4128",
+    "SCHEMBL21309814",
+    "SY017655",
+    "DTXSID8022117",
+    "Spectrum2_000081",
     "Prestwick1_000407",
+    "KBioSS_000390",
+    "SPBio_002273",
+    "Tox21_110068",
+    "KBio3_001322",
+    "ZINC968256",
+    "KBio2_005526",
+    "Adamantylamine",
+    "AMANTADINE [MI]",
+    "NSC-341865",
+    "Amantidine",
+    "KBio1_000815",
+    "EINECS 212-201-2",
+    "NCGC00162039-01",
+    "NCGC00015036-05",
+    "NCGC00015036-08",
+    "1-adamantaneamine",
+    "KBio2_002958",
+    "BRN 2204333",
+    "IDI1_000815",
+    "DSSTox_CID_2117",
+    "KBio2_000390",
+    "Tricyclo(3.3.1.1(sup 3.7))decan-1-amine",
+    "AB00053414_18",
+    "Amantadine (INN)",
+    "NCGC00015036-09",
+    "Exp-105-1 (Salt/Mix)",
+    "NCGC00015036-13",
+    "C06818",
+    "Spectrum3_000291",
+    "NINDS_000815",
+    "Symmetrel (Salt/Mix)",
+    "Amant",
+    "ALBB-013871",
+    "NCGC00015036-06",
+    "Adamantamine",
+    "1-Adamantanamine",
+    "Tricyclo[3.3.1.1(sup3,7)]decan-1-amine",
+    "NSC83653",
+    "tricyclo[3.3.1.1(3,7)]decan-1-ylamine",
+    "adamantane-1-amine",
+    "AMANTADINE [MART.]",
+    "1-Adamantamine",
+    "tricyclo[3.3.1.1(3,7)]decane-1-amine",
+    "HMS3604O07",
+    "SCHEMBL23419027",
+    "HMS3887I19",
+    "adamantaneamine",
+    "Spectrum5_000772",
+    "Q409761",
+    "AB00053414-14",
+    "NCIOpen2_001059",
+    "AMANTADINE [HSDB]",
+    "ACT02873",
+    "L000868",
+    "1-amino-adamantane",
+    "Tricyclo(3.3.1.1(3,7))-decan-1-amine",
+    "BF4C9Z1J53",
+    "NCGC00015036-02",
+    "Tox21_110068_1",
+    "1-Adamantylamine",
+    "Lopac-A-1260",
+    "Spectrum_000030",
+    "Q27453436",
+    "HMS1791O12",
+    "Oprea1_248648",
+    "AB00514655",
+    "NCGC00015036-03",
+    "BSPBio_000334",
+    "Symadine",
+    "Tricyclo[3.3.1.1^3,7]decan-1-amine",
+    "NCGC00162039-03",
+    "SDCCGSBI-0049993.P005",
+    "AE-641/01634060",
+    "Amantadinum",
+    "1-Amantadine",
+    "Prestwick0_000407",
+    "1-adamantanylamine",
+    "Adamantanamine",
+    "s5499",
+    "UNII-BF4C9Z1J53",
+    "BIDD:GT0757",
+    "SCHEMBL4098",
+    "Tricyclo[3.3.1.13,7]decane-1-amine",
+    "amantadine",
+    "BSPBio_001822",
+    "Tricyclo(3.3.1.1(sup 3,7))decan-1-amine",
+    "AmantadineHCl",
+    "Amantadina [INN-Spanish]",
+    "(3s,5s,7s)-Tricyclo[3.3.1.1~3,7~]decan-1-Amine",
+    "adamantan-1-ylamine",
+    "AMANTADINE [WHO-DD]",
+    "NSC341865",
+    "BSPBio_001570",
     "DivK1c_000815",
-    "BP-13040"
+    "Mantadine (Salt/Mix)",
+    "Aminoadamantane",
+    "NCGC00015036-01",
+    "KBioGR_000548",
+    "AB00053414-16",
+    "NCGC00162039-04",
+    "NCGC00015036-11",
+    "SBI-0049993.P004",
+    "1-admantaneamine",
+    "768A945",
+    "Adamant-1-ylamine",
+    "AKOS015935124",
+    "(3R,5S,7s)-Adamantan-1-amine",
+    "CAS-768-94-5",
+    "Tricyclo[3.3.1.13,7]decan-1-amine",
+    "AB00053414_17",
+    "AMANTADINE [INN]",
+    "F0001-1962",
+    "NCGC00162039-02",
+    "1-Adamantanamine (purified by sublimation)",
+    "BRD-K70330367-003-01-2",
+    "1-Adamantamine(1-Aminoadamantane)",
+    "STK298781",
+    "AC-25879",
+    "SCHEMBL21310017",
+    "Lopac0_000004",
+    "AB01275427-01",
+    "MFCD00074732",
+    "tricyclo[3.3.1.1~3,7~]decan-1-amine",
+    "1-Aminotricyclo(3.3.1.1(sup 3,7))decane",
+    "Spectrum4_000134",
+    "HY-B0402",
+    "1-adamantyl amine",
+    "DSSTox_GSID_22117",
+    "D07441",
+    "AKOS007930692",
+    "EC 212-201-2",
+    "Prestwick3_000407",
+    "NCGC00015036-04",
+    "Gocovri",
+    "NSC 341865",
+    "Amantadinum [INN-Latin]",
+    "adamantyl amine",
+    "ADAMANTANE,1-AMINO",
+    "STR04703",
+    "1-Adamantylamine, 97%",
+    "BDBM50033369",
+    "CHEMBL660",
+    "SPBio_000002",
+    "AMANTADINE [VANDF]",
+    "CCG-204100",
+    "DSSTox_RID_76493",
+    "W-104338",
+    "1-Aminoadamantane",
+    "SCHEMBL2619248"
   ],
   "distances": [
-    11.0628727565,
-    13.1234007815,
-    15.034298657,
-    15.9684857908,
-    17.9631436566,
-    19.7309633086,
-    20.3951062186,
-    25.4272776316,
-    27.6873776539,
     27.7812016662,
-    29.5536528368,
-    31.4715515526,
-    32.1128419661,
-    32.3994274701,
     34.1908740622,
     34.3396693436,
-    34.5955689873,
     36.1344957378,
-    37.0915203758
+    37.0915203758,
+    37.545577771,
+    38.0635984165,
+    38.2196171585,
+    38.3112398472,
+    38.7772333738,
+    38.9295048473,
+    39.0672981428,
+    39.3993739664,
+    39.3994731113,
+    39.7285605139,
+    39.9549291365,
+    40.3145469442,
+    40.3159019277,
+    40.601745147
   ],
   "indices": [
-    616,
-    615,
-    634,
-    635,
-    633,
-    651,
-    652,
-    663,
-    670,
     76,
-    661,
-    650,
-    660,
-    662,
     152,
     315,
-    659,
     22,
-    21
+    21,
+    365,
+    296,
+    342,
+    24,
+    17,
+    376,
+    328,
+    109,
+    308,
+    584,
+    83,
+    37,
+    295,
+    7
   ],
   "name": "psyc_Amantadine",
   "svg": "psyc_Amantadine.svg",
   "sim": [
-    {
-      "name": "isomer_MRZ_2_16",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MRZ 2/16"
-      ],
-      "dist": 11.0628727565
-    },
-    {
-      "name": "isomer_MRZ_2_188",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MRZ 2/188"
-      ],
-      "dist": 13.1234007815
-    },
-    {
-      "name": "isomer_MRZ_2_175",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MRZ 2/175"
-      ],
-      "dist": 15.034298657
-    },
-    {
-      "name": "isomer_MRZ_2_174",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MRZ 2/174"
-      ],
-      "dist": 15.9684857908
-    },
-    {
-      "name": "isomer_MRZ_2_187",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MRZ 2/187"
-      ],
-      "dist": 17.9631436566
-    },
-    {
-      "name": "isomer_MRZ_2_177",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MRZ 2/177"
-      ],
-      "dist": 19.7309633086
-    },
-    {
-      "name": "isomer_MRZ_2_23",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MRZ 2/23"
-      ],
-      "dist": 20.3951062186
-    },
-    {
-      "name": "isomer_MRZ_2_24",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MRZ 2/24"
-      ],
-      "dist": 25.4272776316
-    },
-    {
-      "name": "isomer_MRZ_2_180",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MRZ 2/180"
-      ],
-      "dist": 27.6873776539
-    },
     {
       "name": "psyc_Memantine_trip_memantine",
       "psychonaut_names": [
@@ -332,42 +251,6 @@
       ],
       "isomerd_names": null,
       "dist": 27.7812016662
-    },
-    {
-      "name": "isomer_MRZ_2_150",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MRZ 2/150"
-      ],
-      "dist": 29.5536528368
-    },
-    {
-      "name": "isomer_MRZ_2_169",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MRZ 2/169"
-      ],
-      "dist": 31.4715515526
-    },
-    {
-      "name": "isomer_MRZ_2_138",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MRZ 2/138"
-      ],
-      "dist": 32.1128419661
-    },
-    {
-      "name": "isomer_MRZ_2_171",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MRZ 2/171"
-      ],
-      "dist": 32.3994274701
     },
     {
       "name": "psyc_Bromantane_trip_bromantane",
@@ -392,15 +275,6 @@
       "dist": 34.3396693436
     },
     {
-      "name": "isomer_MRZ_2_170",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MRZ 2/170"
-      ],
-      "dist": 34.5955689873
-    },
-    {
       "name": "psyc_Thujone",
       "psychonaut_names": [
         "Thujone"
@@ -419,6 +293,150 @@
       ],
       "isomerd_names": null,
       "dist": 37.0915203758
+    },
+    {
+      "name": "trip_g-130",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "g-130"
+      ],
+      "isomerd_names": null,
+      "dist": 37.545577771
+    },
+    {
+      "name": "psyc_Oxiracetam_trip_oxiracetam",
+      "psychonaut_names": [
+        "Oxiracetam"
+      ],
+      "tripsit_names": [
+        "oxiracetam"
+      ],
+      "isomerd_names": null,
+      "dist": 38.0635984165
+    },
+    {
+      "name": "trip_isophenmetrazine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "isophenmetrazine"
+      ],
+      "isomerd_names": null,
+      "dist": 38.2196171585
+    },
+    {
+      "name": "psyc_Propylhexedrine_trip_propylhexedrine",
+      "psychonaut_names": [
+        "Propylhexedrine"
+      ],
+      "tripsit_names": [
+        "propylhexedrine"
+      ],
+      "isomerd_names": null,
+      "dist": 38.3112398472
+    },
+    {
+      "name": "psyc_Nicotine_trip_nicotine",
+      "psychonaut_names": [
+        "Nicotine"
+      ],
+      "tripsit_names": [
+        "nicotine"
+      ],
+      "isomerd_names": null,
+      "dist": 38.7772333738
+    },
+    {
+      "name": "trip_tiletamine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "tiletamine"
+      ],
+      "isomerd_names": null,
+      "dist": 38.9295048473
+    },
+    {
+      "name": "trip_cyclo-methiodrone",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "cyclo-methiodrone"
+      ],
+      "isomerd_names": null,
+      "dist": 39.0672981428
+    },
+    {
+      "name": "psyc_PCE_trip_pce",
+      "psychonaut_names": [
+        "PCE"
+      ],
+      "tripsit_names": [
+        "pce"
+      ],
+      "isomerd_names": null,
+      "dist": 39.3993739664
+    },
+    {
+      "name": "psyc_2-Aminoindane_trip_2-ai",
+      "psychonaut_names": [
+        "2-Aminoindane"
+      ],
+      "tripsit_names": [
+        "2-ai"
+      ],
+      "isomerd_names": null,
+      "dist": 39.3994731113
+    },
+    {
+      "name": "trip_5-iai",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "5-iai"
+      ],
+      "isomerd_names": null,
+      "dist": 39.7285605139
+    },
+    {
+      "name": "psyc_Deschloroketamine_trip_deschloroketamine",
+      "psychonaut_names": [
+        "Deschloroketamine"
+      ],
+      "tripsit_names": [
+        "deschloroketamine"
+      ],
+      "isomerd_names": null,
+      "dist": 39.9549291365
+    },
+    {
+      "name": "psyc_Phenmetrazine_trip_phenmetrazine",
+      "psychonaut_names": [
+        "Phenmetrazine"
+      ],
+      "tripsit_names": [
+        "phenmetrazine"
+      ],
+      "isomerd_names": null,
+      "dist": 40.3145469442
+    },
+    {
+      "name": "psyc_Piracetam_trip_piracetam",
+      "psychonaut_names": [
+        "Piracetam"
+      ],
+      "tripsit_names": [
+        "piracetam"
+      ],
+      "isomerd_names": null,
+      "dist": 40.3159019277
+    },
+    {
+      "name": "psyc_NM-2-AI_trip_nm-2-ai",
+      "psychonaut_names": [
+        "NM-2-AI"
+      ],
+      "tripsit_names": [
+        "nm-2-ai"
+      ],
+      "isomerd_names": null,
+      "dist": 40.601745147
     }
   ]
 }

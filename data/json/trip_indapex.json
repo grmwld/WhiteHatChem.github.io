@@ -14,8 +14,6 @@
     11.9728862896,
     12.4261772719,
     14.26394025,
-    15.1486354301,
-    15.7948550962,
     15.8905145722,
     16.0000600814,
     16.1801562055,
@@ -28,15 +26,15 @@
     18.3905221163,
     18.8150482986,
     18.8318461053,
-    18.9238893049
+    18.9238893049,
+    19.6580229477,
+    19.9426347106
   ],
   "indices": [
     86,
     392,
     419,
     387,
-    625,
-    624,
     99,
     135,
     442,
@@ -49,7 +47,9 @@
     105,
     129,
     59,
-    103
+    103,
+    167,
+    358
   ],
   "name": "trip_indapex",
   "svg": "trip_indapex.svg",
@@ -91,24 +91,6 @@
       ],
       "isomerd_names": null,
       "dist": 14.26394025
-    },
-    {
-      "name": "isomer_N,N-Me-2,6-DMPEA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "N,N-Me-2,6-DMPEA"
-      ],
-      "dist": 15.1486354301
-    },
-    {
-      "name": "isomer_N,N-Me-3,5-DMPEA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "N,N-Me-3,5-DMPEA"
-      ],
-      "dist": 15.7948550962
     },
     {
       "name": "psyc_4-AcO-DMT_trip_4-aco-dmt",
@@ -244,6 +226,26 @@
       ],
       "isomerd_names": null,
       "dist": 18.9238893049
+    },
+    {
+      "name": "psyc_5-MeO-EiPT_trip_5-meo-eipt",
+      "psychonaut_names": [
+        "5-MeO-EiPT"
+      ],
+      "tripsit_names": [
+        "5-meo-eipt"
+      ],
+      "isomerd_names": null,
+      "dist": 19.6580229477
+    },
+    {
+      "name": "trip_centrophenoxine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "centrophenoxine"
+      ],
+      "isomerd_names": null,
+      "dist": 19.9426347106
     }
   ]
 }

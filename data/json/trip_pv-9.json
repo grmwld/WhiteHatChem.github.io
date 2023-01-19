@@ -17,7 +17,6 @@
     18.4518655966,
     18.6819713158,
     19.7409175801,
-    20.0745322965,
     20.2473994339,
     20.6122948557,
     21.3192496701,
@@ -26,7 +25,8 @@
     21.6944537269,
     22.764153071,
     23.3192537972,
-    23.6916468068
+    23.6916468068,
+    23.8634510168
   ],
   "indices": [
     525,
@@ -37,9 +37,8 @@
     519,
     436,
     522,
-    676,
-    675,
-    681,
+    603,
+    605,
     465,
     486,
     488,
@@ -47,7 +46,8 @@
     138,
     466,
     398,
-    523
+    523,
+    154
   ],
   "name": "trip_pv-9",
   "svg": "trip_pv-9.svg",
@@ -138,15 +138,6 @@
       "dist": 19.7409175801
     },
     {
-      "name": "isomer_(4-Fluorophenyl)[1-(5-sulfanylpentyl)piperidin-4-yl]methanone",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "(4-Fluorophenyl)[1-(5-sulfanylpentyl)piperidin-4-yl]methanone"
-      ],
-      "dist": 20.0745322965
-    },
-    {
       "name": "isomer_MDPEP",
       "psychonaut_names": null,
       "tripsit_names": null,
@@ -228,6 +219,17 @@
       ],
       "isomerd_names": null,
       "dist": 23.6916468068
+    },
+    {
+      "name": "psyc_MDPV_trip_mdpv",
+      "psychonaut_names": [
+        "MDPV"
+      ],
+      "tripsit_names": [
+        "mdpv"
+      ],
+      "isomerd_names": null,
+      "dist": 23.8634510168
     }
   ]
 }

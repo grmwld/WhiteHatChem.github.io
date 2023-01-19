@@ -15,18 +15,18 @@
     8.998924615,
     10.3577991973,
     10.7987972155,
-    10.8529386698,
     11.4972132748,
     11.6328269287,
     11.6469624108,
     11.7135333441,
     11.9614968895,
     12.0708099361,
-    13.0642047847,
     13.0846623679,
     13.1231095179,
     13.1942323973,
-    13.3581311099
+    13.3581311099,
+    13.5284023328,
+    13.5821346074
   ],
   "indices": [
     63,
@@ -36,18 +36,18 @@
     368,
     66,
     89,
-    602,
     64,
     369,
     367,
     340,
     359,
     370,
-    620,
     34,
     390,
     35,
-    343
+    343,
+    344,
+    36
   ],
   "name": "trip_4-mpd",
   "svg": "trip_4-mpd.svg",
@@ -123,15 +123,6 @@
       "dist": 10.7987972155
     },
     {
-      "name": "isomer_4-Cl-Buphedrone",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "4-Cl-Buphedrone"
-      ],
-      "dist": 10.8529386698
-    },
-    {
       "name": "psyc_4-MEC_trip_4-mec",
       "psychonaut_names": [
         "4-MEC"
@@ -188,15 +179,6 @@
       "dist": 12.0708099361
     },
     {
-      "name": "isomer_2-HO-N-Me-5-EA-\u03b2k",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2-HO-N-Me-5-EA-\u03b2k"
-      ],
-      "dist": 13.0642047847
-    },
-    {
       "name": "psyc_Mephedrone_trip_mephedrone",
       "psychonaut_names": [
         "Mephedrone"
@@ -235,6 +217,26 @@
       ],
       "isomerd_names": null,
       "dist": 13.3581311099
+    },
+    {
+      "name": "trip_3-meomc",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "3-meomc"
+      ],
+      "isomerd_names": null,
+      "dist": 13.5284023328
+    },
+    {
+      "name": "psyc_2-MMC_trip_2-mmc",
+      "psychonaut_names": [
+        "2-MMC"
+      ],
+      "tripsit_names": [
+        "2-mmc"
+      ],
+      "isomerd_names": null,
+      "dist": 13.5821346074
     }
   ]
 }

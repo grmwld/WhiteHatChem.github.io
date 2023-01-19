@@ -9,18 +9,18 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "Lysergic acid 2,4-dimethylazetidide",
-    "470666-31-0",
-    "LYSERGIC ACID 2,4-DIMETHYLAZETIDIDE, (S,S)-(+)-",
-    "8SWJ525W4R",
-    "DTXSID201026958",
-    "(2\u2032S,4\u2032S)-Lysergic acid 2,4-dimethylazetidide",
-    "LA-SS-AZ",
     "UNII-8SWJ525W4R",
-    "SCHEMBL20970898",
-    "LA-SS-Az",
+    "470666-31-0",
+    "8SWJ525W4R",
+    "(2\u2032S,4\u2032S)-Lysergic acid 2,4-dimethylazetidide",
+    "LYSERGIC ACID 2,4-DIMETHYLAZETIDIDE, (S,S)-(+)-",
+    "LA-SS-AZ",
+    "Lysergic acid 2,4-dimethylazetidide",
     "DIAZEDINE",
-    "AZETIDINE, 1-(((8.BETA.)-9,10-DIDEHYDRO-6-METHYLERGOLIN-8-YL)CARBONYL)-2,4-DIMETHYL-, (2S,4S)-"
+    "AZETIDINE, 1-(((8.BETA.)-9,10-DIDEHYDRO-6-METHYLERGOLIN-8-YL)CARBONYL)-2,4-DIMETHYL-, (2S,4S)-",
+    "SCHEMBL20970898",
+    "DTXSID201026958",
+    "LA-SS-Az"
   ],
   "distances": [
     21.0560434107,

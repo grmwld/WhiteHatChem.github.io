@@ -7,10 +7,10 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "lisdexamphetamine",
+    "lisdextroamfetamine",
     "lisdextroamphetamine",
     "lisdexamfetamine",
-    "lisdextroamfetamine"
+    "lisdexamphetamine"
   ],
   "distances": [
     49.4982515277,
@@ -18,7 +18,6 @@
     49.8987231135,
     50.2851512432,
     52.2866596312,
-    53.1558641961,
     54.1580396776,
     54.251604329,
     54.6144422721,
@@ -31,15 +30,15 @@
     57.8886554996,
     57.9172551772,
     57.9710726455,
-    58.0500777212
+    58.0500777212,
+    58.10268809
   ],
   "indices": [
     236,
-    682,
+    606,
     141,
     235,
     534,
-    687,
     195,
     246,
     555,
@@ -52,7 +51,8 @@
     543,
     251,
     525,
-    563
+    563,
+    561
   ],
   "name": "trip_vyvanse",
   "svg": "trip_vyvanse.svg",
@@ -103,15 +103,6 @@
       ],
       "isomerd_names": null,
       "dist": 52.2866596312
-    },
-    {
-      "name": "isomer_Ethylbenzyl-4CN-BINACA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "Ethylbenzyl-4CN-BINACA"
-      ],
-      "dist": 53.1558641961
     },
     {
       "name": "psyc_Omberacetam_trip_noopept",
@@ -242,6 +233,15 @@
       ],
       "isomerd_names": null,
       "dist": 58.0500777212
+    },
+    {
+      "name": "trip_dipipanone",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "dipipanone"
+      ],
+      "isomerd_names": null,
+      "dist": 58.10268809
     }
   ]
 }

@@ -7,11 +7,11 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "enerion",
-    "sulbut",
     "bisibuthiamine",
-    "youvitan",
-    "arcalion"
+    "enerion",
+    "arcalion",
+    "sulbut",
+    "youvitan"
   ],
   "distances": [
     81.1465988678,
@@ -26,13 +26,13 @@
     101.5203951184,
     101.8265174129,
     102.0762582582,
-    103.0481294939,
-    103.0481294939,
     103.2872681681,
     103.3454934461,
     103.3459564702,
     103.9139517822,
-    105.9205323801
+    105.9205323801,
+    106.012814305,
+    106.0278928514
   ],
   "indices": [
     553,
@@ -47,13 +47,13 @@
     277,
     285,
     482,
-    673,
-    674,
     280,
     443,
     276,
     570,
-    555
+    555,
+    268,
+    235
   ],
   "name": "trip_sulbutiamine",
   "svg": "trip_sulbutiamine.svg",
@@ -173,24 +173,6 @@
       "dist": 102.0762582582
     },
     {
-      "name": "isomer_Re_1",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "Re 1"
-      ],
-      "dist": 103.0481294939
-    },
-    {
-      "name": "isomer_Tc_1",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "Tc 1"
-      ],
-      "dist": 103.0481294939
-    },
-    {
       "name": "psyc_1cP-AL-LAD",
       "psychonaut_names": [
         "1cP-AL-LAD"
@@ -236,6 +218,26 @@
       ],
       "isomerd_names": null,
       "dist": 105.9205323801
+    },
+    {
+      "name": "psyc_1P-LSD_trip_1p-lsd",
+      "psychonaut_names": [
+        "1P-LSD"
+      ],
+      "tripsit_names": [
+        "1p-lsd"
+      ],
+      "isomerd_names": null,
+      "dist": 106.012814305
+    },
+    {
+      "name": "psyc_4F-ADB",
+      "psychonaut_names": [
+        "4F-ADB"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 106.0278928514
     }
   ]
 }

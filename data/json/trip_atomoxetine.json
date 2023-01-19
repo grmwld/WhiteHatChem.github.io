@@ -20,7 +20,6 @@
     19.9870082621,
     20.4249777972,
     21.7502181821,
-    21.7910827597,
     22.6222771961,
     23.067882375,
     23.8345508754,
@@ -28,27 +27,28 @@
     24.1005900331,
     24.253227727,
     24.2708185242,
+    24.4668304743,
     24.4668304743
   ],
   "indices": [
     458,
     151,
     216,
-    672,
+    602,
     189,
     461,
     217,
     407,
     409,
     417,
-    679,
     502,
-    677,
+    604,
     390,
     434,
     193,
     149,
     188,
+    385,
     386
   ],
   "name": "trip_atomoxetine",
@@ -147,15 +147,6 @@
       "dist": 21.7502181821
     },
     {
-      "name": "isomer_PRL-8-53",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "PRL-8-53"
-      ],
-      "dist": 21.7910827597
-    },
-    {
       "name": "trip_prl-8-53",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -224,6 +215,15 @@
       ],
       "isomerd_names": null,
       "dist": 24.2708185242
+    },
+    {
+      "name": "trip_6-eapb",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "6-eapb"
+      ],
+      "isomerd_names": null,
+      "dist": 24.4668304743
     },
     {
       "name": "trip_5-eapb",

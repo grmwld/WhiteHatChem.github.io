@@ -21,15 +21,15 @@
     33.4497422099,
     33.5162696616,
     33.7936097013,
-    34.643024697,
     34.7087456052,
     34.8717253867,
     35.0923864383,
     35.2323672516,
     35.3006219652,
-    35.3241511476,
     35.367807904,
-    35.7786110517
+    35.7786110517,
+    35.8204803363,
+    35.8897168747
   ],
   "indices": [
     155,
@@ -39,18 +39,18 @@
     140,
     487,
     459,
-    671,
+    601,
     249,
     501,
-    665,
     257,
     486,
     222,
     550,
     97,
-    688,
     240,
-    522
+    522,
+    603,
+    552
   ],
   "name": "trip_u-51754",
   "svg": "trip_u-51754.svg",
@@ -154,15 +154,6 @@
       "dist": 33.7936097013
     },
     {
-      "name": "isomer_PEAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "PEAT"
-      ],
-      "dist": 34.643024697
-    },
-    {
       "name": "psyc_Fentanyl_trip_fentanyl",
       "psychonaut_names": [
         "Fentanyl"
@@ -212,15 +203,6 @@
       "dist": 35.3006219652
     },
     {
-      "name": "isomer_3F-Cyclopropylbenzylfentanyl",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3F-Cyclopropylbenzylfentanyl"
-      ],
-      "dist": 35.3241511476
-    },
-    {
       "name": "psyc_MiPLA",
       "psychonaut_names": [
         "MiPLA"
@@ -237,6 +219,24 @@
       ],
       "isomerd_names": null,
       "dist": 35.7786110517
+    },
+    {
+      "name": "isomer_2,5-Dimethyl-\u03b1-PVP",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2,5-Dimethyl-\u03b1-PVP"
+      ],
+      "dist": 35.8204803363
+    },
+    {
+      "name": "trip_methoxyacetyl-fentanyl",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "methoxyacetyl-fentanyl"
+      ],
+      "isomerd_names": null,
+      "dist": 35.8897168747
     }
   ]
 }

@@ -11,12 +11,9 @@
   ],
   "distances": [
     10.9856070944,
-    13.3713761884,
     15.7715645557,
-    18.3018380331,
     20.978604271,
     20.9921046356,
-    20.9966733205,
     21.305328505,
     21.9683964621,
     22.6481329748,
@@ -28,16 +25,16 @@
     23.3119698226,
     23.3271686948,
     23.5196139682,
-    23.5498284789
+    23.5498284789,
+    23.9412363986,
+    24.2042383439,
+    24.3678875841
   ],
   "indices": [
     308,
-    592,
     7,
-    603,
     0,
     17,
-    619,
     585,
     363,
     342,
@@ -49,7 +46,10 @@
     311,
     304,
     37,
-    312
+    312,
+    362,
+    314,
+    590
   ],
   "name": "trip_5-iai",
   "svg": "trip_5-iai.svg",
@@ -66,15 +66,6 @@
       "dist": 10.9856070944
     },
     {
-      "name": "isomer_HHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "HHAT"
-      ],
-      "dist": 13.3713761884
-    },
-    {
       "name": "psyc_NM-2-AI_trip_nm-2-ai",
       "psychonaut_names": [
         "NM-2-AI"
@@ -84,15 +75,6 @@
       ],
       "isomerd_names": null,
       "dist": 15.7715645557
-    },
-    {
-      "name": "isomer_MHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MHAT"
-      ],
-      "dist": 18.3018380331
     },
     {
       "name": "psyc_MDAI_trip_mdai",
@@ -115,15 +97,6 @@
       ],
       "isomerd_names": null,
       "dist": 20.9921046356
-    },
-    {
-      "name": "isomer_EHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "EHAT"
-      ],
-      "dist": 20.9966733205
     },
     {
       "name": "trip_aminorex",
@@ -244,6 +217,36 @@
       ],
       "isomerd_names": null,
       "dist": 23.5498284789
+    },
+    {
+      "name": "trip_4-benzylpiperidine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-benzylpiperidine"
+      ],
+      "isomerd_names": null,
+      "dist": 23.9412363986
+    },
+    {
+      "name": "psyc_Dexamphetamine_trip_dexedrine_amphetamine",
+      "psychonaut_names": [
+        "Dexamphetamine"
+      ],
+      "tripsit_names": [
+        "dexedrine",
+        "amphetamine"
+      ],
+      "isomerd_names": null,
+      "dist": 24.2042383439
+    },
+    {
+      "name": "isomer_4-Methylpropiophenone",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "4-Methylpropiophenone"
+      ],
+      "dist": 24.3678875841
     }
   ]
 }

@@ -7,9 +7,9 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "4-me-tmp",
     "4-metmp",
-    "4-mmph"
+    "4-mmph",
+    "4-me-tmp"
   ],
   "distances": [
     7.6058050472,
@@ -50,7 +50,7 @@
     436,
     130,
     160,
-    676,
+    603,
     485
   ],
   "name": "trip_4-methylmethylphenidate",

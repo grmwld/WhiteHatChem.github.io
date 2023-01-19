@@ -15,7 +15,6 @@
     18.7442455362,
     18.7920475799,
     18.9043912116,
-    18.9403851518,
     19.4174929376,
     19.570504303,
     19.6930059575,
@@ -26,7 +25,8 @@
     20.2184511425,
     20.2622048603,
     20.2698696282,
-    20.4184967259
+    20.4184967259,
+    20.4322066145
   ],
   "indices": [
     357,
@@ -36,7 +36,6 @@
     369,
     395,
     345,
-    620,
     390,
     343,
     360,
@@ -47,7 +46,8 @@
     63,
     420,
     367,
-    36
+    36,
+    34
   ],
   "name": "trip_ibuprofen",
   "svg": "trip_ibuprofen.svg",
@@ -116,15 +116,6 @@
       ],
       "isomerd_names": null,
       "dist": 18.9043912116
-    },
-    {
-      "name": "isomer_2-HO-N-Me-5-EA-\u03b2k",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2-HO-N-Me-5-EA-\u03b2k"
-      ],
-      "dist": 18.9403851518
     },
     {
       "name": "trip_4-cbc",
@@ -233,6 +224,17 @@
       ],
       "isomerd_names": null,
       "dist": 20.4184967259
+    },
+    {
+      "name": "psyc_Mephedrone_trip_mephedrone",
+      "psychonaut_names": [
+        "Mephedrone"
+      ],
+      "tripsit_names": [
+        "mephedrone"
+      ],
+      "isomerd_names": null,
+      "dist": 20.4322066145
     }
   ]
 }

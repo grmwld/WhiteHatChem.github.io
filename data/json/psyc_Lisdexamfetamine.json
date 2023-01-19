@@ -7,35 +7,35 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "ZINC11680943",
-    "NRP104",
-    "(2S)-2,6-diamino-N-[(2S)-1-phenylpropan-2-yl]hexanamide",
-    "LISDEXAMFETAMINE [MI]",
-    "DB01255",
-    "HSDB 8277",
-    "UNII-H645GUL8KJ",
-    "(2S)-2,6-Diamino-N-((1S)-1-methyl-2-phenylethyl)hexanamide",
-    "(2S, 2'S)-2,6-DIAMINO-N-(1-PHENYLPROPAN-2-YL)HEXANAMIDE",
-    "HEXANAMIDE, 2,6-DIAMINO-N-((1S)-1-METHYL-2-PHENYLETHYL)-, (2S)-",
-    "Vyvanse",
-    "DTXSID00209652",
-    "CHEMBL1201222",
-    "Lisdexamfetamine (INN)",
-    "Q6558704",
     "GTPL7213",
+    "CHEMBL1201222",
     "LISDEXAMFETAMINE [VANDF]",
-    "LISDEXAMFETAMINE [WHO-DD]",
-    "Lisdexamfetamine [INN]",
-    "N-((1S)-1-METHYL-2-PHENYLETHYL)-L-LYSINAMIDE",
+    "NRP104",
+    "Lisdexamfetamine (INN)",
     "D08130",
-    "CHEBI:135925",
-    "SCHEMBL158949",
+    "DTXSID00209652",
+    "DB01255",
     "608137-32-2",
+    "L-lysine-d-amphetamine",
+    "LISDEXAMFETAMINE [MI]",
     "H645GUL8KJ",
+    "ZINC11680943",
+    "(2S)-2,6-diamino-N-[(2S)-1-phenylpropan-2-yl]hexanamide",
     "lisdexamphetamine",
+    "UNII-H645GUL8KJ",
+    "LISDEXAMFETAMINE [WHO-DD]",
+    "(2S, 2'S)-2,6-DIAMINO-N-(1-PHENYLPROPAN-2-YL)HEXANAMIDE",
+    "N-((1S)-1-METHYL-2-PHENYLETHYL)-L-LYSINAMIDE",
+    "(2S)-2,6-Diamino-N-((1S)-1-methyl-2-phenylethyl)hexanamide",
+    "HEXANAMIDE, 2,6-DIAMINO-N-((1S)-1-METHYL-2-PHENYLETHYL)-, (2S)-",
+    "HSDB 8277",
     "L-lysine-dextroamphetamine",
     "(2S)-2,6-diamino-N-[(2S)-1-phenylpropan-2-yl]hexanimidic acid",
-    "L-lysine-d-amphetamine"
+    "Lisdexamfetamine [INN]",
+    "SCHEMBL158949",
+    "CHEBI:135925",
+    "Vyvanse",
+    "Q6558704"
   ],
   "distances": [
     30.2178622947,
@@ -53,10 +53,10 @@
     33.8709637817,
     34.00407834,
     34.0995157963,
-    34.1110355184,
-    34.3216738362,
-    34.5848230493,
-    34.5853030705
+    34.5853030705,
+    34.5882112916,
+    34.6057930567,
+    34.8242781214
   ],
   "indices": [
     111,
@@ -74,10 +74,10 @@
     345,
     465,
     216,
-    642,
-    630,
-    656,
-    3
+    3,
+    2,
+    360,
+    299
   ],
   "name": "psyc_Lisdexamfetamine",
   "svg": "psyc_Lisdexamfetamine.svg",
@@ -227,33 +227,6 @@
       "dist": 34.0995157963
     },
     {
-      "name": "isomer_3-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propanoic_acid",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propanoic acid"
-      ],
-      "dist": 34.1110355184
-    },
-    {
-      "name": "isomer_2-(2-Aminoethyl)-5-(3-hydroxypropyl)-4-methoxyphenol",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2-(2-Aminoethyl)-5-(3-hydroxypropyl)-4-methoxyphenol"
-      ],
-      "dist": 34.3216738362
-    },
-    {
-      "name": "isomer_N-[2-(2-Hydroxy-5-methoxy-4-propylphenyl)ethyl]acetamide",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "N-[2-(2-Hydroxy-5-methoxy-4-propylphenyl)ethyl]acetamide"
-      ],
-      "dist": 34.5848230493
-    },
-    {
       "name": "psyc_F-Phenibut_trip_fluorophenibut",
       "psychonaut_names": [
         "F-Phenibut"
@@ -263,6 +236,37 @@
       ],
       "isomerd_names": null,
       "dist": 34.5853030705
+    },
+    {
+      "name": "psyc_Baclofen_trip_baclofen",
+      "psychonaut_names": [
+        "Baclofen"
+      ],
+      "tripsit_names": [
+        "baclofen"
+      ],
+      "isomerd_names": null,
+      "dist": 34.5882112916
+    },
+    {
+      "name": "trip_4-fluoropentedrone",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-fluoropentedrone"
+      ],
+      "isomerd_names": null,
+      "dist": 34.6057930567
+    },
+    {
+      "name": "psyc_Theanine_trip_l-theanine",
+      "psychonaut_names": [
+        "Theanine"
+      ],
+      "tripsit_names": [
+        "l-theanine"
+      ],
+      "isomerd_names": null,
+      "dist": 34.8242781214
     }
   ]
 }

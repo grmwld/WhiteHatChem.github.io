@@ -9,51 +9,51 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "496D759",
-    "CHEMBL2140942",
-    "CHEBI:48282",
-    "foxy",
-    "1H-Indole-3-ethanamine, 5-methoxy-N,N-bis(1-methylethyl)-",
-    "ZINC2583773",
-    "FOXY",
+    "AKOS015894311",
+    "UNII-12D06G8W8E",
     "5meodipt",
-    "Tryptamine, N,N-diisopropyl-5-methoxy",
-    "DEA No. 7439",
-    "N-{2-[5-(methyloxy)-1H-indol-3-yl]ethyl}-N-(propan-2-yl)propan-2-amine",
-    "5-methoxy-N,N-bis(1-methylethyl)-1H-Indole-3-ethanamine",
-    "NCGC00247717-01",
-    "N-(1-methylethyl)-N-{2-[5-(methyloxy)-1H-indol-3-yl]ethyl}propan-2-amine",
-    "Indole, 3-[2-(diisopropylamino)ethyl]-5-methoxy",
-    "Methoxy Foxy",
-    "DB-049550",
-    "3-(2-(DIISOPROPYLAMINO)ETHYL)-5-METHOXYINDOLE",
-    "4,4-DI-N-HEXYLOXYBIPHENYL",
-    "foxy-methoxy",
-    "N-isopropyl-N-[2-(5-methoxy-1H-indol-3-yl)ethyl]propan-2-amine",
-    "N,N-Diisopropyl-5-methoxytryptamine",
     "FT-0630092",
+    "FOXY",
+    "DB-049550",
+    "N-isopropyl-N-[2-(5-methoxy-1H-indol-3-yl)ethyl]propan-2-amine",
+    "5-Methoxy-3-N,N-diisopropylaminoethylindole",
+    "DTXSID00193209",
+    "Q2983762",
+    "N-[2-(5-methoxy-1H-indol-3-yl)ethyl]-N-propan-2-ylpropan-2-amine",
+    "5-METHOXY-N,N-DIISOPROPYLTRYPTAMINE [MI]",
+    "Indole, 3-[2-(diisopropylamino)ethyl]-5-methoxy",
+    "5-methoxy-N,N-bis(1-methylethyl)-1H-Indole-3-ethanamine",
+    "Methoxy Foxy",
+    "5-Methoxy-N,N-Diisopropyltryptamine(5-MeO-DIPT)",
+    "DEA No. 7439",
+    "CHEBI:48282",
+    "5-MeO-DIPT",
+    "3-[2-(Diisopropylamino)ethyl]-5-methoxyindole",
+    "4021-34-5",
+    "N-{2-[5-(methyloxy)-1H-indol-3-yl]ethyl}-N-(propan-2-yl)propan-2-amine",
+    "N,N-Diisopropyl-5-methoxytryptamine",
+    "BCP15442",
     "SCHEMBL896818",
+    "CHEMBL2140942",
     "5-Methoxy-N,N-diisopropyltryptamine",
     "12D06G8W8E",
-    "5-METHOXY-N,N-DIISOPROPYLTRYPTAMINE [MI]",
-    "DB01441",
-    "PDSP1_000761",
-    "N-isopropyl-N-(2-(5-methoxy-1H-indol-3-yl)ethyl)propan-2-amine",
     "PDSP2_000749",
-    "UNII-12D06G8W8E",
-    "Q2983762",
-    "AKOS015894311",
-    "N-[2-(5-methoxy-1H-indol-3-yl)ethyl]-N-propan-2-ylpropan-2-amine",
-    "ACT09679",
-    "BCP15442",
-    "5-MeO-DIPT",
-    "5-Methoxy-N,N-Diisopropyltryptamine(5-MeO-DIPT)",
-    "5-Methoxy-3-N,N-diisopropylaminoethylindole",
+    "ZINC2583773",
+    "496D759",
+    "1H-Indole-3-ethanamine, 5-methoxy-N,N-bis(1-methylethyl)-",
+    "PDSP1_000761",
+    "NCGC00247717-01",
+    "DB01441",
     "Foxy methoxy",
-    "DTXSID00193209",
+    "N-(1-methylethyl)-N-{2-[5-(methyloxy)-1H-indol-3-yl]ethyl}propan-2-amine",
+    "foxy-methoxy",
+    "ACT09679",
+    "N-isopropyl-N-(2-(5-methoxy-1H-indol-3-yl)ethyl)propan-2-amine",
+    "Tryptamine, N,N-diisopropyl-5-methoxy",
     "AM20120626",
-    "4021-34-5",
-    "3-[2-(Diisopropylamino)ethyl]-5-methoxyindole"
+    "4,4-DI-N-HEXYLOXYBIPHENYL",
+    "3-(2-(DIISOPROPYLAMINO)ETHYL)-5-METHOXYINDOLE",
+    "foxy"
   ],
   "distances": [
     11.5310680509,
@@ -71,10 +71,10 @@
     24.0214214093,
     24.75641834,
     24.9225815437,
-    25.5987467936,
     25.6556528744,
     25.7367632278,
-    25.82085736
+    25.878453121,
+    26.448181159
   ],
   "indices": [
     165,
@@ -92,10 +92,10 @@
     129,
     419,
     99,
-    648,
     400,
     422,
-    658
+    157,
+    404
   ],
   "name": "psyc_5-MeO-DiPT_trip_5-meo-dipt",
   "svg": "psyc_5-MeO-DiPT_trip_5-meo-dipt.svg",
@@ -258,15 +258,6 @@
       "dist": 24.9225815437
     },
     {
-      "name": "isomer_1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-ol",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-ol"
-      ],
-      "dist": 25.5987467936
-    },
-    {
       "name": "trip_2c-ip",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -285,13 +276,24 @@
       "dist": 25.7367632278
     },
     {
-      "name": "isomer_N-Isopropylmethoxamine",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "N-Isopropylmethoxamine"
+      "name": "psyc_4-AcO-DET_trip_4-aco-det",
+      "psychonaut_names": [
+        "4-AcO-DET"
       ],
-      "dist": 25.82085736
+      "tripsit_names": [
+        "4-aco-det"
+      ],
+      "isomerd_names": null,
+      "dist": 25.878453121
+    },
+    {
+      "name": "trip_isoproscaline",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "isoproscaline"
+      ],
+      "isomerd_names": null,
+      "dist": 26.448181159
     }
   ]
 }

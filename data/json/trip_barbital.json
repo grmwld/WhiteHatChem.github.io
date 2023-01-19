@@ -16,17 +16,17 @@
     27.8872634529,
     28.4625962408,
     31.9341764568,
-    32.2441874153,
-    32.3135256577,
-    32.6363687986,
-    32.9206031731,
-    33.2565452616,
     33.3819339707,
-    33.4071890946,
-    33.5096421671,
-    33.6191927635,
-    33.7364664706,
-    33.8023393352
+    33.9194926616,
+    34.1166016022,
+    34.7819413959,
+    34.8267860891,
+    35.0105993298,
+    35.1194494892,
+    35.1325962093,
+    35.1596040067,
+    35.1596040067,
+    35.2057602764
   ],
   "indices": [
     49,
@@ -37,17 +37,17 @@
     383,
     68,
     587,
-    690,
-    689,
-    692,
-    693,
-    593,
-    591,
-    597,
-    596,
-    610,
-    606,
-    619
+    590,
+    361,
+    338,
+    296,
+    22,
+    586,
+    332,
+    41,
+    33,
+    341,
+    325
   ],
   "name": "trip_barbital",
   "svg": "trip_barbital.svg",
@@ -133,51 +133,6 @@
       "dist": 31.9341764568
     },
     {
-      "name": "isomer_2,6-HPEA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2,6-HPEA"
-      ],
-      "dist": 32.2441874153
-    },
-    {
-      "name": "isomer_3,5-HPEA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3,5-HPEA"
-      ],
-      "dist": 32.3135256577
-    },
-    {
-      "name": "isomer_2,6-HMPEA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2,6-HMPEA"
-      ],
-      "dist": 32.6363687986
-    },
-    {
-      "name": "isomer_3,5-HMPEA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3,5-HMPEA"
-      ],
-      "dist": 32.9206031731
-    },
-    {
-      "name": "isomer_2-Amino-1-(5-ethoxy-2-hydroxyphenyl)ethan-1-one",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2-Amino-1-(5-ethoxy-2-hydroxyphenyl)ethan-1-one"
-      ],
-      "dist": 33.2565452616
-    },
-    {
       "name": "isomer_4-Methylpropiophenone",
       "psychonaut_names": null,
       "tripsit_names": null,
@@ -187,49 +142,100 @@
       "dist": 33.3819339707
     },
     {
-      "name": "isomer_3,5-DMePEA",
+      "name": "trip_hexobarbital",
       "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3,5-DMePEA"
+      "tripsit_names": [
+        "hexobarbital"
       ],
-      "dist": 33.4071890946
+      "isomerd_names": null,
+      "dist": 33.9194926616
     },
     {
-      "name": "isomer_2,6-DMePEA",
+      "name": "trip_4,4-dmar",
       "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2,6-DMePEA"
+      "tripsit_names": [
+        "4,4-dmar"
       ],
-      "dist": 33.5096421671
+      "isomerd_names": null,
+      "dist": 34.1166016022
     },
     {
-      "name": "isomer_2-(2-Aminoethyl)-5-propylbenzene-1,4-diol",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2-(2-Aminoethyl)-5-propylbenzene-1,4-diol"
+      "name": "psyc_Oxiracetam_trip_oxiracetam",
+      "psychonaut_names": [
+        "Oxiracetam"
       ],
-      "dist": 33.6191927635
+      "tripsit_names": [
+        "oxiracetam"
+      ],
+      "isomerd_names": null,
+      "dist": 34.7819413959
     },
     {
-      "name": "isomer_TMePEA-3",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "TMePEA-3"
+      "name": "psyc_Thujone",
+      "psychonaut_names": [
+        "Thujone"
       ],
-      "dist": 33.7364664706
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 34.8267860891
     },
     {
-      "name": "isomer_EHAT",
+      "name": "trip_2-pta",
       "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "EHAT"
+      "tripsit_names": [
+        "2-pta"
       ],
-      "dist": 33.8023393352
+      "isomerd_names": null,
+      "dist": 35.0105993298
+    },
+    {
+      "name": "trip_2-methylamphetamine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "2-methylamphetamine"
+      ],
+      "isomerd_names": null,
+      "dist": 35.1194494892
+    },
+    {
+      "name": "psyc_3-FEA_trip_3-fea",
+      "psychonaut_names": [
+        "3-FEA"
+      ],
+      "tripsit_names": [
+        "3-fea"
+      ],
+      "isomerd_names": null,
+      "dist": 35.1325962093
+    },
+    {
+      "name": "psyc_6-APDB_trip_6-apdb",
+      "psychonaut_names": [
+        "6-APDB"
+      ],
+      "tripsit_names": [
+        "6-apdb"
+      ],
+      "isomerd_names": null,
+      "dist": 35.1596040067
+    },
+    {
+      "name": "trip_5-apdb",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "5-apdb"
+      ],
+      "isomerd_names": null,
+      "dist": 35.1596040067
+    },
+    {
+      "name": "trip_allobarbital",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "allobarbital"
+      ],
+      "isomerd_names": null,
+      "dist": 35.2057602764
     }
   ]
 }

@@ -9,42 +9,42 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "2-desoxypiperadol",
-    "Piperidine,2-(diphenylmethyl)-",
-    "AMPD00341",
-    "STK893433",
-    "BBL020743",
-    "Desoxypipradol",
-    "2-DPMP",
-    "Desoxypipradrol (1mg/mL in Methanol)",
-    "Piperidine, 2-(diphenylmethyl)-",
-    "AKOS001476367",
-    "DTXSID90897502",
-    "UNII-49UNK1BV8T",
-    "desoxypipradol",
-    "HSDB 8015",
-    "LE-0263",
-    "519B744",
-    "ACT06703",
-    "2-benzhydrylpiperidine",
     "Deoxypipradol",
     "2-(Diphenylmethyl)piperidine; 2-Benzhydrylpiperidine",
+    "UNII-49UNK1BV8T",
     "519-74-4",
-    "A19451",
-    "AM20080665",
-    "SCHEMBL729266",
     "desoxypipradrol",
-    "2-DIPHENYLMETHYLPIPERIDINE [HSDB]",
-    "Q414480",
-    "49UNK1BV8T",
-    "J-509279",
-    "EINECS 208-276-6",
-    "2-(Diphenylmethyl)piperidine",
+    "STK893433",
     "2dpmp",
-    "(+/-)-DESOXYPIPRADROL",
+    "AM20080665",
+    "LE-0263",
+    "Piperidine,2-(diphenylmethyl)-",
+    "2-benzhydrylpiperidine",
+    "ACT06703",
+    "2-DPMP",
+    "2-desoxypiperadol",
+    "DTXSID90897502",
+    "2-Diphenylmethylpiperidine",
     "A828867",
+    "(+/-)-DESOXYPIPRADROL",
+    "BBL020743",
+    "2-DIPHENYLMETHYLPIPERIDINE [HSDB]",
+    "49UNK1BV8T",
+    "2-(Diphenylmethyl)piperidine",
+    "EINECS 208-276-6",
+    "A19451",
+    "desoxypipradol",
+    "HSDB 8015",
+    "519B744",
+    "AMPD00341",
     "Oprea1_652788",
-    "2-Diphenylmethylpiperidine"
+    "Desoxypipradol",
+    "Q414480",
+    "Piperidine, 2-(diphenylmethyl)-",
+    "J-509279",
+    "Desoxypipradrol (1mg/mL in Methanol)",
+    "AKOS001476367",
+    "SCHEMBL729266"
   ],
   "distances": [
     17.3232582351,
@@ -57,7 +57,6 @@
     21.9516972957,
     22.0107783877,
     22.0797193725,
-    22.090339365,
     22.1067308766,
     23.3036385638,
     23.3398107348,
@@ -65,7 +64,8 @@
     23.9932661146,
     24.6225014595,
     24.6566064613,
-    24.8463294651
+    24.8463294651,
+    24.8924235756
   ],
   "indices": [
     229,
@@ -78,15 +78,15 @@
     520,
     101,
     98,
-    678,
     242,
     131,
     388,
     128,
     440,
-    685,
+    608,
     466,
-    97
+    97,
+    519
   ],
   "name": "psyc_Desoxypipradrol_trip_2-dpmp",
   "svg": "psyc_Desoxypipradrol_trip_2-dpmp.svg",
@@ -190,15 +190,6 @@
       "dist": 22.0797193725
     },
     {
-      "name": "isomer_3-Fluoro_4-ANBP",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3-Fluoro 4-ANBP"
-      ],
-      "dist": 22.090339365
-    },
-    {
       "name": "psyc_Methoxphenidine_trip_methoxphenidine",
       "psychonaut_names": [
         "Methoxphenidine"
@@ -277,6 +268,15 @@
       ],
       "isomerd_names": null,
       "dist": 24.8463294651
+    },
+    {
+      "name": "trip_naphyrone",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "naphyrone"
+      ],
+      "isomerd_names": null,
+      "dist": 24.8924235756
     }
   ]
 }

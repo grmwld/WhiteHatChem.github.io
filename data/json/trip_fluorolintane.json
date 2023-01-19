@@ -12,7 +12,6 @@
     13.1234327561,
     14.3590902107,
     14.5227262047,
-    16.3575019821,
     18.3405139155,
     18.7879214505,
     19.7967254705,
@@ -26,28 +25,29 @@
     24.4020532964,
     24.4636633642,
     24.8807912248,
-    25.0164765041
+    25.0164765041,
+    25.0362822657
   ],
   "indices": [
     229,
     242,
     504,
     517,
-    678,
-    685,
+    608,
     205,
     519,
-    684,
+    607,
     539,
     458,
-    686,
+    609,
     181,
     436,
     481,
     207,
     151,
     463,
-    483
+    483,
+    437
   ],
   "name": "trip_fluorolintane",
   "svg": "trip_fluorolintane.svg",
@@ -91,15 +91,6 @@
       ],
       "isomerd_names": null,
       "dist": 14.5227262047
-    },
-    {
-      "name": "isomer_3-Fluoro_4-ANBP",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3-Fluoro 4-ANBP"
-      ],
-      "dist": 16.3575019821
     },
     {
       "name": "isomer_Despropionyl_3-FF",
@@ -232,6 +223,15 @@
       ],
       "isomerd_names": null,
       "dist": 25.0164765041
+    },
+    {
+      "name": "trip_5-meo-pyr-t",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "5-meo-pyr-t"
+      ],
+      "isomerd_names": null,
+      "dist": 25.0362822657
     }
   ]
 }

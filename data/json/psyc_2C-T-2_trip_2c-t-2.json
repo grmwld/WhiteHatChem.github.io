@@ -9,39 +9,39 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "DEA No. 7385",
-    "AC-12553",
-    "2ct2",
-    "Q2443432",
-    "Rosy [Street Name]",
-    "FT-0643939",
-    "SCHEMBL1077737",
-    "AB16675",
-    "4-Ethylthio-2,5-dimethoxyphenethylamine",
-    "2-(4-ethylsulfanyl-2,5-dimethoxyphenyl)ethanamine",
-    "DTXSID40174850",
-    "CHEMBL339223",
     "2-[4-(ethylthio)-2,5-dimethoxyphenyl]ethanamine",
-    "2,5-Dimethoxy-4-(ethylthio)phenethylamine",
-    "2C-T2",
-    "207740-24-7",
-    "J1.114.642B",
-    "2-(4-(ethylthio)-2,5-dimethoxyphenyl)ethan-1-amine",
-    "4-ETHYLTHIO-2,5-DIMETHOXY-.BETA.-PHENETHYLAMINE",
-    "A814870",
-    "J-507656",
+    "Q2443432",
+    "AKOS015888164",
+    "Rosy [Street Name]",
+    "4-Ethylthio-2,5-dimethoxyphenethylamine",
     "ZINC2513912",
     "2,5-Dimethoxy-4-(ethylthio) phenethylamine",
-    "AKOS015888164",
-    "UNII-WPS2KSX2TJ",
+    "2,5-Dimethoxy-4-(ethylthio)phenethylamine",
     "2-(4-ethylsulfanyl-2,5-dimethoxy-phenyl)ethanamine",
-    "WPS2KSX2TJ",
     "2,5-DIMETHOXY-4-ETHYLTHIOPHENYLAMINE",
     "2,5-Dimetoxy-4-ethylthiophenethlamine",
-    "2,5-dimethoxy-4-ethylthiophenethylamine",
+    "Benzeneethanamine, 4-(ethylthio)-2,5-dimethoxy-",
     "2,5-Dimethoxy-4-ethylthiophenethylamine",
+    "UNII-WPS2KSX2TJ",
+    "DEA No. 7385",
     "740D247",
-    "Benzeneethanamine, 4-(ethylthio)-2,5-dimethoxy-"
+    "DTXSID40174850",
+    "J1.114.642B",
+    "CHEMBL339223",
+    "WPS2KSX2TJ",
+    "2-(4-(ethylthio)-2,5-dimethoxyphenyl)ethan-1-amine",
+    "J-507656",
+    "2,5-dimethoxy-4-ethylthiophenethylamine",
+    "207740-24-7",
+    "AC-12553",
+    "2ct2",
+    "4-ETHYLTHIO-2,5-DIMETHOXY-.BETA.-PHENETHYLAMINE",
+    "A814870",
+    "AB16675",
+    "SCHEMBL1077737",
+    "2C-T2",
+    "FT-0643939",
+    "2-(4-ethylsulfanyl-2,5-dimethoxyphenyl)ethanamine"
   ],
   "distances": [
     7.9594236363,
@@ -54,15 +54,15 @@
     13.0709849274,
     13.1973042134,
     13.7926324389,
-    14.3754930495,
     14.8730631617,
     14.9453553809,
-    15.2136512691,
-    15.2674480744,
     15.3047807193,
     15.4259914481,
     15.4315712853,
-    15.4478606388
+    15.4478606388,
+    15.5552765655,
+    15.7172647006,
+    16.2455006166
   ],
   "indices": [
     93,
@@ -75,15 +75,15 @@
     402,
     72,
     46,
-    626,
     48,
     405,
-    643,
-    641,
     94,
     380,
     12,
-    379
+    379,
+    11,
+    400,
+    20
   ],
   "name": "psyc_2C-T-2_trip_2c-t-2",
   "svg": "psyc_2C-T-2_trip_2c-t-2.svg",
@@ -193,15 +193,6 @@
       "dist": 13.7926324389
     },
     {
-      "name": "isomer_2-(2-Aminoethyl)-4-methoxy-5-propylphenol",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2-(2-Aminoethyl)-4-methoxy-5-propylphenol"
-      ],
-      "dist": 14.3754930495
-    },
-    {
       "name": "psyc_Mescaline_trip_mescaline",
       "psychonaut_names": [
         "Mescaline"
@@ -220,24 +211,6 @@
       ],
       "isomerd_names": null,
       "dist": 14.9453553809
-    },
-    {
-      "name": "isomer_2-(2,5-Dimethoxy-4-propylphenyl)ethan-1-ol",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2-(2,5-Dimethoxy-4-propylphenyl)ethan-1-ol"
-      ],
-      "dist": 15.2136512691
-    },
-    {
-      "name": "isomer_1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-one",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-one"
-      ],
-      "dist": 15.2674480744
     },
     {
       "name": "psyc_Proscaline_trip_proscaline",
@@ -278,6 +251,35 @@
       ],
       "isomerd_names": null,
       "dist": 15.4478606388
+    },
+    {
+      "name": "psyc_2C-B_trip_2c-b",
+      "psychonaut_names": [
+        "2C-B"
+      ],
+      "tripsit_names": [
+        "2c-b"
+      ],
+      "isomerd_names": null,
+      "dist": 15.5552765655
+    },
+    {
+      "name": "trip_2c-ip",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "2c-ip"
+      ],
+      "isomerd_names": null,
+      "dist": 15.7172647006
+    },
+    {
+      "name": "psyc_2C-H",
+      "psychonaut_names": [
+        "2C-H"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 16.2455006166
     }
   ]
 }

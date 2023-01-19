@@ -9,31 +9,31 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "52237-19-1",
+    "AKOS014313413",
+    "Cgp-11130",
     "6DAU7M5P3D",
-    "Benzenepropanoic acid, beta-(aminomethyl)-4-fluoro-",
-    "Benzenepropanoic acid, beta-(aminomethyl)-4-fluoro-, (R)- (9CI)",
-    "4-amino-3-(4-fluorophenyl)butanoic acid",
+    "DTXSID00966612",
+    "Fluoribut",
+    "\u03b2-(4-Fluorophenyl)-GABA",
+    "MFCD14551310",
+    "Benzenepropanoic acid, beta-(aminomethyl)-4-fluoro-, (S)- (9CI)",
+    "SCHEMBL351502",
+    "Cgp-11.130",
     "CCA23719",
     "4-Amino-3-(4-fluorophenyl)butyric acid",
-    "\u03b2-(4-Fluorophenyl)-GABA",
-    "C10H12FNO2",
-    "Fluorophenibut",
     "4-Fluorophenibut",
-    "Cgp-11130",
-    "Baflofen",
-    "MFCD14551310",
-    "SCHEMBL351502",
-    "AS-18059",
-    "DTXSID00966612",
-    "CGP-11130",
-    "Fluoribut",
-    "AKOS014313413",
-    "Benzenepropanoic acid, beta-(aminomethyl)-4-fluoro-, (S)- (9CI)",
-    "UNII-6DAU7M5P3D",
     "Cgp 11130",
-    "4-Amino-3-(4-fluoro-phenyl)-butyric acid",
-    "Cgp-11.130"
+    "Fluorophenibut",
+    "UNII-6DAU7M5P3D",
+    "CGP-11130",
+    "AS-18059",
+    "Baflofen",
+    "Benzenepropanoic acid, beta-(aminomethyl)-4-fluoro-",
+    "4-amino-3-(4-fluorophenyl)butanoic acid",
+    "52237-19-1",
+    "C10H12FNO2",
+    "Benzenepropanoic acid, beta-(aminomethyl)-4-fluoro-, (R)- (9CI)",
+    "4-Amino-3-(4-fluoro-phenyl)-butyric acid"
   ],
   "distances": [
     7.2015519483,
@@ -41,10 +41,8 @@
     8.4945185321,
     16.020344198,
     18.8944072865,
-    18.9027437348,
     18.9209524445,
     19.1600236521,
-    19.2254632901,
     19.2731794039,
     19.3621523684,
     19.3877612019,
@@ -54,7 +52,9 @@
     19.9884060633,
     20.1059844412,
     20.377246569,
-    20.377246569
+    20.377246569,
+    20.4660758332,
+    20.6193129588
   ],
   "indices": [
     2,
@@ -62,20 +62,20 @@
     10,
     309,
     360,
-    593,
     359,
     311,
-    600,
     346,
     310,
     41,
     42,
     312,
-    601,
+    593,
     321,
     322,
+    27,
     28,
-    27
+    32,
+    337
   ],
   "name": "psyc_F-Phenibut_trip_fluorophenibut",
   "svg": "psyc_F-Phenibut_trip_fluorophenibut.svg",
@@ -130,15 +130,6 @@
       "dist": 18.8944072865
     },
     {
-      "name": "isomer_2-Amino-1-(5-ethoxy-2-hydroxyphenyl)ethan-1-one",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2-Amino-1-(5-ethoxy-2-hydroxyphenyl)ethan-1-one"
-      ],
-      "dist": 18.9027437348
-    },
-    {
       "name": "trip_4f-neb",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -157,15 +148,6 @@
       ],
       "isomerd_names": null,
       "dist": 19.1600236521
-    },
-    {
-      "name": "isomer_\u03b2,2-HO-5-EPEA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "\u03b2,2-HO-5-EPEA"
-      ],
-      "dist": 19.2254632901
     },
     {
       "name": "trip_4-fea",
@@ -248,6 +230,17 @@
       "dist": 20.1059844412
     },
     {
+      "name": "psyc_6-APB_trip_6-apb",
+      "psychonaut_names": [
+        "6-APB"
+      ],
+      "tripsit_names": [
+        "6-apb"
+      ],
+      "isomerd_names": null,
+      "dist": 20.377246569
+    },
+    {
       "name": "psyc_5-APB_trip_5-apb",
       "psychonaut_names": [
         "5-APB"
@@ -259,15 +252,24 @@
       "dist": 20.377246569
     },
     {
-      "name": "psyc_6-APB_trip_6-apb",
+      "name": "psyc_ETH-CAT_trip_ethylcathinone",
       "psychonaut_names": [
-        "6-APB"
+        "ETH-CAT"
       ],
       "tripsit_names": [
-        "6-apb"
+        "ethylcathinone"
       ],
       "isomerd_names": null,
-      "dist": 20.377246569
+      "dist": 20.4660758332
+    },
+    {
+      "name": "trip_5-it",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "5-it"
+      ],
+      "isomerd_names": null,
+      "dist": 20.6193129588
     }
   ]
 }

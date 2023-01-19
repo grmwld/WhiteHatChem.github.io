@@ -23,10 +23,10 @@
     45.0251652182,
     45.45193525,
     45.6088878871,
-    45.7207150979,
     46.0750438738,
-    46.1263047114,
-    46.2731598474
+    46.9530392054,
+    47.3872170511,
+    47.9255174684
   ],
   "indices": [
     68,
@@ -44,10 +44,10 @@
     90,
     438,
     194,
-    690,
     587,
-    689,
-    692
+    356,
+    51,
+    296
   ],
   "name": "trip_allobarbital",
   "svg": "trip_allobarbital.svg",
@@ -200,15 +200,6 @@
       "dist": 45.6088878871
     },
     {
-      "name": "isomer_2,6-HPEA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2,6-HPEA"
-      ],
-      "dist": 45.7207150979
-    },
-    {
       "name": "trip_pemoline",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -218,22 +209,33 @@
       "dist": 46.0750438738
     },
     {
-      "name": "isomer_3,5-HPEA",
+      "name": "trip_metaxalone",
       "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3,5-HPEA"
+      "tripsit_names": [
+        "metaxalone"
       ],
-      "dist": 46.1263047114
+      "isomerd_names": null,
+      "dist": 46.9530392054
     },
     {
-      "name": "isomer_2,6-HMPEA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2,6-HMPEA"
+      "name": "psyc_Cyclazodone",
+      "psychonaut_names": [
+        "Cyclazodone"
       ],
-      "dist": 46.2731598474
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 47.3872170511
+    },
+    {
+      "name": "psyc_Oxiracetam_trip_oxiracetam",
+      "psychonaut_names": [
+        "Oxiracetam"
+      ],
+      "tripsit_names": [
+        "oxiracetam"
+      ],
+      "isomerd_names": null,
+      "dist": 47.9255174684
     }
   ]
 }

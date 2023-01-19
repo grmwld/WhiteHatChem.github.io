@@ -9,34 +9,33 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "DEA No. 7012",
-    "BDBM50249590",
     "N-[(1S)-1-(aminocarbonyl)-2-methylpropyl]-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide",
-    "ZINC95705073",
-    "CHEMBL4083220",
-    "N-((1S)-1-(aminocarbonyl)-2-methylpropyl]-1-((4-fluorophenyl)methyl)-1H-indazole-3-carboxamide",
     "AKOS022174913",
     "I7PZF0KTFK",
-    "1H-INDAZOLE-3-CARBOXAMIDE, N-((1S)-1-(AMINOCARBONYL)-2-METHYLPROPYL)-1-((4-FLUOROPHENYL)METHYL)-",
-    "SCHEMBL1217062",
-    "Q4650002",
-    "1185282-01-2",
-    "(S)-N-(1-Amino-3-methyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide",
-    "NCGC00390276-01",
-    "FT-0696685",
-    "N-[(2S)-1-Amino-3-methyl-1-oxobutan-2-yl]-1-[(4-fluorophenyl)methyl]-1H-indazole-3-carboxamide",
-    "N-((1S)-1-(AMINOCARBONYL)-2-METHYLPROPYL)-1-((4-FLUOROPHENYL)METHYL)-1H-INDAZOLE-3-CARBOXAMIDE",
-    "N-[(2S)-1-amino-3-methyl-1-oxobutan-2-yl]-1-[(4-fluorophenyl)methyl]indazole-3-carboxamide",
-    "UNII-I7PZF0KTFK",
-    "N-[(1S)-1-(aminocarbonyl)-2-methylpropyl]-1-[(4-fluorophenyl)methyl]-1H-indazole-3-carboxamide",
-    "ab-fub",
-    "Nalpha-[1-(4-Fluorobenzyl)-1H-indazole-3-ylcarbonyl]-L-valinamide",
     "DTXSID70728845",
-    "N-[(1S)-1-carbamoyl-2-methyl-propyl]-1-[(4-fluorophenyl)methyl]indazole-3-carboxamide"
+    "UNII-I7PZF0KTFK",
+    "N-[(2S)-1-Amino-3-methyl-1-oxobutan-2-yl]-1-[(4-fluorophenyl)methyl]-1H-indazole-3-carboxamide",
+    "Nalpha-[1-(4-Fluorobenzyl)-1H-indazole-3-ylcarbonyl]-L-valinamide",
+    "FT-0696685",
+    "DEA No. 7012",
+    "ab-fub",
+    "ZINC95705073",
+    "SCHEMBL1217062",
+    "CHEMBL4083220",
+    "Q4650002",
+    "N-((1S)-1-(AMINOCARBONYL)-2-METHYLPROPYL)-1-((4-FLUOROPHENYL)METHYL)-1H-INDAZOLE-3-CARBOXAMIDE",
+    "N-((1S)-1-(aminocarbonyl)-2-methylpropyl]-1-((4-fluorophenyl)methyl)-1H-indazole-3-carboxamide",
+    "BDBM50249590",
+    "(S)-N-(1-Amino-3-methyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide",
+    "N-[(1S)-1-(aminocarbonyl)-2-methylpropyl]-1-[(4-fluorophenyl)methyl]-1H-indazole-3-carboxamide",
+    "N-[(2S)-1-amino-3-methyl-1-oxobutan-2-yl]-1-[(4-fluorophenyl)methyl]indazole-3-carboxamide",
+    "NCGC00390276-01",
+    "1H-INDAZOLE-3-CARBOXAMIDE, N-((1S)-1-(AMINOCARBONYL)-2-METHYLPROPYL)-1-((4-FLUOROPHENYL)METHYL)-",
+    "N-[(1S)-1-carbamoyl-2-methyl-propyl]-1-[(4-fluorophenyl)methyl]indazole-3-carboxamide",
+    "1185282-01-2"
   ],
   "distances": [
     26.7740507298,
-    27.1675427379,
     28.4921864289,
     28.7586625027,
     29.0312090033,
@@ -53,13 +52,13 @@
     34.1232185318,
     34.2278170065,
     34.3151111825,
-    34.4548681532
+    34.4548681532,
+    34.6414090603
   ],
   "indices": [
     555,
-    687,
     534,
-    682,
+    606,
     265,
     496,
     264,
@@ -74,7 +73,8 @@
     556,
     543,
     550,
-    672
+    602,
+    251
   ],
   "name": "psyc_AB-FUBINACA_trip_ab-fubinaca",
   "svg": "psyc_AB-FUBINACA_trip_ab-fubinaca.svg",
@@ -87,15 +87,6 @@
       ],
       "isomerd_names": null,
       "dist": 26.7740507298
-    },
-    {
-      "name": "isomer_Ethylbenzyl-4CN-BINACA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "Ethylbenzyl-4CN-BINACA"
-      ],
-      "dist": 27.1675427379
     },
     {
       "name": "trip_ab-chminaca",
@@ -254,6 +245,17 @@
         "4-Methylthio-N-benzylcathinone"
       ],
       "dist": 34.4548681532
+    },
+    {
+      "name": "psyc_Methadone_trip_methadone",
+      "psychonaut_names": [
+        "Methadone"
+      ],
+      "tripsit_names": [
+        "methadone"
+      ],
+      "isomerd_names": null,
+      "dist": 34.6414090603
     }
   ]
 }

@@ -27,11 +27,11 @@
     23.4175787733,
     23.8655405528,
     24.0804176898,
-    24.5128688102,
     24.5447875167,
-    24.685230315,
     24.7234224902,
-    24.805925166
+    24.805925166,
+    25.0057915655,
+    25.0238777572
   ],
   "indices": [
     52,
@@ -48,11 +48,11 @@
     441,
     415,
     139,
-    619,
     53,
-    637,
     376,
-    338
+    338,
+    365,
+    133
   ],
   "name": "trip_glutethimide",
   "svg": "trip_glutethimide.svg",
@@ -202,15 +202,6 @@
       "dist": 24.0804176898
     },
     {
-      "name": "isomer_EHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "EHAT"
-      ],
-      "dist": 24.5128688102
-    },
-    {
       "name": "psyc_Aniracetam_trip_aniracetam",
       "psychonaut_names": [
         "Aniracetam"
@@ -220,15 +211,6 @@
       ],
       "isomerd_names": null,
       "dist": 24.5447875167
-    },
-    {
-      "name": "isomer_PHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "PHAT"
-      ],
-      "dist": 24.685230315
     },
     {
       "name": "trip_tiletamine",
@@ -247,6 +229,26 @@
       ],
       "isomerd_names": null,
       "dist": 24.805925166
+    },
+    {
+      "name": "trip_g-130",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "g-130"
+      ],
+      "isomerd_names": null,
+      "dist": 25.0057915655
+    },
+    {
+      "name": "psyc_Pethidine_trip_demerol",
+      "psychonaut_names": [
+        "Pethidine"
+      ],
+      "tripsit_names": [
+        "demerol"
+      ],
+      "isomerd_names": null,
+      "dist": 25.0238777572
     }
   ]
 }

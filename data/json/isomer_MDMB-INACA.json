@@ -20,8 +20,6 @@
     29.9418524204,
     29.9728056676,
     30.3284007104,
-    30.8039989699,
-    31.2539616629,
     31.5523150337,
     31.6070105007,
     31.6894954377,
@@ -29,20 +27,20 @@
     31.9130832928,
     32.1806424734,
     32.219767276,
-    32.2816262533,
-    32.3531443935
+    32.3531443935,
+    32.3868711645,
+    32.4321519857,
+    32.5212276678
   ],
   "indices": [
-    682,
-    655,
+    606,
+    598,
     391,
     235,
     156,
-    672,
+    602,
     417,
     407,
-    621,
-    620,
     135,
     99,
     129,
@@ -50,8 +48,10 @@
     442,
     167,
     465,
-    639,
-    221
+    221,
+    390,
+    357,
+    158
   ],
   "name": "isomer_MDMB-INACA",
   "svg": "isomer_MDMB-INACA.svg",
@@ -131,24 +131,6 @@
       "dist": 30.3284007104
     },
     {
-      "name": "isomer_2,5-DMMA-\u03b2k",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2,5-DMMA-\u03b2k"
-      ],
-      "dist": 30.8039989699
-    },
-    {
-      "name": "isomer_2-HO-N-Me-5-EA-\u03b2k",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2-HO-N-Me-5-EA-\u03b2k"
-      ],
-      "dist": 31.2539616629
-    },
-    {
       "name": "psyc_5-MeO-MiPT_trip_5-meo-mipt",
       "psychonaut_names": [
         "5-MeO-MiPT"
@@ -220,15 +202,6 @@
       "dist": 32.219767276
     },
     {
-      "name": "isomer_2,5-DEA-\u03b2k",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2,5-DEA-\u03b2k"
-      ],
-      "dist": 32.2816262533
-    },
-    {
       "name": "psyc_4-AcO-DiPT_trip_4-aco-dipt",
       "psychonaut_names": [
         "4-AcO-DiPT"
@@ -238,6 +211,33 @@
       ],
       "isomerd_names": null,
       "dist": 32.3531443935
+    },
+    {
+      "name": "trip_4-cbc",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-cbc"
+      ],
+      "isomerd_names": null,
+      "dist": 32.3868711645
+    },
+    {
+      "name": "trip_4-cic",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-cic"
+      ],
+      "isomerd_names": null,
+      "dist": 32.4321519857
+    },
+    {
+      "name": "psyc_\u0391-PiHP",
+      "psychonaut_names": [
+        "\u0391-PiHP"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 32.5212276678
     }
   ]
 }

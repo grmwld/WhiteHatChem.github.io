@@ -8,13 +8,14 @@
   "isod_ids": null,
   "synonyms": [
     "aleph2",
-    "dot-2",
-    "dot2"
+    "dot2",
+    "dot-2"
   ],
   "distances": [
     9.4716518475,
     11.0045971367,
     11.9067017477,
+    12.058579198,
     12.1656824698,
     12.6905315517,
     12.8591643788,
@@ -25,17 +26,17 @@
     14.6255096608,
     14.7034591653,
     14.8730631617,
+    14.8781729768,
     15.0527078924,
     15.3047807193,
     15.4126072393,
-    15.5552765655,
-    16.2346043355,
-    16.2455006166
+    15.5552765655
   ],
   "indices": [
     380,
     399,
     422,
+    597,
     402,
     71,
     403,
@@ -46,12 +47,11 @@
     73,
     382,
     74,
+    596,
     93,
     114,
     400,
-    40,
-    47,
-    45
+    40
   ],
   "name": "trip_aleph-2",
   "svg": "trip_aleph-2.svg",
@@ -82,6 +82,15 @@
       ],
       "isomerd_names": null,
       "dist": 11.9067017477
+    },
+    {
+      "name": "isomer_4,2,3-DOET",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "4,2,3-DOET"
+      ],
+      "dist": 12.058579198
     },
     {
       "name": "trip_2c-t-4",
@@ -184,6 +193,15 @@
       "dist": 14.8730631617
     },
     {
+      "name": "isomer_4-Me-2,3-DOM",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "4-Me-2,3-DOM"
+      ],
+      "dist": 14.8781729768
+    },
+    {
       "name": "psyc_2C-T-7_trip_2c-t-7",
       "psychonaut_names": [
         "2C-T-7"
@@ -224,26 +242,6 @@
       ],
       "isomerd_names": null,
       "dist": 15.5552765655
-    },
-    {
-      "name": "psyc_2C-T_trip_2c-t",
-      "psychonaut_names": [
-        "2C-T"
-      ],
-      "tripsit_names": [
-        "2c-t"
-      ],
-      "isomerd_names": null,
-      "dist": 16.2346043355
-    },
-    {
-      "name": "psyc_2,5-DMA",
-      "psychonaut_names": [
-        "2,5-DMA"
-      ],
-      "tripsit_names": null,
-      "isomerd_names": null,
-      "dist": 16.2455006166
     }
   ]
 }

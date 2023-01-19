@@ -21,14 +21,14 @@
     16.8046466396,
     16.8497813225,
     17.2641225308,
-    17.305912238,
-    17.3169547729,
-    17.7364553433,
     18.0415779564,
-    18.1200289519,
     18.3813465602,
-    18.4270900498,
-    18.4675090134
+    18.4675090134,
+    19.0793630587,
+    19.4419984181,
+    19.4546858686,
+    19.6183977623,
+    19.7059569052
   ],
   "indices": [
     33,
@@ -41,15 +41,15 @@
     27,
     9,
     332,
-    601,
-    638,
-    619,
-    607,
+    593,
     353,
-    594,
     337,
-    637,
-    314
+    314,
+    13,
+    14,
+    41,
+    15,
+    329
   ],
   "name": "trip_5-apdi",
   "svg": "trip_5-apdi.svg",
@@ -168,33 +168,6 @@
       "dist": 17.2641225308
     },
     {
-      "name": "isomer_7-[(Propan-2-yl)amino]-5,6,7,8-tetrahydronaphthalen-1-ol",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "7-[(Propan-2-yl)amino]-5,6,7,8-tetrahydronaphthalen-1-ol"
-      ],
-      "dist": 17.305912238
-    },
-    {
-      "name": "isomer_EHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "EHAT"
-      ],
-      "dist": 17.3169547729
-    },
-    {
-      "name": "isomer_3,5-DMeA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3,5-DMeA"
-      ],
-      "dist": 17.7364553433
-    },
-    {
       "name": "trip_mephtetramine",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -204,15 +177,6 @@
       "dist": 18.0415779564
     },
     {
-      "name": "isomer_2-Br-6-MA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2-Br-6-MA"
-      ],
-      "dist": 18.1200289519
-    },
-    {
       "name": "trip_5-it",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -220,15 +184,6 @@
       ],
       "isomerd_names": null,
       "dist": 18.3813465602
-    },
-    {
-      "name": "isomer_PHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "PHAT"
-      ],
-      "dist": 18.4270900498
     },
     {
       "name": "psyc_Dexamphetamine_trip_dexedrine_amphetamine",
@@ -241,6 +196,59 @@
       ],
       "isomerd_names": null,
       "dist": 18.4675090134
+    },
+    {
+      "name": "psyc_3-FMA_trip_3-fma",
+      "psychonaut_names": [
+        "3-FMA"
+      ],
+      "tripsit_names": [
+        "3-fma"
+      ],
+      "isomerd_names": null,
+      "dist": 19.0793630587
+    },
+    {
+      "name": "psyc_4-FMA_trip_4-fma",
+      "psychonaut_names": [
+        "4-FMA"
+      ],
+      "tripsit_names": [
+        "4-fma"
+      ],
+      "isomerd_names": null,
+      "dist": 19.4419984181
+    },
+    {
+      "name": "psyc_3-FEA_trip_3-fea",
+      "psychonaut_names": [
+        "3-FEA"
+      ],
+      "tripsit_names": [
+        "3-fea"
+      ],
+      "isomerd_names": null,
+      "dist": 19.4546858686
+    },
+    {
+      "name": "psyc_2-FMA_trip_2-fma",
+      "psychonaut_names": [
+        "2-FMA"
+      ],
+      "tripsit_names": [
+        "2-fma"
+      ],
+      "isomerd_names": null,
+      "dist": 19.6183977623
+    },
+    {
+      "name": "trip_4-cma",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-cma"
+      ],
+      "isomerd_names": null,
+      "dist": 19.7059569052
     }
   ]
 }

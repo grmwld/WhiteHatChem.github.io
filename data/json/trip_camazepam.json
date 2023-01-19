@@ -7,9 +7,9 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "paxor",
+    "limpidon",
     "albego",
-    "limpidon"
+    "paxor"
   ],
   "distances": [
     25.9486445372,
@@ -24,13 +24,13 @@
     29.4521852055,
     29.9047805282,
     29.9417423436,
-    30.2208050539,
     30.2735403224,
     30.2782123251,
     30.2952230081,
     30.4589477421,
     30.6006559813,
-    30.6037553864
+    30.6037553864,
+    30.6449552333
   ],
   "indices": [
     498,
@@ -45,13 +45,13 @@
     502,
     509,
     496,
-    679,
     143,
     449,
     446,
     230,
-    677,
-    478
+    604,
+    478,
+    444
   ],
   "name": "trip_camazepam",
   "svg": "trip_camazepam.svg",
@@ -171,15 +171,6 @@
       "dist": 29.9417423436
     },
     {
-      "name": "isomer_PRL-8-53",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "PRL-8-53"
-      ],
-      "dist": 30.2208050539
-    },
-    {
       "name": "psyc_Diclazepam_trip_diclazepam",
       "psychonaut_names": [
         "Diclazepam"
@@ -236,6 +227,15 @@
       ],
       "isomerd_names": null,
       "dist": 30.6037553864
+    },
+    {
+      "name": "trip_clorazepate",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "clorazepate"
+      ],
+      "isomerd_names": null,
+      "dist": 30.6449552333
     }
   ]
 }

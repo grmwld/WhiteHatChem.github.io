@@ -23,14 +23,14 @@
     35.2838396553,
     35.3086073629,
     35.3594336886,
-    35.4861036154,
     35.7160944715,
     35.773416173,
-    35.863070003
+    35.9100710543,
+    35.9808502127
   ],
   "indices": [
     236,
-    682,
+    606,
     195,
     520,
     522,
@@ -39,15 +39,15 @@
     519,
     523,
     235,
-    681,
+    605,
     274,
     539,
     207,
     240,
-    675,
     486,
     557,
-    688
+    257,
+    525
   ],
   "name": "trip_ab-chminaca",
   "svg": "trip_ab-chminaca.svg",
@@ -196,15 +196,6 @@
       "dist": 35.3594336886
     },
     {
-      "name": "isomer_(4-Fluorophenyl)[1-(5-sulfanylpentyl)piperidin-4-yl]methanone",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "(4-Fluorophenyl)[1-(5-sulfanylpentyl)piperidin-4-yl]methanone"
-      ],
-      "dist": 35.4861036154
-    },
-    {
       "name": "trip_5-dbfpv",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -223,13 +214,24 @@
       "dist": 35.773416173
     },
     {
-      "name": "isomer_3F-Cyclopropylbenzylfentanyl",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3F-Cyclopropylbenzylfentanyl"
+      "name": "psyc_Fentanyl_trip_fentanyl",
+      "psychonaut_names": [
+        "Fentanyl"
       ],
-      "dist": 35.863070003
+      "tripsit_names": [
+        "fentanyl"
+      ],
+      "isomerd_names": null,
+      "dist": 35.9100710543
+    },
+    {
+      "name": "trip_pv-10",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "pv-10"
+      ],
+      "isomerd_names": null,
+      "dist": 35.9808502127
     }
   ]
 }

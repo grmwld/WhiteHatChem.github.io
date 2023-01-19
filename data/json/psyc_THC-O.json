@@ -8,8 +8,8 @@
   "isod_ids": null,
   "synonyms": [
     "THC-O-acetate",
-    "\u03949-THC acetate",
-    "Acetyl-THC"
+    "Acetyl-THC",
+    "\u03949-THC acetate"
   ],
   "distances": [
     17.3390319455,
@@ -51,7 +51,7 @@
     227,
     255,
     541,
-    681
+    605
   ],
   "name": "psyc_THC-O",
   "svg": "psyc_THC-O.svg",

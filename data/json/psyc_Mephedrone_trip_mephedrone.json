@@ -9,45 +9,45 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "4-methylephedrone",
-    "Q262613",
-    "4-MMC",
-    "J2.756.280I",
+    "2-(methylamino)-1-(4-methylphenyl)propan-1-one",
+    "Meow meow",
+    "HSDB 7979",
     "m-cat",
     "1189805-46-6",
-    "Bubbles",
     "M-CAT",
-    "2-(METHYLAMINO)-1-(4-METHYLPHENYL)-1-PROPANONE",
-    "meow",
-    "4mmc",
-    "805M466",
-    "DTXSID20891437",
-    "1-(4-methylphenyl)-2-methylaminopropan-1-one",
-    "CHEBI:59331",
-    "beta-keto-4-methylmethamphetamine",
-    "4-Me-MCAT",
-    "2-methylamino-1-p-tolylpropane-1-one",
-    "2-(methylamino)-1-(4-methylphenyl)propan-1-one",
-    "bk-4-methylmethamphetamine",
-    "FT-0701141",
-    "SCHEMBL727913",
-    "Bounce",
-    "Mad cow",
-    "BATH SALTS COMPONENT MEPHEDRONE",
-    "8BA8T27317",
-    "DEA No. 1248",
-    "4-methylmethcathinone",
-    "4-mmc",
-    "4-Methylmethcathinone",
-    "mephedrone",
     "1-Propanone, 2-(methylamino)-1-(4-methylphenyl)-",
-    "UNII-8BA8T27317",
-    "CHEMBL4094396",
+    "4-MMC",
+    "4-methylmethcathinone",
+    "4-Me-MCAT",
+    "beta-keto-4-methylmethamphetamine",
+    "2-(METHYLAMINO)-1-(4-METHYLPHENYL)-1-PROPANONE",
+    "mephedrone",
+    "4-Methylmethcathinone",
+    "DTXSID20891437",
+    "4mmc",
+    "2-methylamino-1-p-tolylpropane-1-one",
+    "BATH SALTS COMPONENT MEPHEDRONE",
+    "4-mmc",
+    "Bubbles",
     "DB13108",
-    "HSDB 7979",
+    "SCHEMBL727913",
+    "Q262613",
+    "J2.756.280I",
+    "8BA8T27317",
     "BDBM50236718",
+    "CHEBI:59331",
+    "meow",
+    "DEA No. 1248",
+    "4-methylephedrone",
+    "Mad cow",
+    "CHEMBL4094396",
     "88783-39-5",
-    "Meow meow"
+    "805M466",
+    "bk-4-methylmethamphetamine",
+    "Bounce",
+    "1-(4-methylphenyl)-2-methylaminopropan-1-one",
+    "FT-0701141",
+    "UNII-8BA8T27317"
   ],
   "distances": [
     1.9697514364,
@@ -65,10 +65,10 @@
     10.2480582282,
     10.7175149901,
     10.7987972155,
-    10.8905822665,
     11.5010402043,
     12.8221863395,
-    13.0846623679
+    13.0846623679,
+    13.2706385688
   ],
   "indices": [
     35,
@@ -86,10 +86,10 @@
     340,
     370,
     32,
-    602,
     66,
     44,
-    395
+    395,
+    329
   ],
   "name": "psyc_Mephedrone_trip_mephedrone",
   "svg": "psyc_Mephedrone_trip_mephedrone.svg",
@@ -238,15 +238,6 @@
       "dist": 10.7987972155
     },
     {
-      "name": "isomer_4-Cl-Buphedrone",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "4-Cl-Buphedrone"
-      ],
-      "dist": 10.8905822665
-    },
-    {
       "name": "psyc_Mexedrone_trip_mexedrone",
       "psychonaut_names": [
         "Mexedrone"
@@ -274,6 +265,15 @@
       ],
       "isomerd_names": null,
       "dist": 13.0846623679
+    },
+    {
+      "name": "trip_4-cma",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-cma"
+      ],
+      "isomerd_names": null,
+      "dist": 13.2706385688
     }
   ]
 }

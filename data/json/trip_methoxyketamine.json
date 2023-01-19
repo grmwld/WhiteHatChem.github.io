@@ -28,7 +28,7 @@
     21.0659271078,
     21.8185264329,
     23.1230256759,
-    23.591312995
+    23.7769891879
   ],
   "indices": [
     416,
@@ -49,7 +49,7 @@
     133,
     441,
     353,
-    638
+    168
   ],
   "name": "trip_methoxyketamine",
   "svg": "trip_methoxyketamine.svg",
@@ -237,13 +237,15 @@
       "dist": 23.1230256759
     },
     {
-      "name": "isomer_7-[(Propan-2-yl)amino]-5,6,7,8-tetrahydronaphthalen-1-ol",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "7-[(Propan-2-yl)amino]-5,6,7,8-tetrahydronaphthalen-1-ol"
+      "name": "psyc_Tramadol_trip_tramadol",
+      "psychonaut_names": [
+        "Tramadol"
       ],
-      "dist": 23.591312995
+      "tripsit_names": [
+        "tramadol"
+      ],
+      "isomerd_names": null,
+      "dist": 23.7769891879
     }
   ]
 }

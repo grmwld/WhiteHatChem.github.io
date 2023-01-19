@@ -9,7 +9,6 @@
   "synonyms": [],
   "distances": [
     7.3651525411,
-    7.9459601544,
     7.987626998,
     8.9009107145,
     9.2249982963,
@@ -26,11 +25,11 @@
     12.5182447418,
     12.581748071,
     12.61138847,
-    12.6119371574
+    12.6119371574,
+    12.764808582
   ],
   "indices": [
     63,
-    602,
     8,
     368,
     32,
@@ -47,7 +46,8 @@
     343,
     344,
     88,
-    370
+    370,
+    18
   ],
   "name": "trip_buphedrone",
   "svg": "trip_buphedrone.svg",
@@ -62,15 +62,6 @@
       ],
       "isomerd_names": null,
       "dist": 7.3651525411
-    },
-    {
-      "name": "isomer_4-Cl-Buphedrone",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "4-Cl-Buphedrone"
-      ],
-      "dist": 7.9459601544
     },
     {
       "name": "psyc_Methcathinone",
@@ -234,6 +225,17 @@
       ],
       "isomerd_names": null,
       "dist": 12.6119371574
+    },
+    {
+      "name": "psyc_Methamphetamine_trip_methamphetamine",
+      "psychonaut_names": [
+        "Methamphetamine"
+      ],
+      "tripsit_names": [
+        "methamphetamine"
+      ],
+      "isomerd_names": null,
+      "dist": 12.764808582
     }
   ]
 }

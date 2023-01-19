@@ -7,10 +7,10 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "2-cl-ephenidine",
     "2clephenidine",
+    "2-chloroephenidine",
     "2chloroephenidine",
-    "2-chloroephenidine"
+    "2-cl-ephenidine"
   ],
   "distances": [
     7.9529281022,
@@ -38,7 +38,7 @@
     483,
     216,
     409,
-    672,
+    602,
     461,
     189,
     407,

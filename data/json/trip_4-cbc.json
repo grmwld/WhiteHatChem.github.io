@@ -21,12 +21,12 @@
     14.8450616197,
     15.1223798011,
     15.890621159,
-    16.0645308936,
     16.2723038416,
-    16.2996537061,
     16.5522890104,
     17.3756551276,
-    17.55300462
+    17.55300462,
+    17.8883800447,
+    17.8883800447
   ],
   "indices": [
     89,
@@ -42,12 +42,12 @@
     370,
     63,
     368,
-    602,
     357,
-    620,
     32,
     465,
-    66
+    66,
+    385,
+    386
   ],
   "name": "trip_4-cbc",
   "svg": "trip_4-cbc.svg",
@@ -179,15 +179,6 @@
       "dist": 15.890621159
     },
     {
-      "name": "isomer_4-Cl-Buphedrone",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "4-Cl-Buphedrone"
-      ],
-      "dist": 16.0645308936
-    },
-    {
       "name": "trip_4-cic",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -195,15 +186,6 @@
       ],
       "isomerd_names": null,
       "dist": 16.2723038416
-    },
-    {
-      "name": "isomer_2-HO-N-Me-5-EA-\u03b2k",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2-HO-N-Me-5-EA-\u03b2k"
-      ],
-      "dist": 16.2996537061
     },
     {
       "name": "psyc_ETH-CAT_trip_ethylcathinone",
@@ -235,6 +217,24 @@
       ],
       "isomerd_names": null,
       "dist": 17.55300462
+    },
+    {
+      "name": "trip_6-eapb",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "6-eapb"
+      ],
+      "isomerd_names": null,
+      "dist": 17.8883800447
+    },
+    {
+      "name": "trip_5-eapb",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "5-eapb"
+      ],
+      "isomerd_names": null,
+      "dist": 17.8883800447
     }
   ]
 }

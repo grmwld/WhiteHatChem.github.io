@@ -8,15 +8,14 @@
   "isod_ids": null,
   "synonyms": [
     "4-f-pentedrone",
-    "4f-pentedrone",
-    "4-fpd"
+    "4-fpd",
+    "4f-pentedrone"
   ],
   "distances": [
     8.1420475455,
     8.4945180831,
     9.5904487621,
     9.6143244209,
-    10.3194434632,
     11.0028876936,
     11.1011113203,
     12.0889173211,
@@ -30,14 +29,14 @@
     14.4701957887,
     14.566256452,
     14.6653657394,
-    14.6898118817
+    14.6898118817,
+    14.7892342873
   ],
   "indices": [
     395,
     63,
     88,
     359,
-    602,
     420,
     368,
     340,
@@ -51,7 +50,8 @@
     343,
     369,
     344,
-    32
+    32,
+    370
   ],
   "name": "trip_4-fluoropentedrone",
   "svg": "trip_4-fluoropentedrone.svg",
@@ -95,15 +95,6 @@
       ],
       "isomerd_names": null,
       "dist": 9.6143244209
-    },
-    {
-      "name": "isomer_4-Cl-Buphedrone",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "4-Cl-Buphedrone"
-      ],
-      "dist": 10.3194434632
     },
     {
       "name": "trip_4-epd_ethyl-pentedrone",
@@ -237,6 +228,15 @@
       ],
       "isomerd_names": null,
       "dist": 14.6898118817
+    },
+    {
+      "name": "trip_2-mec",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "2-mec"
+      ],
+      "isomerd_names": null,
+      "dist": 14.7892342873
     }
   ]
 }

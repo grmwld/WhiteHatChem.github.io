@@ -13,7 +13,6 @@
   "distances": [
     21.8219508817,
     22.1724289979,
-    22.995684675,
     24.3253939841,
     25.7571513791,
     27.6531248234,
@@ -22,35 +21,36 @@
     28.3807372624,
     28.9798966806,
     29.2262335838,
-    29.2330012037,
     29.8430648645,
     30.1418440332,
     30.521320833,
     30.5447119998,
     30.6506021412,
     30.6604774974,
-    30.7566228418
+    30.7566228418,
+    30.9297467005,
+    31.0103998275
   ],
   "indices": [
     539,
     565,
-    688,
     566,
     242,
-    685,
+    608,
     229,
     542,
-    686,
+    609,
     561,
-    684,
-    678,
+    607,
     249,
     524,
     550,
     257,
     552,
     518,
-    560
+    560,
+    499,
+    517
   ],
   "name": "trip_mt-45",
   "svg": "trip_mt-45.svg",
@@ -72,15 +72,6 @@
       ],
       "isomerd_names": null,
       "dist": 22.1724289979
-    },
-    {
-      "name": "isomer_3F-Cyclopropylbenzylfentanyl",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3F-Cyclopropylbenzylfentanyl"
-      ],
-      "dist": 22.995684675
     },
     {
       "name": "trip_palfium",
@@ -159,15 +150,6 @@
       "dist": 29.2262335838
     },
     {
-      "name": "isomer_3-Fluoro_4-ANBP",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3-Fluoro 4-ANBP"
-      ],
-      "dist": 29.2330012037
-    },
-    {
       "name": "psyc_Acetylfentanyl_trip_acetylfentanyl",
       "psychonaut_names": [
         "Acetylfentanyl"
@@ -233,6 +215,24 @@
       ],
       "isomerd_names": null,
       "dist": 30.7566228418
+    },
+    {
+      "name": "trip_fluorolintane",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "fluorolintane"
+      ],
+      "isomerd_names": null,
+      "dist": 30.9297467005
+    },
+    {
+      "name": "trip_pyrophenidone",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "pyrophenidone"
+      ],
+      "isomerd_names": null,
+      "dist": 31.0103998275
     }
   ]
 }

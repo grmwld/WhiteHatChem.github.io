@@ -9,12 +9,9 @@
   "synonyms": [],
   "distances": [
     19.4417511931,
-    21.0730533592,
     21.559901338,
     21.5999370715,
-    21.6323737654,
     23.1054050216,
-    24.3517579997,
     24.5494235031,
     24.5588506652,
     24.6101500374,
@@ -24,18 +21,18 @@
     25.3484565701,
     25.8281734441,
     25.9064455474,
-    25.9586463122,
     26.0644132429,
-    26.0960445286
+    26.0960445286,
+    26.110383686,
+    26.4275027733,
+    26.6395035046,
+    26.6778801547
   ],
   "indices": [
     580,
-    596,
     304,
     305,
-    597,
-    591,
-    606,
+    590,
     289,
     314,
     332,
@@ -45,9 +42,12 @@
     288,
     310,
     312,
-    690,
     311,
-    308
+    308,
+    577,
+    283,
+    292,
+    298
   ],
   "name": "trip_clomethiazole",
   "svg": "trip_clomethiazole.svg",
@@ -60,15 +60,6 @@
       ],
       "isomerd_names": null,
       "dist": 19.4417511931
-    },
-    {
-      "name": "isomer_2,6-DMePEA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2,6-DMePEA"
-      ],
-      "dist": 21.0730533592
     },
     {
       "name": "psyc_Phenethylamine_(compound)_trip_phenethylamine",
@@ -91,15 +82,6 @@
       "dist": 21.5999370715
     },
     {
-      "name": "isomer_3,5-DMePEA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3,5-DMePEA"
-      ],
-      "dist": 21.6323737654
-    },
-    {
       "name": "isomer_4-Methylpropiophenone",
       "psychonaut_names": null,
       "tripsit_names": null,
@@ -107,15 +89,6 @@
         "4-Methylpropiophenone"
       ],
       "dist": 23.1054050216
-    },
-    {
-      "name": "isomer_TMePEA-3",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "TMePEA-3"
-      ],
-      "dist": 24.3517579997
     },
     {
       "name": "psyc_GHB_trip_ghb",
@@ -212,15 +185,6 @@
       "dist": 25.9064455474
     },
     {
-      "name": "isomer_2,6-HPEA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2,6-HPEA"
-      ],
-      "dist": 25.9586463122
-    },
-    {
       "name": "psyc_4-FA_trip_4-fa",
       "psychonaut_names": [
         "4-FA"
@@ -241,6 +205,46 @@
       ],
       "isomerd_names": null,
       "dist": 26.0960445286
+    },
+    {
+      "name": "trip_gaba",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "gaba"
+      ],
+      "isomerd_names": null,
+      "dist": 26.110383686
+    },
+    {
+      "name": "psyc_Alcohol_trip_alcohol",
+      "psychonaut_names": [
+        "Alcohol"
+      ],
+      "tripsit_names": [
+        "alcohol"
+      ],
+      "isomerd_names": null,
+      "dist": 26.4275027733
+    },
+    {
+      "name": "psyc_2M2B_trip_2-methyl-2-butanol",
+      "psychonaut_names": [
+        "2M2B"
+      ],
+      "tripsit_names": [
+        "2-methyl-2-butanol"
+      ],
+      "isomerd_names": null,
+      "dist": 26.6395035046
+    },
+    {
+      "name": "psyc_Gaboxadol",
+      "psychonaut_names": [
+        "Gaboxadol"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 26.6778801547
     }
   ]
 }

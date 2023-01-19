@@ -12,8 +12,6 @@
     7.6058055488,
     8.1420475455,
     15.4001626142,
-    16.7324363519,
-    17.4164229137,
     17.7943592521,
     17.999376922,
     18.1709647504,
@@ -23,18 +21,18 @@
     18.4121681116,
     18.5696231006,
     18.7619371181,
-    18.7905218053,
     18.8844245472,
     18.8944072865,
-    18.9043912116
+    18.9043912116,
+    18.972162031,
+    19.0258797521,
+    19.1991873569
   ],
   "indices": [
     2,
     10,
     3,
     309,
-    593,
-    600,
     32,
     367,
     359,
@@ -44,10 +42,12 @@
     369,
     360,
     340,
-    602,
     346,
     395,
-    394
+    394,
+    41,
+    368,
+    42
   ],
   "name": "trip_tolibut",
   "svg": "trip_tolibut.svg",
@@ -93,24 +93,6 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 15.4001626142
-    },
-    {
-      "name": "isomer_2-Amino-1-(5-ethoxy-2-hydroxyphenyl)ethan-1-one",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2-Amino-1-(5-ethoxy-2-hydroxyphenyl)ethan-1-one"
-      ],
-      "dist": 16.7324363519
-    },
-    {
-      "name": "isomer_\u03b2,2-HO-5-EPEA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "\u03b2,2-HO-5-EPEA"
-      ],
-      "dist": 17.4164229137
     },
     {
       "name": "psyc_ETH-CAT_trip_ethylcathinone",
@@ -200,15 +182,6 @@
       "dist": 18.7619371181
     },
     {
-      "name": "isomer_4-Cl-Buphedrone",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "4-Cl-Buphedrone"
-      ],
-      "dist": 18.7905218053
-    },
-    {
       "name": "trip_4-fea",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -234,6 +207,37 @@
       ],
       "isomerd_names": null,
       "dist": 18.9043912116
+    },
+    {
+      "name": "psyc_3-FEA_trip_3-fea",
+      "psychonaut_names": [
+        "3-FEA"
+      ],
+      "tripsit_names": [
+        "3-fea"
+      ],
+      "isomerd_names": null,
+      "dist": 18.972162031
+    },
+    {
+      "name": "trip_4-emc",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-emc"
+      ],
+      "isomerd_names": null,
+      "dist": 19.0258797521
+    },
+    {
+      "name": "psyc_2-FEA_trip_2-fea",
+      "psychonaut_names": [
+        "2-FEA"
+      ],
+      "tripsit_names": [
+        "2-fea"
+      ],
+      "isomerd_names": null,
+      "dist": 19.1991873569
     }
   ]
 }

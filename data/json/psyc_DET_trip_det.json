@@ -9,11 +9,11 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "T-9",
-    "diethyltryptamine",
     "N,N-Diethyltryptamine",
-    "Tryptamine, N,N-diethyl",
     "3-[2-(Diethylamino)ethyl]indole",
+    "T-9",
+    "Tryptamine, N,N-diethyl",
+    "diethyltryptamine",
     "Indole, 3-[2-(diethylamino)ethyl]"
   ],
   "distances": [

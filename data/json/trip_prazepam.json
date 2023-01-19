@@ -7,14 +7,14 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "demetrin",
-    "pozapam",
-    "centrax",
-    "prazene",
-    "reapam",
     "lysanxia",
     "trepidan",
     "centrac",
+    "pozapam",
+    "centrax",
+    "reapam",
+    "prazene",
+    "demetrin",
     "prasepine"
   ],
   "distances": [
@@ -29,14 +29,14 @@
     21.0233475007,
     21.3570102591,
     21.3846799114,
-    21.7024521528,
     21.8481182484,
     21.8865747837,
     22.0175544754,
     22.1681040056,
     22.2351991952,
     22.360395215,
-    22.4019388177
+    22.4019388177,
+    22.5361580126
   ],
   "indices": [
     509,
@@ -50,14 +50,14 @@
     203,
     175,
     455,
-    678,
     445,
     475,
     147,
     171,
     170,
-    685,
-    450
+    608,
+    450,
+    447
   ],
   "name": "trip_prazepam",
   "svg": "trip_prazepam.svg",
@@ -170,15 +170,6 @@
       "dist": 21.3846799114
     },
     {
-      "name": "isomer_3-Fluoro_4-ANBP",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3-Fluoro 4-ANBP"
-      ],
-      "dist": 21.7024521528
-    },
-    {
       "name": "trip_estazolam",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -246,6 +237,15 @@
       ],
       "isomerd_names": null,
       "dist": 22.4019388177
+    },
+    {
+      "name": "trip_lormetazepam",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "lormetazepam"
+      ],
+      "isomerd_names": null,
+      "dist": 22.5361580126
     }
   ]
 }

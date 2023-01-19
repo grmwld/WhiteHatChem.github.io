@@ -12,7 +12,6 @@
     11.7998554027,
     17.6997821342,
     18.4518639427,
-    21.2838324998,
     21.3284219016,
     21.387544576,
     22.0336469496,
@@ -21,33 +20,34 @@
     23.863449738,
     24.2611624599,
     24.4132574867,
-    25.1840018217,
     25.2288560625,
     26.5678579155,
     26.5761385023,
     26.7032735697,
-    26.9757706045
+    26.9757706045,
+    27.452600308,
+    27.521232038
   ],
   "indices": [
     508,
     491,
     159,
     463,
-    675,
-    681,
+    605,
     522,
     519,
     130,
     436,
     488,
-    676,
+    603,
     465,
-    683,
     486,
     158,
     466,
     523,
-    138
+    138,
+    154,
+    111
   ],
   "name": "trip_pv-10",
   "svg": "trip_pv-10.svg",
@@ -89,15 +89,6 @@
       ],
       "isomerd_names": null,
       "dist": 18.4518639427
-    },
-    {
-      "name": "isomer_(4-Fluorophenyl)[1-(5-sulfanylpentyl)piperidin-4-yl]methanone",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "(4-Fluorophenyl)[1-(5-sulfanylpentyl)piperidin-4-yl]methanone"
-      ],
-      "dist": 21.2838324998
     },
     {
       "name": "isomer_MDPEP",
@@ -174,15 +165,6 @@
       "dist": 24.4132574867
     },
     {
-      "name": "isomer_BBAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "BBAT"
-      ],
-      "dist": 25.1840018217
-    },
-    {
       "name": "trip_5-dbfpv",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -228,6 +210,28 @@
       ],
       "isomerd_names": null,
       "dist": 26.9757706045
+    },
+    {
+      "name": "psyc_MDPV_trip_mdpv",
+      "psychonaut_names": [
+        "MDPV"
+      ],
+      "tripsit_names": [
+        "mdpv"
+      ],
+      "isomerd_names": null,
+      "dist": 27.452600308
+    },
+    {
+      "name": "psyc_N-Ethylhexedrone_trip_hexen",
+      "psychonaut_names": [
+        "N-Ethylhexedrone"
+      ],
+      "tripsit_names": [
+        "hexen"
+      ],
+      "isomerd_names": null,
+      "dist": 27.521232038
     }
   ]
 }

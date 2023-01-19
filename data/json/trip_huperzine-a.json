@@ -21,14 +21,14 @@
     32.4226920078,
     32.5560570491,
     32.6974508336,
-    32.7540010527,
-    32.7568128648,
     33.0189099318,
     33.0428096642,
-    33.075181804,
-    33.3307235713,
     33.5159145529,
-    33.5535988255
+    33.5535988255,
+    33.7480341586,
+    34.0396210434,
+    34.1457465409,
+    34.3262473883
   ],
   "indices": [
     383,
@@ -42,14 +42,14 @@
     441,
     140,
     100,
-    619,
-    638,
     110,
     83,
-    603,
-    637,
     51,
-    365
+    365,
+    338,
+    521,
+    160,
+    191
   ],
   "name": "trip_huperzine-a",
   "svg": "trip_huperzine-a.svg",
@@ -164,24 +164,6 @@
       "dist": 32.6974508336
     },
     {
-      "name": "isomer_EHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "EHAT"
-      ],
-      "dist": 32.7540010527
-    },
-    {
-      "name": "isomer_7-[(Propan-2-yl)amino]-5,6,7,8-tetrahydronaphthalen-1-ol",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "7-[(Propan-2-yl)amino]-5,6,7,8-tetrahydronaphthalen-1-ol"
-      ],
-      "dist": 32.7568128648
-    },
-    {
       "name": "psyc_3-HO-PCE_trip_3-ho-pce",
       "psychonaut_names": [
         "3-HO-PCE"
@@ -204,24 +186,6 @@
       "dist": 33.0428096642
     },
     {
-      "name": "isomer_MHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MHAT"
-      ],
-      "dist": 33.075181804
-    },
-    {
-      "name": "isomer_PHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "PHAT"
-      ],
-      "dist": 33.3307235713
-    },
-    {
       "name": "psyc_Cyclazodone",
       "psychonaut_names": [
         "Cyclazodone"
@@ -238,6 +202,42 @@
       ],
       "isomerd_names": null,
       "dist": 33.5535988255
+    },
+    {
+      "name": "trip_4,4-dmar",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4,4-dmar"
+      ],
+      "isomerd_names": null,
+      "dist": 33.7480341586
+    },
+    {
+      "name": "trip_pentazocine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "pentazocine"
+      ],
+      "isomerd_names": null,
+      "dist": 34.0396210434
+    },
+    {
+      "name": "psyc_MXiPr",
+      "psychonaut_names": [
+        "MXiPr"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 34.1457465409
+    },
+    {
+      "name": "psyc_Galantamine",
+      "psychonaut_names": [
+        "Galantamine"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 34.3262473883
     }
   ]
 }

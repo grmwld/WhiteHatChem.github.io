@@ -7,30 +7,30 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
+    "SCHEMBL17309664",
     "1-(5-FLUOROPENTYL)-N-(ADAMANTAN-1-YL)-1H-INDOLE-3-CARBOXAMIDE",
-    "E6917946XH",
     "1-(5-Fluoropentyl)-N-tricyclo[3.3.1.13,7]dec-1-yl-1H-indole-3-carboxamide",
     "1354631-26-7",
-    "STS 135",
-    "J3.369.667A",
-    "ZINC73069265",
-    "CHEBI:186830",
-    "5F-APICA",
-    "DS-017609",
-    "N-(1-adamantyl)-1-(5-luoropentyl)indole-3-carboxamide",
-    "SCHEMBL17309664",
-    "N-((3s,5s,7s)-adamantan-1-yl)-1-(5-fluoropentyl)-1H-indole-3-carboxamide",
-    "UNII-E6917946XH",
-    "AKOS025402631",
-    "N-(ADAMANTANE-1-YL)-1-(5-FLUOROPENTYL)-1H-INDOLE-3-CARBOXAMIDE",
     "1H-INDOLE-3-CARBOXAMIDE, 1-(5-FLUOROPENTYL)-N-TRICYCLE(3.3.1.1SUP(3,7))DEC-1-YL-",
-    "N-(tricyclo[3.3.1.13.7]dec-1-yl)-1h-indole-3-carboxamide",
-    "DTXSID40725427",
-    "N-(Adamantan-1-yl)-1-(5-fluoropentyl)-1H-indole-3-carboxamide",
+    "STS 135",
     "BCP04543",
     "BCP0726000064",
+    "J3.369.667A",
+    "N-((3s,5s,7s)-adamantan-1-yl)-1-(5-fluoropentyl)-1H-indole-3-carboxamide",
+    "N-(ADAMANTANE-1-YL)-1-(5-FLUOROPENTYL)-1H-INDOLE-3-CARBOXAMIDE",
+    "AKOS025402631",
+    "N-(1-adamantyl)-1-(5-luoropentyl)indole-3-carboxamide",
+    "5F-APICA",
+    "UNII-E6917946XH",
+    "DS-017609",
+    "N-(tricyclo[3.3.1.13.7]dec-1-yl)-1h-indole-3-carboxamide",
+    "N-(1-adamantyl)-1-(5-fluoropentyl)indole-3-carboxamide",
+    "E6917946XH",
+    "ZINC73069265",
+    "DTXSID40725427",
     "APICA N-(5-FLUOROPENTYL) ANALOG",
-    "N-(1-adamantyl)-1-(5-fluoropentyl)indole-3-carboxamide"
+    "CHEBI:186830",
+    "N-(Adamantan-1-yl)-1-(5-fluoropentyl)-1H-indole-3-carboxamide"
   ],
   "distances": [
     11.3210369797,
@@ -41,17 +41,17 @@
     44.9807671031,
     45.7768395913,
     46.1213026762,
-    46.5120925767,
     46.6539658475,
     46.9011958053,
     47.2595812252,
     47.429501549,
     47.5145870899,
-    47.6437637331,
     47.7472338449,
     47.8670899552,
     47.8719452762,
-    47.9688721497
+    47.9688721497,
+    48.1548836803,
+    48.2853406439
   ],
   "indices": [
     278,
@@ -62,17 +62,17 @@
     535,
     261,
     524,
-    675,
     195,
     556,
     534,
     565,
     550,
-    688,
     563,
     552,
     542,
-    557
+    557,
+    192,
+    274
   ],
   "name": "psyc_STS-135",
   "svg": "psyc_STS-135.svg",
@@ -157,15 +157,6 @@
       "dist": 46.1213026762
     },
     {
-      "name": "isomer_(4-Fluorophenyl)[1-(5-sulfanylpentyl)piperidin-4-yl]methanone",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "(4-Fluorophenyl)[1-(5-sulfanylpentyl)piperidin-4-yl]methanone"
-      ],
-      "dist": 46.5120925767
-    },
-    {
       "name": "psyc_Omberacetam_trip_noopept",
       "psychonaut_names": [
         "Omberacetam"
@@ -213,15 +204,6 @@
       "dist": 47.5145870899
     },
     {
-      "name": "isomer_3F-Cyclopropylbenzylfentanyl",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3F-Cyclopropylbenzylfentanyl"
-      ],
-      "dist": 47.6437637331
-    },
-    {
       "name": "trip_valerylfentanyl",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -256,6 +238,28 @@
       ],
       "isomerd_names": null,
       "dist": 47.9688721497
+    },
+    {
+      "name": "psyc_Cocaine_trip_cocaine",
+      "psychonaut_names": [
+        "Cocaine"
+      ],
+      "tripsit_names": [
+        "cocaine"
+      ],
+      "isomerd_names": null,
+      "dist": 48.1548836803
+    },
+    {
+      "name": "psyc_1cP-LSD_trip_1cp-lsd",
+      "psychonaut_names": [
+        "1cP-LSD"
+      ],
+      "tripsit_names": [
+        "1cp-lsd"
+      ],
+      "isomerd_names": null,
+      "dist": 48.2853406439
     }
   ]
 }

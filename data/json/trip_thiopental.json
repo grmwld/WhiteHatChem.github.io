@@ -15,18 +15,18 @@
     27.6353911452,
     28.9383405065,
     33.211083605,
-    35.8371118254,
-    36.6769326375,
-    36.6951969008,
-    36.9151512736,
-    37.0741658627,
-    37.1087302576,
-    37.5663800513,
     37.5984466232,
-    37.6981564666,
     37.725404925,
-    37.7861801477,
-    37.8083853004
+    37.8338685747,
+    37.9936791232,
+    38.0354384762,
+    38.0486636515,
+    38.1842680967,
+    38.2265201883,
+    38.229719782,
+    38.4111936785,
+    38.5710981728,
+    38.5805645492
   ],
   "indices": [
     50,
@@ -36,18 +36,18 @@
     52,
     334,
     383,
-    610,
-    600,
-    613,
-    622,
-    626,
-    614,
-    593,
     396,
-    665,
     84,
-    632,
-    617
+    65,
+    361,
+    113,
+    89,
+    359,
+    420,
+    367,
+    102,
+    395,
+    369
   ],
   "name": "trip_thiopental",
   "svg": "trip_thiopental.svg",
@@ -124,69 +124,6 @@
       "dist": 33.211083605
     },
     {
-      "name": "isomer_2-(2-Aminoethyl)-5-propylbenzene-1,4-diol",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2-(2-Aminoethyl)-5-propylbenzene-1,4-diol"
-      ],
-      "dist": 35.8371118254
-    },
-    {
-      "name": "isomer_\u03b2,2-HO-5-EPEA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "\u03b2,2-HO-5-EPEA"
-      ],
-      "dist": 36.6769326375
-    },
-    {
-      "name": "isomer_\u03b2,2-HO-5-EA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "\u03b2,2-HO-5-EA"
-      ],
-      "dist": 36.6951969008
-    },
-    {
-      "name": "isomer_2-(2-Hydroxyethyl)-4-methoxy-5-propylphenol",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2-(2-Hydroxyethyl)-4-methoxy-5-propylphenol"
-      ],
-      "dist": 36.9151512736
-    },
-    {
-      "name": "isomer_2-(2-Aminoethyl)-4-methoxy-5-propylphenol",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2-(2-Aminoethyl)-4-methoxy-5-propylphenol"
-      ],
-      "dist": 37.0741658627
-    },
-    {
-      "name": "isomer_\u03b2,2-HO-N-Me-5-EPEA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "\u03b2,2-HO-N-Me-5-EPEA"
-      ],
-      "dist": 37.1087302576
-    },
-    {
-      "name": "isomer_2-Amino-1-(5-ethoxy-2-hydroxyphenyl)ethan-1-one",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2-Amino-1-(5-ethoxy-2-hydroxyphenyl)ethan-1-one"
-      ],
-      "dist": 37.5663800513
-    },
-    {
       "name": "trip_mdpa",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -194,15 +131,6 @@
       ],
       "isomerd_names": null,
       "dist": 37.5984466232
-    },
-    {
-      "name": "isomer_PEAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "PEAT"
-      ],
-      "dist": 37.6981564666
     },
     {
       "name": "psyc_Eutylone",
@@ -214,22 +142,99 @@
       "dist": 37.725404925
     },
     {
-      "name": "isomer_\u03b2,2-HO-N-Me-5-EA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "\u03b2,2-HO-N-Me-5-EA"
+      "name": "psyc_MDEA_trip_mdea",
+      "psychonaut_names": [
+        "MDEA"
       ],
-      "dist": 37.7861801477
+      "tripsit_names": [
+        "mdea"
+      ],
+      "isomerd_names": null,
+      "dist": 37.8338685747
     },
     {
-      "name": "isomer_(2-Hydroxy-5-methoxy-4-propylphenyl)acetic_acid",
+      "name": "trip_hexobarbital",
       "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "(2-Hydroxy-5-methoxy-4-propylphenyl)acetic acid"
+      "tripsit_names": [
+        "hexobarbital"
       ],
-      "dist": 37.8083853004
+      "isomerd_names": null,
+      "dist": 37.9936791232
+    },
+    {
+      "name": "psyc_Tapentadol_trip_tapentadol",
+      "psychonaut_names": [
+        "Tapentadol"
+      ],
+      "tripsit_names": [
+        "tapentadol"
+      ],
+      "isomerd_names": null,
+      "dist": 38.0354384762
+    },
+    {
+      "name": "psyc_NEP",
+      "psychonaut_names": [
+        "NEP"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 38.0486636515
+    },
+    {
+      "name": "trip_4f-neb",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4f-neb"
+      ],
+      "isomerd_names": null,
+      "dist": 38.1842680967
+    },
+    {
+      "name": "trip_4-epd_ethyl-pentedrone",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-epd",
+        "ethyl-pentedrone"
+      ],
+      "isomerd_names": null,
+      "dist": 38.2265201883
+    },
+    {
+      "name": "trip_neb",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "neb"
+      ],
+      "isomerd_names": null,
+      "dist": 38.229719782
+    },
+    {
+      "name": "psyc_Ephylone",
+      "psychonaut_names": [
+        "Ephylone"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 38.4111936785
+    },
+    {
+      "name": "trip_4-mpd",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-mpd"
+      ],
+      "isomerd_names": null,
+      "dist": 38.5710981728
+    },
+    {
+      "name": "trip_3-mec",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "3-mec"
+      ],
+      "isomerd_names": null,
+      "dist": 38.5805645492
     }
   ]
 }

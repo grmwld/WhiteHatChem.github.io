@@ -19,7 +19,6 @@
     32.6447535087,
     33.2865422729,
     33.5059699817,
-    33.7950635928,
     33.9293897854,
     33.9760208841,
     33.9765526199,
@@ -28,7 +27,8 @@
     34.3204627743,
     34.4938676332,
     34.69648673,
-    35.1537533836
+    35.1537533836,
+    35.3071725793
   ],
   "indices": [
     244,
@@ -39,17 +39,17 @@
     512,
     550,
     257,
-    684,
-    688,
+    607,
     497,
     552,
     168,
-    686,
-    685,
+    609,
+    608,
     549,
-    671,
+    601,
     487,
-    556
+    556,
+    242
   ],
   "name": "trip_bromadol",
   "svg": "trip_bromadol.svg",
@@ -143,15 +143,6 @@
       "dist": 33.5059699817
     },
     {
-      "name": "isomer_3F-Cyclopropylbenzylfentanyl",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3F-Cyclopropylbenzylfentanyl"
-      ],
-      "dist": 33.7950635928
-    },
-    {
       "name": "trip_oxazolam",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -233,6 +224,17 @@
       ],
       "isomerd_names": null,
       "dist": 35.1537533836
+    },
+    {
+      "name": "psyc_Methoxphenidine_trip_methoxphenidine",
+      "psychonaut_names": [
+        "Methoxphenidine"
+      ],
+      "tripsit_names": [
+        "methoxphenidine"
+      ],
+      "isomerd_names": null,
+      "dist": 35.3071725793
     }
   ]
 }

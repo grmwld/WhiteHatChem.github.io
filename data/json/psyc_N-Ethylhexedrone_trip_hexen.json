@@ -9,25 +9,25 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "hexen",
     "DTXSID101018398",
-    "alpha-ethylaminohexanophenone",
-    "Hexanophenone, 2-(ethylamino)-",
-    "802857-66-5",
     "UNII-TAX3KSX6GY",
-    "Hexen",
-    "Ethyl-hex",
-    "TAX3KSX6GY",
+    "CHEBI:183759",
     "hex-en",
-    "n-ethylhexedrone",
+    "802857-66-5",
+    "Hexanophenone, 2-(ethylamino)-",
+    "TAX3KSX6GY",
     "2-(ethylamino)-1-phenylhexan-1-one",
-    "ethyl-hexedrone",
+    "hexen",
     "n-ethyl-hexedrone",
+    "ethyl-hexedrone",
+    "n-ethylhexedrone",
+    "Ethyl-hex",
+    "N-ethyl-Hexedrone",
+    "Ethyl-hexedrone",
+    "Hexen",
     "NEH",
     "1-Hexanone, 2-(ethylamino)-1-phenyl-",
-    "Ethyl-hexedrone",
-    "N-ethyl-Hexedrone",
-    "CHEBI:183759"
+    "alpha-ethylaminohexanophenone"
   ],
   "distances": [
     5.8999270548,
@@ -46,9 +46,9 @@
     18.3233214813,
     18.7436390577,
     19.481980826,
-    19.7639466308,
-    19.8732548553,
-    20.2473979267
+    20.2473979267,
+    20.4289756986,
+    20.708194397
   ],
   "indices": [
     89,
@@ -67,9 +67,9 @@
     32,
     368,
     340,
-    602,
-    620,
-    102
+    102,
+    66,
+    386
   ],
   "name": "psyc_N-Ethylhexedrone_trip_hexen",
   "svg": "psyc_N-Ethylhexedrone_trip_hexen.svg",
@@ -228,24 +228,6 @@
       "dist": 19.481980826
     },
     {
-      "name": "isomer_4-Cl-Buphedrone",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "4-Cl-Buphedrone"
-      ],
-      "dist": 19.7639466308
-    },
-    {
-      "name": "isomer_2-HO-N-Me-5-EA-\u03b2k",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2-HO-N-Me-5-EA-\u03b2k"
-      ],
-      "dist": 19.8732548553
-    },
-    {
       "name": "psyc_Ephylone",
       "psychonaut_names": [
         "Ephylone"
@@ -253,6 +235,26 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 20.2473979267
+    },
+    {
+      "name": "psyc_Mexedrone_trip_mexedrone",
+      "psychonaut_names": [
+        "Mexedrone"
+      ],
+      "tripsit_names": [
+        "mexedrone"
+      ],
+      "isomerd_names": null,
+      "dist": 20.4289756986
+    },
+    {
+      "name": "trip_5-eapb",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "5-eapb"
+      ],
+      "isomerd_names": null,
+      "dist": 20.708194397
     }
   ]
 }

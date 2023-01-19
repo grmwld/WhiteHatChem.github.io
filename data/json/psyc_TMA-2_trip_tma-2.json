@@ -9,39 +9,39 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "DL-2,4,5-TRIMETHOXYAMPHETAMINE",
-    "2,4,5-TRIMETHOXYAMPHETAMINE, DL-",
-    "Benzeneethanamine,2,4,5-trimethoxy-.alpha.-methyl-(.+/-.)-",
-    "2,4,5-Trimethoxy-.alpha.-methylphenethylamine",
-    "BDBM50005253",
-    "(+/-)1-Methyl-2-(2,4,5-trimethoxy-phenyl)-ethylamine",
-    "1-(2,4,5-trimethoxyphenyl)propan-2-amine",
-    "AKOS000161117",
-    "(+/-)-1-(2,4,5-TRIMETHOXYPHENYL)-2-AMINOPROPANE",
-    "2,4,5-Trimethoxyphenylisopropylamine",
-    "22199-15-1",
-    "BAA08309",
-    "2,4,5-Trimethoxy-alpha-methylbenzeneethanamine",
+    "2,4,5-Trimethoxyamphetamine",
+    "713Z3SL0TJ",
+    "Benzeneethanamine, 2,4,5-trimethoxy-alpha-methyl-, (+-)-",
     "Phenethylamine, alpha-methyl-2,4,5-trimethoxy-",
-    "1-Methyl-2-(2,4,5-trimethoxy-phenyl)-ethylamine",
-    "Phenethylamine, .alpha.-methyl-2,4,5-trimethoxy-",
-    "1083-09-6",
-    "2,4,5-TRIMETHOXYAMPHETAMIN",
-    "SCHEMBL398580",
-    "CHEMBL8389",
     "1-Methyl-2-(2,4,5-trimethoxyphenyl)ethylamine #",
+    "BDBM50005253",
     "Phenethylamine, 2,4,5-trimethoxy-alpha-methyl-",
+    "2,4,5-Trimethoxy-.alpha.-methylphenethylamine",
+    "2,4,5-Trimethoxy-alpha-methylbenzeneethanamine",
+    "AKOS000161117",
+    "SCHEMBL398580",
     "2,4,5-TMA",
     "Benzeneethanamine, 2,4,5-trimethoxy-.alpha.-methyl-",
-    "UNII-713Z3SL0TJ",
-    "J13.143A",
-    "Benzeneethanamine, 2,4,5-trimethoxy-alpha-methyl-, (+-)-",
-    "713Z3SL0TJ",
     "DTXSID00874364",
-    "1-Methyl-2-(2,4,5-trimethoxy-phenyl)-ethylamine(2,4,5-TMA)",
-    "Phenethylamine, 2,4,5-trimethoxy-.alpha.-methyl-",
+    "2,4,5-TRIMETHOXYAMPHETAMIN",
+    "1-Methyl-2-(2,4,5-trimethoxy-phenyl)-ethylamine",
+    "Benzeneethanamine,2,4,5-trimethoxy-.alpha.-methyl-(.+/-.)-",
+    "22199-15-1",
     "2,4,5-Trimethoxy-alpha-methylphenethylamine",
-    "2,4,5-Trimethoxyamphetamine"
+    "2,4,5-TRIMETHOXYAMPHETAMINE, DL-",
+    "1-Methyl-2-(2,4,5-trimethoxy-phenyl)-ethylamine(2,4,5-TMA)",
+    "DL-2,4,5-TRIMETHOXYAMPHETAMINE",
+    "Phenethylamine, .alpha.-methyl-2,4,5-trimethoxy-",
+    "UNII-713Z3SL0TJ",
+    "Phenethylamine, 2,4,5-trimethoxy-.alpha.-methyl-",
+    "1-(2,4,5-trimethoxyphenyl)propan-2-amine",
+    "CHEMBL8389",
+    "2,4,5-Trimethoxyphenylisopropylamine",
+    "1083-09-6",
+    "(+/-)-1-(2,4,5-TRIMETHOXYPHENYL)-2-AMINOPROPANE",
+    "J13.143A",
+    "(+/-)1-Methyl-2-(2,4,5-trimethoxy-phenyl)-ethylamine",
+    "BAA08309"
   ],
   "distances": [
     3.275390625,
@@ -50,19 +50,19 @@
     9.0507825144,
     9.2289502626,
     9.7849550878,
+    11.432117634,
     11.5890827501,
+    11.7348554693,
     11.9385653515,
     12.6539012095,
     12.9002544526,
+    13.0437636634,
     13.0652606,
     13.1605093035,
     13.4420674923,
     13.6172793851,
-    13.6674987416,
     13.7183673779,
-    13.8775242064,
-    13.9827714906,
-    14.5269341079
+    13.8775242064
   ],
   "indices": [
     74,
@@ -71,19 +71,19 @@
     70,
     95,
     399,
+    596,
     40,
+    597,
     92,
     45,
     422,
+    594,
     48,
     380,
     381,
     400,
-    605,
     404,
-    43,
-    114,
-    401
+    43
   ],
   "name": "psyc_TMA-2_trip_tma-2",
   "svg": "psyc_TMA-2_trip_tma-2.svg",
@@ -149,6 +149,15 @@
       "dist": 9.7849550878
     },
     {
+      "name": "isomer_4-Me-2,3-DOM",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "4-Me-2,3-DOM"
+      ],
+      "dist": 11.432117634
+    },
+    {
       "name": "psyc_DOB_trip_dob",
       "psychonaut_names": [
         "DOB"
@@ -158,6 +167,15 @@
       ],
       "isomerd_names": null,
       "dist": 11.5890827501
+    },
+    {
+      "name": "isomer_4,2,3-DOET",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "4,2,3-DOET"
+      ],
+      "dist": 11.7348554693
     },
     {
       "name": "psyc_4C-D",
@@ -185,6 +203,15 @@
       ],
       "isomerd_names": null,
       "dist": 12.9002544526
+    },
+    {
+      "name": "isomer_3,2,4-DOB",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3,2,4-DOB"
+      ],
+      "dist": 13.0437636634
     },
     {
       "name": "psyc_Mescaline_trip_mescaline",
@@ -225,15 +252,6 @@
       "dist": 13.6172793851
     },
     {
-      "name": "isomer_4,2,3-DOB",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "4,2,3-DOB"
-      ],
-      "dist": 13.6674987416
-    },
-    {
       "name": "trip_isoproscaline",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -252,26 +270,6 @@
       ],
       "isomerd_names": null,
       "dist": 13.8775242064
-    },
-    {
-      "name": "psyc_3C-P_trip_3c-p",
-      "psychonaut_names": [
-        "3C-P"
-      ],
-      "tripsit_names": [
-        "3c-p"
-      ],
-      "isomerd_names": null,
-      "dist": 13.9827714906
-    },
-    {
-      "name": "trip_aleph-2",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "aleph-2"
-      ],
-      "isomerd_names": null,
-      "dist": 14.5269341079
     }
   ]
 }

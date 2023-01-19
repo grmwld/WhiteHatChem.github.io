@@ -18,17 +18,17 @@
     13.549780159,
     13.7183673779,
     13.7248049085,
-    13.7469834227,
     13.8518544192,
     14.2668951165,
     14.3992073901,
     14.4873507343,
     14.9233234122,
-    15.4961341221,
+    15.4509263437,
     15.7132400957,
     16.0584859026,
     16.0873460787,
-    16.1180035694
+    16.1538197444,
+    16.40491345
   ],
   "indices": [
     400,
@@ -39,17 +39,17 @@
     114,
     75,
     48,
-    648,
     73,
     402,
     94,
     422,
     399,
-    647,
+    597,
     381,
     70,
     91,
-    641
+    92,
+    69
   ],
   "name": "trip_isoproscaline",
   "svg": "trip_isoproscaline.svg",
@@ -137,15 +137,6 @@
       "dist": 13.7248049085
     },
     {
-      "name": "isomer_1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-ol",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-ol"
-      ],
-      "dist": 13.7469834227
-    },
-    {
       "name": "psyc_TMA-6_trip_tma-6",
       "psychonaut_names": [
         "TMA-6"
@@ -195,13 +186,13 @@
       "dist": 14.9233234122
     },
     {
-      "name": "isomer_2-Amino-1-(2,5-dimethoxy-4-propylphenyl)ethan-1-ol",
+      "name": "isomer_4,2,3-DOET",
       "psychonaut_names": null,
       "tripsit_names": null,
       "isomerd_names": [
-        "2-Amino-1-(2,5-dimethoxy-4-propylphenyl)ethan-1-ol"
+        "4,2,3-DOET"
       ],
-      "dist": 15.4961341221
+      "dist": 15.4509263437
     },
     {
       "name": "trip_bod",
@@ -235,13 +226,24 @@
       "dist": 16.0873460787
     },
     {
-      "name": "isomer_1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-one",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-one"
+      "name": "psyc_4C-D",
+      "psychonaut_names": [
+        "4C-D"
       ],
-      "dist": 16.1180035694
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 16.1538197444
+    },
+    {
+      "name": "psyc_2C-E_trip_2c-e",
+      "psychonaut_names": [
+        "2C-E"
+      ],
+      "tripsit_names": [
+        "2c-e"
+      ],
+      "isomerd_names": null,
+      "dist": 16.40491345
     }
   ]
 }

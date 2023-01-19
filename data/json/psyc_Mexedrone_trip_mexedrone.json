@@ -9,14 +9,14 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "DTXSID401032903",
     "4-mmeoc",
-    "1-Propanone, 3-methoxy-2-(methylamino)-1-(4-methylphenyl)-",
-    "3-methoxy-2-(methylamino)-1-(4-methylphenyl)propan-1-one",
-    "3-Methoxy-2-(methylamino)-1-(4-methylphenyl)-1-propanone",
     "2AFZ6G3X7J",
+    "1-Propanone, 3-methoxy-2-(methylamino)-1-(4-methylphenyl)-",
     "UNII-2AFZ6G3X7J",
-    "2166915-02-0"
+    "DTXSID401032903",
+    "3-methoxy-2-(methylamino)-1-(4-methylphenyl)propan-1-one",
+    "2166915-02-0",
+    "3-Methoxy-2-(methylamino)-1-(4-methylphenyl)-1-propanone"
   ],
   "distances": [
     8.7330336522,
@@ -26,10 +26,8 @@
     11.459239873,
     11.5010402043,
     12.0891968981,
-    12.2162602612,
     12.5572018815,
     12.5851385241,
-    12.6313732415,
     12.8457938468,
     12.8617443993,
     13.1091538457,
@@ -37,7 +35,9 @@
     13.1864076858,
     13.5707577647,
     13.8452731774,
-    13.9235326463
+    13.9235326463,
+    14.1247536967,
+    14.1977754597
   ],
   "indices": [
     343,
@@ -47,10 +47,8 @@
     35,
     34,
     36,
-    602,
     369,
     64,
-    620,
     360,
     63,
     44,
@@ -58,7 +56,9 @@
     340,
     349,
     320,
-    319
+    319,
+    322,
+    321
   ],
   "name": "psyc_Mexedrone_trip_mexedrone",
   "svg": "psyc_Mexedrone_trip_mexedrone.svg",
@@ -133,15 +133,6 @@
       "dist": 12.0891968981
     },
     {
-      "name": "isomer_4-Cl-Buphedrone",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "4-Cl-Buphedrone"
-      ],
-      "dist": 12.2162602612
-    },
-    {
       "name": "trip_3-mec",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -160,15 +151,6 @@
       ],
       "isomerd_names": null,
       "dist": 12.5851385241
-    },
-    {
-      "name": "isomer_2-HO-N-Me-5-EA-\u03b2k",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2-HO-N-Me-5-EA-\u03b2k"
-      ],
-      "dist": 12.6313732415
     },
     {
       "name": "trip_4-fluoropentedrone",
@@ -243,6 +225,24 @@
       ],
       "isomerd_names": null,
       "dist": 13.9235326463
+    },
+    {
+      "name": "trip_3-fmc",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "3-fmc"
+      ],
+      "isomerd_names": null,
+      "dist": 14.1247536967
+    },
+    {
+      "name": "trip_4-fmc",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-fmc"
+      ],
+      "isomerd_names": null,
+      "dist": 14.1977754597
     }
   ]
 }

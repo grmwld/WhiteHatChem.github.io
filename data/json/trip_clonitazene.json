@@ -18,15 +18,15 @@
     31.1257245696,
     31.3663410533,
     32.0949785244,
-    32.3966599992,
     32.430206008,
     33.203125,
     33.6011456249,
     33.7469996496,
     34.2616650841,
-    34.6182250959,
     34.8014948381,
-    34.8308604943
+    34.8308604943,
+    34.8747234812,
+    34.9782123871
   ],
   "indices": [
     259,
@@ -39,15 +39,15 @@
     262,
     496,
     214,
-    687,
     559,
     556,
     550,
     502,
     557,
-    679,
     514,
-    563
+    563,
+    469,
+    257
   ],
   "name": "trip_clonitazene",
   "svg": "trip_clonitazene.svg",
@@ -151,15 +151,6 @@
       "dist": 32.0949785244
     },
     {
-      "name": "isomer_Ethylbenzyl-4CN-BINACA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "Ethylbenzyl-4CN-BINACA"
-      ],
-      "dist": 32.3966599992
-    },
-    {
       "name": "trip_am-2201",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -205,15 +196,6 @@
       "dist": 34.2616650841
     },
     {
-      "name": "isomer_PRL-8-53",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "PRL-8-53"
-      ],
-      "dist": 34.6182250959
-    },
-    {
       "name": "trip_adinazolam",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -230,6 +212,26 @@
       ],
       "isomerd_names": null,
       "dist": 34.8308604943
+    },
+    {
+      "name": "trip_nitracaine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "nitracaine"
+      ],
+      "isomerd_names": null,
+      "dist": 34.8747234812
+    },
+    {
+      "name": "psyc_Fentanyl_trip_fentanyl",
+      "psychonaut_names": [
+        "Fentanyl"
+      ],
+      "tripsit_names": [
+        "fentanyl"
+      ],
+      "isomerd_names": null,
+      "dist": 34.9782123871
     }
   ]
 }

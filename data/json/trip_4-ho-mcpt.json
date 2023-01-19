@@ -9,45 +9,45 @@
   "synonyms": [],
   "distances": [
     31.1847962333,
-    32.2449597109,
-    33.0950059517,
-    33.9695226166,
     34.3421487201,
-    34.3936721305,
-    34.4033530087,
     34.4501610828,
-    34.8569604302,
     34.9177412962,
-    34.9191186692,
-    35.1913748144,
     35.292026006,
-    35.3628754343,
     35.5414728038,
     35.6115825884,
     35.6126914729,
     35.6826904049,
-    35.7398334266
+    35.7398334266,
+    35.756558757,
+    35.8951907876,
+    35.9455137125,
+    35.9521369649,
+    35.9903941584,
+    36.0675314,
+    36.0746550545,
+    36.1780704737,
+    36.2359314025
   ],
   "indices": [
     79,
-    618,
-    654,
-    637,
     353,
-    619,
-    665,
     356,
-    653,
     366,
-    603,
-    638,
     383,
-    592,
     338,
     364,
     51,
     324,
-    61
+    61,
+    37,
+    373,
+    587,
+    30,
+    411,
+    336,
+    342,
+    96,
+    361
   ],
   "name": "trip_4-ho-mcpt",
   "svg": "trip_4-ho-mcpt.svg",
@@ -62,33 +62,6 @@
       "dist": 31.1847962333
     },
     {
-      "name": "isomer_MMAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MMAT"
-      ],
-      "dist": 32.2449597109
-    },
-    {
-      "name": "isomer_EEAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "EEAT"
-      ],
-      "dist": 33.0950059517
-    },
-    {
-      "name": "isomer_PHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "PHAT"
-      ],
-      "dist": 33.9695226166
-    },
-    {
       "name": "trip_mephtetramine",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -96,24 +69,6 @@
       ],
       "isomerd_names": null,
       "dist": 34.3421487201
-    },
-    {
-      "name": "isomer_EHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "EHAT"
-      ],
-      "dist": 34.3936721305
-    },
-    {
-      "name": "isomer_PEAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "PEAT"
-      ],
-      "dist": 34.4033530087
     },
     {
       "name": "trip_metaxalone",
@@ -125,15 +80,6 @@
       "dist": 34.4501610828
     },
     {
-      "name": "isomer_BHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "BHAT"
-      ],
-      "dist": 34.8569604302
-    },
-    {
       "name": "trip_phenetrazine",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -143,24 +89,6 @@
       "dist": 34.9177412962
     },
     {
-      "name": "isomer_MHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MHAT"
-      ],
-      "dist": 34.9191186692
-    },
-    {
-      "name": "isomer_7-[(Propan-2-yl)amino]-5,6,7,8-tetrahydronaphthalen-1-ol",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "7-[(Propan-2-yl)amino]-5,6,7,8-tetrahydronaphthalen-1-ol"
-      ],
-      "dist": 35.1913748144
-    },
-    {
       "name": "trip_glutethimide",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -168,15 +96,6 @@
       ],
       "isomerd_names": null,
       "dist": 35.292026006
-    },
-    {
-      "name": "isomer_HHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "HHAT"
-      ],
-      "dist": 35.3628754343
     },
     {
       "name": "trip_4,4-dmar",
@@ -224,6 +143,93 @@
       ],
       "isomerd_names": null,
       "dist": 35.7398334266
+    },
+    {
+      "name": "psyc_Phenmetrazine_trip_phenmetrazine",
+      "psychonaut_names": [
+        "Phenmetrazine"
+      ],
+      "tripsit_names": [
+        "phenmetrazine"
+      ],
+      "isomerd_names": null,
+      "dist": 35.756558757
+    },
+    {
+      "name": "trip_3,6-dmpm",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "3,6-dmpm"
+      ],
+      "isomerd_names": null,
+      "dist": 35.8951907876
+    },
+    {
+      "name": "trip_pemoline",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "pemoline"
+      ],
+      "isomerd_names": null,
+      "dist": 35.9455137125
+    },
+    {
+      "name": "psyc_3-FPM_trip_3-fpm",
+      "psychonaut_names": [
+        "3-FPM"
+      ],
+      "tripsit_names": [
+        "3-fpm"
+      ],
+      "isomerd_names": null,
+      "dist": 35.9521369649
+    },
+    {
+      "name": "trip_4-ho-mpmi",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-ho-mpmi"
+      ],
+      "isomerd_names": null,
+      "dist": 35.9903941584
+    },
+    {
+      "name": "trip_4-fpm",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-fpm"
+      ],
+      "isomerd_names": null,
+      "dist": 36.0675314
+    },
+    {
+      "name": "trip_isophenmetrazine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "isophenmetrazine"
+      ],
+      "isomerd_names": null,
+      "dist": 36.0746550545
+    },
+    {
+      "name": "psyc_Kava_trip_kava",
+      "psychonaut_names": [
+        "Kava"
+      ],
+      "tripsit_names": [
+        "kava"
+      ],
+      "isomerd_names": null,
+      "dist": 36.1780704737
+    },
+    {
+      "name": "trip_hexobarbital",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "hexobarbital"
+      ],
+      "isomerd_names": null,
+      "dist": 36.2359314025
     }
   ]
 }

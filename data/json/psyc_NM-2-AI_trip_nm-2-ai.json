@@ -9,46 +9,43 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "Z802665896",
-    "EN300-52709",
-    "N-Methyl-2-indanamine",
-    "ZLW84Y27HG",
-    "n-methyl-2-aminoindane",
-    "AKOS005171377",
-    "D86972",
-    "AB18567",
+    "ZINC27860957",
     "STK501614",
+    "NCGC00337276-01",
+    "MFCD12027038",
     "24445-44-1",
-    "DTXSID901010100",
+    "AB01206867-03",
     "ALBB-005169",
+    "AKOS005171377",
+    "DTXSID901010100",
+    "N-2,3-dihydro-1H-inden-2-yl-N-methylamine",
+    "EN300-52709",
+    "N-Methylindan-2-amine",
+    "Indan-2-yl -methyl-amine",
+    "AB18567",
+    "2-(N-methyl)aminoindan",
+    "JPC 6811",
+    "Q20707155",
+    "NM2AI",
+    "2,3-Dihydro-1H-Inden-2-Yl(Methyl)Amine(Saltdata: Hcl)",
+    "ZLW84Y27HG",
+    "INDAN-2-YL-METHYLAMINE",
+    "Z802665896",
+    "1H-Inden-2-amine, 2,3-dihydro-N-methyl-",
+    "N-Methyl-2-indanamine",
+    "N-Methyl-2-aminoindane",
+    "SCHEMBL714537",
+    "N-methyl-2,3-dihydro-1H-inden-2-amine",
+    "n-methyl-2-aminoindane",
+    "D86972",
     "JPC-6811",
     "CHEMBL1188235",
-    "UNII-ZLW84Y27HG",
-    "2,3-Dihydro-1H-Inden-2-Yl(Methyl)Amine(Saltdata: Hcl)",
-    "NM2AI",
-    "2-(N-methyl)aminoindan",
-    "Indan-2-yl -methyl-amine",
-    "MFCD12027038",
-    "NCGC00337276-01",
-    "JPC 6811",
-    "N-Methyl-2-aminoindane",
-    "N-Methylindan-2-amine",
-    "Q20707155",
-    "N-methyl-2,3-dihydro-1H-inden-2-amine",
-    "SCHEMBL714537",
-    "N-2,3-dihydro-1H-inden-2-yl-N-methylamine",
-    "AB01206867-03",
-    "ZINC27860957",
-    "1H-Inden-2-amine, 2,3-dihydro-N-methyl-",
-    "INDAN-2-YL-METHYLAMINE"
+    "UNII-ZLW84Y27HG"
   ],
   "distances": [
-    11.2831887563,
     11.4516973712,
-    15.1771813021,
     15.7715645557,
     16.5449798623,
-    16.6120959231,
     18.0715621866,
     19.5527264735,
     19.8403940322,
@@ -61,15 +58,15 @@
     20.7207891919,
     20.7866262724,
     20.8302399233,
-    20.9977306775
+    20.9977306775,
+    21.2079669593,
+    21.2079669593,
+    21.2805960803
   ],
   "indices": [
-    603,
     308,
-    592,
     584,
     353,
-    619,
     17,
     585,
     342,
@@ -81,21 +78,15 @@
     15,
     362,
     14,
-    591,
-    37
+    590,
+    37,
+    341,
+    33,
+    304
   ],
   "name": "psyc_NM-2-AI_trip_nm-2-ai",
   "svg": "psyc_NM-2-AI_trip_nm-2-ai.svg",
   "sim": [
-    {
-      "name": "isomer_MHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MHAT"
-      ],
-      "dist": 11.2831887563
-    },
     {
       "name": "psyc_2-Aminoindane_trip_2-ai",
       "psychonaut_names": [
@@ -106,15 +97,6 @@
       ],
       "isomerd_names": null,
       "dist": 11.4516973712
-    },
-    {
-      "name": "isomer_HHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "HHAT"
-      ],
-      "dist": 15.1771813021
     },
     {
       "name": "trip_5-iai",
@@ -133,15 +115,6 @@
       ],
       "isomerd_names": null,
       "dist": 16.5449798623
-    },
-    {
-      "name": "isomer_EHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "EHAT"
-      ],
-      "dist": 16.6120959231
     },
     {
       "name": "psyc_Nicotine_trip_nicotine",
@@ -271,6 +244,37 @@
       ],
       "isomerd_names": null,
       "dist": 20.9977306775
+    },
+    {
+      "name": "trip_5-apdb",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "5-apdb"
+      ],
+      "isomerd_names": null,
+      "dist": 21.2079669593
+    },
+    {
+      "name": "psyc_6-APDB_trip_6-apdb",
+      "psychonaut_names": [
+        "6-APDB"
+      ],
+      "tripsit_names": [
+        "6-apdb"
+      ],
+      "isomerd_names": null,
+      "dist": 21.2079669593
+    },
+    {
+      "name": "psyc_Phenethylamine_(compound)_trip_phenethylamine",
+      "psychonaut_names": [
+        "Phenethylamine (compound)"
+      ],
+      "tripsit_names": [
+        "phenethylamine"
+      ],
+      "isomerd_names": null,
+      "dist": 21.2805960803
     }
   ]
 }

@@ -10,14 +10,14 @@
   "isod_ids": null,
   "synonyms": [
     "DOB-DFLY",
-    "BDF",
-    "Bromo-dragonFLY",
-    "bdfly",
-    "bromo-d-fly",
-    "1-(8-Bromofuro[2,3-f][1]benzofuran-4-yl)propan-2-amine",
-    "DOB-dragonFLY",
     "bromo-dragon-fly",
     "B-DFLY",
+    "DOB-dragonFLY",
+    "1-(8-Bromofuro[2,3-f][1]benzofuran-4-yl)propan-2-amine",
+    "BDF",
+    "bromo-d-fly",
+    "bdfly",
+    "Bromo-dragonFLY",
     "dob-dragonfly"
   ],
   "distances": [
@@ -27,9 +27,8 @@
     21.7115334796,
     22.9580451776,
     22.9580451776,
-    23.3085619998,
     23.5512163176,
-    24.7213511491,
+    24.766653912,
     24.780487703,
     25.0568141053,
     25.2934136665,
@@ -39,20 +38,20 @@
     25.6410689423,
     25.663099297,
     25.8648526109,
-    25.9304677967
+    25.9304677967,
+    26.1264834918
   ],
   "indices": [
     27,
     28,
-    386,
     385,
+    386,
     354,
     56,
-    594,
     62,
-    605,
+    594,
     39,
-    601,
+    593,
     387,
     40,
     337,
@@ -60,7 +59,8 @@
     341,
     9,
     31,
-    339
+    339,
+    65
   ],
   "name": "psyc_Bromo-DragonFLY_trip_bromo-dragonfly",
   "svg": "psyc_Bromo-DragonFLY_trip_bromo-dragonfly.svg",
@@ -88,19 +88,19 @@
       "dist": 20.0915795751
     },
     {
-      "name": "trip_5-eapb",
+      "name": "trip_6-eapb",
       "psychonaut_names": null,
       "tripsit_names": [
-        "5-eapb"
+        "6-eapb"
       ],
       "isomerd_names": null,
       "dist": 21.7115334796
     },
     {
-      "name": "trip_6-eapb",
+      "name": "trip_5-eapb",
       "psychonaut_names": null,
       "tripsit_names": [
-        "6-eapb"
+        "5-eapb"
       ],
       "isomerd_names": null,
       "dist": 21.7115334796
@@ -126,15 +126,6 @@
       "dist": 22.9580451776
     },
     {
-      "name": "isomer_2-Br-6-MA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2-Br-6-MA"
-      ],
-      "dist": 23.3085619998
-    },
-    {
       "name": "psyc_5-MeO-aMT_trip_5-meo-amt",
       "psychonaut_names": [
         "5-MeO-aMT"
@@ -146,13 +137,13 @@
       "dist": 23.5512163176
     },
     {
-      "name": "isomer_4,2,3-DOB",
+      "name": "isomer_3,2,4-DOB",
       "psychonaut_names": null,
       "tripsit_names": null,
       "isomerd_names": [
-        "4,2,3-DOB"
+        "3,2,4-DOB"
       ],
-      "dist": 24.7213511491
+      "dist": 24.766653912
     },
     {
       "name": "psyc_MMDA",
@@ -251,6 +242,17 @@
       ],
       "isomerd_names": null,
       "dist": 25.9304677967
+    },
+    {
+      "name": "psyc_MDEA_trip_mdea",
+      "psychonaut_names": [
+        "MDEA"
+      ],
+      "tripsit_names": [
+        "mdea"
+      ],
+      "isomerd_names": null,
+      "dist": 26.1264834918
     }
   ]
 }

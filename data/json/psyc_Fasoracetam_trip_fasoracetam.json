@@ -9,94 +9,94 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "CHEBI:31592",
-    "(r)-1-[(5-oxo-2-pyrrolidinyl)carbonyl]piperidine",
-    "DTXSID9048855",
-    "NS105",
-    "DSSTox_CID_28781",
-    "(+)-1-(((R)-5-Oxo-2-pyrrolidinyl)carbonyl)piperidine",
-    "Tox21_113340",
-    "CHEMBL2106179",
-    "AEVI001",
-    "(5R)-5-(piperidine-1-carbonyl) pyrrolidin-2-one",
-    "2-Pyrrolidinone, 5-(1-piperidinylcarbonyl)-, (5R)-",
-    "(5R)-5-(1-piperidinylcarbonyl)-2-pyrrolidinone",
-    "NFC1 ANHYDROUS",
-    "NS 105 (pharmaceutical)",
     "CAS-110958-19-5",
-    "(R)-5-(piperidine-1-carbonyl)pyrrolidin-2-one",
-    "42O8UF5CJB",
-    "UNII-42O8UF5CJB",
-    "LAM-105 ANHYDROUS",
-    "NCGC00182992-01",
-    "AKOS006280726",
-    "BCP16788",
-    "(5R)-5-(piperidine-1-carbonyl)pyrrolidin-2-one",
-    "(R)-1-((5-Oxo-2-pyrrolidinyl)carbonyl)piperidine",
-    "NS 105",
-    "N-(5-Oxo-D-prolyl)piperidine",
-    "SCHEMBL194770",
-    "4-Methyl-6-trifluoromethylnicotinicacid",
-    "Fasoracetam ;aka NS-105 ;LAM-105)",
     "LAM-105",
+    "110958-19-5",
     "NS-105",
-    "BS-49484",
+    "4-Methyl-6-trifluoromethylnicotinicacid",
+    "LAM-105 ANHYDROUS",
+    "(R)-1-((5-Oxo-2-pyrrolidinyl)carbonyl)piperidine",
+    "AEVI-001",
+    "Tox21_113340",
     "LAM105 ANHYDROUS",
+    "NFC-1 ANHYDROUS",
+    "NCGC00182992-01",
+    "SCHEMBL194770",
+    "DSSTox_CID_28781",
+    "UNII-42O8UF5CJB",
+    "AC-31949",
+    "(+)-1-(((R)-5-Oxo-2-pyrrolidinyl)carbonyl)piperidine",
+    "Q5436839",
+    "NS105",
+    "42O8UF5CJB",
+    "NS 105 (pharmaceutical)",
+    "(5R)-5-(piperidine-1-carbonyl) pyrrolidin-2-one",
+    "BS-49484",
+    "MFCD00875708",
+    "CHEMBL2106179",
+    "Fasoracetam [INN]",
+    "DTXSID9048855",
+    "NS 105",
     "Piperidine, 1-((5-oxo-2-pyrrolidinyl)carbonyl)-, (R)-",
     "ZINC3779713",
+    "CHEBI:31592",
+    "AKOS006280726",
+    "BCP16788",
+    "NFC1 ANHYDROUS",
+    "(R)-5-(piperidine-1-carbonyl)pyrrolidin-2-one",
+    "2-Pyrrolidinone, 5-(1-piperidinylcarbonyl)-, (5R)-",
+    "EX-A736",
+    "(5R)-5-(piperidine-1-carbonyl)pyrrolidin-2-one",
+    "Fasoracetam ;aka NS-105 ;LAM-105)",
+    "AEVI001",
+    "DSSTox_GSID_48855",
+    "(r)-1-[(5-oxo-2-pyrrolidinyl)carbonyl]piperidine",
     "A894820",
     "DSSTox_RID_83050",
-    "MFCD00875708",
-    "DSSTox_GSID_48855",
-    "Fasoracetam [INN]",
-    "EX-A736",
-    "AEVI-001",
-    "AC-31949",
-    "110958-19-5",
-    "NFC-1 ANHYDROUS",
-    "Q5436839"
+    "N-(5-Oxo-D-prolyl)piperidine",
+    "(5R)-5-(1-piperidinylcarbonyl)-2-pyrrolidinone"
   ],
   "distances": [
     22.3901452321,
     24.492320823,
     25.629696597,
-    25.8439247651,
-    26.1615091412,
-    26.1735995234,
     26.6522381213,
     26.8925530886,
     26.9014053148,
     26.9237385092,
     27.001297531,
     27.018572036,
-    27.1366678624,
     27.3090963447,
     27.3989654568,
-    27.5052862462,
     27.6701357708,
     27.7529141382,
-    27.7858215621
+    27.7858215621,
+    27.9090078599,
+    28.0875053891,
+    28.146227883,
+    28.2279582498,
+    28.3420832269
   ],
   "indices": [
     328,
     17,
     24,
-    619,
-    603,
-    592,
     315,
     377,
     110,
     109,
     295,
     362,
-    638,
     376,
     398,
-    637,
     464,
     347,
-    296
+    296,
+    6,
+    485,
+    326,
+    197,
+    413
   ],
   "name": "psyc_Fasoracetam_trip_fasoracetam",
   "svg": "psyc_Fasoracetam_trip_fasoracetam.svg",
@@ -131,33 +131,6 @@
       ],
       "isomerd_names": null,
       "dist": 25.629696597
-    },
-    {
-      "name": "isomer_EHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "EHAT"
-      ],
-      "dist": 25.8439247651
-    },
-    {
-      "name": "isomer_MHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MHAT"
-      ],
-      "dist": 26.1615091412
-    },
-    {
-      "name": "isomer_HHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "HHAT"
-      ],
-      "dist": 26.1735995234
     },
     {
       "name": "psyc_Gabapentin_trip_gabapentin",
@@ -222,15 +195,6 @@
       "dist": 27.018572036
     },
     {
-      "name": "isomer_7-[(Propan-2-yl)amino]-5,6,7,8-tetrahydronaphthalen-1-ol",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "7-[(Propan-2-yl)amino]-5,6,7,8-tetrahydronaphthalen-1-ol"
-      ],
-      "dist": 27.1366678624
-    },
-    {
       "name": "trip_tiletamine",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -247,15 +211,6 @@
       ],
       "isomerd_names": null,
       "dist": 27.3989654568
-    },
-    {
-      "name": "isomer_PHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "PHAT"
-      ],
-      "dist": 27.5052862462
     },
     {
       "name": "trip_rolicyclidine",
@@ -285,6 +240,53 @@
       ],
       "isomerd_names": null,
       "dist": 27.7858215621
+    },
+    {
+      "name": "psyc_MCPP_trip_mcpp",
+      "psychonaut_names": [
+        "MCPP"
+      ],
+      "tripsit_names": [
+        "mcpp"
+      ],
+      "isomerd_names": null,
+      "dist": 27.9090078599
+    },
+    {
+      "name": "trip_5-ppdi",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "5-ppdi"
+      ],
+      "isomerd_names": null,
+      "dist": 28.0875053891
+    },
+    {
+      "name": "trip_4-fpp",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-fpp"
+      ],
+      "isomerd_names": null,
+      "dist": 28.146227883
+    },
+    {
+      "name": "psyc_3-Me-PCPy",
+      "psychonaut_names": [
+        "3-Me-PCPy"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 28.2279582498
+    },
+    {
+      "name": "trip_\u03b1-pbp",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "\u03b1-pbp"
+      ],
+      "isomerd_names": null,
+      "dist": 28.3420832269
     }
   ]
 }

@@ -18,15 +18,15 @@
     16.5741105752,
     17.4074421719,
     18.1736626176,
-    19.5907172817,
     19.8403940322,
     19.9495487937,
     20.0489421917,
     20.0530607175,
-    20.0852461836,
     21.0872906777,
     21.1001625091,
-    21.2166853112
+    21.2377657509,
+    21.2761392828,
+    22.6481329748
   ],
   "indices": [
     37,
@@ -39,15 +39,15 @@
     585,
     362,
     17,
-    592,
     7,
     324,
     347,
     308,
-    603,
     353,
     328,
-    619
+    6,
+    326,
+    584
   ],
   "name": "trip_isophenmetrazine",
   "svg": "trip_isophenmetrazine.svg",
@@ -149,15 +149,6 @@
       "dist": 18.1736626176
     },
     {
-      "name": "isomer_HHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "HHAT"
-      ],
-      "dist": 19.5907172817
-    },
-    {
       "name": "psyc_NM-2-AI_trip_nm-2-ai",
       "psychonaut_names": [
         "NM-2-AI"
@@ -198,15 +189,6 @@
       "dist": 20.0530607175
     },
     {
-      "name": "isomer_MHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MHAT"
-      ],
-      "dist": 20.0852461836
-    },
-    {
       "name": "trip_mephtetramine",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -225,13 +207,33 @@
       "dist": 21.1001625091
     },
     {
-      "name": "isomer_EHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "EHAT"
+      "name": "psyc_MCPP_trip_mcpp",
+      "psychonaut_names": [
+        "MCPP"
       ],
-      "dist": 21.2166853112
+      "tripsit_names": [
+        "mcpp"
+      ],
+      "isomerd_names": null,
+      "dist": 21.2377657509
+    },
+    {
+      "name": "trip_4-fpp",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-fpp"
+      ],
+      "isomerd_names": null,
+      "dist": 21.2761392828
+    },
+    {
+      "name": "trip_5-iai",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "5-iai"
+      ],
+      "isomerd_names": null,
+      "dist": 22.6481329748
     }
   ]
 }

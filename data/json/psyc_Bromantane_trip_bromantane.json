@@ -9,49 +9,42 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "DB-082762",
-    "Z1736662073",
-    "DTXSID40405333",
-    "ZINC2577057",
+    "UNII-N1ILS53XWK",
     "N-(4-Bromophenyl)tricyclo(3.3.1.13,7)decan-2-amine",
-    "Bromantan",
-    "Tricyclo[3.3.1.13,7]decan-2-amine, N-(4-bromophenyl)-",
-    "AS-54469",
-    "N1ILS53XWK",
-    "CHEMBL4303520",
-    "bromontan",
-    "SCHEMBL737152",
-    "N-(2-adamantyl)-N-(p-bromophenyl)-amine",
-    "N-(4-bromophenyl)adamantan-2-amine",
-    "ALBB-035069",
+    "Z1736662073",
     "Q385533",
+    "DTXSID40405333",
+    "N1ILS53XWK",
+    "N-(4-bromophenyl)adamantan-2-amine",
+    "Tricyclo[3.3.1.13,7]decan-2-amine, N-(4-bromophenyl)-",
     "N-(4-bromophenyl)-2-adamantanamine",
-    "Ladasten",
     "BROMANTANE [WHO-DD]",
     "2-(4-Bromophenyl)aminoadamantane",
-    "N-(2-ADAMANTYL)-N-(4-BROMOPHENYL)AMINE",
-    "Tricyclo[3.3.1.13,7]decan-2-amine,N-(4-bromophenyl)-",
-    "AKOS037644786",
-    "87913-26-6",
-    "UNII-N1ILS53XWK",
-    "Tricyclo(3.3.1.13,7)decan-2-amine, N-(4-bromophenyl)-",
+    "Ladasten",
+    "CHEMBL4303520",
+    "N-(2-adamantyl)-N-(p-bromophenyl)-amine",
+    "bromontan",
     "S10385",
-    "A842407",
+    "N-(2-ADAMANTYL)-N-(4-BROMOPHENYL)AMINE",
     "AKOS004120981",
-    "2-bromophenyl-1-amino adamantane"
+    "ZINC2577057",
+    "AKOS037644786",
+    "SCHEMBL737152",
+    "AS-54469",
+    "ALBB-035069",
+    "Bromantan",
+    "A842407",
+    "2-bromophenyl-1-amino adamantane",
+    "DB-082762",
+    "87913-26-6",
+    "Tricyclo[3.3.1.13,7]decan-2-amine,N-(4-bromophenyl)-",
+    "Tricyclo(3.3.1.13,7)decan-2-amine, N-(4-bromophenyl)-"
   ],
   "distances": [
     29.0570244338,
-    29.7453578886,
     31.6855121418,
-    32.4623730504,
-    32.4751632863,
     32.6647006111,
-    32.7427197001,
     32.7429489815,
-    33.1284564824,
-    33.4191154921,
-    33.5051247392,
     34.1908740622,
     35.8446814259,
     35.8451241427,
@@ -59,20 +52,20 @@
     36.0605163558,
     36.1128940031,
     36.1621781009,
-    36.2357124322
+    36.2357124322,
+    36.2572224755,
+    36.507487326,
+    36.6701889658,
+    36.6807516153,
+    36.772286437,
+    36.7936801957,
+    36.8126608257
   ],
   "indices": [
     153,
-    670,
     127,
-    652,
-    635,
     459,
-    615,
     243,
-    633,
-    616,
-    663,
     23,
     336,
     30,
@@ -80,7 +73,14 @@
     484,
     220,
     98,
-    81
+    81,
+    139,
+    109,
+    342,
+    140,
+    410,
+    441,
+    192
   ],
   "name": "psyc_Bromantane_trip_bromantane",
   "svg": "psyc_Bromantane_trip_bromantane.svg",
@@ -97,15 +97,6 @@
       "dist": 29.0570244338
     },
     {
-      "name": "isomer_MRZ_2_180",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MRZ 2/180"
-      ],
-      "dist": 29.7453578886
-    },
-    {
       "name": "psyc_Dichloropane",
       "psychonaut_names": [
         "Dichloropane"
@@ -115,24 +106,6 @@
       "dist": 31.6855121418
     },
     {
-      "name": "isomer_MRZ_2_23",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MRZ 2/23"
-      ],
-      "dist": 32.4623730504
-    },
-    {
-      "name": "isomer_MRZ_2_174",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MRZ 2/174"
-      ],
-      "dist": 32.4751632863
-    },
-    {
       "name": "trip_rti-111",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -140,15 +113,6 @@
       ],
       "isomerd_names": null,
       "dist": 32.6647006111
-    },
-    {
-      "name": "isomer_MRZ_2_188",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MRZ 2/188"
-      ],
-      "dist": 32.7427197001
     },
     {
       "name": "psyc_Ibogaine_Tabernanthe_iboga_(botany)_trip_ibogaine",
@@ -161,33 +125,6 @@
       ],
       "isomerd_names": null,
       "dist": 32.7429489815
-    },
-    {
-      "name": "isomer_MRZ_2_187",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MRZ 2/187"
-      ],
-      "dist": 33.1284564824
-    },
-    {
-      "name": "isomer_MRZ_2_16",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MRZ 2/16"
-      ],
-      "dist": 33.4191154921
-    },
-    {
-      "name": "isomer_MRZ_2_24",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MRZ 2/24"
-      ],
-      "dist": 33.5051247392
     },
     {
       "name": "psyc_Amantadine",
@@ -270,6 +207,77 @@
       ],
       "isomerd_names": null,
       "dist": 36.2357124322
+    },
+    {
+      "name": "psyc_3-MeO-PCE_trip_3-meo-pce",
+      "psychonaut_names": [
+        "3-MeO-PCE"
+      ],
+      "tripsit_names": [
+        "3-meo-pce"
+      ],
+      "isomerd_names": null,
+      "dist": 36.2572224755
+    },
+    {
+      "name": "psyc_PCE_trip_pce",
+      "psychonaut_names": [
+        "PCE"
+      ],
+      "tripsit_names": [
+        "pce"
+      ],
+      "isomerd_names": null,
+      "dist": 36.507487326
+    },
+    {
+      "name": "trip_isophenmetrazine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "isophenmetrazine"
+      ],
+      "isomerd_names": null,
+      "dist": 36.6701889658
+    },
+    {
+      "name": "psyc_O-Desmethyltramadol_trip_o-desmethyltramadol",
+      "psychonaut_names": [
+        "O-Desmethyltramadol"
+      ],
+      "tripsit_names": [
+        "o-desmethyltramadol"
+      ],
+      "isomerd_names": null,
+      "dist": 36.6807516153
+    },
+    {
+      "name": "trip_ethketamine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "ethketamine"
+      ],
+      "isomerd_names": null,
+      "dist": 36.772286437
+    },
+    {
+      "name": "trip_ketobemidone",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "ketobemidone"
+      ],
+      "isomerd_names": null,
+      "dist": 36.7936801957
+    },
+    {
+      "name": "psyc_Cocaine_trip_cocaine",
+      "psychonaut_names": [
+        "Cocaine"
+      ],
+      "tripsit_names": [
+        "cocaine"
+      ],
+      "isomerd_names": null,
+      "dist": 36.8126608257
     }
   ]
 }

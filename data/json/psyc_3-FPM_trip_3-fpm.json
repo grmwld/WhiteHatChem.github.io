@@ -9,31 +9,31 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "3fp",
-    "BCP18587",
-    "3F-Phenmetrazine",
-    "2-(3-fluorophenyl)-3-methylmorpholine",
-    "BEV6RF569G",
-    "3-Fpm",
-    "2-(3-Fluorophenyl)-3-methyl-Morpholine",
-    "Z2379802370",
-    "Q20707008",
-    "PAL-593",
-    "3fpm",
+    "2-(3-luorophenyl)-3-methylmorpholine",
+    "3-fph",
     "Morpholine, 2-(3-fluorophenyl)-3-methyl-",
+    "2-(3-fluorophenyl)-3-methylmorpholine",
     "pal-593",
-    "DTXSID201032414",
+    "3-Fpm",
+    "Q20707008",
+    "1350768-28-3",
+    "SCHEMBL2599533",
+    "BEV6RF569G",
+    "PAL-593",
+    "3F-Phenmetrazine",
+    "3f-p",
+    "PAL 593;PAL593;3-Fluorophenmetrazine; 3-FPM; 3-FPH",
     "UNII-BEV6RF569G",
     "A928061",
-    "3f-phenmetrazine",
-    "CHEBI:191014",
-    "2-(3-luorophenyl)-3-methylmorpholine",
+    "DTXSID201032414",
+    "2-(3-Fluorophenyl)-3-methyl-Morpholine",
+    "BCP18587",
+    "Z2379802370",
+    "3fpm",
     "3-Fluorophenmetrazine",
-    "SCHEMBL2599533",
-    "3f-p",
-    "1350768-28-3",
-    "PAL 593;PAL593;3-Fluorophenmetrazine; 3-FPM; 3-FPH",
-    "3-fph"
+    "CHEBI:191014",
+    "3fp",
+    "3f-phenmetrazine"
   ],
   "distances": [
     1.9697513153,
@@ -50,11 +50,11 @@
     20.7479129339,
     21.0287279088,
     21.2407522387,
-    21.7673544214,
-    21.8475078357,
-    22.2973246111,
     22.6923688388,
-    22.8289471425
+    22.8289471425,
+    23.1527111732,
+    23.6253203517,
+    23.9172615571
   ],
   "indices": [
     336,
@@ -71,11 +71,11 @@
     585,
     6,
     347,
-    603,
-    592,
-    619,
     328,
-    353
+    353,
+    0,
+    7,
+    338
   ],
   "name": "psyc_3-FPM_trip_3-fpm",
   "svg": "psyc_3-FPM_trip_3-fpm.svg",
@@ -213,33 +213,6 @@
       "dist": 21.2407522387
     },
     {
-      "name": "isomer_MHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "MHAT"
-      ],
-      "dist": 21.7673544214
-    },
-    {
-      "name": "isomer_HHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "HHAT"
-      ],
-      "dist": 21.8475078357
-    },
-    {
-      "name": "isomer_EHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "EHAT"
-      ],
-      "dist": 22.2973246111
-    },
-    {
       "name": "trip_cyclo-methiodrone",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -256,6 +229,37 @@
       ],
       "isomerd_names": null,
       "dist": 22.8289471425
+    },
+    {
+      "name": "psyc_MDAI_trip_mdai",
+      "psychonaut_names": [
+        "MDAI"
+      ],
+      "tripsit_names": [
+        "mdai"
+      ],
+      "isomerd_names": null,
+      "dist": 23.1527111732
+    },
+    {
+      "name": "psyc_NM-2-AI_trip_nm-2-ai",
+      "psychonaut_names": [
+        "NM-2-AI"
+      ],
+      "tripsit_names": [
+        "nm-2-ai"
+      ],
+      "isomerd_names": null,
+      "dist": 23.6253203517
+    },
+    {
+      "name": "trip_4,4-dmar",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4,4-dmar"
+      ],
+      "isomerd_names": null,
+      "dist": 23.9172615571
     }
   ]
 }

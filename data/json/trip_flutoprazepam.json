@@ -26,9 +26,9 @@
     23.5047498732,
     23.5362308494,
     23.5535978707,
-    23.5892780841,
     23.7660269217,
-    23.8711905911
+    23.8711905911,
+    23.9710646087
   ],
   "indices": [
     511,
@@ -45,11 +45,11 @@
     169,
     175,
     447,
-    669,
+    600,
     449,
-    678,
     454,
-    685
+    608,
+    455
   ],
   "name": "trip_flutoprazepam",
   "svg": "trip_flutoprazepam.svg",
@@ -215,15 +215,6 @@
       "dist": 23.5535978707
     },
     {
-      "name": "isomer_3-Fluoro_4-ANBP",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3-Fluoro 4-ANBP"
-      ],
-      "dist": 23.5892780841
-    },
-    {
       "name": "trip_medazepam",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -240,6 +231,15 @@
         "Despropionyl 3-FF"
       ],
       "dist": 23.8711905911
+    },
+    {
+      "name": "trip_clotiazepam",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "clotiazepam"
+      ],
+      "isomerd_names": null,
+      "dist": 23.9710646087
     }
   ]
 }

@@ -25,8 +25,8 @@
     23.2181072737,
     23.3094483697,
     23.4394634594,
-    23.4444677143,
-    23.5378087847
+    23.5378087847,
+    23.5456165162
   ],
   "indices": [
     411,
@@ -41,13 +41,13 @@
     519,
     463,
     86,
-    676,
+    603,
     413,
     159,
     377,
     162,
-    653,
-    419
+    419,
+    139
   ],
   "name": "trip_5-meo-pyr-t",
   "svg": "trip_5-meo-pyr-t.svg",
@@ -216,15 +216,6 @@
       "dist": 23.4394634594
     },
     {
-      "name": "isomer_BHAT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "BHAT"
-      ],
-      "dist": 23.4444677143
-    },
-    {
       "name": "trip_5-meo-met",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -232,6 +223,17 @@
       ],
       "isomerd_names": null,
       "dist": 23.5378087847
+    },
+    {
+      "name": "psyc_3-MeO-PCE_trip_3-meo-pce",
+      "psychonaut_names": [
+        "3-MeO-PCE"
+      ],
+      "tripsit_names": [
+        "3-meo-pce"
+      ],
+      "isomerd_names": null,
+      "dist": 23.5456165162
     }
   ]
 }

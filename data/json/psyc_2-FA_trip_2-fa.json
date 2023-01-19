@@ -9,32 +9,32 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "1-(2-FLUOROPHENYL)-2-PROPYLAMINE",
-    "2-fluoroamphetamine",
-    "DTXSID30938009",
-    "Benzeneethanamine,2-fluoro-a-methyl-",
-    "Q4029768",
-    "BRN 2082933",
-    "o-Fluoro-alpha-methylphenethylamine",
-    "2F-AMP",
-    "2-FLUORO-.ALPHA.-METHYLBENZENEETHANAMINE",
-    "AKOS000163127",
-    "SCHEMBL2563200",
-    "AKOS022196415",
-    "2-fmp",
-    "1716-60-5",
-    "N10828",
-    "2fa",
-    "Benzeneethanamine, 2-fluoro-.alpha.-methyl-",
-    "A1-19081",
-    "2-Fluoroamphetamine",
-    "EN300-53046",
     "UNII-V8Q7K3989D",
     "o-Fluoro-a-methylphenethylamine",
-    "Phenethylamine, o-fluoro-alpha-methyl-",
+    "DTXSID30938009",
+    "EN300-53046",
     "V8Q7K3989D",
+    "1-(2-FLUOROPHENYL)-2-PROPYLAMINE",
+    "Benzeneethanamine,2-fluoro-a-methyl-",
+    "o-Fluoro-alpha-methylphenethylamine",
+    "PHENETHYLAMINE, O-FLUORO-.ALPHA.-METHYL-",
+    "2F-AMP",
+    "2-Fluoroamphetamine",
+    "AKOS000163127",
     "1-(2-fluorophenyl)propan-2-amine",
-    "PHENETHYLAMINE, O-FLUORO-.ALPHA.-METHYL-"
+    "2-FLUORO-.ALPHA.-METHYLBENZENEETHANAMINE",
+    "AKOS022196415",
+    "2-fmp",
+    "Q4029768",
+    "2-fluoroamphetamine",
+    "BRN 2082933",
+    "A1-19081",
+    "Benzeneethanamine, 2-fluoro-.alpha.-methyl-",
+    "SCHEMBL2563200",
+    "1716-60-5",
+    "2fa",
+    "Phenethylamine, o-fluoro-alpha-methyl-",
+    "N10828"
   ],
   "distances": [
     3.7207326012,
@@ -43,7 +43,6 @@
     8.4127172388,
     12.0179271303,
     12.0991501691,
-    12.2653718376,
     12.68943614,
     12.837486949,
     12.837486949,
@@ -55,19 +54,19 @@
     14.424798572,
     14.5757132249,
     14.6090287601,
-    14.7199022364
+    14.7199022364,
+    14.8102546632
   ],
   "indices": [
     310,
     311,
     314,
     332,
-    601,
+    593,
     15,
-    691,
     13,
-    28,
     27,
+    28,
     14,
     337,
     333,
@@ -76,7 +75,8 @@
     31,
     41,
     329,
-    580
+    580,
+    346
   ],
   "name": "psyc_2-FA_trip_2-fa",
   "svg": "psyc_2-FA_trip_2-fa.svg",
@@ -145,15 +145,6 @@
       "dist": 12.0991501691
     },
     {
-      "name": "isomer_2,6-DCA",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2,6-DCA"
-      ],
-      "dist": 12.2653718376
-    },
-    {
       "name": "psyc_3-FMA_trip_3-fma",
       "psychonaut_names": [
         "3-FMA"
@@ -165,23 +156,23 @@
       "dist": 12.68943614
     },
     {
-      "name": "psyc_5-APB_trip_5-apb",
-      "psychonaut_names": [
-        "5-APB"
-      ],
-      "tripsit_names": [
-        "5-apb"
-      ],
-      "isomerd_names": null,
-      "dist": 12.837486949
-    },
-    {
       "name": "psyc_6-APB_trip_6-apb",
       "psychonaut_names": [
         "6-APB"
       ],
       "tripsit_names": [
         "6-apb"
+      ],
+      "isomerd_names": null,
+      "dist": 12.837486949
+    },
+    {
+      "name": "psyc_5-APB_trip_5-apb",
+      "psychonaut_names": [
+        "5-APB"
+      ],
+      "tripsit_names": [
+        "5-apb"
       ],
       "isomerd_names": null,
       "dist": 12.837486949
@@ -276,6 +267,15 @@
       ],
       "isomerd_names": null,
       "dist": 14.7199022364
+    },
+    {
+      "name": "trip_4-fea",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-fea"
+      ],
+      "isomerd_names": null,
+      "dist": 14.8102546632
     }
   ]
 }

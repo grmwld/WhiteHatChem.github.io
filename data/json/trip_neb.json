@@ -21,14 +21,14 @@
     11.6433629855,
     11.6469624108,
     11.6676862725,
-    11.9146240902,
     12.611387865,
     12.8689964149,
     13.720450537,
     13.8386441496,
     13.8695657072,
     14.1619777923,
-    14.2237987903
+    14.2237987903,
+    15.28039823
   ],
   "indices": [
     89,
@@ -42,14 +42,14 @@
     88,
     395,
     368,
-    602,
     111,
     360,
     420,
     42,
     390,
     41,
-    346
+    346,
+    36
   ],
   "name": "trip_neb",
   "svg": "trip_neb.svg",
@@ -162,15 +162,6 @@
       "dist": 11.6676862725
     },
     {
-      "name": "isomer_4-Cl-Buphedrone",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "4-Cl-Buphedrone"
-      ],
-      "dist": 11.9146240902
-    },
-    {
       "name": "psyc_N-Ethylhexedrone_trip_hexen",
       "psychonaut_names": [
         "N-Ethylhexedrone"
@@ -239,6 +230,17 @@
       ],
       "isomerd_names": null,
       "dist": 14.2237987903
+    },
+    {
+      "name": "psyc_2-MMC_trip_2-mmc",
+      "psychonaut_names": [
+        "2-MMC"
+      ],
+      "tripsit_names": [
+        "2-mmc"
+      ],
+      "isomerd_names": null,
+      "dist": 15.28039823
     }
   ]
 }
