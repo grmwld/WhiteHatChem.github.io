@@ -1,0 +1,136 @@
+{
+  "inchi": "InChI=1S/C19H27NO/c1-13(2)7-9-20-10-8-19(4)14(3)18(20)11-15-5-6-16(21)12-17(15)19/h5-7,12,14,18,21H,8-11H2,1-4H3/t14-,18+,19+/m0/s1",
+  "psychonaut_name": null,
+  "tripsit_name": "pentazocine",
+  "synonyms": [
+    "talwin"
+  ],
+  "distances": [
+    27.5420222257,
+    27.5546409838,
+    27.5546409838,
+    28.2785478681,
+    28.2785478681,
+    28.5468162031,
+    28.6401167355,
+    28.7496911074,
+    28.7496911074,
+    28.8568200683,
+    28.8568200683,
+    29.2084436201,
+    30.0830606746,
+    30.0830606746,
+    30.0912217834
+  ],
+  "indices": [
+    142,
+    388,
+    189,
+    188,
+    675,
+    183,
+    376,
+    827,
+    151,
+    145,
+    642,
+    404,
+    250,
+    623,
+    566
+  ],
+  "name": "trip_pentazocine",
+  "svg": "trip_pentazocine.svg",
+  "sim": [
+    {
+      "name": "psyc_Desomorphine",
+      "psychonaut_name": "Desomorphine",
+      "tripsit_name": null,
+      "dist": 27.5420222257
+    },
+    {
+      "name": "trip_hydromorphone",
+      "psychonaut_name": null,
+      "tripsit_name": "hydromorphone",
+      "dist": 27.5546409838
+    },
+    {
+      "name": "psyc_Hydromorphone",
+      "psychonaut_name": "Hydromorphone",
+      "tripsit_name": null,
+      "dist": 27.5546409838
+    },
+    {
+      "name": "psyc_Hydrocodone",
+      "psychonaut_name": "Hydrocodone",
+      "tripsit_name": null,
+      "dist": 28.2785478681
+    },
+    {
+      "name": "trip_hydrocodone",
+      "psychonaut_name": null,
+      "tripsit_name": "hydrocodone",
+      "dist": 28.2785478681
+    },
+    {
+      "name": "psyc_Galantamine",
+      "psychonaut_name": "Galantamine",
+      "tripsit_name": null,
+      "dist": 28.5468162031
+    },
+    {
+      "name": "trip_6-mddm",
+      "psychonaut_name": null,
+      "tripsit_name": "6-mddm",
+      "dist": 28.6401167355
+    },
+    {
+      "name": "trip_dihydrocodeine",
+      "psychonaut_name": null,
+      "tripsit_name": "dihydrocodeine",
+      "dist": 28.7496911074
+    },
+    {
+      "name": "psyc_Dihydrocodeine",
+      "psychonaut_name": "Dihydrocodeine",
+      "tripsit_name": null,
+      "dist": 28.7496911074
+    },
+    {
+      "name": "psyc_Dextromethorphan",
+      "psychonaut_name": "Dextromethorphan",
+      "tripsit_name": null,
+      "dist": 28.8568200683
+    },
+    {
+      "name": "trip_dxm",
+      "psychonaut_name": null,
+      "tripsit_name": "dxm",
+      "dist": 28.8568200683
+    },
+    {
+      "name": "trip_marinol",
+      "psychonaut_name": null,
+      "tripsit_name": "marinol",
+      "dist": 29.2084436201
+    },
+    {
+      "name": "psyc_O-Desmethyltramadol",
+      "psychonaut_name": "O-Desmethyltramadol",
+      "tripsit_name": null,
+      "dist": 30.0830606746
+    },
+    {
+      "name": "trip_o-desmethyltramadol",
+      "psychonaut_name": null,
+      "tripsit_name": "o-desmethyltramadol",
+      "dist": 30.0830606746
+    },
+    {
+      "name": "trip_ketobemidone",
+      "psychonaut_name": null,
+      "tripsit_name": "ketobemidone",
+      "dist": 30.0912217834
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "inchi": "InChI=1S/C18H22ClNO3/c1-21-16-7-5-4-6-14(16)12-20-9-8-13-10-18(23-3)15(19)11-17(13)22-2/h4-7,10-11,20H,8-9,12H2,1-3H3",
+  "psychonaut_name": null,
+  "tripsit_name": "25c-nbome",
+  "synonyms": [
+    "25c",
+    "2c-nbome"
+  ],
+  "distances": [
+    3.8147e-06,
+    7.6043130382,
+    7.6043130382,
+    8.2912288787,
+    8.2912288787,
+    8.6730028124,
+    8.6730028124,
+    10.7443236512,
+    10.7443236512,
+    10.8038584846,
+    11.303294446,
+    11.303294446,
+    12.8504089765,
+    13.2411648066,
+    14.1115566861
+  ],
+  "indices": [
+    20,
+    21,
+    365,
+    661,
+    23,
+    18,
+    702,
+    19,
+    505,
+    438,
+    25,
+    742,
+    22,
+    511,
+    503
+  ],
+  "name": "trip_25c-nbome",
+  "svg": "trip_25c-nbome.svg",
+  "sim": [
+    {
+      "name": "psyc_25C-NBOMe",
+      "psychonaut_name": "25C-NBOMe",
+      "tripsit_name": null,
+      "dist": 3.8147e-06
+    },
+    {
+      "name": "psyc_25D-NBOMe",
+      "psychonaut_name": "25D-NBOMe",
+      "tripsit_name": null,
+      "dist": 7.6043130382
+    },
+    {
+      "name": "trip_25d-nbome",
+      "psychonaut_name": null,
+      "tripsit_name": "25d-nbome",
+      "dist": 7.6043130382
+    },
+    {
+      "name": "trip_25h-nbome",
+      "psychonaut_name": null,
+      "tripsit_name": "25h-nbome",
+      "dist": 8.2912288787
+    },
+    {
+      "name": "psyc_25H-NBOMe",
+      "psychonaut_name": "25H-NBOMe",
+      "tripsit_name": null,
+      "dist": 8.2912288787
+    },
+    {
+      "name": "psyc_25B-NBOMe",
+      "psychonaut_name": "25B-NBOMe",
+      "tripsit_name": null,
+      "dist": 8.6730028124
+    },
+    {
+      "name": "trip_25b-nbome",
+      "psychonaut_name": null,
+      "tripsit_name": "25b-nbome",
+      "dist": 8.6730028124
+    },
+    {
+      "name": "psyc_25C-NBOH",
+      "psychonaut_name": "25C-NBOH",
+      "tripsit_name": null,
+      "dist": 10.7443236512
+    },
+    {
+      "name": "trip_25c-nboh",
+      "psychonaut_name": null,
+      "tripsit_name": "25c-nboh",
+      "dist": 10.7443236512
+    },
+    {
+      "name": "trip_25e-nbome",
+      "psychonaut_name": null,
+      "tripsit_name": "25e-nbome",
+      "dist": 10.8038584846
+    },
+    {
+      "name": "psyc_25I-NBOMe",
+      "psychonaut_name": "25I-NBOMe",
+      "tripsit_name": null,
+      "dist": 11.303294446
+    },
+    {
+      "name": "trip_25i-nbome",
+      "psychonaut_name": null,
+      "tripsit_name": "25i-nbome",
+      "dist": 11.303294446
+    },
+    {
+      "name": "psyc_25E-NBOH",
+      "psychonaut_name": "25E-NBOH",
+      "tripsit_name": null,
+      "dist": 12.8504089765
+    },
+    {
+      "name": "trip_25g-nbome",
+      "psychonaut_name": null,
+      "tripsit_name": "25g-nbome",
+      "dist": 13.2411648066
+    },
+    {
+      "name": "trip_25b-nboh",
+      "psychonaut_name": null,
+      "tripsit_name": "25b-nboh",
+      "dist": 14.1115566861
+    }
+  ]
+}

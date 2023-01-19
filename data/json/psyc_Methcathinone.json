@@ -1,0 +1,188 @@
+{
+  "inchi": "InChI=1S/C10H13NO/c1-8(11-2)10(12)9-6-4-3-5-7-9/h3-8,11H,1-2H3",
+  "psychonaut_name": "Methcathinone",
+  "tripsit_name": null,
+  "synonyms": [
+    "cosmos",
+    "2-Methylamino-1-phenylpropanone",
+    "NINDS_000966",
+    "2-(Methylamino)-1-phenyl-1-propanone",
+    "Methacathinone (+-)",
+    "NSC_1576",
+    "DB15339",
+    "AKOS015960612",
+    "CHEBI:149677",
+    "KBio1_000966",
+    "alpha-(Methylamino)propiophenone",
+    "AL-422",
+    "Monomethylpropion",
+    "METHCATHINONE [MI]",
+    "DivK1c_000966",
+    "alpha-Methylaminopropiophenone",
+    "J31.084K",
+    "Ephedrone",
+    "N-Methylcathinone",
+    "UR 1432",
+    "\u03b1-Methylaminopropiophenone",
+    ".alpha.-Methylaminopropiophenone",
+    "METHCATH",
+    "2-(Methylamino)-1-phenylpropan-1-one",
+    "1-PROPANONE, 2-(METHYLAMINO)-1-PHENYL-",
+    "UR-1431",
+    "Jee cocktail",
+    "Methcathinone",
+    "5650-44-2",
+    "(+/-)-Methcathinone",
+    "AL-463",
+    "EINECS 227-092-7",
+    "DTXSID30863589",
+    "SCHEMBL497486",
+    "Methcathinone (unspecified)",
+    "AL-464",
+    "IDI1_000966",
+    "Methcathinone, (-)",
+    "2-(Methylamino)-1-phenyl-1-propanone #",
+    "386QA522QG",
+    "BDBM86285",
+    "methylaminopropiophenone",
+    "alpha-N-Methylaminopropiophenone",
+    "UNII-386QA522QG",
+    "Methylcathinone",
+    "CAS_1576",
+    "DEA No. 1237",
+    "2-(Methylamino)propiophenone",
+    "1-phenyl-2-methylamino-1-propanone",
+    "Q420643",
+    "CHEMBL4070364",
+    "2-methylamino-1-phenylpropan-1-one",
+    "1-PHENYL-1-OXO-2-METHYLAMINOPROPANE"
+  ],
+  "distances": [
+    7.2985093045,
+    7.2985093045,
+    7.6058050472,
+    7.6058050472,
+    7.6885320699,
+    7.6885320699,
+    7.9459606345,
+    7.9492209095,
+    7.987626998,
+    8.4945185321,
+    8.5037456562,
+    9.925252793,
+    9.925252793,
+    10.6638947303,
+    10.6638947303
+  ],
+  "indices": [
+    580,
+    16,
+    547,
+    218,
+    377,
+    48,
+    760,
+    630,
+    372,
+    750,
+    384,
+    808,
+    156,
+    684,
+    223
+  ],
+  "name": "psyc_Methcathinone",
+  "svg": "psyc_Methcathinone.svg",
+  "sim": [
+    {
+      "name": "trip_2-mmc",
+      "psychonaut_name": null,
+      "tripsit_name": "2-mmc",
+      "dist": 7.2985093045
+    },
+    {
+      "name": "psyc_2-MMC",
+      "psychonaut_name": "2-MMC",
+      "tripsit_name": null,
+      "dist": 7.2985093045
+    },
+    {
+      "name": "trip_mephedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "mephedrone",
+      "dist": 7.6058050472
+    },
+    {
+      "name": "psyc_Mephedrone",
+      "psychonaut_name": "Mephedrone",
+      "tripsit_name": null,
+      "dist": 7.6058050472
+    },
+    {
+      "name": "trip_3-mmc",
+      "psychonaut_name": null,
+      "tripsit_name": "3-mmc",
+      "dist": 7.6885320699
+    },
+    {
+      "name": "psyc_3-MMC",
+      "psychonaut_name": "3-MMC",
+      "tripsit_name": null,
+      "dist": 7.6885320699
+    },
+    {
+      "name": "trip_4-cmc",
+      "psychonaut_name": null,
+      "tripsit_name": "4-cmc",
+      "dist": 7.9459606345
+    },
+    {
+      "name": "trip_3-cmc",
+      "psychonaut_name": null,
+      "tripsit_name": "3-cmc",
+      "dist": 7.9492209095
+    },
+    {
+      "name": "trip_buphedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "buphedrone",
+      "dist": 7.987626998
+    },
+    {
+      "name": "trip_4-fmc",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fmc",
+      "dist": 8.4945185321
+    },
+    {
+      "name": "trip_3-fmc",
+      "psychonaut_name": null,
+      "tripsit_name": "3-fmc",
+      "dist": 8.5037456562
+    },
+    {
+      "name": "trip_ethylcathinone",
+      "psychonaut_name": null,
+      "tripsit_name": "ethylcathinone",
+      "dist": 9.925252793
+    },
+    {
+      "name": "psyc_ETH-CAT",
+      "psychonaut_name": "ETH-CAT",
+      "tripsit_name": null,
+      "dist": 9.925252793
+    },
+    {
+      "name": "trip_methamphetamine",
+      "psychonaut_name": null,
+      "tripsit_name": "methamphetamine",
+      "dist": 10.6638947303
+    },
+    {
+      "name": "psyc_Methamphetamine",
+      "psychonaut_name": "Methamphetamine",
+      "tripsit_name": null,
+      "dist": 10.6638947303
+    }
+  ]
+}

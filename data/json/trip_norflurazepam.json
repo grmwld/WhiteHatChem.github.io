@@ -1,0 +1,136 @@
+{
+  "inchi": "InChI=1S/C15H10ClFN2O/c16-9-5-6-13-11(7-9)15(18-8-14(20)19-13)10-3-1-2-4-12(10)17/h1-7H,8H2,(H,19,20)",
+  "psychonaut_name": null,
+  "tripsit_name": "norflurazepam",
+  "synonyms": [
+    "n-desalkylflurazepam"
+  ],
+  "distances": [
+    6.8041526681,
+    8.0848278224,
+    8.474461055,
+    8.474461055,
+    8.5584422054,
+    8.5584422054,
+    13.1161602952,
+    17.3571167171,
+    17.3571167171,
+    17.503680033,
+    17.503680033,
+    17.5592850427,
+    17.6185862457,
+    17.8494066669,
+    17.9643617264
+  ],
+  "indices": [
+    725,
+    442,
+    269,
+    439,
+    615,
+    174,
+    527,
+    600,
+    148,
+    605,
+    150,
+    774,
+    719,
+    653,
+    203
+  ],
+  "name": "trip_norflurazepam",
+  "svg": "trip_norflurazepam.svg",
+  "sim": [
+    {
+      "name": "trip_delorazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "delorazepam",
+      "dist": 6.8041526681
+    },
+    {
+      "name": "trip_nordazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "nordazepam",
+      "dist": 8.0848278224
+    },
+    {
+      "name": "psyc_Phenazepam",
+      "psychonaut_name": "Phenazepam",
+      "tripsit_name": null,
+      "dist": 8.474461055
+    },
+    {
+      "name": "trip_phenazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "phenazepam",
+      "dist": 8.474461055
+    },
+    {
+      "name": "trip_flubromazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "flubromazepam",
+      "dist": 8.5584422054
+    },
+    {
+      "name": "psyc_Flubromazepam",
+      "psychonaut_name": "Flubromazepam",
+      "tripsit_name": null,
+      "dist": 8.5584422054
+    },
+    {
+      "name": "trip_bromazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "bromazepam",
+      "dist": 13.1161602952
+    },
+    {
+      "name": "trip_diazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "diazepam",
+      "dist": 17.3571167171
+    },
+    {
+      "name": "psyc_Diazepam",
+      "psychonaut_name": "Diazepam",
+      "tripsit_name": null,
+      "dist": 17.3571167171
+    },
+    {
+      "name": "trip_diclazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "diclazepam",
+      "dist": 17.503680033
+    },
+    {
+      "name": "psyc_Diclazepam",
+      "psychonaut_name": "Diclazepam",
+      "tripsit_name": null,
+      "dist": 17.503680033
+    },
+    {
+      "name": "trip_desmethylflunitrazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "desmethylflunitrazepam",
+      "dist": 17.5592850427
+    },
+    {
+      "name": "trip_oxazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "oxazepam",
+      "dist": 17.6185862457
+    },
+    {
+      "name": "trip_4-chlorodiazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "4-chlorodiazepam",
+      "dist": 17.8494066669
+    },
+    {
+      "name": "psyc_Lorazepam",
+      "psychonaut_name": "Lorazepam",
+      "tripsit_name": null,
+      "dist": 17.9643617264
+    }
+  ]
+}

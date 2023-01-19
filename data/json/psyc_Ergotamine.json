@@ -1,0 +1,194 @@
+{
+  "inchi": "InChI=1S/C33H35N5O5/c1-32(35-29(39)21-15-23-22-10-6-11-24-28(22)20(17-34-24)16-25(23)36(2)18-21)31(41)38-26(14-19-8-4-3-5-9-19)30(40)37-13-7-12-27(37)33(38,42)43-32/h3-6,8-11,15,17,21,25-27,34,42H,7,12-14,16,18H2,1-2H3,(H,35,39)/t21-,25-,26+,27+,32-,33+/m1/s1",
+  "psychonaut_name": "Ergotamine",
+  "tripsit_name": null,
+  "synonyms": [
+    "HMS2089H22",
+    "ERGOTAMINE [INN]",
+    "ERGOTAMINE [HSDB]",
+    "Ergomar",
+    "(4R,7R)-N-[(1S,2S,4R,7S)-7-benzyl-2-hydroxy-4-methyl-5,8-dioxo-3-oxa-6,9-diazatricyclo[7.3.0.0^{2,6}]dodecan-4-yl]-6-methyl-6,11-diazatetracyclo[7.6.1.0^{2,7}.0^{12,16}]hexadeca-1(16),2,9,12,14-pentaene-4-carboxamide",
+    "Ergotamine tartrate, Avetol, Cornutamin, Ergam, Ergotartrate",
+    "(5'alpha)-5'-benzyl-12'-hydroxy-2'-methyl-3',6',18-trioxoergotaman",
+    "DB00696",
+    "NCGC00356592-02",
+    "(5alpha,5'beta)-5'-benzyl-12'-hydroxy-2'-methyl-3',6',18-trioxoergotaman",
+    "DTXSID9043774",
+    "ERM",
+    "Ergotamin",
+    "Ergostat",
+    "CHEBI:64318",
+    "EINECS 204-023-9",
+    "DHE",
+    "(5''alpha)-5''-benzyl-12''-hydroxy-2''-methyl-3'',6'',18-trioxoergotaman",
+    "Ergotaman-3',6',18-trione, 12'-hydroxy-2'-methyl-5'-(phenylmethyl)-, (5'-alpha)-",
+    "NSC-95090",
+    "Ergotaman-3',6',18-trione, 12'-hydroxy-2'-methyl-5'-(phenylmethyl)-, (5'alpha)-, (2R,3R)-2,3-dihydroxybutanedioate (2:1) (salt)",
+    "BDBM50027065",
+    "PR834Q503T",
+    "Ergotamina",
+    "ERGOTAMINE",
+    "Ergotamine [INN:BAN]",
+    "Ergotamine (INN)",
+    "(5'alpha)-12'-Hydroxy-2'-methyl-5'-(phenylmethyl)ergotoman-3',6',18-trione",
+    "BRN 0078890",
+    "ERGOTAMINE [WHO-DD]",
+    "Ergotamina [INN-Spanish]",
+    "Rigetamin",
+    "N-[(2R,5S,10aS,10bS)-5-benzyl-10b-hydroxy-2-methyl-3,6-dioxo-8,9,10,10a-tetrahydro-5H-oxazolo[[?]]pyrrolo[[?]]pyrazin-2-yl]-methyl-[?]carboxamide",
+    "Q419186",
+    "12''-hydroxy-2''-methyl-5''alpha-(phenylmethyl)ergotaman-3'',6'',18-trione",
+    "Gynergen",
+    "GTPL149",
+    "Ergonsvine",
+    "1080650-16-3",
+    "HSDB 4076",
+    "ZINC52955754",
+    "AB01275473-01",
+    "113-15-5",
+    "AKOS015896505",
+    "ERGOTAMINE [VANDF]",
+    "SCHEMBL1483",
+    "Ergotamine bitartrate",
+    "ergotaminum",
+    "UNII-PR834Q503T",
+    "ERGOTAMINE [MI]",
+    "Ergotamine",
+    "12'-Hydroxy-2'-methyl-5'alpha-(phenylmethyl)ergotaman-3',6',18-trione",
+    "NSC 95090",
+    "CHEMBL442",
+    "ergotamine tartrate",
+    "379-79-3",
+    "Ergotaminum [INN-Latin]",
+    "D07906",
+    "(5''alpha)-12''-hydroxy-2''-methyl-5''-(phenylmethyl)ergotoman-3'',6'',18-trione"
+  ],
+  "distances": [
+    49.3596495125,
+    64.0858227362,
+    65.2268726973,
+    65.5713359453,
+    65.991661701,
+    66.7302573507,
+    67.3248886,
+    67.3248886,
+    67.7693266945,
+    68.9395363197,
+    68.9395363197,
+    69.0368129549,
+    69.5269169998,
+    69.8761739615,
+    69.9319877464
+  ],
+  "indices": [
+    646,
+    513,
+    374,
+    9,
+    331,
+    7,
+    578,
+    8,
+    532,
+    114,
+    393,
+    116,
+    515,
+    292,
+    454
+  ],
+  "name": "psyc_Ergotamine",
+  "svg": "psyc_Ergotamine.svg",
+  "sim": [
+    {
+      "name": "trip_nicomorphine",
+      "psychonaut_name": null,
+      "tripsit_name": "nicomorphine",
+      "dist": 49.3596495125
+    },
+    {
+      "name": "trip_cialis",
+      "psychonaut_name": null,
+      "tripsit_name": "cialis",
+      "dist": 64.0858227362
+    },
+    {
+      "name": "trip_aminotadalafil",
+      "psychonaut_name": null,
+      "tripsit_name": "aminotadalafil",
+      "dist": 65.2268726973
+    },
+    {
+      "name": "psyc_1cP-MiPLA",
+      "psychonaut_name": "1cP-MiPLA",
+      "tripsit_name": null,
+      "dist": 65.5713359453
+    },
+    {
+      "name": "trip_benzodioxole-fentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "benzodioxole-fentanyl",
+      "dist": 65.991661701
+    },
+    {
+      "name": "psyc_1cP-AL-LAD",
+      "psychonaut_name": "1cP-AL-LAD",
+      "tripsit_name": null,
+      "dist": 66.7302573507
+    },
+    {
+      "name": "trip_1cp-lsd",
+      "psychonaut_name": null,
+      "tripsit_name": "1cp-lsd",
+      "dist": 67.3248886
+    },
+    {
+      "name": "psyc_1cP-LSD",
+      "psychonaut_name": "1cP-LSD",
+      "tripsit_name": null,
+      "dist": 67.3248886
+    },
+    {
+      "name": "trip_viagra",
+      "psychonaut_name": null,
+      "tripsit_name": "viagra",
+      "dist": 67.7693266945
+    },
+    {
+      "name": "psyc_Buprenorphine",
+      "psychonaut_name": "Buprenorphine",
+      "tripsit_name": null,
+      "dist": 68.9395363197
+    },
+    {
+      "name": "trip_buprenorphine",
+      "psychonaut_name": null,
+      "tripsit_name": "buprenorphine",
+      "dist": 68.9395363197
+    },
+    {
+      "name": "psyc_Cabergoline",
+      "psychonaut_name": "Cabergoline",
+      "tripsit_name": null,
+      "dist": 69.0368129549
+    },
+    {
+      "name": "trip_homosildenafil",
+      "psychonaut_name": null,
+      "tripsit_name": "homosildenafil",
+      "dist": 69.5269169998
+    },
+    {
+      "name": "psyc_Salvinorin B methoxymethyl ether",
+      "psychonaut_name": "Salvinorin B methoxymethyl ether",
+      "tripsit_name": null,
+      "dist": 69.8761739615
+    },
+    {
+      "name": "trip_acetildenafil",
+      "psychonaut_name": null,
+      "tripsit_name": "acetildenafil",
+      "dist": 69.9319877464
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "inchi": "InChI=1S/C12H16FNO/c1-3-4-11(14-2)12(15)9-5-7-10(13)8-6-9/h5-8,11,14H,3-4H2,1-2H3",
+  "psychonaut_name": null,
+  "tripsit_name": "4-fluoropentedrone",
+  "synonyms": [
+    "4-fpd",
+    "4-f-pentedrone",
+    "4f-pentedrone"
+  ],
+  "distances": [
+    8.1420475455,
+    8.4945180831,
+    8.4945180831,
+    9.5904487621,
+    9.5904487621,
+    9.6143244209,
+    11.0028876936,
+    11.0028876936,
+    11.1011113203,
+    12.0889173211,
+    12.3266736858,
+    12.8457938468,
+    12.8457938468,
+    12.8689964149,
+    13.0846623679
+  ],
+  "indices": [
+    655,
+    633,
+    265,
+    549,
+    187,
+    825,
+    375,
+    718,
+    373,
+    372,
+    244,
+    233,
+    473,
+    680,
+    750
+  ],
+  "name": "trip_4-fluoropentedrone",
+  "svg": "trip_4-fluoropentedrone.svg",
+  "sim": [
+    {
+      "name": "trip_4-mpd",
+      "psychonaut_name": null,
+      "tripsit_name": "4-mpd",
+      "dist": 8.1420475455
+    },
+    {
+      "name": "trip_pentedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "pentedrone",
+      "dist": 8.4945180831
+    },
+    {
+      "name": "psyc_Pentedrone",
+      "psychonaut_name": "Pentedrone",
+      "tripsit_name": null,
+      "dist": 8.4945180831
+    },
+    {
+      "name": "trip_hexedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "hexedrone",
+      "dist": 9.5904487621
+    },
+    {
+      "name": "psyc_Hexedrone",
+      "psychonaut_name": "Hexedrone",
+      "tripsit_name": null,
+      "dist": 9.5904487621
+    },
+    {
+      "name": "trip_4f-neb",
+      "psychonaut_name": null,
+      "tripsit_name": "4f-neb",
+      "dist": 9.6143244209
+    },
+    {
+      "name": "trip_4-epd",
+      "psychonaut_name": null,
+      "tripsit_name": "4-epd",
+      "dist": 11.0028876936
+    },
+    {
+      "name": "trip_ethyl-pentedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "ethyl-pentedrone",
+      "dist": 11.0028876936
+    },
+    {
+      "name": "trip_4-emc",
+      "psychonaut_name": null,
+      "tripsit_name": "4-emc",
+      "dist": 11.1011113203
+    },
+    {
+      "name": "trip_buphedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "buphedrone",
+      "dist": 12.0889173211
+    },
+    {
+      "name": "psyc_NEP",
+      "psychonaut_name": "NEP",
+      "tripsit_name": null,
+      "dist": 12.3266736858
+    },
+    {
+      "name": "psyc_Mexedrone",
+      "psychonaut_name": "Mexedrone",
+      "tripsit_name": null,
+      "dist": 12.8457938468
+    },
+    {
+      "name": "trip_mexedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "mexedrone",
+      "dist": 12.8457938468
+    },
+    {
+      "name": "trip_neb",
+      "psychonaut_name": null,
+      "tripsit_name": "neb",
+      "dist": 12.8689964149
+    },
+    {
+      "name": "trip_4-fmc",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fmc",
+      "dist": 13.0846623679
+    }
+  ]
+}

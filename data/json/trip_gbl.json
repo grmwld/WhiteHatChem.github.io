@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C4H6O2/c5-4-2-1-3-6-4/h1-3H2",
+  "psychonaut_name": null,
+  "tripsit_name": "gbl",
+  "synonyms": null,
+  "distances": [
+    6.743e-07,
+    20.7520037683,
+    20.7520037683,
+    21.9783128136,
+    22.6662666435,
+    22.6662666435,
+    22.9290845853,
+    22.9290845853,
+    23.7623438831,
+    24.792785038,
+    25.2918197736,
+    25.2918197736,
+    25.3284852592,
+    25.3484565701,
+    25.4925226955
+  ],
+  "indices": [
+    179,
+    99,
+    546,
+    182,
+    416,
+    11,
+    494,
+    276,
+    757,
+    540,
+    693,
+    245,
+    589,
+    399,
+    39
+  ],
+  "name": "trip_gbl",
+  "svg": "trip_gbl.svg",
+  "sim": [
+    {
+      "name": "psyc_GBL",
+      "psychonaut_name": "GBL",
+      "tripsit_name": null,
+      "dist": 6.743e-07
+    },
+    {
+      "name": "psyc_Alcohol",
+      "psychonaut_name": "Alcohol",
+      "tripsit_name": null,
+      "dist": 20.7520037683
+    },
+    {
+      "name": "trip_alcohol",
+      "psychonaut_name": null,
+      "tripsit_name": "alcohol",
+      "dist": 20.7520037683
+    },
+    {
+      "name": "psyc_Gaboxadol",
+      "psychonaut_name": "Gaboxadol",
+      "tripsit_name": null,
+      "dist": 21.9783128136
+    },
+    {
+      "name": "trip_2-ai",
+      "psychonaut_name": null,
+      "tripsit_name": "2-ai",
+      "dist": 22.6662666435
+    },
+    {
+      "name": "psyc_2-Aminoindane",
+      "psychonaut_name": "2-Aminoindane",
+      "tripsit_name": null,
+      "dist": 22.6662666435
+    },
+    {
+      "name": "trip_piracetam",
+      "psychonaut_name": null,
+      "tripsit_name": "piracetam",
+      "dist": 22.9290845853
+    },
+    {
+      "name": "psyc_Piracetam",
+      "psychonaut_name": "Piracetam",
+      "tripsit_name": null,
+      "dist": 22.9290845853
+    },
+    {
+      "name": "trip_diethyl-ether",
+      "psychonaut_name": null,
+      "tripsit_name": "diethyl-ether",
+      "dist": 23.7623438831
+    },
+    {
+      "name": "trip_chloroform",
+      "psychonaut_name": null,
+      "tripsit_name": "chloroform",
+      "dist": 24.792785038
+    },
+    {
+      "name": "trip_nm-2-ai",
+      "psychonaut_name": null,
+      "tripsit_name": "nm-2-ai",
+      "dist": 25.2918197736
+    },
+    {
+      "name": "psyc_NM-2-AI",
+      "psychonaut_name": "NM-2-AI",
+      "tripsit_name": null,
+      "dist": 25.2918197736
+    },
+    {
+      "name": "trip_5-iai",
+      "psychonaut_name": null,
+      "tripsit_name": "5-iai",
+      "dist": 25.3284852592
+    },
+    {
+      "name": "trip_clomethiazole",
+      "psychonaut_name": null,
+      "tripsit_name": "clomethiazole",
+      "dist": 25.3484565701
+    },
+    {
+      "name": "psyc_2M2B",
+      "psychonaut_name": "2M2B",
+      "tripsit_name": null,
+      "dist": 25.4925226955
+    }
+  ]
+}

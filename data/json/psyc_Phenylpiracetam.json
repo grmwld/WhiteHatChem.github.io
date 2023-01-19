@@ -1,0 +1,200 @@
+{
+  "inchi": "InChI=1S/C12H14N2O2/c13-11(15)8-14-7-10(6-12(14)16)9-4-2-1-3-5-9/h1-5,10H,6-8H2,(H2,13,15)",
+  "psychonaut_name": "Phenylpiracetam",
+  "tripsit_name": null,
+  "synonyms": [
+    "Carphedone",
+    "2-(2-oxo-4-phenyl-1-pyrrolidinyl)acetamide",
+    "CS-1574",
+    "4-Phenyl-2-oxopyrrolidine-1-acetamide",
+    "HMS2183I11",
+    "2-Oxo-4-phenyl-1-pyrrolidineacetamide",
+    "Oprea1_208829",
+    "2-(2-oxo-4-phenyl-pyrrolidin-1-yl)acetamide",
+    "MFCD01456750",
+    "4-Phenylpiracetam; Carphedon",
+    "4-PHENYLPIRACETAM [WHO-DD]",
+    "DB-075328",
+    "2-(2-Oxo-4-phenyl-pyrrolidin-1-yl)-acetamide",
+    "BCP22034",
+    "Q420882",
+    "UNII-99QW5JU66Y",
+    "DTXSID30868438",
+    "77472-70-9",
+    "AMY38209",
+    "2-(2-oxo-4-phenylpyrrolidin-1-yl)acetamide",
+    "HY-14840",
+    "AKOS000519394",
+    "SCHEMBL563022",
+    "MLS000113218",
+    "Fonturacetam [INN]",
+    "STL511045",
+    "Carphedon",
+    "BBL100068",
+    "s5223",
+    "2-(2-keto-4-phenyl-pyrrolidin-1-yl)acetamide",
+    "DS-1993",
+    "AKOS016038810",
+    "phenypiracetam",
+    "FONTURACETAM [MART.]",
+    "1-Pyrrolidineacetamide, 2-oxo-4-phenyl-, (4S)-",
+    "2-(2-oxidanylidene-4-phenyl-pyrrolidin-1-yl)ethanamide",
+    "1-Pyrrolidineacetamide, 2-oxo-4-phenyl-",
+    "HMS3886K15",
+    "2-(2-oxo-4-phenylpyrrolidin-1-yl)acetamide;Phenylpiracetam",
+    "BRN 5030440",
+    "4-Phenyl-2-pyrrolidone-1-acetamide",
+    "RAC-2-((4R)-2-OXO-4-PHENYLPYROLIDIN-1-YL)ACETAMIDE",
+    "(R,S)-2-(2-OXO-4-PHENYLPYRROLIDIN-1-YL)ACETAMIDE",
+    "J-500892",
+    "SDCCGMLS-0035015.P002",
+    "Fonturacetam",
+    "SB17150",
+    "P2604",
+    "Phenylpiracetam",
+    "(2-Oxo-4-phenylpyrrolidin-1-yl)acetamide",
+    "Oprea1_429090",
+    "Phenotropil",
+    "A839108",
+    "F11808",
+    "4-Phenylpiracetam",
+    "Karfedon",
+    "99QW5JU66Y",
+    "EX-A735",
+    "SMR000109123",
+    "Carphedo",
+    "CHEMBL348639",
+    "472P709",
+    "PHENOTROPYL",
+    "F2147-9813",
+    "CCG-266708"
+  ],
+  "distances": [
+    1.9073e-06,
+    19.2996534563,
+    19.2996534563,
+    21.4739925197,
+    21.4769411855,
+    22.1755717276,
+    22.6330322845,
+    22.6330322845,
+    22.8256557207,
+    22.8256557207,
+    23.2710469463,
+    23.3305698757,
+    23.463099301,
+    23.7293084207,
+    23.7644859708
+  ],
+  "indices": [
+    274,
+    106,
+    678,
+    565,
+    328,
+    818,
+    822,
+    92,
+    496,
+    280,
+    484,
+    424,
+    679,
+    656,
+    405
+  ],
+  "name": "psyc_Phenylpiracetam",
+  "svg": "psyc_Phenylpiracetam.svg",
+  "sim": [
+    {
+      "name": "psyc_Phenylpiracetam",
+      "psychonaut_name": "Phenylpiracetam",
+      "tripsit_name": null,
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "psyc_Aniracetam",
+      "psychonaut_name": "Aniracetam",
+      "tripsit_name": null,
+      "dist": 19.2996534563
+    },
+    {
+      "name": "trip_aniracetam",
+      "psychonaut_name": null,
+      "tripsit_name": "aniracetam",
+      "dist": 19.2996534563
+    },
+    {
+      "name": "trip_\u03b1-pbp",
+      "psychonaut_name": null,
+      "tripsit_name": "\u03b1-pbp",
+      "dist": 21.4739925197
+    },
+    {
+      "name": "trip_mephtetramine",
+      "psychonaut_name": null,
+      "tripsit_name": "mephtetramine",
+      "dist": 21.4769411855
+    },
+    {
+      "name": "trip_nefiracetam",
+      "psychonaut_name": null,
+      "tripsit_name": "nefiracetam",
+      "dist": 22.1755717276
+    },
+    {
+      "name": "trip_a-pvp",
+      "psychonaut_name": null,
+      "tripsit_name": "a-pvp",
+      "dist": 22.6330322845
+    },
+    {
+      "name": "psyc_A-PVP",
+      "psychonaut_name": "A-PVP",
+      "tripsit_name": null,
+      "dist": 22.6330322845
+    },
+    {
+      "name": "trip_prolintane",
+      "psychonaut_name": null,
+      "tripsit_name": "prolintane",
+      "dist": 22.8256557207
+    },
+    {
+      "name": "psyc_Prolintane",
+      "psychonaut_name": "Prolintane",
+      "tripsit_name": null,
+      "dist": 22.8256557207
+    },
+    {
+      "name": "trip_mbzp",
+      "psychonaut_name": null,
+      "tripsit_name": "mbzp",
+      "dist": 23.2710469463
+    },
+    {
+      "name": "trip_4-ho-mpmi",
+      "psychonaut_name": null,
+      "tripsit_name": "4-ho-mpmi",
+      "dist": 23.3305698757
+    },
+    {
+      "name": "trip_2-pta",
+      "psychonaut_name": null,
+      "tripsit_name": "2-pta",
+      "dist": 23.463099301
+    },
+    {
+      "name": "trip_4-benzylpiperidine",
+      "psychonaut_name": null,
+      "tripsit_name": "4-benzylpiperidine",
+      "dist": 23.7293084207
+    },
+    {
+      "name": "trip_4f-pvp",
+      "psychonaut_name": null,
+      "tripsit_name": "4f-pvp",
+      "dist": 23.7644859708
+    }
+  ]
+}

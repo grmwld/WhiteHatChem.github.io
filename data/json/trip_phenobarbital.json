@@ -1,0 +1,138 @@
+{
+  "inchi": "InChI=1S/C12H12N2O3/c1-2-12(8-6-4-3-5-7-8)9(15)13-11(17)14-10(12)16/h3-7H,2H2,1H3,(H2,13,14,15,16,17)",
+  "psychonaut_name": null,
+  "tripsit_name": "phenobarbital",
+  "synonyms": [
+    "pheno",
+    "phenobarbitone",
+    "luminal"
+  ],
+  "distances": [
+    2.336e-06,
+    19.0211313091,
+    23.4301941738,
+    25.4450138626,
+    25.4450138626,
+    25.8542810315,
+    25.8542810315,
+    27.6353911452,
+    27.7795099286,
+    28.772079879,
+    29.0228360469,
+    29.5133357536,
+    29.5410336389,
+    29.6782633657,
+    29.9774044138
+  ],
+  "indices": [
+    273,
+    462,
+    524,
+    775,
+    105,
+    660,
+    266,
+    410,
+    801,
+    681,
+    131,
+    527,
+    442,
+    719,
+    305
+  ],
+  "name": "trip_phenobarbital",
+  "svg": "trip_phenobarbital.svg",
+  "sim": [
+    {
+      "name": "psyc_Phenobarbital",
+      "psychonaut_name": "Phenobarbital",
+      "tripsit_name": null,
+      "dist": 2.336e-06
+    },
+    {
+      "name": "trip_glutethimide",
+      "psychonaut_name": null,
+      "tripsit_name": "glutethimide",
+      "dist": 19.0211313091
+    },
+    {
+      "name": "trip_barbital",
+      "psychonaut_name": null,
+      "tripsit_name": "barbital",
+      "dist": 23.4301941738
+    },
+    {
+      "name": "trip_amobarbital",
+      "psychonaut_name": null,
+      "tripsit_name": "amobarbital",
+      "dist": 25.4450138626
+    },
+    {
+      "name": "psyc_Amobarbital",
+      "psychonaut_name": "Amobarbital",
+      "tripsit_name": null,
+      "dist": 25.4450138626
+    },
+    {
+      "name": "trip_pentobarbital",
+      "psychonaut_name": null,
+      "tripsit_name": "pentobarbital",
+      "dist": 25.8542810315
+    },
+    {
+      "name": "psyc_Pentobarbital",
+      "psychonaut_name": "Pentobarbital",
+      "tripsit_name": null,
+      "dist": 25.8542810315
+    },
+    {
+      "name": "trip_thiopental",
+      "psychonaut_name": null,
+      "tripsit_name": "thiopental",
+      "dist": 27.6353911452
+    },
+    {
+      "name": "trip_pemoline",
+      "psychonaut_name": null,
+      "tripsit_name": "pemoline",
+      "dist": 27.7795099286
+    },
+    {
+      "name": "trip_mk-801",
+      "psychonaut_name": null,
+      "tripsit_name": "mk-801",
+      "dist": 28.772079879
+    },
+    {
+      "name": "psyc_Cyclazodone",
+      "psychonaut_name": "Cyclazodone",
+      "tripsit_name": null,
+      "dist": 29.0228360469
+    },
+    {
+      "name": "trip_bromazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "bromazepam",
+      "dist": 29.5133357536
+    },
+    {
+      "name": "trip_nordazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "nordazepam",
+      "dist": 29.5410336389
+    },
+    {
+      "name": "trip_oxazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "oxazepam",
+      "dist": 29.6782633657
+    },
+    {
+      "name": "psyc_N-Methyl-Cyclazodone",
+      "psychonaut_name": "N-Methyl-Cyclazodone",
+      "tripsit_name": null,
+      "dist": 29.9774044138
+    }
+  ]
+}

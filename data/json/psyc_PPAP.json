@@ -1,0 +1,144 @@
+{
+  "inchi": "InChI=1S/C18H23N.ClH/c1-16(15-18-11-6-3-7-12-18)19-14-8-13-17-9-4-2-5-10-17;/h2-7,9-12,16,19H,8,13-15H2,1H3;1H/t16-;/m1./s1",
+  "psychonaut_name": "PPAP",
+  "tripsit_name": null,
+  "synonyms": [
+    "Benzenepropanamine, N-(1-methyl-2-phenylethyl)-, hydrochloride, (R)-",
+    "131903-56-5",
+    "SCHEMBL8093047",
+    "R(-)-N-(3-Phenyl-n-propyl)-1-phenyl-2-aminopropane hydrochloride",
+    "(2R)-1-phenyl-N-(3-phenylpropyl)propan-2-amine;hydrochloride",
+    "PPAP",
+    "DTXSID20157247",
+    "N-(3-Phenyl-n-propyl)-1-phenyl-2-aminopropane",
+    "R(-)PPAP"
+  ],
+  "distances": [
+    15.9834461408,
+    15.9834461408,
+    16.501451833,
+    17.1907480951,
+    20.8269681845,
+    21.2940877097,
+    21.9866396477,
+    23.3091839025,
+    25.4839594636,
+    25.4839594636,
+    25.5079118011,
+    25.5468881403,
+    25.5560954309,
+    25.6454222641,
+    25.8433827532
+  ],
+  "indices": [
+    160,
+    411,
+    525,
+    554,
+    614,
+    469,
+    152,
+    254,
+    109,
+    810,
+    819,
+    522,
+    556,
+    361,
+    467
+  ],
+  "name": "psyc_PPAP",
+  "svg": "psyc_PPAP.svg",
+  "sim": [
+    {
+      "name": "psyc_Ephenidine",
+      "psychonaut_name": "Ephenidine",
+      "tripsit_name": null,
+      "dist": 15.9834461408
+    },
+    {
+      "name": "trip_ephenidine",
+      "psychonaut_name": null,
+      "tripsit_name": "ephenidine",
+      "dist": 15.9834461408
+    },
+    {
+      "name": "trip_2-chloro-ephenidine",
+      "psychonaut_name": null,
+      "tripsit_name": "2-chloro-ephenidine",
+      "dist": 16.501451833
+    },
+    {
+      "name": "trip_atomoxetine",
+      "psychonaut_name": null,
+      "tripsit_name": "atomoxetine",
+      "dist": 17.1907480951
+    },
+    {
+      "name": "trip_propranolol",
+      "psychonaut_name": null,
+      "tripsit_name": "propranolol",
+      "dist": 20.8269681845
+    },
+    {
+      "name": "trip_prl-8-53",
+      "psychonaut_name": null,
+      "tripsit_name": "prl-8-53",
+      "dist": 21.2940877097
+    },
+    {
+      "name": "psyc_Diphenhydramine",
+      "psychonaut_name": "Diphenhydramine",
+      "tripsit_name": null,
+      "dist": 21.9866396477
+    },
+    {
+      "name": "psyc_Orphenadrine",
+      "psychonaut_name": "Orphenadrine",
+      "tripsit_name": null,
+      "dist": 23.3091839025
+    },
+    {
+      "name": "psyc_Benzydamine",
+      "psychonaut_name": "Benzydamine",
+      "tripsit_name": null,
+      "dist": 25.4839594636
+    },
+    {
+      "name": "trip_benzydamine",
+      "psychonaut_name": null,
+      "tripsit_name": "benzydamine",
+      "dist": 25.4839594636
+    },
+    {
+      "name": "trip_5-meo-nipt",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-nipt",
+      "dist": 25.5079118011
+    },
+    {
+      "name": "trip_pipt",
+      "psychonaut_name": null,
+      "tripsit_name": "pipt",
+      "dist": 25.5468881403
+    },
+    {
+      "name": "trip_methamnetamine",
+      "psychonaut_name": null,
+      "tripsit_name": "methamnetamine",
+      "dist": 25.5560954309
+    },
+    {
+      "name": "trip_4-cbc",
+      "psychonaut_name": null,
+      "tripsit_name": "4-cbc",
+      "dist": 25.6454222641
+    },
+    {
+      "name": "trip_naphyrone",
+      "psychonaut_name": null,
+      "tripsit_name": "naphyrone",
+      "dist": 25.8433827532
+    }
+  ]
+}

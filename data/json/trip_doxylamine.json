@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C17H22N2O/c1-17(20-14-13-19(2)3,15-9-5-4-6-10-15)16-11-7-8-12-18-16/h4-12H,13-14H2,1-3H3",
+  "psychonaut_name": null,
+  "tripsit_name": "doxylamine",
+  "synonyms": null,
+  "distances": [
+    3.0158e-06,
+    19.1572177761,
+    19.2936184626,
+    22.1913660254,
+    22.7454668496,
+    22.74786434,
+    23.2676331298,
+    23.2676331298,
+    23.6100497298,
+    23.6100497298,
+    24.1005900331,
+    24.755832794,
+    25.451373242,
+    25.451373242,
+    25.6289059523
+  ],
+  "indices": [
+    408,
+    254,
+    152,
+    582,
+    469,
+    429,
+    810,
+    109,
+    221,
+    586,
+    554,
+    100,
+    519,
+    80,
+    528
+  ],
+  "name": "trip_doxylamine",
+  "svg": "trip_doxylamine.svg",
+  "sim": [
+    {
+      "name": "trip_doxylamine",
+      "psychonaut_name": null,
+      "tripsit_name": "doxylamine",
+      "dist": 3.0158e-06
+    },
+    {
+      "name": "psyc_Orphenadrine",
+      "psychonaut_name": "Orphenadrine",
+      "tripsit_name": null,
+      "dist": 19.1572177761
+    },
+    {
+      "name": "psyc_Diphenhydramine",
+      "psychonaut_name": "Diphenhydramine",
+      "tripsit_name": null,
+      "dist": 19.2936184626
+    },
+    {
+      "name": "trip_isomethadone",
+      "psychonaut_name": null,
+      "tripsit_name": "isomethadone",
+      "dist": 22.1913660254
+    },
+    {
+      "name": "trip_prl-8-53",
+      "psychonaut_name": null,
+      "tripsit_name": "prl-8-53",
+      "dist": 22.7454668496
+    },
+    {
+      "name": "trip_2-mppp",
+      "psychonaut_name": null,
+      "tripsit_name": "2-mppp",
+      "dist": 22.74786434
+    },
+    {
+      "name": "trip_benzydamine",
+      "psychonaut_name": null,
+      "tripsit_name": "benzydamine",
+      "dist": 23.2676331298
+    },
+    {
+      "name": "psyc_Benzydamine",
+      "psychonaut_name": "Benzydamine",
+      "tripsit_name": null,
+      "dist": 23.2676331298
+    },
+    {
+      "name": "psyc_Methadone",
+      "psychonaut_name": "Methadone",
+      "tripsit_name": null,
+      "dist": 23.6100497298
+    },
+    {
+      "name": "trip_methadone",
+      "psychonaut_name": null,
+      "tripsit_name": "methadone",
+      "dist": 23.6100497298
+    },
+    {
+      "name": "trip_atomoxetine",
+      "psychonaut_name": null,
+      "tripsit_name": "atomoxetine",
+      "dist": 24.1005900331
+    },
+    {
+      "name": "psyc_Alimemazine",
+      "psychonaut_name": "Alimemazine",
+      "tripsit_name": null,
+      "dist": 24.755832794
+    },
+    {
+      "name": "trip_5-meo-dmt",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-dmt",
+      "dist": 25.451373242
+    },
+    {
+      "name": "psyc_5-MeO-DMT",
+      "psychonaut_name": "5-MeO-DMT",
+      "tripsit_name": null,
+      "dist": 25.451373242
+    },
+    {
+      "name": "trip_5-meo-met",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-met",
+      "dist": 25.6289059523
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C17H21NO4/c1-18-13-7-11(8-14(18)16-15(13)22-16)21-17(20)12(9-19)10-5-3-2-4-6-10/h2-6,11-16,19H,7-9H2,1H3/t11?,12-,13-,14+,15-,16+/m1/s1",
+  "psychonaut_name": null,
+  "tripsit_name": "scopolamine",
+  "synonyms": null,
+  "distances": [
+    23.9482971223,
+    23.9482971223,
+    26.7538831513,
+    26.7538831513,
+    29.8584439039,
+    32.9661265988,
+    33.3590639623,
+    33.3590639623,
+    33.3590639623,
+    34.5956448499,
+    34.9174354001,
+    34.9174354001,
+    35.1176784935,
+    35.1176784935,
+    35.2263138644
+  ],
+  "indices": [
+    824,
+    127,
+    782,
+    313,
+    340,
+    149,
+    302,
+    190,
+    651,
+    591,
+    751,
+    74,
+    459,
+    192,
+    151
+  ],
+  "name": "trip_scopolamine",
+  "svg": "trip_scopolamine.svg",
+  "sim": [
+    {
+      "name": "trip_cocaine",
+      "psychonaut_name": null,
+      "tripsit_name": "cocaine",
+      "dist": 23.9482971223
+    },
+    {
+      "name": "psyc_Cocaine",
+      "psychonaut_name": "Cocaine",
+      "tripsit_name": null,
+      "dist": 23.9482971223
+    },
+    {
+      "name": "trip_troparil",
+      "psychonaut_name": null,
+      "tripsit_name": "troparil",
+      "dist": 26.7538831513
+    },
+    {
+      "name": "psyc_Troparil",
+      "psychonaut_name": "Troparil",
+      "tripsit_name": null,
+      "dist": 26.7538831513
+    },
+    {
+      "name": "trip_rti-111",
+      "psychonaut_name": null,
+      "tripsit_name": "rti-111",
+      "dist": 29.8584439039
+    },
+    {
+      "name": "psyc_Dichloropane",
+      "psychonaut_name": "Dichloropane",
+      "tripsit_name": null,
+      "dist": 32.9661265988
+    },
+    {
+      "name": "psyc_Tabernanthe iboga (botany)",
+      "psychonaut_name": "Tabernanthe iboga (botany)",
+      "tripsit_name": null,
+      "dist": 33.3590639623
+    },
+    {
+      "name": "psyc_Ibogaine",
+      "psychonaut_name": "Ibogaine",
+      "tripsit_name": null,
+      "dist": 33.3590639623
+    },
+    {
+      "name": "trip_ibogaine",
+      "psychonaut_name": null,
+      "tripsit_name": "ibogaine",
+      "dist": 33.3590639623
+    },
+    {
+      "name": "trip_propylphenidate",
+      "psychonaut_name": null,
+      "tripsit_name": "propylphenidate",
+      "dist": 34.5956448499
+    },
+    {
+      "name": "trip_4-fluoroethylphenidate",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fluoroethylphenidate",
+      "dist": 34.9174354001
+    },
+    {
+      "name": "psyc_4F-EPH",
+      "psychonaut_name": "4F-EPH",
+      "tripsit_name": null,
+      "dist": 34.9174354001
+    },
+    {
+      "name": "trip_isopropylphenidate",
+      "psychonaut_name": null,
+      "tripsit_name": "isopropylphenidate",
+      "dist": 35.1176784935
+    },
+    {
+      "name": "psyc_Isopropylphenidate",
+      "psychonaut_name": "Isopropylphenidate",
+      "tripsit_name": null,
+      "dist": 35.1176784935
+    },
+    {
+      "name": "psyc_Dihydrocodeine",
+      "psychonaut_name": "Dihydrocodeine",
+      "tripsit_name": null,
+      "dist": 35.2263138644
+    }
+  ]
+}

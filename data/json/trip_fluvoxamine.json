@@ -1,0 +1,137 @@
+{
+  "inchi": "InChI=1S/C15H21F3N2O2/c1-21-10-3-2-4-14(20-22-11-9-19)12-5-7-13(8-6-12)15(16,17)18/h5-8H,2-4,9-11,19H2,1H3/b20-14+",
+  "psychonaut_name": null,
+  "tripsit_name": "fluvoxamine",
+  "synonyms": [
+    "luvox",
+    "faverin"
+  ],
+  "distances": [
+    31.7774136159,
+    34.8675699831,
+    34.8675699831,
+    35.0356316255,
+    35.1595987988,
+    35.1595987988,
+    35.6005347051,
+    35.6005347051,
+    35.8110070042,
+    35.9394496754,
+    36.1116838563,
+    36.2927751397,
+    36.5403695712,
+    36.5547701498,
+    36.611917392
+  ],
+  "indices": [
+    425,
+    154,
+    408,
+    469,
+    109,
+    810,
+    790,
+    37,
+    676,
+    582,
+    696,
+    458,
+    734,
+    727,
+    562
+  ],
+  "name": "trip_fluvoxamine",
+  "svg": "trip_fluvoxamine.svg",
+  "sim": [
+    {
+      "name": "trip_fluoxetine",
+      "psychonaut_name": null,
+      "tripsit_name": "fluoxetine",
+      "dist": 31.7774136159
+    },
+    {
+      "name": "psyc_Doxylamine",
+      "psychonaut_name": "Doxylamine",
+      "tripsit_name": null,
+      "dist": 34.8675699831
+    },
+    {
+      "name": "trip_doxylamine",
+      "psychonaut_name": null,
+      "tripsit_name": "doxylamine",
+      "dist": 34.8675699831
+    },
+    {
+      "name": "trip_prl-8-53",
+      "psychonaut_name": null,
+      "tripsit_name": "prl-8-53",
+      "dist": 35.0356316255
+    },
+    {
+      "name": "psyc_Benzydamine",
+      "psychonaut_name": "Benzydamine",
+      "tripsit_name": null,
+      "dist": 35.1595987988
+    },
+    {
+      "name": "trip_benzydamine",
+      "psychonaut_name": null,
+      "tripsit_name": "benzydamine",
+      "dist": 35.1595987988
+    },
+    {
+      "name": "trip_2c-t-21",
+      "psychonaut_name": null,
+      "tripsit_name": "2c-t-21",
+      "dist": 35.6005347051
+    },
+    {
+      "name": "psyc_2C-T-21",
+      "psychonaut_name": "2C-T-21",
+      "tripsit_name": null,
+      "dist": 35.6005347051
+    },
+    {
+      "name": "trip_centrophenoxine",
+      "psychonaut_name": null,
+      "tripsit_name": "centrophenoxine",
+      "dist": 35.8110070042
+    },
+    {
+      "name": "trip_isomethadone",
+      "psychonaut_name": null,
+      "tripsit_name": "isomethadone",
+      "dist": 35.9394496754
+    },
+    {
+      "name": "trip_25i-nbf",
+      "psychonaut_name": null,
+      "tripsit_name": "25i-nbf",
+      "dist": 36.1116838563
+    },
+    {
+      "name": "trip_4f-php",
+      "psychonaut_name": null,
+      "tripsit_name": "4f-php",
+      "dist": 36.2927751397
+    },
+    {
+      "name": "trip_pv-10",
+      "psychonaut_name": null,
+      "tripsit_name": "pv-10",
+      "dist": 36.5403695712
+    },
+    {
+      "name": "trip_pv-9",
+      "psychonaut_name": null,
+      "tripsit_name": "pv-9",
+      "dist": 36.5547701498
+    },
+    {
+      "name": "trip_nitracaine",
+      "psychonaut_name": null,
+      "tripsit_name": "nitracaine",
+      "dist": 36.611917392
+    }
+  ]
+}

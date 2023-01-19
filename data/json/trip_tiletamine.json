@@ -1,0 +1,136 @@
+{
+  "inchi": "InChI=1S/C12H17NOS/c1-2-13-12(11-7-5-9-15-11)8-4-3-6-10(12)14/h5,7,9,13H,2-4,6,8H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "tiletamine",
+  "synonyms": [
+    "telazol"
+  ],
+  "distances": [
+    12.1421902898,
+    12.1421902898,
+    15.1371723722,
+    15.1371723722,
+    15.2128568985,
+    15.2128568985,
+    15.3591653804,
+    16.880966827,
+    16.880966827,
+    17.3317429229,
+    17.3317429229,
+    17.4612250046,
+    17.4612250046,
+    18.6027395877,
+    18.6027395877
+  ],
+  "indices": [
+    251,
+    517,
+    730,
+    141,
+    259,
+    688,
+    563,
+    46,
+    778,
+    590,
+    196,
+    15,
+    510,
+    227,
+    669
+  ],
+  "name": "trip_tiletamine",
+  "svg": "trip_tiletamine.svg",
+  "sim": [
+    {
+      "name": "psyc_O-PCE",
+      "psychonaut_name": "O-PCE",
+      "tripsit_name": null,
+      "dist": 12.1421902898
+    },
+    {
+      "name": "trip_o-pce",
+      "psychonaut_name": null,
+      "tripsit_name": "o-pce",
+      "dist": 12.1421902898
+    },
+    {
+      "name": "trip_deschloroketamine",
+      "psychonaut_name": null,
+      "tripsit_name": "deschloroketamine",
+      "dist": 15.1371723722
+    },
+    {
+      "name": "psyc_Deschloroketamine",
+      "psychonaut_name": "Deschloroketamine",
+      "tripsit_name": null,
+      "dist": 15.1371723722
+    },
+    {
+      "name": "psyc_PCE",
+      "psychonaut_name": "PCE",
+      "tripsit_name": null,
+      "dist": 15.2128568985
+    },
+    {
+      "name": "trip_pce",
+      "psychonaut_name": null,
+      "tripsit_name": "pce",
+      "dist": 15.2128568985
+    },
+    {
+      "name": "trip_ethketamine",
+      "psychonaut_name": null,
+      "tripsit_name": "ethketamine",
+      "dist": 15.3591653804
+    },
+    {
+      "name": "psyc_3-HO-PCE",
+      "psychonaut_name": "3-HO-PCE",
+      "tripsit_name": null,
+      "dist": 16.880966827
+    },
+    {
+      "name": "trip_3-ho-pce",
+      "psychonaut_name": null,
+      "tripsit_name": "3-ho-pce",
+      "dist": 16.880966827
+    },
+    {
+      "name": "trip_ketamine",
+      "psychonaut_name": null,
+      "tripsit_name": "ketamine",
+      "dist": 17.3317429229
+    },
+    {
+      "name": "psyc_Ketamine",
+      "psychonaut_name": "Ketamine",
+      "tripsit_name": null,
+      "dist": 17.3317429229
+    },
+    {
+      "name": "psyc_2-Fluorodeschloroketamine",
+      "psychonaut_name": "2-Fluorodeschloroketamine",
+      "tripsit_name": null,
+      "dist": 17.4612250046
+    },
+    {
+      "name": "trip_2-fdck",
+      "psychonaut_name": null,
+      "tripsit_name": "2-fdck",
+      "dist": 17.4612250046
+    },
+    {
+      "name": "psyc_Methoxetamine",
+      "psychonaut_name": "Methoxetamine",
+      "tripsit_name": null,
+      "dist": 18.6027395877
+    },
+    {
+      "name": "trip_mxe",
+      "psychonaut_name": null,
+      "tripsit_name": "mxe",
+      "dist": 18.6027395877
+    }
+  ]
+}

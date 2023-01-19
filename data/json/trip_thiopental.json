@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C11H18N2O2S/c1-4-6-7(3)11(5-2)8(14)12-10(16)13-9(11)15/h7H,4-6H2,1-3H3,(H2,12,13,14,15,16)",
+  "psychonaut_name": null,
+  "tripsit_name": "thiopental",
+  "synonyms": null,
+  "distances": [
+    11.7787604092,
+    11.7787604092,
+    16.538921343,
+    16.538921343,
+    21.1992694945,
+    21.1992694945,
+    21.5523569327,
+    27.6353911452,
+    27.6353911452,
+    28.9383405065,
+    33.211083605,
+    37.5984466232,
+    37.725404925,
+    37.8338685747,
+    37.8338685747
+  ],
+  "indices": [
+    266,
+    660,
+    775,
+    105,
+    593,
+    293,
+    524,
+    765,
+    273,
+    415,
+    462,
+    472,
+    169,
+    492,
+    207
+  ],
+  "name": "trip_thiopental",
+  "svg": "trip_thiopental.svg",
+  "sim": [
+    {
+      "name": "psyc_Pentobarbital",
+      "psychonaut_name": "Pentobarbital",
+      "tripsit_name": null,
+      "dist": 11.7787604092
+    },
+    {
+      "name": "trip_pentobarbital",
+      "psychonaut_name": null,
+      "tripsit_name": "pentobarbital",
+      "dist": 11.7787604092
+    },
+    {
+      "name": "trip_amobarbital",
+      "psychonaut_name": null,
+      "tripsit_name": "amobarbital",
+      "dist": 16.538921343
+    },
+    {
+      "name": "psyc_Amobarbital",
+      "psychonaut_name": "Amobarbital",
+      "tripsit_name": null,
+      "dist": 16.538921343
+    },
+    {
+      "name": "trip_secobarbital",
+      "psychonaut_name": null,
+      "tripsit_name": "secobarbital",
+      "dist": 21.1992694945
+    },
+    {
+      "name": "psyc_Secobarbital",
+      "psychonaut_name": "Secobarbital",
+      "tripsit_name": null,
+      "dist": 21.1992694945
+    },
+    {
+      "name": "trip_barbital",
+      "psychonaut_name": null,
+      "tripsit_name": "barbital",
+      "dist": 21.5523569327
+    },
+    {
+      "name": "trip_phenobarbital",
+      "psychonaut_name": null,
+      "tripsit_name": "phenobarbital",
+      "dist": 27.6353911452
+    },
+    {
+      "name": "psyc_Phenobarbital",
+      "psychonaut_name": "Phenobarbital",
+      "tripsit_name": null,
+      "dist": 27.6353911452
+    },
+    {
+      "name": "trip_methyprylon",
+      "psychonaut_name": null,
+      "tripsit_name": "methyprylon",
+      "dist": 28.9383405065
+    },
+    {
+      "name": "trip_glutethimide",
+      "psychonaut_name": null,
+      "tripsit_name": "glutethimide",
+      "dist": 33.211083605
+    },
+    {
+      "name": "trip_mdpa",
+      "psychonaut_name": null,
+      "tripsit_name": "mdpa",
+      "dist": 37.5984466232
+    },
+    {
+      "name": "psyc_Eutylone",
+      "psychonaut_name": "Eutylone",
+      "tripsit_name": null,
+      "dist": 37.725404925
+    },
+    {
+      "name": "trip_mdea",
+      "psychonaut_name": null,
+      "tripsit_name": "mdea",
+      "dist": 37.8338685747
+    },
+    {
+      "name": "psyc_MDEA",
+      "psychonaut_name": "MDEA",
+      "tripsit_name": null,
+      "dist": 37.8338685747
+    }
+  ]
+}

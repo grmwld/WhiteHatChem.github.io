@@ -1,0 +1,192 @@
+{
+  "inchi": "InChI=1S/C15H15NO2S/c16-14(17)11-19(18)15(12-7-3-1-4-8-12)13-9-5-2-6-10-13/h1-10,15H,11H2,(H2,16,17)/t19-/m1/s1",
+  "psychonaut_name": "Armodafinil",
+  "tripsit_name": null,
+  "synonyms": [
+    "ARMODAFINIL [ORANGE BOOK]",
+    "AKOS030211019",
+    "(R)-Modafinil",
+    "armodafinilo",
+    "BDBM50336892",
+    "(-)-Modafinil",
+    "R-(-)-Modafinil",
+    "Nuvigil (TN)",
+    "ARMODAFINIL [VANDF]",
+    "NSC-758711",
+    "Armodafinil (USAN/INN)",
+    "Armodafinil",
+    "SCHEMBL34489",
+    "UNII-V63XWA605I",
+    "ARMODAFINIL [USAN]",
+    "ZINC6156",
+    "D03215",
+    "NSC-751850",
+    "CS-0665",
+    "NSC 751850",
+    "DTXSID90920667",
+    "Nuvigil",
+    "CRL-40982",
+    "CRL 40982",
+    "(-)-2-[(r)-(diphenylmethyl)sulfinyl]acetamide",
+    "Q418913",
+    "Armodafinil [USAN:INN]",
+    "CHEMBL1201192",
+    "ACETAMIDE, 2-((R)-(DIPHENYLMETHYL)SULFINYL)-",
+    "ARMODAFINIL [MART.]",
+    "HY-15201",
+    "CHEBI:77590",
+    "Armodafinil [INN]",
+    "ARMODAFINIL [WHO-DD]",
+    "AT22562",
+    "2-[(R)-(Diphenylmethyl)sulfinyl]acetamide",
+    "Modafinil, (r)-",
+    "(-)-2-((R)-(Diphenylmethyl)sulfinyl)acetamide",
+    "(R)-(-)-Modafinil",
+    "ARMODAFINIL [USP-RS]",
+    "2-[(r)-benzhydrylsulfinyl]acetamide",
+    "CEP 10953",
+    "112111-43-0",
+    "CEP-10953",
+    "V63XWA605I",
+    "S4645",
+    "CEP-10952",
+    "(-) modafinil",
+    "DB06413",
+    "Acetamide, 2-((diphenylmethyl)sulfinyl)-, (-)-",
+    "armodafinilum",
+    "Armodafinil, >=98% (HPLC)",
+    "NSC 758711",
+    "(-)-2R-[(Diphenylmethyl)sulfinyl]acetamide",
+    "CCG-230228",
+    "l-Modafinil",
+    "(-)-(R)-modafinil"
+  ],
+  "distances": [
+    3.0158e-06,
+    3.0158e-06,
+    3.0158e-06,
+    14.8294205095,
+    14.8294205095,
+    16.9890370643,
+    23.6506440992,
+    23.6506440992,
+    23.6913363689,
+    31.2049607075,
+    31.2049607075,
+    31.6232475428,
+    32.739423835,
+    33.2758449983,
+    33.7633834865
+  ],
+  "indices": [
+    551,
+    366,
+    238,
+    98,
+    475,
+    616,
+    395,
+    243,
+    786,
+    160,
+    411,
+    525,
+    554,
+    263,
+    152
+  ],
+  "name": "psyc_Armodafinil",
+  "svg": "psyc_Armodafinil.svg",
+  "sim": [
+    {
+      "name": "trip_armodafinil",
+      "psychonaut_name": null,
+      "tripsit_name": "armodafinil",
+      "dist": 3.0158e-06
+    },
+    {
+      "name": "trip_modafinil",
+      "psychonaut_name": null,
+      "tripsit_name": "modafinil",
+      "dist": 3.0158e-06
+    },
+    {
+      "name": "psyc_Modafinil",
+      "psychonaut_name": "Modafinil",
+      "tripsit_name": null,
+      "dist": 3.0158e-06
+    },
+    {
+      "name": "psyc_Adrafinil",
+      "psychonaut_name": "Adrafinil",
+      "tripsit_name": null,
+      "dist": 14.8294205095
+    },
+    {
+      "name": "trip_adrafinil",
+      "psychonaut_name": null,
+      "tripsit_name": "adrafinil",
+      "dist": 14.8294205095
+    },
+    {
+      "name": "trip_crl-40-940",
+      "psychonaut_name": null,
+      "tripsit_name": "crl-40-940",
+      "dist": 16.9890370643
+    },
+    {
+      "name": "trip_dehydroxyfluorafinil",
+      "psychonaut_name": null,
+      "tripsit_name": "dehydroxyfluorafinil",
+      "dist": 23.6506440992
+    },
+    {
+      "name": "psyc_N-Methylbisfluoromodafinil",
+      "psychonaut_name": "N-Methylbisfluoromodafinil",
+      "tripsit_name": null,
+      "dist": 23.6506440992
+    },
+    {
+      "name": "trip_crl-40-941",
+      "psychonaut_name": null,
+      "tripsit_name": "crl-40-941",
+      "dist": 23.6913363689
+    },
+    {
+      "name": "psyc_Ephenidine",
+      "psychonaut_name": "Ephenidine",
+      "tripsit_name": null,
+      "dist": 31.2049607075
+    },
+    {
+      "name": "trip_ephenidine",
+      "psychonaut_name": null,
+      "tripsit_name": "ephenidine",
+      "dist": 31.2049607075
+    },
+    {
+      "name": "trip_2-chloro-ephenidine",
+      "psychonaut_name": null,
+      "tripsit_name": "2-chloro-ephenidine",
+      "dist": 31.6232475428
+    },
+    {
+      "name": "trip_atomoxetine",
+      "psychonaut_name": null,
+      "tripsit_name": "atomoxetine",
+      "dist": 32.739423835
+    },
+    {
+      "name": "psyc_PPAP",
+      "psychonaut_name": "PPAP",
+      "tripsit_name": null,
+      "dist": 33.2758449983
+    },
+    {
+      "name": "psyc_Diphenhydramine",
+      "psychonaut_name": "Diphenhydramine",
+      "tripsit_name": null,
+      "dist": 33.7633834865
+    }
+  ]
+}

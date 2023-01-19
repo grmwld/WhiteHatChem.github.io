@@ -1,0 +1,137 @@
+{
+  "inchi": "InChI=1S/C19H20FNO3/c20-15-3-1-13(2-4-15)17-7-8-21-10-14(17)11-22-16-5-6-18-19(9-16)24-12-23-18/h1-6,9,14,17,21H,7-8,10-12H2/t14-,17-/m0/s1",
+  "psychonaut_name": null,
+  "tripsit_name": "paroxetine",
+  "synonyms": [
+    "paxil",
+    "seroxat"
+  ],
+  "distances": [
+    29.137495643,
+    29.2762698373,
+    30.1611880672,
+    30.1995449007,
+    31.2921210272,
+    31.2921210272,
+    31.5975236912,
+    31.8312832104,
+    31.8630731746,
+    31.9008320571,
+    31.9008320571,
+    32.0851395004,
+    32.0851395004,
+    32.0851395004,
+    32.2436971494
+  ],
+  "indices": [
+    628,
+    574,
+    456,
+    486,
+    294,
+    837,
+    839,
+    481,
+    457,
+    699,
+    229,
+    302,
+    651,
+    190,
+    629
+  ],
+  "name": "trip_paroxetine",
+  "svg": "trip_paroxetine.svg",
+  "sim": [
+    {
+      "name": "trip_diclofensine",
+      "psychonaut_name": null,
+      "tripsit_name": "diclofensine",
+      "dist": 29.137495643
+    },
+    {
+      "name": "trip_flutoprazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "flutoprazepam",
+      "dist": 29.2762698373
+    },
+    {
+      "name": "trip_2c-b-fly-nbome",
+      "psychonaut_name": null,
+      "tripsit_name": "2c-b-fly-nbome",
+      "dist": 30.1611880672
+    },
+    {
+      "name": "trip_prazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "prazepam",
+      "dist": 30.1995449007
+    },
+    {
+      "name": "psyc_Sertraline",
+      "psychonaut_name": "Sertraline",
+      "tripsit_name": null,
+      "dist": 31.2921210272
+    },
+    {
+      "name": "trip_sertraline",
+      "psychonaut_name": null,
+      "tripsit_name": "sertraline",
+      "dist": 31.2921210272
+    },
+    {
+      "name": "trip_flutazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "flutazolam",
+      "dist": 31.5975236912
+    },
+    {
+      "name": "trip_hdep-28",
+      "psychonaut_name": null,
+      "tripsit_name": "hdep-28",
+      "dist": 31.8312832104
+    },
+    {
+      "name": "trip_metaclazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "metaclazepam",
+      "dist": 31.8630731746
+    },
+    {
+      "name": "trip_hdmp-28",
+      "psychonaut_name": null,
+      "tripsit_name": "hdmp-28",
+      "dist": 31.9008320571
+    },
+    {
+      "name": "psyc_Methylnaphthidate",
+      "psychonaut_name": "Methylnaphthidate",
+      "tripsit_name": null,
+      "dist": 31.9008320571
+    },
+    {
+      "name": "psyc_Tabernanthe iboga (botany)",
+      "psychonaut_name": "Tabernanthe iboga (botany)",
+      "tripsit_name": null,
+      "dist": 32.0851395004
+    },
+    {
+      "name": "trip_ibogaine",
+      "psychonaut_name": null,
+      "tripsit_name": "ibogaine",
+      "dist": 32.0851395004
+    },
+    {
+      "name": "psyc_Ibogaine",
+      "psychonaut_name": "Ibogaine",
+      "tripsit_name": null,
+      "dist": 32.0851395004
+    },
+    {
+      "name": "trip_methoxphenidine",
+      "psychonaut_name": null,
+      "tripsit_name": "methoxphenidine",
+      "dist": 32.2436971494
+    }
+  ]
+}

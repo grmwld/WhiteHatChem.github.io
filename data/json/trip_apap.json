@@ -1,0 +1,138 @@
+{
+  "inchi": "InChI=1S/C8H9NO2/c1-6(10)9-7-2-4-8(11)5-3-7/h2-5,11H,1H3,(H,9,10)",
+  "psychonaut_name": null,
+  "tripsit_name": "apap",
+  "synonyms": [
+    "acetaminophen",
+    "paracetamol",
+    "tylenol"
+  ],
+  "distances": [
+    17.8265458259,
+    21.2233159092,
+    22.8112183929,
+    22.8112183929,
+    22.9181122295,
+    22.9181122295,
+    23.1251280085,
+    23.1251280085,
+    23.1251280085,
+    23.140224085,
+    23.140224085,
+    23.4115507391,
+    23.5216133883,
+    23.5216133883,
+    23.769740203
+  ],
+  "indices": [
+    679,
+    737,
+    575,
+    270,
+    433,
+    61,
+    741,
+    703,
+    144,
+    352,
+    42,
+    329,
+    752,
+    12,
+    508
+  ],
+  "name": "trip_apap",
+  "svg": "trip_apap.svg",
+  "sim": [
+    {
+      "name": "trip_2-pta",
+      "psychonaut_name": null,
+      "tripsit_name": "2-pta",
+      "dist": 17.8265458259
+    },
+    {
+      "name": "trip_aspirin",
+      "psychonaut_name": null,
+      "tripsit_name": "aspirin",
+      "dist": 21.2233159092
+    },
+    {
+      "name": "trip_phenethylamine",
+      "psychonaut_name": null,
+      "tripsit_name": "phenethylamine",
+      "dist": 22.8112183929
+    },
+    {
+      "name": "psyc_Phenethylamine (compound)",
+      "psychonaut_name": "Phenethylamine (compound)",
+      "tripsit_name": null,
+      "dist": 22.8112183929
+    },
+    {
+      "name": "trip_4-fa",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fa",
+      "dist": 22.9181122295
+    },
+    {
+      "name": "psyc_4-FA",
+      "psychonaut_name": "4-FA",
+      "tripsit_name": null,
+      "dist": 22.9181122295
+    },
+    {
+      "name": "trip_amphetamine",
+      "psychonaut_name": null,
+      "tripsit_name": "amphetamine",
+      "dist": 23.1251280085
+    },
+    {
+      "name": "trip_dexedrine",
+      "psychonaut_name": null,
+      "tripsit_name": "dexedrine",
+      "dist": 23.1251280085
+    },
+    {
+      "name": "psyc_Dexamphetamine",
+      "psychonaut_name": "Dexamphetamine",
+      "tripsit_name": null,
+      "dist": 23.1251280085
+    },
+    {
+      "name": "trip_3-fa",
+      "psychonaut_name": null,
+      "tripsit_name": "3-fa",
+      "dist": 23.140224085
+    },
+    {
+      "name": "psyc_3-FA",
+      "psychonaut_name": "3-FA",
+      "tripsit_name": null,
+      "dist": 23.140224085
+    },
+    {
+      "name": "trip_2-methylamphetamine",
+      "psychonaut_name": null,
+      "tripsit_name": "2-methylamphetamine",
+      "dist": 23.4115507391
+    },
+    {
+      "name": "trip_2-fa",
+      "psychonaut_name": null,
+      "tripsit_name": "2-fa",
+      "dist": 23.5216133883
+    },
+    {
+      "name": "psyc_2-FA",
+      "psychonaut_name": "2-FA",
+      "tripsit_name": null,
+      "dist": 23.5216133883
+    },
+    {
+      "name": "trip_4-cma",
+      "psychonaut_name": null,
+      "tripsit_name": "4-cma",
+      "dist": 23.769740203
+    }
+  ]
+}

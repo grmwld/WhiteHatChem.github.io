@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C10H11NO2/c11-8-1-6-3-9-10(13-5-12-9)4-7(6)2-8/h3-4,8H,1-2,5,11H2",
+  "psychonaut_name": null,
+  "tripsit_name": "mdai",
+  "synonyms": null,
+  "distances": [
+    1.6518e-06,
+    20.978604271,
+    21.1589191505,
+    21.1589191505,
+    21.1589191505,
+    21.2348866292,
+    21.2348866292,
+    21.2589853476,
+    21.2589853476,
+    22.860354879,
+    22.860354879,
+    22.9905203482,
+    23.1527111732,
+    23.1527111732,
+    23.5177117014
+  ],
+  "indices": [
+    206,
+    589,
+    89,
+    497,
+    771,
+    416,
+    11,
+    658,
+    205,
+    693,
+    245,
+    477,
+    45,
+    604,
+    479
+  ],
+  "name": "trip_mdai",
+  "svg": "trip_mdai.svg",
+  "sim": [
+    {
+      "name": "psyc_MDAI",
+      "psychonaut_name": "MDAI",
+      "tripsit_name": null,
+      "dist": 1.6518e-06
+    },
+    {
+      "name": "trip_5-iai",
+      "psychonaut_name": null,
+      "tripsit_name": "5-iai",
+      "dist": 20.978604271
+    },
+    {
+      "name": "psyc_6-APDB",
+      "psychonaut_name": "6-APDB",
+      "tripsit_name": null,
+      "dist": 21.1589191505
+    },
+    {
+      "name": "trip_6-apdb",
+      "psychonaut_name": null,
+      "tripsit_name": "6-apdb",
+      "dist": 21.1589191505
+    },
+    {
+      "name": "trip_5-apdb",
+      "psychonaut_name": null,
+      "tripsit_name": "5-apdb",
+      "dist": 21.1589191505
+    },
+    {
+      "name": "trip_2-ai",
+      "psychonaut_name": null,
+      "tripsit_name": "2-ai",
+      "dist": 21.2348866292
+    },
+    {
+      "name": "psyc_2-Aminoindane",
+      "psychonaut_name": "2-Aminoindane",
+      "tripsit_name": null,
+      "dist": 21.2348866292
+    },
+    {
+      "name": "trip_mda",
+      "psychonaut_name": null,
+      "tripsit_name": "mda",
+      "dist": 21.2589853476
+    },
+    {
+      "name": "psyc_MDA",
+      "psychonaut_name": "MDA",
+      "tripsit_name": null,
+      "dist": 21.2589853476
+    },
+    {
+      "name": "trip_nm-2-ai",
+      "psychonaut_name": null,
+      "tripsit_name": "nm-2-ai",
+      "dist": 22.860354879
+    },
+    {
+      "name": "psyc_NM-2-AI",
+      "psychonaut_name": "NM-2-AI",
+      "tripsit_name": null,
+      "dist": 22.860354879
+    },
+    {
+      "name": "trip_isophenmetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "isophenmetrazine",
+      "dist": 22.9905203482
+    },
+    {
+      "name": "psyc_3-FPM",
+      "psychonaut_name": "3-FPM",
+      "tripsit_name": null,
+      "dist": 23.1527111732
+    },
+    {
+      "name": "trip_3-fpm",
+      "psychonaut_name": null,
+      "tripsit_name": "3-fpm",
+      "dist": 23.1527111732
+    },
+    {
+      "name": "trip_mdoh",
+      "psychonaut_name": null,
+      "tripsit_name": "mdoh",
+      "dist": 23.5177117014
+    }
+  ]
+}

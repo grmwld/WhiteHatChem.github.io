@@ -1,0 +1,198 @@
+{
+  "inchi": "InChI=1S/C7H7ClN4O2/c1-11-4-3(9-6(8)10-4)5(13)12(2)7(11)14/h1-2H3,(H,9,10)",
+  "psychonaut_name": "8-Chlorotheophylline",
+  "tripsit_name": null,
+  "synonyms": [
+    "8-Chloro-1,3-dimethyl-3,7-dihydro-1H-purine-2,6-dione",
+    "Theophylline, 8-chloro-",
+    "W-104090",
+    "UNII-GE2UA340FM",
+    "BBL009700",
+    "1H-Purine-2, 8-chloro-3,7-dihydro-1,3-dimethyl-",
+    "AKOS000119705",
+    "NSC 6113",
+    "chlortheophylline",
+    "8-chorotheophylline",
+    "8-CHLORTHEOPHYLLINE",
+    "PAMABROM RELATED COMPOUND A [USP-RS]",
+    "AKOS005521865",
+    "A841253",
+    "H33",
+    "CHEBI:59771",
+    "NSC6113",
+    "8-Chloro-1,3-dimethyl-3,7-dihydro-1H-purine-2,6-dione #",
+    "8-Chloro-1,3-dimethyl-3,7-dihydro-purine-2,6-dione",
+    "EINECS 201-590-4",
+    "8-Chlorotheophylline",
+    "8-Chloro-theophylline",
+    "1,3-dimethyl 8-chloro xanthine",
+    "8-Chlorotheophyline",
+    "MFCD00005581",
+    "BDBM50331852",
+    "ZINC100018165",
+    "8-chloro-1,3-dimethyl-3,9-dihydro-1H-purine-2,6-dione",
+    "8-Chloro-3,7-dihydro-1,3-dimethyl-1H-purine-2,6-dione",
+    "GE2UA340FM",
+    "8-CHLOROTHEOPHYLLINE [USP-RS]",
+    "Q4644272",
+    "AMY493",
+    "85-18-7",
+    "Oprea1_038673",
+    "FT-0631394",
+    "8-chlortheophyllin",
+    "chlorotheophylline",
+    "8-CHLORTHEOPHYLLINE [WHO-DD]",
+    "SR-01000479303",
+    "SR-01000479303-1",
+    "EC 201-590-4",
+    "DTXSID5043764",
+    "AS-67718",
+    "8-chloro-1,3-dimethyl-3,7-dihydropurine-2,6-dione",
+    "D97697",
+    "8-Chloro-1,3-dimethyl-2,6(1H,3H)-purinedione",
+    "2uy3",
+    "SCHEMBL411139",
+    "DB14132",
+    "DB-056856",
+    "NSC-6113",
+    "8-chloro-1,3-dimethyl-2,3,6,7-tetrahydro-1H-purine-2,6-dione",
+    "STK701164",
+    "Oprea1_741931",
+    "8-Chloro-1,3-dimethyl-3,9-dihydro-1H-purine-2,6-dione, AldrichCPR",
+    "8-chloro-1,3-dimethyl-7H-purine-2,6-dione",
+    "8-Chloro-1,3-Dimethyl-2,6-Purinedione",
+    "AB01563382_01",
+    "CHEMBL88611",
+    "1H-Purine-2,6-dione, 8-chloro-3,7-dihydro-1,3-dimethyl-",
+    "8-Chloro-1,3-dimethyl-1H-purine-2,6(3H,7H)-dione",
+    "1,3-Dimethyl-8-chloroxanthine"
+  ],
+  "distances": [
+    15.4748217448,
+    15.4748217448,
+    18.6005649932,
+    22.7597755976,
+    22.7597755976,
+    28.7199858191,
+    28.7199858191,
+    30.2582421542,
+    30.2988492137,
+    30.5488040871,
+    30.5488040871,
+    31.1685373761,
+    31.2040061922,
+    31.2040061922,
+    31.324387051
+  ],
+  "indices": [
+    117,
+    685,
+    708,
+    595,
+    306,
+    763,
+    247,
+    328,
+    799,
+    204,
+    812,
+    484,
+    678,
+    106,
+    89
+  ],
+  "name": "psyc_8-Chlorotheophylline",
+  "svg": "psyc_8-Chlorotheophylline.svg",
+  "sim": [
+    {
+      "name": "psyc_Caffeine",
+      "psychonaut_name": "Caffeine",
+      "tripsit_name": null,
+      "dist": 15.4748217448
+    },
+    {
+      "name": "trip_caffeine",
+      "psychonaut_name": null,
+      "tripsit_name": "caffeine",
+      "dist": 15.4748217448
+    },
+    {
+      "name": "trip_theobromine",
+      "psychonaut_name": null,
+      "tripsit_name": "theobromine",
+      "dist": 18.6005649932
+    },
+    {
+      "name": "trip_theacrine",
+      "psychonaut_name": null,
+      "tripsit_name": "theacrine",
+      "dist": 22.7597755976
+    },
+    {
+      "name": "psyc_Theacrine",
+      "psychonaut_name": "Theacrine",
+      "tripsit_name": null,
+      "dist": 22.7597755976
+    },
+    {
+      "name": "trip_nicotine",
+      "psychonaut_name": null,
+      "tripsit_name": "nicotine",
+      "dist": 28.7199858191
+    },
+    {
+      "name": "psyc_Nicotine",
+      "psychonaut_name": "Nicotine",
+      "tripsit_name": null,
+      "dist": 28.7199858191
+    },
+    {
+      "name": "trip_mephtetramine",
+      "psychonaut_name": null,
+      "tripsit_name": "mephtetramine",
+      "dist": 30.2582421542
+    },
+    {
+      "name": "trip_2-me-dmt",
+      "psychonaut_name": null,
+      "tripsit_name": "2-me-dmt",
+      "dist": 30.2988492137
+    },
+    {
+      "name": "psyc_MCPP",
+      "psychonaut_name": "MCPP",
+      "tripsit_name": null,
+      "dist": 30.5488040871
+    },
+    {
+      "name": "trip_mcpp",
+      "psychonaut_name": null,
+      "tripsit_name": "mcpp",
+      "dist": 30.5488040871
+    },
+    {
+      "name": "trip_mbzp",
+      "psychonaut_name": null,
+      "tripsit_name": "mbzp",
+      "dist": 31.1685373761
+    },
+    {
+      "name": "trip_aniracetam",
+      "psychonaut_name": null,
+      "tripsit_name": "aniracetam",
+      "dist": 31.2040061922
+    },
+    {
+      "name": "psyc_Aniracetam",
+      "psychonaut_name": "Aniracetam",
+      "tripsit_name": null,
+      "dist": 31.2040061922
+    },
+    {
+      "name": "psyc_6-APDB",
+      "psychonaut_name": "6-APDB",
+      "tripsit_name": null,
+      "dist": 31.324387051
+    }
+  ]
+}

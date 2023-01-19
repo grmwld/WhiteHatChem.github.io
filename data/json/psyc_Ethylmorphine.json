@@ -1,0 +1,179 @@
+{
+  "inchi": "InChI=1S/C19H23NO3/c1-3-22-15-7-4-11-10-13-12-5-6-14(21)18-19(12,8-9-20(13)2)16(11)17(15)23-18/h4-7,12-14,18,21H,3,8-10H2,1-2H3/t12-,13+,14-,18-,19-/m0/s1",
+  "psychonaut_name": "Ethylmorphine",
+  "tripsit_name": null,
+  "synonyms": [
+    "NCGC00168251-01",
+    "IDS-NE-005(SECT.2)",
+    "ETHYLMORPHINE [MI]",
+    "CHEMBL1712170",
+    "Ethyl morphine",
+    "R05DA01",
+    "Ethylmorphine",
+    "(5.ALPHA.,6.ALPHA.)-7,8-DIDEHYDRO-4,5-EPOXY-3-ETHOXY-17-METHYLMORPHINAN-6-OL",
+    "Q554881",
+    "Ethylmorphine (BAN)",
+    "DTXSID1046760",
+    "(5\u03b1,6\u03b1)-3-Ethoxy-17-methyl-7,8-didehydro-4,5-epoxymorphinan-6-ol",
+    "Tox21_112610",
+    "Ethylmorphine 1.0 mg/ml in Methanol",
+    "Morphine, ethyl-",
+    "DEA No. 9190",
+    "DIONINE",
+    "ETHYLMORPHINE [WHO-DD]",
+    "Dionin",
+    "DSSTox_CID_26760",
+    "EINECS 200-970-7",
+    "UNII-RWO67D87EU",
+    "SCHEMBL24971",
+    "CHEBI:4902",
+    "76-58-4",
+    "(1S,5R,13R,14S,17R)-10-ethoxy-4-methyl-12-oxa-4-azapentacyclo[9.6.1.0^{1,13}.0^{5,17}.0^{7,18}]octadeca-7(18),8,10,15-tetraen-14-ol",
+    "CAS-76-58-4",
+    "Morphinan-6-alpha-ol, 7,8-didehydro-4,5-alpha-epoxy-3-ethoxy-17-methyl-",
+    "Ethylmorphine [BAN]",
+    "D07929",
+    "ZINC3629718",
+    "DB01466",
+    "Ethylmorphine solution, 1.0 mg/mL in methanol, ampule of 1 mL, certified reference material",
+    "DSSTox_RID_81884",
+    "C07537",
+    "DSSTox_GSID_46760",
+    "Morphinan-6-ol, 7,8-didehydro-4,5-epoxy-3-ethoxy-17-methyl-, (5-alpha,6-alpha)-",
+    "3-Ethoxymorphine",
+    "(4R,4aR,7S,7aR,12bS)-9-Ethoxy-3-methyl-2,3,4,4a,7,7a-hexahydro-1H-4,12-methano[1]benzofuro[3,2-e]isoquinolin-7-ol",
+    "RWO67D87EU",
+    "(4R,4aR,7S,7aR,12bS)-9-ethoxy-3-methyl-2,4,4a,7,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinoline-7-ol",
+    "(4R,4aR,7S,7aR,12bS)-9-ethoxy-3-methyl-2,4,4a,7,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-7-ol",
+    "Codethyline",
+    "3-O-Ethylmorphine"
+  ],
+  "distances": [
+    3.3036e-06,
+    8.7069401212,
+    8.7069401212,
+    14.3247311232,
+    14.3247311232,
+    18.4637748097,
+    18.4637748097,
+    20.637869594,
+    21.7226278013,
+    21.7226278013,
+    22.7154439543,
+    22.7154439543,
+    24.1737346267,
+    24.3021221223,
+    24.3021221223
+  ],
+  "indices": [
+    709,
+    128,
+    650,
+    610,
+    239,
+    827,
+    151,
+    183,
+    188,
+    675,
+    189,
+    388,
+    142,
+    428,
+    256
+  ],
+  "name": "psyc_Ethylmorphine",
+  "svg": "psyc_Ethylmorphine.svg",
+  "sim": [
+    {
+      "name": "trip_ethylmorphine",
+      "psychonaut_name": null,
+      "tripsit_name": "ethylmorphine",
+      "dist": 3.3036e-06
+    },
+    {
+      "name": "psyc_Codeine",
+      "psychonaut_name": "Codeine",
+      "tripsit_name": null,
+      "dist": 8.7069401212
+    },
+    {
+      "name": "trip_codeine",
+      "psychonaut_name": null,
+      "tripsit_name": "codeine",
+      "dist": 8.7069401212
+    },
+    {
+      "name": "trip_morphine",
+      "psychonaut_name": null,
+      "tripsit_name": "morphine",
+      "dist": 14.3247311232
+    },
+    {
+      "name": "psyc_Morphine",
+      "psychonaut_name": "Morphine",
+      "tripsit_name": null,
+      "dist": 14.3247311232
+    },
+    {
+      "name": "trip_dihydrocodeine",
+      "psychonaut_name": null,
+      "tripsit_name": "dihydrocodeine",
+      "dist": 18.4637748097
+    },
+    {
+      "name": "psyc_Dihydrocodeine",
+      "psychonaut_name": "Dihydrocodeine",
+      "tripsit_name": null,
+      "dist": 18.4637748097
+    },
+    {
+      "name": "psyc_Galantamine",
+      "psychonaut_name": "Galantamine",
+      "tripsit_name": null,
+      "dist": 20.637869594
+    },
+    {
+      "name": "psyc_Hydrocodone",
+      "psychonaut_name": "Hydrocodone",
+      "tripsit_name": null,
+      "dist": 21.7226278013
+    },
+    {
+      "name": "trip_hydrocodone",
+      "psychonaut_name": null,
+      "tripsit_name": "hydrocodone",
+      "dist": 21.7226278013
+    },
+    {
+      "name": "psyc_Hydromorphone",
+      "psychonaut_name": "Hydromorphone",
+      "tripsit_name": null,
+      "dist": 22.7154439543
+    },
+    {
+      "name": "trip_hydromorphone",
+      "psychonaut_name": null,
+      "tripsit_name": "hydromorphone",
+      "dist": 22.7154439543
+    },
+    {
+      "name": "psyc_Desomorphine",
+      "psychonaut_name": "Desomorphine",
+      "tripsit_name": null,
+      "dist": 24.1737346267
+    },
+    {
+      "name": "trip_oxycodone",
+      "psychonaut_name": null,
+      "tripsit_name": "oxycodone",
+      "dist": 24.3021221223
+    },
+    {
+      "name": "psyc_Oxycodone",
+      "psychonaut_name": "Oxycodone",
+      "tripsit_name": null,
+      "dist": 24.3021221223
+    }
+  ]
+}

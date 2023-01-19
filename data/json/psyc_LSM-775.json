@@ -1,0 +1,156 @@
+{
+  "inchi": "InChI=1S/C20H23N3O2/c1-22-12-14(20(24)23-5-7-25-8-6-23)9-16-15-3-2-4-17-19(15)13(11-21-17)10-18(16)22/h2-4,9,11,14,18,21H,5-8,10,12H2,1H3/t14-,18-/m1/s1",
+  "psychonaut_name": "LSM-775",
+  "tripsit_name": null,
+  "synonyms": [
+    "LSM-775",
+    "4314-63-0",
+    "D-Lysergic acid morpholide",
+    "4-Lysergoylmorpholine",
+    "4-Lysergic acid morpholide",
+    "Lysergic acid morpholide",
+    "((6aR,9R)-7-methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinolin-9-yl)(morpholino)methanone",
+    "LA-Morph",
+    "4-Lysergic acid morpholine",
+    "LSM",
+    "Q6459970",
+    "DTXSID50195718",
+    "Ergoline-8-beta-carboxylic acid, 9,10-didehydro-6-methyl-, morpholide",
+    "Morpholine, 4-(((8-beta)-9,10-didehydro-6-methylergolin-8-yl)carbonyl)-",
+    "N-Morpholinyllysergamide",
+    "[(6aR,9R)-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinolin-9-yl]-morpholin-4-ylmethanone",
+    "UNII-168Y0PXM7S",
+    "MORPHOLINE, 4-(((8.BETA.)-9,10-DIDEHYDRO-6-METHYLERGOLIN-8-YL)CARBONYL)-",
+    "Morpholine, 4-lysergoyl-",
+    "SCHEMBL20970864",
+    "168Y0PXM7S"
+  ],
+  "distances": [
+    0.0,
+    21.0560434107,
+    21.0560434107,
+    28.4084136105,
+    28.5495121849,
+    28.7224997977,
+    28.7224997977,
+    28.7224997977,
+    29.2954582991,
+    29.2954582991,
+    29.2954582991,
+    30.2833159286,
+    30.4340788311,
+    30.4557764848,
+    31.6130232617
+  ],
+  "indices": [
+    598,
+    635,
+    201,
+    197,
+    234,
+    302,
+    651,
+    190,
+    191,
+    722,
+    199,
+    237,
+    386,
+    739,
+    518
+  ],
+  "name": "psyc_LSM-775",
+  "svg": "psyc_LSM-775.svg",
+  "sim": [
+    {
+      "name": "trip_lsm-775",
+      "psychonaut_name": null,
+      "tripsit_name": "lsm-775",
+      "dist": 0.0
+    },
+    {
+      "name": "trip_lsz",
+      "psychonaut_name": null,
+      "tripsit_name": "lsz",
+      "dist": 21.0560434107
+    },
+    {
+      "name": "psyc_LSZ",
+      "psychonaut_name": "LSZ",
+      "tripsit_name": null,
+      "dist": 21.0560434107
+    },
+    {
+      "name": "psyc_LAE-32",
+      "psychonaut_name": "LAE-32",
+      "tripsit_name": null,
+      "dist": 28.4084136105
+    },
+    {
+      "name": "psyc_MiPLA",
+      "psychonaut_name": "MiPLA",
+      "tripsit_name": null,
+      "dist": 28.5495121849
+    },
+    {
+      "name": "psyc_Tabernanthe iboga (botany)",
+      "psychonaut_name": "Tabernanthe iboga (botany)",
+      "tripsit_name": null,
+      "dist": 28.7224997977
+    },
+    {
+      "name": "trip_ibogaine",
+      "psychonaut_name": null,
+      "tripsit_name": "ibogaine",
+      "dist": 28.7224997977
+    },
+    {
+      "name": "psyc_Ibogaine",
+      "psychonaut_name": "Ibogaine",
+      "tripsit_name": null,
+      "dist": 28.7224997977
+    },
+    {
+      "name": "psyc_Iso-LSD",
+      "psychonaut_name": "Iso-LSD",
+      "tripsit_name": null,
+      "dist": 29.2954582991
+    },
+    {
+      "name": "trip_lsd",
+      "psychonaut_name": null,
+      "tripsit_name": "lsd",
+      "dist": 29.2954582991
+    },
+    {
+      "name": "psyc_LSD",
+      "psychonaut_name": "LSD",
+      "tripsit_name": null,
+      "dist": 29.2954582991
+    },
+    {
+      "name": "psyc_Mirtazapine",
+      "psychonaut_name": "Mirtazapine",
+      "tripsit_name": null,
+      "dist": 30.2833159286
+    },
+    {
+      "name": "trip_coronaridine",
+      "psychonaut_name": null,
+      "tripsit_name": "coronaridine",
+      "dist": 30.4340788311
+    },
+    {
+      "name": "trip_indapyrophenidone",
+      "psychonaut_name": null,
+      "tripsit_name": "indapyrophenidone",
+      "dist": 30.4557764848
+    },
+    {
+      "name": "trip_pre-084",
+      "psychonaut_name": null,
+      "tripsit_name": "pre-084",
+      "dist": 31.6130232617
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "inchi": "InChI=1S/C16H12BrN5/c1-10-20-21-15-9-19-16(13-4-2-3-7-18-13)12-8-11(17)5-6-14(12)22(10)15/h2-8H,9H2,1H3",
+  "psychonaut_name": "Pyrazolam",
+  "tripsit_name": null,
+  "synonyms": [
+    "8-BROMO-1-METHYL-6-(PYRIDIN-2-YL)-4H-BENZO[F][1,2,4]TRIAZOLO[4,3-A][1,4]D+",
+    "SCHEMBL11624016",
+    "Pirazolam",
+    "PYRAZOLAM [NFLIS-DRUG]",
+    "8-bromo-1-methyl-6-(2-pyridyl)-4H-s-triazolo[4,3-a][1,4]-benzodiazepine",
+    "8-Bromo-1-methyl-6-(2-pyridinyl)-4H-(1,2,4)triazolo(4,3-a)(1,4)benzodiazepine",
+    "4H-(1,2,4)Triazolo(4,3-a)(1,4)benzodiazepine, 8-bromo-1-methyl-6-(2-pyridinyl)-",
+    "Pyrazolam solution, 1.0 mg/mL in acetonitrile, ampule of 1 mL, certified reference material",
+    "DB14718",
+    "8-bromo-1-methyl-6-pyridin-2-yl-4H-(1,2,4)triazolo(4,3-a)(1,4)benzodiazepine",
+    "UNII-8LH16383PK",
+    "8-bromo-1-methyl-6-(2-pyridyl)-4H-s-triazolo[4,3-a][1,4]benzodiazepine",
+    "39243-02-2",
+    "Q15409343",
+    "DTXSID101043303",
+    "CHEMBL3246831",
+    "SH-I-04",
+    "8LH16383PK",
+    "8-bromo-1-methyl-6-(pyridin-2-yl)-4H-benzo[f][1,2,4]triazolo[4,3-a][1,4]diazepine",
+    "8bromo-1-methyl-6-(2-pyridyl)-4H-s-triazolo[4,3-a][1,4]benzodiazepine",
+    "ZINC39247035",
+    "AKOS024573810",
+    "Pyrazolam",
+    "F9995-1802",
+    "Pyrazolam 1.0 mg/ml in Methanol",
+    "8-bromo-1-methyl-6-pyridin-2-yl-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine"
+  ],
+  "distances": [
+    2.336e-06,
+    7.0435344619,
+    7.0435344619,
+    9.6961277105,
+    9.6961277105,
+    11.1752146178,
+    11.1752146178,
+    13.1161597135,
+    13.1161597135,
+    13.2942543182,
+    14.6942943685,
+    14.6942943685,
+    14.6972893739,
+    15.6485803515,
+    15.6485803515
+  ],
+  "indices": [
+    748,
+    664,
+    111,
+    449,
+    175,
+    103,
+    378,
+    173,
+    738,
+    654,
+    312,
+    691,
+    787,
+    843,
+    176
+  ],
+  "name": "psyc_Pyrazolam",
+  "svg": "psyc_Pyrazolam.svg",
+  "sim": [
+    {
+      "name": "trip_pyrazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "pyrazolam",
+      "dist": 2.336e-06
+    },
+    {
+      "name": "trip_bromazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "bromazolam",
+      "dist": 7.0435344619
+    },
+    {
+      "name": "psyc_Bromazolam",
+      "psychonaut_name": "Bromazolam",
+      "tripsit_name": null,
+      "dist": 7.0435344619
+    },
+    {
+      "name": "trip_flubromazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "flubromazolam",
+      "dist": 9.6961277105
+    },
+    {
+      "name": "psyc_Flubromazolam",
+      "psychonaut_name": "Flubromazolam",
+      "tripsit_name": null,
+      "dist": 9.6961277105
+    },
+    {
+      "name": "psyc_Alprazolam",
+      "psychonaut_name": "Alprazolam",
+      "tripsit_name": null,
+      "dist": 11.1752146178
+    },
+    {
+      "name": "trip_alprazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "alprazolam",
+      "dist": 11.1752146178
+    },
+    {
+      "name": "psyc_Flualprazolam",
+      "psychonaut_name": "Flualprazolam",
+      "tripsit_name": null,
+      "dist": 13.1161597135
+    },
+    {
+      "name": "trip_flualprazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "flualprazolam",
+      "dist": 13.1161597135
+    },
+    {
+      "name": "trip_brotizolam",
+      "psychonaut_name": null,
+      "tripsit_name": "brotizolam",
+      "dist": 13.2942543182
+    },
+    {
+      "name": "psyc_Triazolam",
+      "psychonaut_name": "Triazolam",
+      "tripsit_name": null,
+      "dist": 14.6942943685
+    },
+    {
+      "name": "trip_triazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "triazolam",
+      "dist": 14.6942943685
+    },
+    {
+      "name": "trip_estazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "estazolam",
+      "dist": 14.6972893739
+    },
+    {
+      "name": "trip_fluclotizolam",
+      "psychonaut_name": null,
+      "tripsit_name": "fluclotizolam",
+      "dist": 15.6485803515
+    },
+    {
+      "name": "psyc_Fluclotizolam",
+      "psychonaut_name": "Fluclotizolam",
+      "tripsit_name": null,
+      "dist": 15.6485803515
+    }
+  ]
+}

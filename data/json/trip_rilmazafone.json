@@ -1,0 +1,136 @@
+{
+  "inchi": "InChI=1S/C21H20Cl2N6O3/c1-28(2)21(32)20-26-17(11-25-18(30)10-24)29(27-20)16-8-7-12(22)9-14(16)19(31)13-5-3-4-6-15(13)23/h3-9H,10-11,24H2,1-2H3,(H,25,30)",
+  "psychonaut_name": null,
+  "tripsit_name": "rilmazafone",
+  "synonyms": [
+    "rhythmy"
+  ],
+  "distances": [
+    33.0141330857,
+    33.0141330857,
+    34.1990721817,
+    37.3832802674,
+    37.7368933554,
+    37.7368933554,
+    37.8860467595,
+    38.7207219912,
+    38.8117027017,
+    39.3641912248,
+    39.4964922543,
+    39.5157840917,
+    39.7947278082,
+    39.9283003024,
+    40.2392260425
+  ],
+  "indices": [
+    93,
+    802,
+    838,
+    297,
+    87,
+    587,
+    298,
+    193,
+    777,
+    535,
+    572,
+    432,
+    194,
+    746,
+    845
+  ],
+  "name": "trip_rilmazafone",
+  "svg": "trip_rilmazafone.svg",
+  "sim": [
+    {
+      "name": "psyc_AB-FUBINACA",
+      "psychonaut_name": "AB-FUBINACA",
+      "tripsit_name": null,
+      "dist": 33.0141330857
+    },
+    {
+      "name": "trip_ab-fubinaca",
+      "psychonaut_name": null,
+      "tripsit_name": "ab-fubinaca",
+      "dist": 33.0141330857
+    },
+    {
+      "name": "trip_pagoclone",
+      "psychonaut_name": null,
+      "tripsit_name": "pagoclone",
+      "dist": 34.1990721817
+    },
+    {
+      "name": "psyc_THJ-018",
+      "psychonaut_name": "THJ-018",
+      "tripsit_name": null,
+      "dist": 37.3832802674
+    },
+    {
+      "name": "psyc_5F-PB-22",
+      "psychonaut_name": "5F-PB-22",
+      "tripsit_name": null,
+      "dist": 37.7368933554
+    },
+    {
+      "name": "trip_5f-pb-22",
+      "psychonaut_name": null,
+      "tripsit_name": "5f-pb-22",
+      "dist": 37.7368933554
+    },
+    {
+      "name": "psyc_THJ-2201",
+      "psychonaut_name": "THJ-2201",
+      "tripsit_name": null,
+      "dist": 37.8860467595
+    },
+    {
+      "name": "psyc_JWH-018",
+      "psychonaut_name": "JWH-018",
+      "tripsit_name": null,
+      "dist": 38.7207219912
+    },
+    {
+      "name": "trip_dramamine",
+      "psychonaut_name": null,
+      "tripsit_name": "dramamine",
+      "dist": 38.8117027017
+    },
+    {
+      "name": "trip_clonitazene",
+      "psychonaut_name": null,
+      "tripsit_name": "clonitazene",
+      "dist": 39.3641912248
+    },
+    {
+      "name": "trip_camazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "camazepam",
+      "dist": 39.4964922543
+    },
+    {
+      "name": "trip_am-2201",
+      "psychonaut_name": null,
+      "tripsit_name": "am-2201",
+      "dist": 39.5157840917
+    },
+    {
+      "name": "psyc_JWH-073",
+      "psychonaut_name": "JWH-073",
+      "tripsit_name": null,
+      "dist": 39.7947278082
+    },
+    {
+      "name": "trip_parafluorobutyrfentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "parafluorobutyrfentanyl",
+      "dist": 39.9283003024
+    },
+    {
+      "name": "trip_flurazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "flurazepam",
+      "dist": 40.2392260425
+    }
+  ]
+}

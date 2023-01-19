@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C19H23N3O3/c1-11-12(2)25-19-17(11)18(13-6-3-4-7-14(13)20-19)21-15(23)10-22-9-5-8-16(22)24/h3-10H2,1-2H3,(H,20,21,23)",
+  "psychonaut_name": null,
+  "tripsit_name": "coluracetam",
+  "synonyms": null,
+  "distances": [
+    1.9073e-06,
+    32.6664065396,
+    32.9589588542,
+    33.7458131807,
+    34.0472245708,
+    34.5166683013,
+    35.5264845364,
+    35.8508398067,
+    35.8508398067,
+    36.5371740545,
+    36.653848893,
+    36.6958605518,
+    36.7453809677,
+    36.7453809677,
+    36.8977104986
+  ],
+  "indices": [
+    445,
+    357,
+    818,
+    830,
+    846,
+    455,
+    288,
+    598,
+    200,
+    456,
+    644,
+    555,
+    209,
+    523,
+    190
+  ],
+  "name": "trip_coluracetam",
+  "svg": "trip_coluracetam.svg",
+  "sim": [
+    {
+      "name": "trip_coluracetam",
+      "psychonaut_name": null,
+      "tripsit_name": "coluracetam",
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "trip_th-pvp",
+      "psychonaut_name": null,
+      "tripsit_name": "th-pvp",
+      "dist": 32.6664065396
+    },
+    {
+      "name": "trip_nefiracetam",
+      "psychonaut_name": null,
+      "tripsit_name": "nefiracetam",
+      "dist": 32.9589588542
+    },
+    {
+      "name": "trip_5-bpdi",
+      "psychonaut_name": null,
+      "tripsit_name": "5-bpdi",
+      "dist": 33.7458131807
+    },
+    {
+      "name": "trip_5-dbfpv",
+      "psychonaut_name": null,
+      "tripsit_name": "5-dbfpv",
+      "dist": 34.0472245708
+    },
+    {
+      "name": "trip_5-ppdi",
+      "psychonaut_name": null,
+      "tripsit_name": "5-ppdi",
+      "dist": 34.5166683013
+    },
+    {
+      "name": "psyc_Risperidone",
+      "psychonaut_name": "Risperidone",
+      "tripsit_name": null,
+      "dist": 35.5264845364
+    },
+    {
+      "name": "trip_lsm-775",
+      "psychonaut_name": null,
+      "tripsit_name": "lsm-775",
+      "dist": 35.8508398067
+    },
+    {
+      "name": "psyc_LSM-775",
+      "psychonaut_name": "LSM-775",
+      "tripsit_name": null,
+      "dist": 35.8508398067
+    },
+    {
+      "name": "trip_2c-b-fly-nbome",
+      "psychonaut_name": null,
+      "tripsit_name": "2c-b-fly-nbome",
+      "dist": 36.5371740545
+    },
+    {
+      "name": "trip_ah-7921",
+      "psychonaut_name": null,
+      "tripsit_name": "ah-7921",
+      "dist": 36.653848893
+    },
+    {
+      "name": "trip_mdphp",
+      "psychonaut_name": null,
+      "tripsit_name": "mdphp",
+      "dist": 36.6958605518
+    },
+    {
+      "name": "psyc_MDPV",
+      "psychonaut_name": "MDPV",
+      "tripsit_name": null,
+      "dist": 36.7453809677
+    },
+    {
+      "name": "trip_mdpv",
+      "psychonaut_name": null,
+      "tripsit_name": "mdpv",
+      "dist": 36.7453809677
+    },
+    {
+      "name": "psyc_Ibogaine",
+      "psychonaut_name": "Ibogaine",
+      "tripsit_name": null,
+      "dist": 36.8977104986
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "inchi": "InChI=1S/C6H10N2O2/c7-5(9)4-8-3-1-2-6(8)10/h1-4H2,(H2,7,9)",
+  "psychonaut_name": null,
+  "tripsit_name": "piracetam",
+  "synonyms": [
+    "nootropil",
+    "lucetam",
+    "noostan",
+    "breinox",
+    "oikamid",
+    "geratam",
+    "biotropil"
+  ],
+  "distances": [
+    1.3487e-06,
+    11.571525062,
+    11.571525062,
+    21.8145334777,
+    22.9290845853,
+    22.9290845853,
+    23.3784190243,
+    23.3784190243,
+    23.4234267644,
+    23.4234267644,
+    23.4815770435,
+    24.0747495708,
+    24.3435569432,
+    24.382825016,
+    24.382825016
+  ],
+  "indices": [
+    494,
+    674,
+    255,
+    679,
+    179,
+    338,
+    353,
+    180,
+    416,
+    11,
+    130,
+    789,
+    450,
+    401,
+    181
+  ],
+  "name": "trip_piracetam",
+  "svg": "trip_piracetam.svg",
+  "sim": [
+    {
+      "name": "trip_piracetam",
+      "psychonaut_name": null,
+      "tripsit_name": "piracetam",
+      "dist": 1.3487e-06
+    },
+    {
+      "name": "trip_oxiracetam",
+      "psychonaut_name": null,
+      "tripsit_name": "oxiracetam",
+      "dist": 11.571525062
+    },
+    {
+      "name": "psyc_Oxiracetam",
+      "psychonaut_name": "Oxiracetam",
+      "tripsit_name": null,
+      "dist": 11.571525062
+    },
+    {
+      "name": "trip_2-pta",
+      "psychonaut_name": null,
+      "tripsit_name": "2-pta",
+      "dist": 21.8145334777
+    },
+    {
+      "name": "psyc_GBL",
+      "psychonaut_name": "GBL",
+      "tripsit_name": null,
+      "dist": 22.9290845853
+    },
+    {
+      "name": "trip_gbl",
+      "psychonaut_name": null,
+      "tripsit_name": "gbl",
+      "dist": 22.9290845853
+    },
+    {
+      "name": "trip_ghb",
+      "psychonaut_name": null,
+      "tripsit_name": "ghb",
+      "dist": 23.3784190243
+    },
+    {
+      "name": "psyc_GHB",
+      "psychonaut_name": "GHB",
+      "tripsit_name": null,
+      "dist": 23.3784190243
+    },
+    {
+      "name": "trip_2-ai",
+      "psychonaut_name": null,
+      "tripsit_name": "2-ai",
+      "dist": 23.4234267644
+    },
+    {
+      "name": "psyc_2-Aminoindane",
+      "psychonaut_name": "2-Aminoindane",
+      "tripsit_name": null,
+      "dist": 23.4234267644
+    },
+    {
+      "name": "psyc_Creatine",
+      "psychonaut_name": "Creatine",
+      "tripsit_name": null,
+      "dist": 23.4815770435
+    },
+    {
+      "name": "trip_cyclo-methiodrone",
+      "psychonaut_name": null,
+      "tripsit_name": "cyclo-methiodrone",
+      "dist": 24.0747495708
+    },
+    {
+      "name": "trip_gaba",
+      "psychonaut_name": null,
+      "tripsit_name": "gaba",
+      "dist": 24.3435569432
+    },
+    {
+      "name": "trip_gabapentin",
+      "psychonaut_name": null,
+      "tripsit_name": "gabapentin",
+      "dist": 24.382825016
+    },
+    {
+      "name": "psyc_Gabapentin",
+      "psychonaut_name": "Gabapentin",
+      "tripsit_name": null,
+      "dist": 24.382825016
+    }
+  ]
+}

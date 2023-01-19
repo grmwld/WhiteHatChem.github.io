@@ -1,0 +1,136 @@
+{
+  "inchi": "InChI=1S/C6HF5S/c7-1-2(8)4(10)6(12)5(11)3(1)9/h12H",
+  "psychonaut_name": null,
+  "tripsit_name": "pfbt",
+  "synonyms": [
+    "4-fluorotropacocaine"
+  ],
+  "distances": [
+    34.4949257478,
+    34.4949257478,
+    34.7663851743,
+    34.7663851743,
+    34.9820301246,
+    34.9820301246,
+    35.9568714774,
+    35.9568714774,
+    36.0539197846,
+    36.2282582294,
+    36.2282582294,
+    36.4848133004,
+    36.4848133004,
+    37.0116954568,
+    37.1394861389
+  ],
+  "indices": [
+    752,
+    12,
+    42,
+    352,
+    433,
+    61,
+    638,
+    14,
+    823,
+    344,
+    44,
+    698,
+    62,
+    346,
+    589
+  ],
+  "name": "trip_pfbt",
+  "svg": "trip_pfbt.svg",
+  "sim": [
+    {
+      "name": "trip_2-fa",
+      "psychonaut_name": null,
+      "tripsit_name": "2-fa",
+      "dist": 34.4949257478
+    },
+    {
+      "name": "psyc_2-FA",
+      "psychonaut_name": "2-FA",
+      "tripsit_name": null,
+      "dist": 34.4949257478
+    },
+    {
+      "name": "psyc_3-FA",
+      "psychonaut_name": "3-FA",
+      "tripsit_name": null,
+      "dist": 34.7663851743
+    },
+    {
+      "name": "trip_3-fa",
+      "psychonaut_name": null,
+      "tripsit_name": "3-fa",
+      "dist": 34.7663851743
+    },
+    {
+      "name": "trip_4-fa",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fa",
+      "dist": 34.9820301246
+    },
+    {
+      "name": "psyc_4-FA",
+      "psychonaut_name": "4-FA",
+      "tripsit_name": null,
+      "dist": 34.9820301246
+    },
+    {
+      "name": "trip_2-fma",
+      "psychonaut_name": null,
+      "tripsit_name": "2-fma",
+      "dist": 35.9568714774
+    },
+    {
+      "name": "psyc_2-FMA",
+      "psychonaut_name": "2-FMA",
+      "tripsit_name": null,
+      "dist": 35.9568714774
+    },
+    {
+      "name": "trip_4-fpp",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fpp",
+      "dist": 36.0539197846
+    },
+    {
+      "name": "trip_3-fma",
+      "psychonaut_name": null,
+      "tripsit_name": "3-fma",
+      "dist": 36.2282582294
+    },
+    {
+      "name": "psyc_3-FMA",
+      "psychonaut_name": "3-FMA",
+      "tripsit_name": null,
+      "dist": 36.2282582294
+    },
+    {
+      "name": "trip_4-fma",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fma",
+      "dist": 36.4848133004
+    },
+    {
+      "name": "psyc_4-FMA",
+      "psychonaut_name": "4-FMA",
+      "tripsit_name": null,
+      "dist": 36.4848133004
+    },
+    {
+      "name": "trip_halothane",
+      "psychonaut_name": null,
+      "tripsit_name": "halothane",
+      "dist": 37.0116954568
+    },
+    {
+      "name": "trip_5-iai",
+      "psychonaut_name": null,
+      "tripsit_name": "5-iai",
+      "dist": 37.1394861389
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "inchi": "InChI=1S/C15H22N2O/c1-11(2)17(3)8-7-12-10-16-15-6-5-13(18-4)9-14(12)15/h5-6,9-11,16H,7-8H2,1-4H3",
+  "psychonaut_name": "5-MeO-MiPT",
+  "tripsit_name": null,
+  "synonyms": [
+    "SCHEMBL2782171",
+    "N-[2-(5-methoxy-1H-indol-3-yl)ethyl]-N-methylpropan-2-amine",
+    "AKOS015918822",
+    "WDA09655",
+    "N-Isopropyl-N-methyl-5-methoxytryptamine, free base",
+    "5-Methoxy-N-methyl,N-isopropyl tryptamine",
+    "N-(2-(5-Methoxy-1H-indol-3-yl)ethyl)-N-methylpropan-2-amine",
+    "UNII-L0P1807EUY",
+    "1H-Indole-3-ethanamine, 5-methoxy-N-methyl-N-(1-methylethyl)-",
+    "ZINC2539072",
+    "5-MeO-MIPT",
+    "96096-55-8",
+    "[2-(5-methoxy-1H-indol-3-yl)ethyl](methyl)(propan-2-yl)amine",
+    "5-Methoxy-N-methyl-N-isopropyltryptamine",
+    "N-[2-(5-methoxy-1H-indol-3-yl)ethyl]-N-methyl-propan-2-amine",
+    "I-7975",
+    "L0P1807EUY",
+    "Q4412834",
+    "Indole, 3-[2-(isopropylmethylamino)ethyl]-5-methoxy",
+    "3-[2-(Isopropylmethylamino)ethyl]-5-methoxyindole",
+    "5-MeO-MiPT",
+    "Moxy",
+    "5-methoxy-N-methyl-N-(1-methylethyl)-1H-Indole-3-ethanamine",
+    "DTXSID90242114",
+    "5-Methoxy-N,N-methylisopropyltryptamine",
+    "Tryptamine, N-isopropyl-5-methoxy-N-methyl",
+    "N-[2-(5-methoxy-1H-indol-3-yl)ethyl]-N-methyl-2-propanamine",
+    "A845542",
+    "CHEMBL172139",
+    "Methyl5-methylthio-1,2,4-thiadiazol-3-ylcarbamate",
+    "5-Methoxy-N-methyl-N-isopropyl Tryptamine",
+    "5-METHOXY-N-ISOPROPYL-N-METHYLTRYPTAMINE",
+    "N-Isopropyl-5-methoxy-N-methyltryptamine"
+  ],
+  "distances": [
+    1.3487e-06,
+    3.8659888057,
+    9.3581513638,
+    9.3581513638,
+    11.5310687126,
+    11.5310687126,
+    11.9728856524,
+    11.9728856524,
+    12.7432915486,
+    13.3749378239,
+    13.3749378239,
+    13.7206846363,
+    13.8163929972,
+    14.1438904422,
+    14.1438904422
+  ],
+  "indices": [
+    84,
+    470,
+    83,
+    521,
+    69,
+    836,
+    443,
+    235,
+    528,
+    60,
+    792,
+    819,
+    522,
+    519,
+    80
+  ],
+  "name": "psyc_5-MeO-MiPT",
+  "svg": "psyc_5-MeO-MiPT.svg",
+  "sim": [
+    {
+      "name": "psyc_5-MeO-MiPT",
+      "psychonaut_name": "5-MeO-MiPT",
+      "tripsit_name": null,
+      "dist": 1.3487e-06
+    },
+    {
+      "name": "trip_4-meo-mipt",
+      "psychonaut_name": null,
+      "tripsit_name": "4-meo-mipt",
+      "dist": 3.8659888057
+    },
+    {
+      "name": "psyc_5-MeO-EiPT",
+      "psychonaut_name": "5-MeO-EiPT",
+      "tripsit_name": null,
+      "dist": 9.3581513638
+    },
+    {
+      "name": "trip_5-meo-eipt",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-eipt",
+      "dist": 9.3581513638
+    },
+    {
+      "name": "psyc_4-HO-MiPT",
+      "psychonaut_name": "4-HO-MiPT",
+      "tripsit_name": null,
+      "dist": 11.5310687126
+    },
+    {
+      "name": "trip_4-ho-mipt",
+      "psychonaut_name": null,
+      "tripsit_name": "4-ho-mipt",
+      "dist": 11.5310687126
+    },
+    {
+      "name": "trip_mipt",
+      "psychonaut_name": null,
+      "tripsit_name": "mipt",
+      "dist": 11.9728856524
+    },
+    {
+      "name": "psyc_MiPT",
+      "psychonaut_name": "MiPT",
+      "tripsit_name": null,
+      "dist": 11.9728856524
+    },
+    {
+      "name": "trip_5-meo-met",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-met",
+      "dist": 12.7432915486
+    },
+    {
+      "name": "psyc_4-AcO-MiPT",
+      "psychonaut_name": "4-AcO-MiPT",
+      "tripsit_name": null,
+      "dist": 13.3749378239
+    },
+    {
+      "name": "trip_4-aco-mipt",
+      "psychonaut_name": null,
+      "tripsit_name": "4-aco-mipt",
+      "dist": 13.3749378239
+    },
+    {
+      "name": "trip_5-meo-nipt",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-nipt",
+      "dist": 13.7206846363
+    },
+    {
+      "name": "trip_pipt",
+      "psychonaut_name": null,
+      "tripsit_name": "pipt",
+      "dist": 13.8163929972
+    },
+    {
+      "name": "trip_5-meo-dmt",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-dmt",
+      "dist": 14.1438904422
+    },
+    {
+      "name": "psyc_5-MeO-DMT",
+      "psychonaut_name": "5-MeO-DMT",
+      "tripsit_name": null,
+      "dist": 14.1438904422
+    }
+  ]
+}

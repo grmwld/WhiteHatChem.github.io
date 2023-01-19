@@ -1,0 +1,138 @@
+{
+  "inchi": "InChI=1S/C19H18ClN3O3/c1-22(2)19(25)26-17-18(24)23(3)15-10-9-13(20)11-14(15)16(21-17)12-7-5-4-6-8-12/h4-11,17H,1-3H3",
+  "psychonaut_name": null,
+  "tripsit_name": "camazepam",
+  "synonyms": [
+    "albego",
+    "limpidon",
+    "paxor"
+  ],
+  "distances": [
+    25.9486445372,
+    26.1781102647,
+    26.4565984042,
+    26.4565984042,
+    27.1789834901,
+    28.0073363366,
+    28.0073363366,
+    28.104052529,
+    28.104052529,
+    28.3470541848,
+    28.4857452615,
+    29.1660035267,
+    29.4521852055,
+    29.9047805282,
+    29.9417423436
+  ],
+  "indices": [
+    457,
+    545,
+    695,
+    304,
+    335,
+    740,
+    122,
+    318,
+    677,
+    724,
+    845,
+    486,
+    469,
+    574,
+    606
+  ],
+  "name": "trip_camazepam",
+  "svg": "trip_camazepam.svg",
+  "sim": [
+    {
+      "name": "trip_metaclazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "metaclazepam",
+      "dist": 25.9486445372
+    },
+    {
+      "name": "trip_lormetazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "lormetazepam",
+      "dist": 26.1781102647
+    },
+    {
+      "name": "trip_temazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "temazepam",
+      "dist": 26.4565984042
+    },
+    {
+      "name": "psyc_Temazepam",
+      "psychonaut_name": "Temazepam",
+      "tripsit_name": null,
+      "dist": 26.4565984042
+    },
+    {
+      "name": "trip_adinazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "adinazolam",
+      "dist": 27.1789834901
+    },
+    {
+      "name": "trip_cinolazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "cinolazepam",
+      "dist": 28.0073363366
+    },
+    {
+      "name": "psyc_Cinolazepam",
+      "psychonaut_name": "Cinolazepam",
+      "tripsit_name": null,
+      "dist": 28.0073363366
+    },
+    {
+      "name": "psyc_Zolpidem",
+      "psychonaut_name": "Zolpidem",
+      "tripsit_name": null,
+      "dist": 28.104052529
+    },
+    {
+      "name": "trip_zolpidem",
+      "psychonaut_name": null,
+      "tripsit_name": "zolpidem",
+      "dist": 28.104052529
+    },
+    {
+      "name": "trip_nitemazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "nitemazepam",
+      "dist": 28.3470541848
+    },
+    {
+      "name": "trip_flurazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "flurazepam",
+      "dist": 28.4857452615
+    },
+    {
+      "name": "trip_prazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "prazepam",
+      "dist": 29.1660035267
+    },
+    {
+      "name": "trip_prl-8-53",
+      "psychonaut_name": null,
+      "tripsit_name": "prl-8-53",
+      "dist": 29.4521852055
+    },
+    {
+      "name": "trip_flutoprazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "flutoprazepam",
+      "dist": 29.9047805282
+    },
+    {
+      "name": "trip_amfonelicacid",
+      "psychonaut_name": null,
+      "tripsit_name": "amfonelicacid",
+      "dist": 29.9417423436
+    }
+  ]
+}

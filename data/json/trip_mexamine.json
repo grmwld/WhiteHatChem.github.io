@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C11H14N2O/c1-14-9-2-3-11-10(6-9)8(4-5-12)7-13-11/h2-3,6-7,13H,4-5,12H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "mexamine",
+  "synonyms": null,
+  "distances": [
+    11.9728856524,
+    12.6905321529,
+    12.6905321529,
+    14.6152154519,
+    14.6152154519,
+    14.6497530659,
+    15.1863847488,
+    15.5129532372,
+    15.5129532372,
+    16.3922764153,
+    16.6791770267,
+    16.6791770267,
+    16.8010223804,
+    16.8010223804,
+    16.8152243523
+  ],
+  "indices": [
+    314,
+    764,
+    85,
+    321,
+    627,
+    32,
+    509,
+    796,
+    134,
+    113,
+    29,
+    387,
+    80,
+    519,
+    285
+  ],
+  "name": "trip_mexamine",
+  "svg": "trip_mexamine.svg",
+  "sim": [
+    {
+      "name": "psyc_Tryptamine (compound)",
+      "psychonaut_name": "Tryptamine (compound)",
+      "tripsit_name": null,
+      "dist": 11.9728856524
+    },
+    {
+      "name": "trip_5-meo-amt",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-amt",
+      "dist": 12.6905321529
+    },
+    {
+      "name": "psyc_5-MeO-aMT",
+      "psychonaut_name": "5-MeO-aMT",
+      "tripsit_name": null,
+      "dist": 12.6905321529
+    },
+    {
+      "name": "psyc_\u0391MT",
+      "psychonaut_name": "\u0391MT",
+      "tripsit_name": null,
+      "dist": 14.6152154519
+    },
+    {
+      "name": "trip_amt",
+      "psychonaut_name": null,
+      "tripsit_name": "amt",
+      "dist": 14.6152154519
+    },
+    {
+      "name": "psyc_2C-H",
+      "psychonaut_name": "2C-H",
+      "tripsit_name": null,
+      "dist": 14.6497530659
+    },
+    {
+      "name": "trip_5-it",
+      "psychonaut_name": null,
+      "tripsit_name": "5-it",
+      "dist": 15.1863847488
+    },
+    {
+      "name": "trip_dmt",
+      "psychonaut_name": null,
+      "tripsit_name": "dmt",
+      "dist": 15.5129532372
+    },
+    {
+      "name": "psyc_DMT",
+      "psychonaut_name": "DMT",
+      "tripsit_name": null,
+      "dist": 15.5129532372
+    },
+    {
+      "name": "psyc_Bufotenin",
+      "psychonaut_name": "Bufotenin",
+      "tripsit_name": null,
+      "dist": 16.3922764153
+    },
+    {
+      "name": "psyc_2C-C",
+      "psychonaut_name": "2C-C",
+      "tripsit_name": null,
+      "dist": 16.6791770267
+    },
+    {
+      "name": "trip_2c-c",
+      "psychonaut_name": null,
+      "tripsit_name": "2c-c",
+      "dist": 16.6791770267
+    },
+    {
+      "name": "psyc_5-MeO-DMT",
+      "psychonaut_name": "5-MeO-DMT",
+      "tripsit_name": null,
+      "dist": 16.8010223804
+    },
+    {
+      "name": "trip_5-meo-dmt",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-dmt",
+      "dist": 16.8010223804
+    },
+    {
+      "name": "psyc_Psilocin",
+      "psychonaut_name": "Psilocin",
+      "tripsit_name": null,
+      "dist": 16.8152243523
+    }
+  ]
+}

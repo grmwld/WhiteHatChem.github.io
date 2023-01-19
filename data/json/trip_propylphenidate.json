@@ -1,0 +1,136 @@
+{
+  "inchi": "InChI=1S/C16H23NO2/c1-2-12-19-16(18)15(13-8-4-3-5-9-13)14-10-6-7-11-17-14/h3-5,8-9,14-15,17H,2,6-7,10-12H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "propylphenidate",
+  "synonyms": [
+    "pph"
+  ],
+  "distances": [
+    7.0943864041,
+    7.0943864041,
+    9.9934522173,
+    9.9934522173,
+    13.1899058963,
+    13.5898471184,
+    13.5994426164,
+    13.5994426164,
+    13.8370298173,
+    13.8370298173,
+    14.9446646774,
+    14.9446646774,
+    15.4464228862,
+    16.9702291669,
+    17.4244191318
+  ],
+  "indices": [
+    504,
+    167,
+    751,
+    74,
+    672,
+    360,
+    231,
+    427,
+    459,
+    192,
+    75,
+    780,
+    481,
+    821,
+    229
+  ],
+  "name": "trip_propylphenidate",
+  "svg": "trip_propylphenidate.svg",
+  "sim": [
+    {
+      "name": "trip_ethylphenidate",
+      "psychonaut_name": null,
+      "tripsit_name": "ethylphenidate",
+      "dist": 7.0943864041
+    },
+    {
+      "name": "psyc_Ethylphenidate",
+      "psychonaut_name": "Ethylphenidate",
+      "tripsit_name": null,
+      "dist": 7.0943864041
+    },
+    {
+      "name": "trip_4-fluoroethylphenidate",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fluoroethylphenidate",
+      "dist": 9.9934522173
+    },
+    {
+      "name": "psyc_4F-EPH",
+      "psychonaut_name": "4F-EPH",
+      "tripsit_name": null,
+      "dist": 9.9934522173
+    },
+    {
+      "name": "trip_focalin",
+      "psychonaut_name": null,
+      "tripsit_name": "focalin",
+      "dist": 13.1899058963
+    },
+    {
+      "name": "trip_4-methylmethylphenidate",
+      "psychonaut_name": null,
+      "tripsit_name": "4-methylmethylphenidate",
+      "dist": 13.5898471184
+    },
+    {
+      "name": "psyc_Methylphenidate",
+      "psychonaut_name": "Methylphenidate",
+      "tripsit_name": null,
+      "dist": 13.5994426164
+    },
+    {
+      "name": "trip_methylphenidate",
+      "psychonaut_name": null,
+      "tripsit_name": "methylphenidate",
+      "dist": 13.5994426164
+    },
+    {
+      "name": "trip_isopropylphenidate",
+      "psychonaut_name": null,
+      "tripsit_name": "isopropylphenidate",
+      "dist": 13.8370298173
+    },
+    {
+      "name": "psyc_Isopropylphenidate",
+      "psychonaut_name": "Isopropylphenidate",
+      "tripsit_name": null,
+      "dist": 13.8370298173
+    },
+    {
+      "name": "psyc_4F-MPH",
+      "psychonaut_name": "4F-MPH",
+      "tripsit_name": null,
+      "dist": 14.9446646774
+    },
+    {
+      "name": "trip_4-fluoromethylphenidate",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fluoromethylphenidate",
+      "dist": 14.9446646774
+    },
+    {
+      "name": "trip_hdep-28",
+      "psychonaut_name": null,
+      "tripsit_name": "hdep-28",
+      "dist": 15.4464228862
+    },
+    {
+      "name": "trip_methylmorphenate",
+      "psychonaut_name": null,
+      "tripsit_name": "methylmorphenate",
+      "dist": 16.9702291669
+    },
+    {
+      "name": "psyc_Methylnaphthidate",
+      "psychonaut_name": "Methylnaphthidate",
+      "tripsit_name": null,
+      "dist": 17.4244191318
+    }
+  ]
+}

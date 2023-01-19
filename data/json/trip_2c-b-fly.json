@@ -1,0 +1,137 @@
+{
+  "inchi": "InChI=1S/C12H14BrNO2/c13-10-9-3-6-15-11(9)7(1-4-14)8-2-5-16-12(8)10/h1-6,14H2",
+  "psychonaut_name": null,
+  "tripsit_name": "2c-b-fly",
+  "synonyms": [
+    "2cb-fly",
+    "2cbfly"
+  ],
+  "distances": [
+    0.0,
+    23.6070107085,
+    23.6070107085,
+    25.3387209869,
+    25.3387209869,
+    25.3387209869,
+    25.8091657577,
+    26.8147614777,
+    26.8147614777,
+    27.1450087763,
+    27.7106522663,
+    27.7532077344,
+    28.3027628814,
+    28.3027628814,
+    28.654319174
+  ],
+  "indices": [
+    707,
+    733,
+    206,
+    89,
+    771,
+    497,
+    211,
+    658,
+    205,
+    744,
+    832,
+    430,
+    492,
+    207,
+    479
+  ],
+  "name": "trip_2c-b-fly",
+  "svg": "trip_2c-b-fly.svg",
+  "sim": [
+    {
+      "name": "trip_2c-b-fly",
+      "psychonaut_name": null,
+      "tripsit_name": "2c-b-fly",
+      "dist": 0.0
+    },
+    {
+      "name": "trip_mdai",
+      "psychonaut_name": null,
+      "tripsit_name": "mdai",
+      "dist": 23.6070107085
+    },
+    {
+      "name": "psyc_MDAI",
+      "psychonaut_name": "MDAI",
+      "tripsit_name": null,
+      "dist": 23.6070107085
+    },
+    {
+      "name": "psyc_6-APDB",
+      "psychonaut_name": "6-APDB",
+      "tripsit_name": null,
+      "dist": 25.3387209869
+    },
+    {
+      "name": "trip_5-apdb",
+      "psychonaut_name": null,
+      "tripsit_name": "5-apdb",
+      "dist": 25.3387209869
+    },
+    {
+      "name": "trip_6-apdb",
+      "psychonaut_name": null,
+      "tripsit_name": "6-apdb",
+      "dist": 25.3387209869
+    },
+    {
+      "name": "psyc_MMDA",
+      "psychonaut_name": "MMDA",
+      "tripsit_name": null,
+      "dist": 25.8091657577
+    },
+    {
+      "name": "trip_mda",
+      "psychonaut_name": null,
+      "tripsit_name": "mda",
+      "dist": 26.8147614777
+    },
+    {
+      "name": "psyc_MDA",
+      "psychonaut_name": "MDA",
+      "tripsit_name": null,
+      "dist": 26.8147614777
+    },
+    {
+      "name": "trip_eflea",
+      "psychonaut_name": null,
+      "tripsit_name": "eflea",
+      "dist": 27.1450087763
+    },
+    {
+      "name": "trip_5-apdi",
+      "psychonaut_name": null,
+      "tripsit_name": "5-apdi",
+      "dist": 27.7106522663
+    },
+    {
+      "name": "trip_5-mapdb",
+      "psychonaut_name": null,
+      "tripsit_name": "5-mapdb",
+      "dist": 27.7532077344
+    },
+    {
+      "name": "trip_mdea",
+      "psychonaut_name": null,
+      "tripsit_name": "mdea",
+      "dist": 28.3027628814
+    },
+    {
+      "name": "psyc_MDEA",
+      "psychonaut_name": "MDEA",
+      "tripsit_name": null,
+      "dist": 28.3027628814
+    },
+    {
+      "name": "trip_mdoh",
+      "psychonaut_name": null,
+      "tripsit_name": "mdoh",
+      "dist": 28.654319174
+    }
+  ]
+}

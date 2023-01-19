@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C13H18O2/c1-9(2)8-11-4-6-12(7-5-11)10(3)13(14)15/h4-7,9-10H,8H2,1-3H3,(H,14,15)",
+  "psychonaut_name": null,
+  "tripsit_name": "ibuprofen",
+  "synonyms": null,
+  "distances": [
+    15.1375982607,
+    17.816456352,
+    18.5617856489,
+    18.5700668171,
+    18.5700668171,
+    18.7442455362,
+    18.7920475799,
+    18.9043912116,
+    19.4174929376,
+    19.570504303,
+    19.6930059575,
+    19.7199725998,
+    19.7723355086,
+    19.8361082727,
+    19.8361082727
+  ],
+  "indices": [
+    447,
+    373,
+    339,
+    603,
+    70,
+    389,
+    655,
+    364,
+    361,
+    716,
+    381,
+    825,
+    831,
+    233,
+    473
+  ],
+  "name": "trip_ibuprofen",
+  "svg": "trip_ibuprofen.svg",
+  "sim": [
+    {
+      "name": "trip_4-cic",
+      "psychonaut_name": null,
+      "tripsit_name": "4-cic",
+      "dist": 15.1375982607
+    },
+    {
+      "name": "trip_4-emc",
+      "psychonaut_name": null,
+      "tripsit_name": "4-emc",
+      "dist": 17.816456352
+    },
+    {
+      "name": "trip_2-mec",
+      "psychonaut_name": null,
+      "tripsit_name": "2-mec",
+      "dist": 18.5617856489
+    },
+    {
+      "name": "trip_4-mec",
+      "psychonaut_name": null,
+      "tripsit_name": "4-mec",
+      "dist": 18.5700668171
+    },
+    {
+      "name": "psyc_4-MEC",
+      "psychonaut_name": "4-MEC",
+      "tripsit_name": null,
+      "dist": 18.5700668171
+    },
+    {
+      "name": "trip_3-mec",
+      "psychonaut_name": null,
+      "tripsit_name": "3-mec",
+      "dist": 18.7442455362
+    },
+    {
+      "name": "trip_4-mpd",
+      "psychonaut_name": null,
+      "tripsit_name": "4-mpd",
+      "dist": 18.7920475799
+    },
+    {
+      "name": "trip_tolibut",
+      "psychonaut_name": null,
+      "tripsit_name": "tolibut",
+      "dist": 18.9043912116
+    },
+    {
+      "name": "trip_4-cbc",
+      "psychonaut_name": null,
+      "tripsit_name": "4-cbc",
+      "dist": 19.4174929376
+    },
+    {
+      "name": "trip_methedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "methedrone",
+      "dist": 19.570504303
+    },
+    {
+      "name": "trip_4-fluoropentedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fluoropentedrone",
+      "dist": 19.6930059575
+    },
+    {
+      "name": "trip_4f-neb",
+      "psychonaut_name": null,
+      "tripsit_name": "4f-neb",
+      "dist": 19.7199725998
+    },
+    {
+      "name": "trip_3-meomc",
+      "psychonaut_name": null,
+      "tripsit_name": "3-meomc",
+      "dist": 19.7723355086
+    },
+    {
+      "name": "psyc_Mexedrone",
+      "psychonaut_name": "Mexedrone",
+      "tripsit_name": null,
+      "dist": 19.8361082727
+    },
+    {
+      "name": "trip_mexedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "mexedrone",
+      "dist": 19.8361082727
+    }
+  ]
+}

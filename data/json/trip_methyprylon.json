@@ -1,0 +1,136 @@
+{
+  "inchi": "InChI=1S/C10H17NO2/c1-4-10(5-2)8(12)7(3)6-11-9(10)13/h7H,4-6H2,1-3H3,(H,11,13)",
+  "psychonaut_name": null,
+  "tripsit_name": "methyprylon",
+  "synonyms": [
+    "noludar"
+  ],
+  "distances": [
+    18.9193741574,
+    25.6085884946,
+    25.6085884946,
+    25.9108202392,
+    27.368852317,
+    27.368852317,
+    28.9383405065,
+    29.739763823,
+    30.8054334728,
+    31.0089364246,
+    31.0089364246,
+    31.3721635608,
+    31.7467173884,
+    32.0767835661,
+    32.0767835661
+  ],
+  "indices": [
+    524,
+    105,
+    775,
+    309,
+    266,
+    660,
+    410,
+    462,
+    512,
+    255,
+    674,
+    761,
+    448,
+    765,
+    273
+  ],
+  "name": "trip_methyprylon",
+  "svg": "trip_methyprylon.svg",
+  "sim": [
+    {
+      "name": "trip_barbital",
+      "psychonaut_name": null,
+      "tripsit_name": "barbital",
+      "dist": 18.9193741574
+    },
+    {
+      "name": "psyc_Amobarbital",
+      "psychonaut_name": "Amobarbital",
+      "tripsit_name": null,
+      "dist": 25.6085884946
+    },
+    {
+      "name": "trip_amobarbital",
+      "psychonaut_name": null,
+      "tripsit_name": "amobarbital",
+      "dist": 25.6085884946
+    },
+    {
+      "name": "psyc_Thujone",
+      "psychonaut_name": "Thujone",
+      "tripsit_name": null,
+      "dist": 25.9108202392
+    },
+    {
+      "name": "psyc_Pentobarbital",
+      "psychonaut_name": "Pentobarbital",
+      "tripsit_name": null,
+      "dist": 27.368852317
+    },
+    {
+      "name": "trip_pentobarbital",
+      "psychonaut_name": null,
+      "tripsit_name": "pentobarbital",
+      "dist": 27.368852317
+    },
+    {
+      "name": "trip_thiopental",
+      "psychonaut_name": null,
+      "tripsit_name": "thiopental",
+      "dist": 28.9383405065
+    },
+    {
+      "name": "trip_glutethimide",
+      "psychonaut_name": null,
+      "tripsit_name": "glutethimide",
+      "dist": 29.739763823
+    },
+    {
+      "name": "trip_4,4-dmar",
+      "psychonaut_name": null,
+      "tripsit_name": "4,4-dmar",
+      "dist": 30.8054334728
+    },
+    {
+      "name": "psyc_Oxiracetam",
+      "psychonaut_name": "Oxiracetam",
+      "tripsit_name": null,
+      "dist": 31.0089364246
+    },
+    {
+      "name": "trip_oxiracetam",
+      "psychonaut_name": null,
+      "tripsit_name": "oxiracetam",
+      "dist": 31.0089364246
+    },
+    {
+      "name": "trip_g-130",
+      "psychonaut_name": null,
+      "tripsit_name": "g-130",
+      "dist": 31.3721635608
+    },
+    {
+      "name": "trip_phenetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "phenetrazine",
+      "dist": 31.7467173884
+    },
+    {
+      "name": "trip_phenobarbital",
+      "psychonaut_name": null,
+      "tripsit_name": "phenobarbital",
+      "dist": 32.0767835661
+    },
+    {
+      "name": "psyc_Phenobarbital",
+      "psychonaut_name": "Phenobarbital",
+      "tripsit_name": null,
+      "dist": 32.0767835661
+    }
+  ]
+}

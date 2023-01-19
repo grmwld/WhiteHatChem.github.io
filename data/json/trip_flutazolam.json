@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C19H18ClFN2O3/c20-13-5-6-17-15(11-13)19(14-3-1-2-4-16(14)21)22(8-10-26-19)12-18(25)23(17)7-9-24/h1-6,11,24H,7-10,12H2",
+  "psychonaut_name": null,
+  "tripsit_name": "flutazolam",
+  "synonyms": null,
+  "distances": [
+    22.5054436774,
+    23.1625526489,
+    23.7309416748,
+    23.8904155076,
+    24.3994831468,
+    24.8556341957,
+    25.8989347614,
+    26.8224345123,
+    28.300579332,
+    28.9467832369,
+    30.0429725592,
+    30.0429725592,
+    30.424725807,
+    30.5983082821,
+    30.5983082821
+  ],
+  "indices": [
+    622,
+    185,
+    495,
+    689,
+    574,
+    736,
+    279,
+    486,
+    414,
+    625,
+    122,
+    740,
+    749,
+    637,
+    694
+  ],
+  "name": "trip_flutazolam",
+  "svg": "trip_flutazolam.svg",
+  "sim": [
+    {
+      "name": "trip_cloxazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "cloxazolam",
+      "dist": 22.5054436774
+    },
+    {
+      "name": "psyc_Haloperidol",
+      "psychonaut_name": "Haloperidol",
+      "tripsit_name": null,
+      "dist": 23.1625526489
+    },
+    {
+      "name": "trip_ketazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "ketazolam",
+      "dist": 23.7309416748
+    },
+    {
+      "name": "trip_mexazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "mexazolam",
+      "dist": 23.8904155076
+    },
+    {
+      "name": "trip_flutoprazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "flutoprazepam",
+      "dist": 24.3994831468
+    },
+    {
+      "name": "trip_oxazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "oxazolam",
+      "dist": 24.8556341957
+    },
+    {
+      "name": "psyc_Prochlorperazine",
+      "psychonaut_name": "Prochlorperazine",
+      "tripsit_name": null,
+      "dist": 25.8989347614
+    },
+    {
+      "name": "trip_prazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "prazepam",
+      "dist": 26.8224345123
+    },
+    {
+      "name": "trip_cloniprazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "cloniprazepam",
+      "dist": 28.300579332
+    },
+    {
+      "name": "trip_trazodone",
+      "psychonaut_name": null,
+      "tripsit_name": "trazodone",
+      "dist": 28.9467832369
+    },
+    {
+      "name": "psyc_Cinolazepam",
+      "psychonaut_name": "Cinolazepam",
+      "tripsit_name": null,
+      "dist": 30.0429725592
+    },
+    {
+      "name": "trip_cinolazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "cinolazepam",
+      "dist": 30.0429725592
+    },
+    {
+      "name": "trip_clobazam",
+      "psychonaut_name": null,
+      "tripsit_name": "clobazam",
+      "dist": 30.424725807
+    },
+    {
+      "name": "trip_citalopram",
+      "psychonaut_name": null,
+      "tripsit_name": "citalopram",
+      "dist": 30.5983082821
+    },
+    {
+      "name": "trip_escitalopram",
+      "psychonaut_name": null,
+      "tripsit_name": "escitalopram",
+      "dist": 30.5983082821
+    }
+  ]
+}

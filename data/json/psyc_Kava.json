@@ -1,0 +1,140 @@
+{
+  "inchi": "InChI=1S/C14H16O3/c1-16-13-9-12(17-14(15)10-13)8-7-11-5-3-2-4-6-11/h3,5-8,10,12H,2,4,9H2,1H3/b8-7+",
+  "psychonaut_name": "Kava",
+  "tripsit_name": null,
+  "synonyms": [
+    "9000-38-8",
+    "DB01322",
+    "2-[(E)-2-cyclohexa-1,5-dien-1-ylethenyl]-4-methoxy-2,3-dihydropyran-6-one",
+    "Q27092746",
+    "Kava"
+  ],
+  "distances": [
+    1.3487e-06,
+    33.2521806733,
+    34.8486473576,
+    36.1780704737,
+    36.7089797507,
+    37.2064372082,
+    37.4101022061,
+    38.14814871,
+    38.271044558,
+    38.4836168977,
+    38.4836168977,
+    38.7439873737,
+    38.7439873737,
+    38.7863252748,
+    39.0622999995
+  ],
+  "indices": [
+    195,
+    491,
+    588,
+    533,
+    183,
+    671,
+    599,
+    512,
+    131,
+    669,
+    227,
+    730,
+    141,
+    761,
+    251
+  ],
+  "name": "psyc_Kava",
+  "svg": "psyc_Kava.svg",
+  "sim": [
+    {
+      "name": "psyc_Kava",
+      "psychonaut_name": "Kava",
+      "tripsit_name": null,
+      "dist": 1.3487e-06
+    },
+    {
+      "name": "trip_hexobarbital",
+      "psychonaut_name": null,
+      "tripsit_name": "hexobarbital",
+      "dist": 33.2521806733
+    },
+    {
+      "name": "trip_huperzine-a",
+      "psychonaut_name": null,
+      "tripsit_name": "huperzine-a",
+      "dist": 34.8486473576
+    },
+    {
+      "name": "trip_4-ho-mcpt",
+      "psychonaut_name": null,
+      "tripsit_name": "4-ho-mcpt",
+      "dist": 36.1780704737
+    },
+    {
+      "name": "psyc_Galantamine",
+      "psychonaut_name": "Galantamine",
+      "tripsit_name": null,
+      "dist": 36.7089797507
+    },
+    {
+      "name": "trip_methoxyketamine",
+      "psychonaut_name": null,
+      "tripsit_name": "methoxyketamine",
+      "dist": 37.2064372082
+    },
+    {
+      "name": "trip_mxm",
+      "psychonaut_name": null,
+      "tripsit_name": "mxm",
+      "dist": 37.4101022061
+    },
+    {
+      "name": "trip_4,4-dmar",
+      "psychonaut_name": null,
+      "tripsit_name": "4,4-dmar",
+      "dist": 38.14814871
+    },
+    {
+      "name": "psyc_Cyclazodone",
+      "psychonaut_name": "Cyclazodone",
+      "tripsit_name": null,
+      "dist": 38.271044558
+    },
+    {
+      "name": "trip_mxe",
+      "psychonaut_name": null,
+      "tripsit_name": "mxe",
+      "dist": 38.4836168977
+    },
+    {
+      "name": "psyc_Methoxetamine",
+      "psychonaut_name": "Methoxetamine",
+      "tripsit_name": null,
+      "dist": 38.4836168977
+    },
+    {
+      "name": "trip_deschloroketamine",
+      "psychonaut_name": null,
+      "tripsit_name": "deschloroketamine",
+      "dist": 38.7439873737
+    },
+    {
+      "name": "psyc_Deschloroketamine",
+      "psychonaut_name": "Deschloroketamine",
+      "tripsit_name": null,
+      "dist": 38.7439873737
+    },
+    {
+      "name": "trip_g-130",
+      "psychonaut_name": null,
+      "tripsit_name": "g-130",
+      "dist": 38.7863252748
+    },
+    {
+      "name": "psyc_O-PCE",
+      "psychonaut_name": "O-PCE",
+      "tripsit_name": null,
+      "dist": 39.0622999995
+    }
+  ]
+}

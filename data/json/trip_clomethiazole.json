@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C6H8ClNS/c1-5-6(2-3-7)9-4-8-5/h4H,2-3H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "clomethiazole",
+  "synonyms": null,
+  "distances": [
+    19.4417511931,
+    21.559901338,
+    21.559901338,
+    21.5999370715,
+    24.5494235031,
+    24.5494235031,
+    24.5588506652,
+    24.5588506652,
+    24.5588506652,
+    24.6101500374,
+    24.7956159593,
+    24.7956159593,
+    24.8896453531,
+    25.1580477813,
+    25.3484565701
+  ],
+  "indices": [
+    731,
+    575,
+    270,
+    226,
+    180,
+    353,
+    144,
+    703,
+    741,
+    329,
+    579,
+    2,
+    679,
+    757,
+    338
+  ],
+  "name": "trip_clomethiazole",
+  "svg": "trip_clomethiazole.svg",
+  "sim": [
+    {
+      "name": "trip_thiopropamine",
+      "psychonaut_name": null,
+      "tripsit_name": "thiopropamine",
+      "dist": 19.4417511931
+    },
+    {
+      "name": "trip_phenethylamine",
+      "psychonaut_name": null,
+      "tripsit_name": "phenethylamine",
+      "dist": 21.559901338
+    },
+    {
+      "name": "psyc_Phenethylamine (compound)",
+      "psychonaut_name": "Phenethylamine (compound)",
+      "tripsit_name": null,
+      "dist": 21.559901338
+    },
+    {
+      "name": "psyc_Methiopropamine",
+      "psychonaut_name": "Methiopropamine",
+      "tripsit_name": null,
+      "dist": 21.5999370715
+    },
+    {
+      "name": "psyc_GHB",
+      "psychonaut_name": "GHB",
+      "tripsit_name": null,
+      "dist": 24.5494235031
+    },
+    {
+      "name": "trip_ghb",
+      "psychonaut_name": null,
+      "tripsit_name": "ghb",
+      "dist": 24.5494235031
+    },
+    {
+      "name": "psyc_Dexamphetamine",
+      "psychonaut_name": "Dexamphetamine",
+      "tripsit_name": null,
+      "dist": 24.5588506652
+    },
+    {
+      "name": "trip_dexedrine",
+      "psychonaut_name": null,
+      "tripsit_name": "dexedrine",
+      "dist": 24.5588506652
+    },
+    {
+      "name": "trip_amphetamine",
+      "psychonaut_name": null,
+      "tripsit_name": "amphetamine",
+      "dist": 24.5588506652
+    },
+    {
+      "name": "trip_2-methylamphetamine",
+      "psychonaut_name": null,
+      "tripsit_name": "2-methylamphetamine",
+      "dist": 24.6101500374
+    },
+    {
+      "name": "trip_1,4-butanediol",
+      "psychonaut_name": null,
+      "tripsit_name": "1,4-butanediol",
+      "dist": 24.7956159593
+    },
+    {
+      "name": "psyc_1,4-Butanediol",
+      "psychonaut_name": "1,4-Butanediol",
+      "tripsit_name": null,
+      "dist": 24.7956159593
+    },
+    {
+      "name": "trip_2-pta",
+      "psychonaut_name": null,
+      "tripsit_name": "2-pta",
+      "dist": 24.8896453531
+    },
+    {
+      "name": "trip_diethyl-ether",
+      "psychonaut_name": null,
+      "tripsit_name": "diethyl-ether",
+      "dist": 25.1580477813
+    },
+    {
+      "name": "trip_gbl",
+      "psychonaut_name": null,
+      "tripsit_name": "gbl",
+      "dist": 25.3484565701
+    }
+  ]
+}

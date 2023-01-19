@@ -25,9 +25,9 @@ def generate_json_from_normalized(
     # create names
     for k, v in output.items():
         if v['tripsit_name'] is None:
-            name = f'trip_{v["psychonaut_name"]}'
+            name = f'psyc_{v["psychonaut_name"]}'
         elif v['psychonaut_name'] is None:
-            name = f'psyc_{v["tripsit_name"]}'
+            name = f'trip_{v["tripsit_name"]}'
         else:
             name = f'trip_{v["tripsit_name"]}_psyc_{v["psychonaut_name"]}'
         v['name'] = name

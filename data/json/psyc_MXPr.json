@@ -1,0 +1,146 @@
+{
+  "inchi": "InChI=1S/C16H23NO2/c1-3-11-17-16(10-5-4-9-15(16)18)13-7-6-8-14(12-13)19-2/h6-8,12,17H,3-5,9-11H2,1-2H3",
+  "psychonaut_name": "MXPr",
+  "tripsit_name": null,
+  "synonyms": [
+    "DTXSID501336500",
+    "MXPr",
+    "Cyclohexanone, 2-(3-methoxyphenyl)-2-(propylamino)-",
+    "LTF83AU3X8",
+    "Methoxpropamine",
+    "2-Oxo-3'-methoxy-pcpr",
+    "UNII-LTF83AU3X8",
+    "2-(3-methoxyphenyl)-2-(propylamino)cyclohexan-1-one",
+    "2504100-71-2",
+    "MXPR",
+    "3-MeO-2\u2032-Oxo-PCPr"
+  ],
+  "distances": [
+    8.0604836952,
+    8.0604836952,
+    10.6498689312,
+    13.731982269,
+    14.4793338171,
+    14.4793338171,
+    15.1090780898,
+    16.0760569081,
+    16.18232886,
+    17.0948434651,
+    17.0948434651,
+    18.7066246334,
+    18.7066246334,
+    20.1879058892,
+    20.1879058892
+  ],
+  "indices": [
+    669,
+    227,
+    520,
+    214,
+    362,
+    51,
+    599,
+    671,
+    563,
+    517,
+    251,
+    268,
+    769,
+    778,
+    46
+  ],
+  "name": "psyc_MXPr",
+  "svg": "psyc_MXPr.svg",
+  "sim": [
+    {
+      "name": "trip_mxe",
+      "psychonaut_name": null,
+      "tripsit_name": "mxe",
+      "dist": 8.0604836952
+    },
+    {
+      "name": "psyc_Methoxetamine",
+      "psychonaut_name": "Methoxetamine",
+      "tripsit_name": null,
+      "dist": 8.0604836952
+    },
+    {
+      "name": "trip_3-meo-pcpr",
+      "psychonaut_name": null,
+      "tripsit_name": "3-meo-pcpr",
+      "dist": 10.6498689312
+    },
+    {
+      "name": "psyc_MXiPr",
+      "psychonaut_name": "MXiPr",
+      "tripsit_name": null,
+      "dist": 13.731982269
+    },
+    {
+      "name": "trip_3-meo-pce",
+      "psychonaut_name": null,
+      "tripsit_name": "3-meo-pce",
+      "dist": 14.4793338171
+    },
+    {
+      "name": "psyc_3-MeO-PCE",
+      "psychonaut_name": "3-MeO-PCE",
+      "tripsit_name": null,
+      "dist": 14.4793338171
+    },
+    {
+      "name": "trip_mxm",
+      "psychonaut_name": null,
+      "tripsit_name": "mxm",
+      "dist": 15.1090780898
+    },
+    {
+      "name": "trip_methoxyketamine",
+      "psychonaut_name": null,
+      "tripsit_name": "methoxyketamine",
+      "dist": 16.0760569081
+    },
+    {
+      "name": "trip_ethketamine",
+      "psychonaut_name": null,
+      "tripsit_name": "ethketamine",
+      "dist": 16.18232886
+    },
+    {
+      "name": "trip_o-pce",
+      "psychonaut_name": null,
+      "tripsit_name": "o-pce",
+      "dist": 17.0948434651
+    },
+    {
+      "name": "psyc_O-PCE",
+      "psychonaut_name": "O-PCE",
+      "tripsit_name": null,
+      "dist": 17.0948434651
+    },
+    {
+      "name": "psyc_Pethidine",
+      "psychonaut_name": "Pethidine",
+      "tripsit_name": null,
+      "dist": 18.7066246334
+    },
+    {
+      "name": "trip_demerol",
+      "psychonaut_name": null,
+      "tripsit_name": "demerol",
+      "dist": 18.7066246334
+    },
+    {
+      "name": "trip_3-ho-pce",
+      "psychonaut_name": null,
+      "tripsit_name": "3-ho-pce",
+      "dist": 20.1879058892
+    },
+    {
+      "name": "psyc_3-HO-PCE",
+      "psychonaut_name": "3-HO-PCE",
+      "tripsit_name": null,
+      "dist": 20.1879058892
+    }
+  ]
+}

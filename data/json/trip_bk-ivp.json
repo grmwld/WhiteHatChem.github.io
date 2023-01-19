@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C16H23NO/c1-3-6-15(17-4-2)16(18)14-10-9-12-7-5-8-13(12)11-14/h9-11,15,17H,3-8H2,1-2H3",
+  "psychonaut_name": null,
+  "tripsit_name": "bk-ivp",
+  "synonyms": null,
+  "distances": [
+    16.8046466396,
+    17.0716336016,
+    17.0716336016,
+    17.3756551276,
+    17.6131577986,
+    17.6131577986,
+    17.7171068186,
+    17.7978884012,
+    17.7978884012,
+    17.9817836562,
+    18.1426318469,
+    18.1426318469,
+    18.3472341839,
+    18.4076915753,
+    18.4675090134
+  ],
+  "indices": [
+    161,
+    617,
+    91,
+    361,
+    242,
+    493,
+    458,
+    375,
+    718,
+    619,
+    92,
+    822,
+    405,
+    169,
+    244
+  ],
+  "name": "trip_bk-ivp",
+  "svg": "trip_bk-ivp.svg",
+  "sim": [
+    {
+      "name": "psyc_Ephylone",
+      "psychonaut_name": "Ephylone",
+      "tripsit_name": null,
+      "dist": 16.8046466396
+    },
+    {
+      "name": "trip_alpha-php",
+      "psychonaut_name": null,
+      "tripsit_name": "alpha-php",
+      "dist": 17.0716336016
+    },
+    {
+      "name": "psyc_A-PHP",
+      "psychonaut_name": "A-PHP",
+      "tripsit_name": null,
+      "dist": 17.0716336016
+    },
+    {
+      "name": "trip_4-cbc",
+      "psychonaut_name": null,
+      "tripsit_name": "4-cbc",
+      "dist": 17.3756551276
+    },
+    {
+      "name": "psyc_N-Ethylhexedrone",
+      "psychonaut_name": "N-Ethylhexedrone",
+      "tripsit_name": null,
+      "dist": 17.6131577986
+    },
+    {
+      "name": "trip_hexen",
+      "psychonaut_name": null,
+      "tripsit_name": "hexen",
+      "dist": 17.6131577986
+    },
+    {
+      "name": "trip_4f-php",
+      "psychonaut_name": null,
+      "tripsit_name": "4f-php",
+      "dist": 17.7171068186
+    },
+    {
+      "name": "trip_4-epd",
+      "psychonaut_name": null,
+      "tripsit_name": "4-epd",
+      "dist": 17.7978884012
+    },
+    {
+      "name": "trip_ethyl-pentedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "ethyl-pentedrone",
+      "dist": 17.7978884012
+    },
+    {
+      "name": "trip_pv-8",
+      "psychonaut_name": null,
+      "tripsit_name": "pv-8",
+      "dist": 17.9817836562
+    },
+    {
+      "name": "psyc_A-PVP",
+      "psychonaut_name": "A-PVP",
+      "tripsit_name": null,
+      "dist": 18.1426318469
+    },
+    {
+      "name": "trip_a-pvp",
+      "psychonaut_name": null,
+      "tripsit_name": "a-pvp",
+      "dist": 18.1426318469
+    },
+    {
+      "name": "trip_4f-pvp",
+      "psychonaut_name": null,
+      "tripsit_name": "4f-pvp",
+      "dist": 18.3472341839
+    },
+    {
+      "name": "psyc_Eutylone",
+      "psychonaut_name": "Eutylone",
+      "tripsit_name": null,
+      "dist": 18.4076915753
+    },
+    {
+      "name": "psyc_NEP",
+      "psychonaut_name": "NEP",
+      "tripsit_name": null,
+      "dist": 18.4675090134
+    }
+  ]
+}

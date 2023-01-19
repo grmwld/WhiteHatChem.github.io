@@ -1,0 +1,143 @@
+{
+  "inchi": "InChI=1S/C10H12BrNO3/c1-14-9-4-7(11)10(15-2)3-6(9)8(13)5-12/h3-4H,5,12H2,1-2H3",
+  "psychonaut_name": null,
+  "tripsit_name": "bk-2c-b",
+  "synonyms": [
+    "bk-2cb",
+    "bk-2-cb",
+    "b-k-2cb",
+    "b-k2cb",
+    "b-k2-cb",
+    "b-k2-c-b",
+    "b-k-2-c-b",
+    "bk2cb"
+  ],
+  "distances": [
+    0.0,
+    10.1772124413,
+    10.1772124413,
+    10.8645165436,
+    13.6212225761,
+    13.6212225761,
+    13.686691748,
+    13.686691748,
+    13.8915542961,
+    13.8915542961,
+    14.5394324451,
+    14.5394324451,
+    14.6625229155,
+    15.0984374798,
+    15.0984374798
+  ],
+  "indices": [
+    322,
+    27,
+    626,
+    584,
+    30,
+    662,
+    29,
+    387,
+    581,
+    135,
+    800,
+    33,
+    32,
+    620,
+    220
+  ],
+  "name": "trip_bk-2c-b",
+  "svg": "trip_bk-2c-b.svg",
+  "sim": [
+    {
+      "name": "psyc_\u0392k-2C-B",
+      "psychonaut_name": "\u0392k-2C-B",
+      "tripsit_name": null,
+      "dist": 0.0
+    },
+    {
+      "name": "psyc_2C-B",
+      "psychonaut_name": "2C-B",
+      "tripsit_name": null,
+      "dist": 10.1772124413
+    },
+    {
+      "name": "trip_2c-b",
+      "psychonaut_name": null,
+      "tripsit_name": "2c-b",
+      "dist": 10.1772124413
+    },
+    {
+      "name": "trip_bk-2c-i",
+      "psychonaut_name": null,
+      "tripsit_name": "bk-2c-i",
+      "dist": 10.8645165436
+    },
+    {
+      "name": "psyc_2C-D",
+      "psychonaut_name": "2C-D",
+      "tripsit_name": null,
+      "dist": 13.6212225761
+    },
+    {
+      "name": "trip_2c-d",
+      "psychonaut_name": null,
+      "tripsit_name": "2c-d",
+      "dist": 13.6212225761
+    },
+    {
+      "name": "psyc_2C-C",
+      "psychonaut_name": "2C-C",
+      "tripsit_name": null,
+      "dist": 13.686691748
+    },
+    {
+      "name": "trip_2c-c",
+      "psychonaut_name": null,
+      "tripsit_name": "2c-c",
+      "dist": 13.686691748
+    },
+    {
+      "name": "trip_dob",
+      "psychonaut_name": null,
+      "tripsit_name": "dob",
+      "dist": 13.8915542961
+    },
+    {
+      "name": "psyc_DOB",
+      "psychonaut_name": "DOB",
+      "tripsit_name": null,
+      "dist": 13.8915542961
+    },
+    {
+      "name": "trip_2c-i",
+      "psychonaut_name": null,
+      "tripsit_name": "2c-i",
+      "dist": 14.5394324451
+    },
+    {
+      "name": "psyc_2C-I",
+      "psychonaut_name": "2C-I",
+      "tripsit_name": null,
+      "dist": 14.5394324451
+    },
+    {
+      "name": "psyc_2C-H",
+      "psychonaut_name": "2C-H",
+      "tripsit_name": null,
+      "dist": 14.6625229155
+    },
+    {
+      "name": "trip_mescaline",
+      "psychonaut_name": null,
+      "tripsit_name": "mescaline",
+      "dist": 15.0984374798
+    },
+    {
+      "name": "psyc_Mescaline",
+      "psychonaut_name": "Mescaline",
+      "tripsit_name": null,
+      "dist": 15.0984374798
+    }
+  ]
+}

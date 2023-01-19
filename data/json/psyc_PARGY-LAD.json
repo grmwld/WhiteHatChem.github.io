@@ -1,0 +1,142 @@
+{
+  "inchi": "InChI=1S/C22H25N3O/c1-4-10-25-14-16(22(26)24(5-2)6-3)11-18-17-8-7-9-19-21(17)15(13-23-19)12-20(18)25/h1,7-9,11,13,16,20,23H,5-6,10,12,14H2,2-3H3/t16-,20-/m1/s1",
+  "psychonaut_name": "PARGY-LAD",
+  "tripsit_name": null,
+  "synonyms": [
+    "N-Propynyl-nor-LSD",
+    "DTXSID501045856",
+    "Q7118214",
+    "(6alphaR,9R)-N,N-Diethyl-7-prop-2-ynyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide",
+    "N,N-Diethyl-6-propargyl-6-norlysergamide",
+    "PARGYLAD",
+    "PARGY-LAD"
+  ],
+  "distances": [
+    23.6627999312,
+    23.6627999312,
+    23.9671991635,
+    23.9671991635,
+    24.0980801779,
+    24.0980801779,
+    24.87081736,
+    24.87081736,
+    24.87081736,
+    29.5529413557,
+    29.5529413557,
+    30.3066843648,
+    30.3066843648,
+    31.8723794496,
+    32.0668685346
+  ],
+  "indices": [
+    157,
+    704,
+    94,
+    624,
+    468,
+    264,
+    722,
+    199,
+    191,
+    351,
+    95,
+    5,
+    807,
+    234,
+    558
+  ],
+  "name": "psyc_PARGY-LAD",
+  "svg": "psyc_PARGY-LAD.svg",
+  "sim": [
+    {
+      "name": "psyc_ETH-LAD",
+      "psychonaut_name": "ETH-LAD",
+      "tripsit_name": null,
+      "dist": 23.6627999312
+    },
+    {
+      "name": "trip_eth-lad",
+      "psychonaut_name": null,
+      "tripsit_name": "eth-lad",
+      "dist": 23.6627999312
+    },
+    {
+      "name": "psyc_AL-LAD",
+      "psychonaut_name": "AL-LAD",
+      "tripsit_name": null,
+      "dist": 23.9671991635
+    },
+    {
+      "name": "trip_al-lad",
+      "psychonaut_name": null,
+      "tripsit_name": "al-lad",
+      "dist": 23.9671991635
+    },
+    {
+      "name": "trip_pro-lad",
+      "psychonaut_name": null,
+      "tripsit_name": "pro-lad",
+      "dist": 24.0980801779
+    },
+    {
+      "name": "psyc_PRO-LAD",
+      "psychonaut_name": "PRO-LAD",
+      "tripsit_name": null,
+      "dist": 24.0980801779
+    },
+    {
+      "name": "trip_lsd",
+      "psychonaut_name": null,
+      "tripsit_name": "lsd",
+      "dist": 24.87081736
+    },
+    {
+      "name": "psyc_LSD",
+      "psychonaut_name": "LSD",
+      "tripsit_name": null,
+      "dist": 24.87081736
+    },
+    {
+      "name": "psyc_Iso-LSD",
+      "psychonaut_name": "Iso-LSD",
+      "tripsit_name": null,
+      "dist": 24.87081736
+    },
+    {
+      "name": "trip_ald-52",
+      "psychonaut_name": null,
+      "tripsit_name": "ald-52",
+      "dist": 29.5529413557
+    },
+    {
+      "name": "psyc_ALD-52",
+      "psychonaut_name": "ALD-52",
+      "tripsit_name": null,
+      "dist": 29.5529413557
+    },
+    {
+      "name": "psyc_1P-LSD",
+      "psychonaut_name": "1P-LSD",
+      "tripsit_name": null,
+      "dist": 30.3066843648
+    },
+    {
+      "name": "trip_1p-lsd",
+      "psychonaut_name": null,
+      "tripsit_name": "1p-lsd",
+      "dist": 30.3066843648
+    },
+    {
+      "name": "psyc_MiPLA",
+      "psychonaut_name": "MiPLA",
+      "tripsit_name": null,
+      "dist": 31.8723794496
+    },
+    {
+      "name": "trip_1p-eth-lad",
+      "psychonaut_name": null,
+      "tripsit_name": "1p-eth-lad",
+      "dist": 32.0668685346
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "inchi": "InChI=1S/C16H20BrN/c17-14-1-3-15(4-2-14)18-16-12-6-10-5-11(8-12)9-13(16)7-10/h1-4,10-13,16,18H,5-9H2",
+  "psychonaut_name": "Bromantane",
+  "tripsit_name": null,
+  "synonyms": [
+    "ALBB-035069",
+    "S10385",
+    "SCHEMBL737152",
+    "N-(4-bromophenyl)-2-adamantanamine",
+    "AKOS004120981",
+    "Q385533",
+    "A842407",
+    "UNII-N1ILS53XWK",
+    "AS-54469",
+    "N-(4-bromophenyl)adamantan-2-amine",
+    "2-bromophenyl-1-amino adamantane",
+    "BROMANTANE [WHO-DD]",
+    "N-(2-adamantyl)-N-(p-bromophenyl)-amine",
+    "Tricyclo[3.3.1.13,7]decan-2-amine, N-(4-bromophenyl)-",
+    "2-(4-Bromophenyl)aminoadamantane",
+    "N-(4-Bromophenyl)tricyclo(3.3.1.13,7)decan-2-amine",
+    "ZINC2577057",
+    "DB-082762",
+    "Bromantane",
+    "AKOS037644786",
+    "Ladasten",
+    "DTXSID40405333",
+    "N1ILS53XWK",
+    "Tricyclo[3.3.1.13,7]decan-2-amine,N-(4-bromophenyl)-",
+    "Z1736662073",
+    "Tricyclo(3.3.1.13,7)decan-2-amine, N-(4-bromophenyl)-",
+    "N-(2-ADAMANTYL)-N-(4-BROMOPHENYL)AMINE",
+    "bromontan",
+    "87913-26-6",
+    "Bromantan",
+    "CHEMBL4303520"
+  ],
+  "distances": [
+    0.0,
+    29.0570244338,
+    29.0570244338,
+    31.6855121418,
+    32.6647006111,
+    32.7429489815,
+    32.7429489815,
+    32.7429489815,
+    34.1908740622,
+    35.8446814259,
+    35.8451241427,
+    35.8451241427,
+    35.9187603994,
+    35.9187603994,
+    36.0605163558
+  ],
+  "indices": [
+    829,
+    313,
+    782,
+    149,
+    340,
+    651,
+    190,
+    302,
+    104,
+    466,
+    604,
+    45,
+    778,
+    46,
+    564
+  ],
+  "name": "psyc_Bromantane",
+  "svg": "psyc_Bromantane.svg",
+  "sim": [
+    {
+      "name": "trip_bromantane",
+      "psychonaut_name": null,
+      "tripsit_name": "bromantane",
+      "dist": 0.0
+    },
+    {
+      "name": "psyc_Troparil",
+      "psychonaut_name": "Troparil",
+      "tripsit_name": null,
+      "dist": 29.0570244338
+    },
+    {
+      "name": "trip_troparil",
+      "psychonaut_name": null,
+      "tripsit_name": "troparil",
+      "dist": 29.0570244338
+    },
+    {
+      "name": "psyc_Dichloropane",
+      "psychonaut_name": "Dichloropane",
+      "tripsit_name": null,
+      "dist": 31.6855121418
+    },
+    {
+      "name": "trip_rti-111",
+      "psychonaut_name": null,
+      "tripsit_name": "rti-111",
+      "dist": 32.6647006111
+    },
+    {
+      "name": "trip_ibogaine",
+      "psychonaut_name": null,
+      "tripsit_name": "ibogaine",
+      "dist": 32.7429489815
+    },
+    {
+      "name": "psyc_Ibogaine",
+      "psychonaut_name": "Ibogaine",
+      "tripsit_name": null,
+      "dist": 32.7429489815
+    },
+    {
+      "name": "psyc_Tabernanthe iboga (botany)",
+      "psychonaut_name": "Tabernanthe iboga (botany)",
+      "tripsit_name": null,
+      "dist": 32.7429489815
+    },
+    {
+      "name": "psyc_Amantadine",
+      "psychonaut_name": "Amantadine",
+      "tripsit_name": null,
+      "dist": 34.1908740622
+    },
+    {
+      "name": "trip_4-fpm",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fpm",
+      "dist": 35.8446814259
+    },
+    {
+      "name": "trip_3-fpm",
+      "psychonaut_name": null,
+      "tripsit_name": "3-fpm",
+      "dist": 35.8451241427
+    },
+    {
+      "name": "psyc_3-FPM",
+      "psychonaut_name": "3-FPM",
+      "tripsit_name": null,
+      "dist": 35.8451241427
+    },
+    {
+      "name": "trip_3-ho-pce",
+      "psychonaut_name": null,
+      "tripsit_name": "3-ho-pce",
+      "dist": 35.9187603994
+    },
+    {
+      "name": "psyc_3-HO-PCE",
+      "psychonaut_name": "3-HO-PCE",
+      "tripsit_name": null,
+      "dist": 35.9187603994
+    },
+    {
+      "name": "trip_scopolamine",
+      "psychonaut_name": null,
+      "tripsit_name": "scopolamine",
+      "dist": 36.0605163558
+    }
+  ]
+}

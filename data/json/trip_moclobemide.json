@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C13H17ClN2O2/c14-12-3-1-11(2-4-12)13(17)15-5-6-16-7-9-18-10-8-16/h1-4H,5-10H2,(H,15,17)",
+  "psychonaut_name": null,
+  "tripsit_name": "moclobemide",
+  "synonyms": null,
+  "distances": [
+    18.7428453146,
+    19.2705871676,
+    19.9580133316,
+    20.1967457482,
+    20.4464483707,
+    20.542600702,
+    20.542600702,
+    21.3081494139,
+    21.3081494139,
+    21.7514507643,
+    21.7514507643,
+    21.9156486168,
+    21.9162146615,
+    21.9162146615,
+    22.5568536261
+  ],
+  "indices": [
+    405,
+    435,
+    458,
+    440,
+    846,
+    92,
+    822,
+    617,
+    91,
+    106,
+    678,
+    565,
+    280,
+    496,
+    209
+  ],
+  "name": "trip_moclobemide",
+  "svg": "trip_moclobemide.svg",
+  "sim": [
+    {
+      "name": "trip_4f-pvp",
+      "psychonaut_name": null,
+      "tripsit_name": "4f-pvp",
+      "dist": 18.7428453146
+    },
+    {
+      "name": "trip_methoxypiperamide",
+      "psychonaut_name": null,
+      "tripsit_name": "methoxypiperamide",
+      "dist": 19.2705871676
+    },
+    {
+      "name": "trip_4f-php",
+      "psychonaut_name": null,
+      "tripsit_name": "4f-php",
+      "dist": 19.9580133316
+    },
+    {
+      "name": "trip_5-meo-pyr-t",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-pyr-t",
+      "dist": 20.1967457482
+    },
+    {
+      "name": "trip_5-dbfpv",
+      "psychonaut_name": null,
+      "tripsit_name": "5-dbfpv",
+      "dist": 20.4464483707
+    },
+    {
+      "name": "psyc_A-PVP",
+      "psychonaut_name": "A-PVP",
+      "tripsit_name": null,
+      "dist": 20.542600702
+    },
+    {
+      "name": "trip_a-pvp",
+      "psychonaut_name": null,
+      "tripsit_name": "a-pvp",
+      "dist": 20.542600702
+    },
+    {
+      "name": "trip_alpha-php",
+      "psychonaut_name": null,
+      "tripsit_name": "alpha-php",
+      "dist": 21.3081494139
+    },
+    {
+      "name": "psyc_A-PHP",
+      "psychonaut_name": "A-PHP",
+      "tripsit_name": null,
+      "dist": 21.3081494139
+    },
+    {
+      "name": "psyc_Aniracetam",
+      "psychonaut_name": "Aniracetam",
+      "tripsit_name": null,
+      "dist": 21.7514507643
+    },
+    {
+      "name": "trip_aniracetam",
+      "psychonaut_name": null,
+      "tripsit_name": "aniracetam",
+      "dist": 21.7514507643
+    },
+    {
+      "name": "trip_\u03b1-pbp",
+      "psychonaut_name": null,
+      "tripsit_name": "\u03b1-pbp",
+      "dist": 21.9156486168
+    },
+    {
+      "name": "psyc_Prolintane",
+      "psychonaut_name": "Prolintane",
+      "tripsit_name": null,
+      "dist": 21.9162146615
+    },
+    {
+      "name": "trip_prolintane",
+      "psychonaut_name": null,
+      "tripsit_name": "prolintane",
+      "dist": 21.9162146615
+    },
+    {
+      "name": "psyc_MDPV",
+      "psychonaut_name": "MDPV",
+      "tripsit_name": null,
+      "dist": 22.5568536261
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C9H12N4O3/c1-10-5-6(11(2)8(10)15)12(3)9(16)13(4)7(5)14/h1-4H3",
+  "psychonaut_name": null,
+  "tripsit_name": "theacrine",
+  "synonyms": null,
+  "distances": [
+    2.6974e-06,
+    16.5527268851,
+    16.5527268851,
+    22.7597755976,
+    29.0926517398,
+    38.6801522076,
+    38.7459706826,
+    38.82704664,
+    38.82704664,
+    38.9455217209,
+    39.3003772669,
+    39.8298612435,
+    39.9720391776,
+    39.9720391776,
+    40.0082358465
+  ],
+  "indices": [
+    306,
+    685,
+    117,
+    90,
+    708,
+    543,
+    818,
+    106,
+    678,
+    435,
+    484,
+    424,
+    763,
+    247,
+    552
+  ],
+  "name": "trip_theacrine",
+  "svg": "trip_theacrine.svg",
+  "sim": [
+    {
+      "name": "psyc_Theacrine",
+      "psychonaut_name": "Theacrine",
+      "tripsit_name": null,
+      "dist": 2.6974e-06
+    },
+    {
+      "name": "trip_caffeine",
+      "psychonaut_name": null,
+      "tripsit_name": "caffeine",
+      "dist": 16.5527268851
+    },
+    {
+      "name": "psyc_Caffeine",
+      "psychonaut_name": "Caffeine",
+      "tripsit_name": null,
+      "dist": 16.5527268851
+    },
+    {
+      "name": "psyc_8-Chlorotheophylline",
+      "psychonaut_name": "8-Chlorotheophylline",
+      "tripsit_name": null,
+      "dist": 22.7597755976
+    },
+    {
+      "name": "trip_theobromine",
+      "psychonaut_name": null,
+      "tripsit_name": "theobromine",
+      "dist": 29.0926517398
+    },
+    {
+      "name": "trip_zolazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "zolazepam",
+      "dist": 38.6801522076
+    },
+    {
+      "name": "trip_nefiracetam",
+      "psychonaut_name": null,
+      "tripsit_name": "nefiracetam",
+      "dist": 38.7459706826
+    },
+    {
+      "name": "psyc_Aniracetam",
+      "psychonaut_name": "Aniracetam",
+      "tripsit_name": null,
+      "dist": 38.82704664
+    },
+    {
+      "name": "trip_aniracetam",
+      "psychonaut_name": null,
+      "tripsit_name": "aniracetam",
+      "dist": 38.82704664
+    },
+    {
+      "name": "trip_methoxypiperamide",
+      "psychonaut_name": null,
+      "tripsit_name": "methoxypiperamide",
+      "dist": 38.9455217209
+    },
+    {
+      "name": "trip_mbzp",
+      "psychonaut_name": null,
+      "tripsit_name": "mbzp",
+      "dist": 39.3003772669
+    },
+    {
+      "name": "trip_4-ho-mpmi",
+      "psychonaut_name": null,
+      "tripsit_name": "4-ho-mpmi",
+      "dist": 39.8298612435
+    },
+    {
+      "name": "trip_nicotine",
+      "psychonaut_name": null,
+      "tripsit_name": "nicotine",
+      "dist": 39.9720391776
+    },
+    {
+      "name": "psyc_Nicotine",
+      "psychonaut_name": "Nicotine",
+      "tripsit_name": null,
+      "dist": 39.9720391776
+    },
+    {
+      "name": "trip_mephenmetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "mephenmetrazine",
+      "dist": 40.0082358465
+    }
+  ]
+}

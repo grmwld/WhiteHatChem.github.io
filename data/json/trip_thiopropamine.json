@@ -1,0 +1,138 @@
+{
+  "inchi": "InChI=1S/C7H11NS/c1-6(8)5-7-3-2-4-9-7/h2-4,6H,5,8H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "thiopropamine",
+  "synonyms": [
+    "tpa",
+    "normethiopropamine",
+    "a-methyl-2-thipheneethanamine"
+  ],
+  "distances": [
+    11.7519120629,
+    11.7519120629,
+    11.7519120629,
+    12.0991507997,
+    13.8483339044,
+    14.7199022364,
+    14.7199022364,
+    15.0074169895,
+    15.0074169895,
+    15.2497668639,
+    15.2497668639,
+    16.2959358625,
+    16.2959358625,
+    17.7058071115,
+    17.7058071115
+  ],
+  "indices": [
+    741,
+    144,
+    703,
+    226,
+    329,
+    752,
+    12,
+    352,
+    42,
+    433,
+    61,
+    575,
+    270,
+    684,
+    223
+  ],
+  "name": "trip_thiopropamine",
+  "svg": "trip_thiopropamine.svg",
+  "sim": [
+    {
+      "name": "trip_amphetamine",
+      "psychonaut_name": null,
+      "tripsit_name": "amphetamine",
+      "dist": 11.7519120629
+    },
+    {
+      "name": "psyc_Dexamphetamine",
+      "psychonaut_name": "Dexamphetamine",
+      "tripsit_name": null,
+      "dist": 11.7519120629
+    },
+    {
+      "name": "trip_dexedrine",
+      "psychonaut_name": null,
+      "tripsit_name": "dexedrine",
+      "dist": 11.7519120629
+    },
+    {
+      "name": "psyc_Methiopropamine",
+      "psychonaut_name": "Methiopropamine",
+      "tripsit_name": null,
+      "dist": 12.0991507997
+    },
+    {
+      "name": "trip_2-methylamphetamine",
+      "psychonaut_name": null,
+      "tripsit_name": "2-methylamphetamine",
+      "dist": 13.8483339044
+    },
+    {
+      "name": "trip_2-fa",
+      "psychonaut_name": null,
+      "tripsit_name": "2-fa",
+      "dist": 14.7199022364
+    },
+    {
+      "name": "psyc_2-FA",
+      "psychonaut_name": "2-FA",
+      "tripsit_name": null,
+      "dist": 14.7199022364
+    },
+    {
+      "name": "trip_3-fa",
+      "psychonaut_name": null,
+      "tripsit_name": "3-fa",
+      "dist": 15.0074169895
+    },
+    {
+      "name": "psyc_3-FA",
+      "psychonaut_name": "3-FA",
+      "tripsit_name": null,
+      "dist": 15.0074169895
+    },
+    {
+      "name": "trip_4-fa",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fa",
+      "dist": 15.2497668639
+    },
+    {
+      "name": "psyc_4-FA",
+      "psychonaut_name": "4-FA",
+      "tripsit_name": null,
+      "dist": 15.2497668639
+    },
+    {
+      "name": "trip_phenethylamine",
+      "psychonaut_name": null,
+      "tripsit_name": "phenethylamine",
+      "dist": 16.2959358625
+    },
+    {
+      "name": "psyc_Phenethylamine (compound)",
+      "psychonaut_name": "Phenethylamine (compound)",
+      "tripsit_name": null,
+      "dist": 16.2959358625
+    },
+    {
+      "name": "trip_methamphetamine",
+      "psychonaut_name": null,
+      "tripsit_name": "methamphetamine",
+      "dist": 17.7058071115
+    },
+    {
+      "name": "psyc_Methamphetamine",
+      "psychonaut_name": "Methamphetamine",
+      "tripsit_name": null,
+      "dist": 17.7058071115
+    }
+  ]
+}

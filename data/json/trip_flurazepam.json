@@ -1,0 +1,136 @@
+{
+  "inchi": "InChI=1S/C21H23ClFN3O/c1-3-25(4-2)11-12-26-19-10-9-15(22)13-17(19)21(24-14-20(26)27)16-7-5-6-8-18(16)23/h5-10,13H,3-4,11-12,14H2,1-2H3",
+  "psychonaut_name": null,
+  "tripsit_name": "flurazepam",
+  "synonyms": [
+    "dalmane"
+  ],
+  "distances": [
+    25.7985181279,
+    26.1121894055,
+    27.33512029,
+    27.33512029,
+    27.6724727314,
+    28.1101751293,
+    28.1101751293,
+    28.4857452615,
+    29.2166411756,
+    29.2166411756,
+    29.3374614701,
+    29.7570864147,
+    29.8156670062,
+    30.0103152025,
+    30.3470878297
+  ],
+  "indices": [
+    535,
+    335,
+    682,
+    164,
+    574,
+    740,
+    122,
+    572,
+    810,
+    109,
+    486,
+    457,
+    297,
+    687,
+    194
+  ],
+  "name": "trip_flurazepam",
+  "svg": "trip_flurazepam.svg",
+  "sim": [
+    {
+      "name": "trip_clonitazene",
+      "psychonaut_name": null,
+      "tripsit_name": "clonitazene",
+      "dist": 25.7985181279
+    },
+    {
+      "name": "trip_adinazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "adinazolam",
+      "dist": 26.1121894055
+    },
+    {
+      "name": "trip_etodesnitazene",
+      "psychonaut_name": null,
+      "tripsit_name": "etodesnitazene",
+      "dist": 27.33512029
+    },
+    {
+      "name": "psyc_Etazene",
+      "psychonaut_name": "Etazene",
+      "tripsit_name": null,
+      "dist": 27.33512029
+    },
+    {
+      "name": "trip_flutoprazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "flutoprazepam",
+      "dist": 27.6724727314
+    },
+    {
+      "name": "trip_cinolazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "cinolazepam",
+      "dist": 28.1101751293
+    },
+    {
+      "name": "psyc_Cinolazepam",
+      "psychonaut_name": "Cinolazepam",
+      "tripsit_name": null,
+      "dist": 28.1101751293
+    },
+    {
+      "name": "trip_camazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "camazepam",
+      "dist": 28.4857452615
+    },
+    {
+      "name": "trip_benzydamine",
+      "psychonaut_name": null,
+      "tripsit_name": "benzydamine",
+      "dist": 29.2166411756
+    },
+    {
+      "name": "psyc_Benzydamine",
+      "psychonaut_name": "Benzydamine",
+      "tripsit_name": null,
+      "dist": 29.2166411756
+    },
+    {
+      "name": "trip_prazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "prazepam",
+      "dist": 29.3374614701
+    },
+    {
+      "name": "trip_metaclazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "metaclazepam",
+      "dist": 29.7570864147
+    },
+    {
+      "name": "psyc_THJ-018",
+      "psychonaut_name": "THJ-018",
+      "tripsit_name": null,
+      "dist": 29.8156670062
+    },
+    {
+      "name": "trip_parafluorofentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "parafluorofentanyl",
+      "dist": 30.0103152025
+    },
+    {
+      "name": "psyc_JWH-073",
+      "psychonaut_name": "JWH-073",
+      "tripsit_name": null,
+      "dist": 30.3470878297
+    }
+  ]
+}

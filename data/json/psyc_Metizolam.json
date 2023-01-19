@@ -1,0 +1,150 @@
+{
+  "inchi": "InChI=1S/C16H13ClN4S/c1-2-10-7-12-15(11-5-3-4-6-13(11)17)18-8-14-20-19-9-21(14)16(12)22-10/h3-7,9H,2,8H2,1H3",
+  "psychonaut_name": "Metizolam",
+  "tripsit_name": null,
+  "synonyms": [
+    "SCHEMBL8928694",
+    "K1C6XI9LLX",
+    "4-(2-chlorophenyl)-2-ethyl-6H-thieno[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepine",
+    "4-(2-Chlorophenyl)-2-ethyl-6H-thieno[3,2-f] [1,2,4]triazolo[4,3-a] [1,4]diazepine",
+    "Metizolam [NFLIS-DRUG]",
+    "7-(2-chlorophenyl)-4-ethyl-3-thia-1,8,11,12-tetrazatricyclo[8.3.0.02,6]trideca-2(6),4,7,10,12-pentaene",
+    "UNII-K1C6XI9LLX",
+    "Desmethyletizolam",
+    "4-(2-Chlorophenyl)-2-ethyl-6H-thieno(3,2-f)(1,2,4)triazolo(4,3-a)(1,4)diazepine",
+    "CHEMBL4782672",
+    "Metizolam",
+    "40054-68-0",
+    "6H-Thieno(3,2-f)(1,2,4)triazolo(4,3-a)(1,4)diazepine, 4-(2-chlorophenyl)-2-ethyl-",
+    "DTXSID101032847",
+    "Q21098977"
+  ],
+  "distances": [
+    2.336e-06,
+    9.9695164496,
+    9.9695164496,
+    11.7020251747,
+    11.7020251747,
+    12.6737166077,
+    12.6737166077,
+    12.9858280108,
+    15.237971831,
+    16.4199133953,
+    16.736224075,
+    16.736224075,
+    17.4226816307,
+    17.4226816307,
+    17.8031088182
+  ],
+  "indices": [
+    784,
+    168,
+    333,
+    809,
+    140,
+    843,
+    176,
+    654,
+    787,
+    805,
+    103,
+    378,
+    286,
+    748,
+    691
+  ],
+  "name": "psyc_Metizolam",
+  "svg": "psyc_Metizolam.svg",
+  "sim": [
+    {
+      "name": "trip_metizolam",
+      "psychonaut_name": null,
+      "tripsit_name": "metizolam",
+      "dist": 2.336e-06
+    },
+    {
+      "name": "psyc_Etizolam",
+      "psychonaut_name": "Etizolam",
+      "tripsit_name": null,
+      "dist": 9.9695164496
+    },
+    {
+      "name": "trip_etizolam",
+      "psychonaut_name": null,
+      "tripsit_name": "etizolam",
+      "dist": 9.9695164496
+    },
+    {
+      "name": "trip_deschloroetizolam",
+      "psychonaut_name": null,
+      "tripsit_name": "deschloroetizolam",
+      "dist": 11.7020251747
+    },
+    {
+      "name": "psyc_Deschloroetizolam",
+      "psychonaut_name": "Deschloroetizolam",
+      "tripsit_name": null,
+      "dist": 11.7020251747
+    },
+    {
+      "name": "trip_fluclotizolam",
+      "psychonaut_name": null,
+      "tripsit_name": "fluclotizolam",
+      "dist": 12.6737166077
+    },
+    {
+      "name": "psyc_Fluclotizolam",
+      "psychonaut_name": "Fluclotizolam",
+      "tripsit_name": null,
+      "dist": 12.6737166077
+    },
+    {
+      "name": "trip_brotizolam",
+      "psychonaut_name": null,
+      "tripsit_name": "brotizolam",
+      "dist": 12.9858280108
+    },
+    {
+      "name": "trip_estazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "estazolam",
+      "dist": 15.237971831
+    },
+    {
+      "name": "trip_clotiazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "clotiazepam",
+      "dist": 16.4199133953
+    },
+    {
+      "name": "psyc_Alprazolam",
+      "psychonaut_name": "Alprazolam",
+      "tripsit_name": null,
+      "dist": 16.736224075
+    },
+    {
+      "name": "trip_alprazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "alprazolam",
+      "dist": 16.736224075
+    },
+    {
+      "name": "psyc_Pyrazolam",
+      "psychonaut_name": "Pyrazolam",
+      "tripsit_name": null,
+      "dist": 17.4226816307
+    },
+    {
+      "name": "trip_pyrazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "pyrazolam",
+      "dist": 17.4226816307
+    },
+    {
+      "name": "trip_triazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "triazolam",
+      "dist": 17.8031088182
+    }
+  ]
+}

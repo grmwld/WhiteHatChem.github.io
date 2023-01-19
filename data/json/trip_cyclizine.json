@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C18H22N2/c1-19-12-14-20(15-13-19)18(16-8-4-2-5-9-16)17-10-6-3-7-11-17/h2-11,18H,12-15H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "cyclizine",
+  "synonyms": null,
+  "distances": [
+    13.2616307296,
+    13.2616307296,
+    14.3590902107,
+    15.0357215242,
+    16.9174415649,
+    16.9174415649,
+    20.6658575248,
+    20.6658575248,
+    21.46654658,
+    21.9513726781,
+    22.1558987653,
+    24.6621235281,
+    25.8846765383,
+    26.2494617225,
+    26.4638552052
+  ],
+  "indices": [
+    153,
+    403,
+    550,
+    592,
+    629,
+    228,
+    143,
+    783,
+    237,
+    467,
+    739,
+    435,
+    594,
+    405,
+    699
+  ],
+  "name": "trip_cyclizine",
+  "svg": "trip_cyclizine.svg",
+  "sim": [
+    {
+      "name": "psyc_Diphenidine",
+      "psychonaut_name": "Diphenidine",
+      "tripsit_name": null,
+      "dist": 13.2616307296
+    },
+    {
+      "name": "trip_diphenidine",
+      "psychonaut_name": null,
+      "tripsit_name": "diphenidine",
+      "dist": 13.2616307296
+    },
+    {
+      "name": "trip_fluorolintane",
+      "psychonaut_name": null,
+      "tripsit_name": "fluorolintane",
+      "dist": 14.3590902107
+    },
+    {
+      "name": "trip_pyrophenidone",
+      "psychonaut_name": null,
+      "tripsit_name": "pyrophenidone",
+      "dist": 15.0357215242
+    },
+    {
+      "name": "trip_methoxphenidine",
+      "psychonaut_name": null,
+      "tripsit_name": "methoxphenidine",
+      "dist": 16.9174415649
+    },
+    {
+      "name": "psyc_Methoxphenidine",
+      "psychonaut_name": "Methoxphenidine",
+      "tripsit_name": null,
+      "dist": 16.9174415649
+    },
+    {
+      "name": "psyc_Desoxypipradrol",
+      "psychonaut_name": "Desoxypipradrol",
+      "tripsit_name": null,
+      "dist": 20.6658575248
+    },
+    {
+      "name": "trip_2-dpmp",
+      "psychonaut_name": null,
+      "tripsit_name": "2-dpmp",
+      "dist": 20.6658575248
+    },
+    {
+      "name": "psyc_Mirtazapine",
+      "psychonaut_name": "Mirtazapine",
+      "tripsit_name": null,
+      "dist": 21.46654658
+    },
+    {
+      "name": "trip_naphyrone",
+      "psychonaut_name": null,
+      "tripsit_name": "naphyrone",
+      "dist": 21.9513726781
+    },
+    {
+      "name": "trip_indapyrophenidone",
+      "psychonaut_name": null,
+      "tripsit_name": "indapyrophenidone",
+      "dist": 22.1558987653
+    },
+    {
+      "name": "trip_methoxypiperamide",
+      "psychonaut_name": null,
+      "tripsit_name": "methoxypiperamide",
+      "dist": 24.6621235281
+    },
+    {
+      "name": "trip_medazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "medazepam",
+      "dist": 25.8846765383
+    },
+    {
+      "name": "trip_4f-pvp",
+      "psychonaut_name": null,
+      "tripsit_name": "4f-pvp",
+      "dist": 26.2494617225
+    },
+    {
+      "name": "trip_hdmp-28",
+      "psychonaut_name": null,
+      "tripsit_name": "hdmp-28",
+      "dist": 26.4638552052
+    }
+  ]
+}

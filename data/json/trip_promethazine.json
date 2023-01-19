@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C17H20N2S/c1-13(18(2)3)12-19-14-8-4-6-10-16(14)20-17-11-7-5-9-15(17)19/h4-11,13H,12H2,1-3H3",
+  "psychonaut_name": null,
+  "tripsit_name": "promethazine",
+  "synonyms": null,
+  "distances": [
+    3.0158e-06,
+    10.4776631687,
+    22.2421593728,
+    22.4512186854,
+    24.2708185242,
+    26.0182736077,
+    26.0182736077,
+    26.0729415066,
+    26.5681370397,
+    26.5681370397,
+    26.5681370397,
+    26.9009674239,
+    26.9009674239,
+    27.1594649366,
+    27.35144423
+  ],
+  "indices": [
+    281,
+    100,
+    254,
+    152,
+    554,
+    408,
+    154,
+    525,
+    369,
+    647,
+    224,
+    411,
+    160,
+    726,
+    132
+  ],
+  "name": "trip_promethazine",
+  "svg": "trip_promethazine.svg",
+  "sim": [
+    {
+      "name": "psyc_Promethazine",
+      "psychonaut_name": "Promethazine",
+      "tripsit_name": null,
+      "dist": 3.0158e-06
+    },
+    {
+      "name": "psyc_Alimemazine",
+      "psychonaut_name": "Alimemazine",
+      "tripsit_name": null,
+      "dist": 10.4776631687
+    },
+    {
+      "name": "psyc_Orphenadrine",
+      "psychonaut_name": "Orphenadrine",
+      "tripsit_name": null,
+      "dist": 22.2421593728
+    },
+    {
+      "name": "psyc_Diphenhydramine",
+      "psychonaut_name": "Diphenhydramine",
+      "tripsit_name": null,
+      "dist": 22.4512186854
+    },
+    {
+      "name": "trip_atomoxetine",
+      "psychonaut_name": null,
+      "tripsit_name": "atomoxetine",
+      "dist": 24.2708185242
+    },
+    {
+      "name": "trip_doxylamine",
+      "psychonaut_name": null,
+      "tripsit_name": "doxylamine",
+      "dist": 26.0182736077
+    },
+    {
+      "name": "psyc_Doxylamine",
+      "psychonaut_name": "Doxylamine",
+      "tripsit_name": null,
+      "dist": 26.0182736077
+    },
+    {
+      "name": "trip_2-chloro-ephenidine",
+      "psychonaut_name": null,
+      "tripsit_name": "2-chloro-ephenidine",
+      "dist": 26.0729415066
+    },
+    {
+      "name": "trip_ethaqualone",
+      "psychonaut_name": null,
+      "tripsit_name": "ethaqualone",
+      "dist": 26.5681370397
+    },
+    {
+      "name": "trip_methaqualone",
+      "psychonaut_name": null,
+      "tripsit_name": "methaqualone",
+      "dist": 26.5681370397
+    },
+    {
+      "name": "psyc_Methaqualone",
+      "psychonaut_name": "Methaqualone",
+      "tripsit_name": null,
+      "dist": 26.5681370397
+    },
+    {
+      "name": "trip_ephenidine",
+      "psychonaut_name": null,
+      "tripsit_name": "ephenidine",
+      "dist": 26.9009674239
+    },
+    {
+      "name": "psyc_Ephenidine",
+      "psychonaut_name": "Ephenidine",
+      "tripsit_name": null,
+      "dist": 26.9009674239
+    },
+    {
+      "name": "trip_naproxen",
+      "psychonaut_name": null,
+      "tripsit_name": "naproxen",
+      "dist": 27.1594649366
+    },
+    {
+      "name": "psyc_Cyclobenzaprine",
+      "psychonaut_name": "Cyclobenzaprine",
+      "tripsit_name": null,
+      "dist": 27.35144423
+    }
+  ]
+}

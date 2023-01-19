@@ -1,0 +1,136 @@
+{
+  "inchi": "InChI=1S/C14H18N2O/c1-16-7-3-4-11(16)8-10-9-15-12-5-2-6-13(17)14(10)12/h2,5-6,9,11,15,17H,3-4,7-8H2,1H3/t11-/m1/s1",
+  "psychonaut_name": null,
+  "tripsit_name": "4-ho-mpmi",
+  "synonyms": [
+    "lucigenol"
+  ],
+  "distances": [
+    17.3513136309,
+    22.2549858079,
+    22.2549858079,
+    23.1194487636,
+    23.1194487636,
+    23.1500827335,
+    23.2100276454,
+    23.3244133748,
+    23.3305698757,
+    23.3305698757,
+    23.4429668103,
+    23.5317661588,
+    23.5787980355,
+    23.7138242168,
+    23.7138242168
+  ],
+  "indices": [
+    440,
+    678,
+    106,
+    423,
+    285,
+    656,
+    113,
+    435,
+    274,
+    561,
+    484,
+    781,
+    328,
+    280,
+    496
+  ],
+  "name": "trip_4-ho-mpmi",
+  "svg": "trip_4-ho-mpmi.svg",
+  "sim": [
+    {
+      "name": "trip_5-meo-pyr-t",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-pyr-t",
+      "dist": 17.3513136309
+    },
+    {
+      "name": "trip_aniracetam",
+      "psychonaut_name": null,
+      "tripsit_name": "aniracetam",
+      "dist": 22.2549858079
+    },
+    {
+      "name": "psyc_Aniracetam",
+      "psychonaut_name": "Aniracetam",
+      "tripsit_name": null,
+      "dist": 22.2549858079
+    },
+    {
+      "name": "trip_psilocin",
+      "psychonaut_name": null,
+      "tripsit_name": "psilocin",
+      "dist": 23.1194487636
+    },
+    {
+      "name": "psyc_Psilocin",
+      "psychonaut_name": "Psilocin",
+      "tripsit_name": null,
+      "dist": 23.1194487636
+    },
+    {
+      "name": "trip_4-benzylpiperidine",
+      "psychonaut_name": null,
+      "tripsit_name": "4-benzylpiperidine",
+      "dist": 23.1500827335
+    },
+    {
+      "name": "psyc_Bufotenin",
+      "psychonaut_name": "Bufotenin",
+      "tripsit_name": null,
+      "dist": 23.2100276454
+    },
+    {
+      "name": "trip_methoxypiperamide",
+      "psychonaut_name": null,
+      "tripsit_name": "methoxypiperamide",
+      "dist": 23.3244133748
+    },
+    {
+      "name": "psyc_Phenylpiracetam",
+      "psychonaut_name": "Phenylpiracetam",
+      "tripsit_name": null,
+      "dist": 23.3305698757
+    },
+    {
+      "name": "trip_carphedon",
+      "psychonaut_name": null,
+      "tripsit_name": "carphedon",
+      "dist": 23.3305698757
+    },
+    {
+      "name": "trip_mbzp",
+      "psychonaut_name": null,
+      "tripsit_name": "mbzp",
+      "dist": 23.4429668103
+    },
+    {
+      "name": "trip_mexamine",
+      "psychonaut_name": null,
+      "tripsit_name": "mexamine",
+      "dist": 23.5317661588
+    },
+    {
+      "name": "trip_mephtetramine",
+      "psychonaut_name": null,
+      "tripsit_name": "mephtetramine",
+      "dist": 23.5787980355
+    },
+    {
+      "name": "psyc_Prolintane",
+      "psychonaut_name": "Prolintane",
+      "tripsit_name": null,
+      "dist": 23.7138242168
+    },
+    {
+      "name": "trip_prolintane",
+      "psychonaut_name": null,
+      "tripsit_name": "prolintane",
+      "dist": 23.7138242168
+    }
+  ]
+}

@@ -71,8 +71,9 @@ const { name, psychonaut_name, tripsit_name, synonyms, svg, sim } = Astro.props 
             </div>
 
             <div class="w-full flex flex-col items-center mt-16">
-                <div class="w-full max-w-2xl">
-                    <span class="text-xl font-bold">Most similar drugs:</span>
+                <div class="w-full max-w-2xl flex flex-col">
+                    <span class="text-xl font-bold">Most structurally similar compounds:</span>
+                    <span class="text-neutral-600 text-sm mt-2">The percentage is a metric of how structurally similar those molecules are, which is often strongly correlated with their effects. Take these informations with a grain of salt for now we are improving our methods to analyse molecules. We will provide more information on how those similarities are computed later</span>
                     <div class="flex flex-col mt-4 gap-1">
                         { sim.map((x) => {
                             const sim = Math.pow(Math.max(100-x.dist, 0)/100, 4.);
@@ -83,15 +84,18 @@ const { name, psychonaut_name, tripsit_name, synonyms, svg, sim } = Astro.props 
                                     <CompoundName name={x.tripsit_name} site="tripsit"/>
                                     <CompoundName name={x.psychonaut_name} site="psychonaut"/>
                                 </div>
-                                <div class="lg:w-60 w-full h-4 bg-neutral-200 rounded border border-neutral-300 overflow-hidden">
-                                    <div
-                                        class="h-full rounded"
-                                        style={{
-                                            width: `${100 * sim}%`,
-                                            backgroundColor: `rgb(${red}, ${green}, 0)`,
-                                        }}
-                                    />
-                                </div>
+                                <span class="flex items-center w-full lg:w-min">
+                                    <p class="text-sm text-neutral-600 text-sm mr-2">{`${(Math.round(sim * 1000) / 10).toFixed(1)}%`}</p>
+                                    <div class="w-full lg:w-60 h-5 bg-neutral-200 rounded border border-neutral-300 overflow-hidden">
+                                        <div
+                                            class="h-full rounded text-xs"
+                                            style={{
+                                                width: `${100 * sim}%`,
+                                                backgroundColor: `rgb(${red}, ${green}, 0)`,
+                                            }}
+                                        />
+                                    </div>
+                                </span>
                             </a>
                         }) }
                     </div>

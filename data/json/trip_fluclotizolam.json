@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C15H10ClFN4S/c1-8-19-20-13-7-18-14(9-4-2-3-5-11(9)17)10-6-12(16)22-15(10)21(8)13/h2-6H,7H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "fluclotizolam",
+  "synonyms": null,
+  "distances": [
+    3.3036e-06,
+    8.9039792027,
+    11.638718253,
+    11.638718253,
+    12.6737166077,
+    12.6737166077,
+    13.3616705813,
+    13.3616705813,
+    13.9454087882,
+    13.9454087882,
+    14.5193010979,
+    14.5193010979,
+    15.0396494407,
+    15.0396494407,
+    15.2233894686
+  ],
+  "indices": [
+    843,
+    654,
+    168,
+    333,
+    784,
+    232,
+    738,
+    173,
+    140,
+    809,
+    378,
+    103,
+    312,
+    691,
+    175
+  ],
+  "name": "trip_fluclotizolam",
+  "svg": "trip_fluclotizolam.svg",
+  "sim": [
+    {
+      "name": "trip_fluclotizolam",
+      "psychonaut_name": null,
+      "tripsit_name": "fluclotizolam",
+      "dist": 3.3036e-06
+    },
+    {
+      "name": "trip_brotizolam",
+      "psychonaut_name": null,
+      "tripsit_name": "brotizolam",
+      "dist": 8.9039792027
+    },
+    {
+      "name": "psyc_Etizolam",
+      "psychonaut_name": "Etizolam",
+      "tripsit_name": null,
+      "dist": 11.638718253
+    },
+    {
+      "name": "trip_etizolam",
+      "psychonaut_name": null,
+      "tripsit_name": "etizolam",
+      "dist": 11.638718253
+    },
+    {
+      "name": "trip_metizolam",
+      "psychonaut_name": null,
+      "tripsit_name": "metizolam",
+      "dist": 12.6737166077
+    },
+    {
+      "name": "psyc_Metizolam",
+      "psychonaut_name": "Metizolam",
+      "tripsit_name": null,
+      "dist": 12.6737166077
+    },
+    {
+      "name": "trip_flualprazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "flualprazolam",
+      "dist": 13.3616705813
+    },
+    {
+      "name": "psyc_Flualprazolam",
+      "psychonaut_name": "Flualprazolam",
+      "tripsit_name": null,
+      "dist": 13.3616705813
+    },
+    {
+      "name": "psyc_Deschloroetizolam",
+      "psychonaut_name": "Deschloroetizolam",
+      "tripsit_name": null,
+      "dist": 13.9454087882
+    },
+    {
+      "name": "trip_deschloroetizolam",
+      "psychonaut_name": null,
+      "tripsit_name": "deschloroetizolam",
+      "dist": 13.9454087882
+    },
+    {
+      "name": "trip_alprazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "alprazolam",
+      "dist": 14.5193010979
+    },
+    {
+      "name": "psyc_Alprazolam",
+      "psychonaut_name": "Alprazolam",
+      "tripsit_name": null,
+      "dist": 14.5193010979
+    },
+    {
+      "name": "psyc_Triazolam",
+      "psychonaut_name": "Triazolam",
+      "tripsit_name": null,
+      "dist": 15.0396494407
+    },
+    {
+      "name": "trip_triazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "triazolam",
+      "dist": 15.0396494407
+    },
+    {
+      "name": "psyc_Flubromazolam",
+      "psychonaut_name": "Flubromazolam",
+      "tripsit_name": null,
+      "dist": 15.2233894686
+    }
+  ]
+}

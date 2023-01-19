@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C11H12Cl3N/c1-9(15-8-11(12,13)14)7-10-5-3-2-4-6-10/h2-6,8-9H,7H2,1H3/b15-8+",
+  "psychonaut_name": null,
+  "tripsit_name": "amfecloral",
+  "synonyms": null,
+  "distances": [
+    35.1118608655,
+    35.171258949,
+    35.6727441856,
+    36.2378178614,
+    36.4508997258,
+    36.4508997258,
+    36.4508997258,
+    36.8448582451,
+    36.8448582451,
+    36.9218964902,
+    36.976967731,
+    37.0068550977,
+    37.0362997612,
+    37.1211149193,
+    37.2057301692
+  ],
+  "indices": [
+    630,
+    760,
+    508,
+    516,
+    640,
+    78,
+    418,
+    808,
+    156,
+    384,
+    750,
+    447,
+    556,
+    372,
+    13
+  ],
+  "name": "trip_amfecloral",
+  "svg": "trip_amfecloral.svg",
+  "sim": [
+    {
+      "name": "trip_3-cmc",
+      "psychonaut_name": null,
+      "tripsit_name": "3-cmc",
+      "dist": 35.1118608655
+    },
+    {
+      "name": "trip_4-cmc",
+      "psychonaut_name": null,
+      "tripsit_name": "4-cmc",
+      "dist": 35.171258949
+    },
+    {
+      "name": "trip_4-cma",
+      "psychonaut_name": null,
+      "tripsit_name": "4-cma",
+      "dist": 35.6727441856
+    },
+    {
+      "name": "trip_bupropion",
+      "psychonaut_name": null,
+      "tripsit_name": "bupropion",
+      "dist": 36.2378178614
+    },
+    {
+      "name": "trip_6-mapb",
+      "psychonaut_name": null,
+      "tripsit_name": "6-mapb",
+      "dist": 36.4508997258
+    },
+    {
+      "name": "psyc_5-MAPB",
+      "psychonaut_name": "5-MAPB",
+      "tripsit_name": null,
+      "dist": 36.4508997258
+    },
+    {
+      "name": "trip_5-mapb",
+      "psychonaut_name": null,
+      "tripsit_name": "5-mapb",
+      "dist": 36.4508997258
+    },
+    {
+      "name": "trip_ethylcathinone",
+      "psychonaut_name": null,
+      "tripsit_name": "ethylcathinone",
+      "dist": 36.8448582451
+    },
+    {
+      "name": "psyc_ETH-CAT",
+      "psychonaut_name": "ETH-CAT",
+      "tripsit_name": null,
+      "dist": 36.8448582451
+    },
+    {
+      "name": "trip_3-fmc",
+      "psychonaut_name": null,
+      "tripsit_name": "3-fmc",
+      "dist": 36.9218964902
+    },
+    {
+      "name": "trip_4-fmc",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fmc",
+      "dist": 36.976967731
+    },
+    {
+      "name": "trip_4-cic",
+      "psychonaut_name": null,
+      "tripsit_name": "4-cic",
+      "dist": 37.0068550977
+    },
+    {
+      "name": "trip_methamnetamine",
+      "psychonaut_name": null,
+      "tripsit_name": "methamnetamine",
+      "dist": 37.0362997612
+    },
+    {
+      "name": "trip_buphedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "buphedrone",
+      "dist": 37.1211149193
+    },
+    {
+      "name": "psyc_2-FEA",
+      "psychonaut_name": "2-FEA",
+      "tripsit_name": null,
+      "dist": 37.2057301692
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C20H30N2O3/c1-2-25-19(23)20(18-6-4-3-5-7-18)8-10-21(11-9-20)12-13-22-14-16-24-17-15-22/h3-7H,2,8-17H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "morpheridine",
+  "synonyms": null,
+  "distances": [
+    12.7054821047,
+    28.2188159693,
+    28.2188159693,
+    29.6885865344,
+    30.2400269265,
+    30.2466161427,
+    30.2466161427,
+    30.3133658059,
+    30.3133658059,
+    30.8722372325,
+    30.8722372325,
+    31.1966908583,
+    31.4546036351,
+    31.8371683044,
+    31.9465629723
+  ],
+  "indices": [
+    518,
+    611,
+    52,
+    357,
+    830,
+    71,
+    343,
+    53,
+    478,
+    673,
+    295,
+    846,
+    185,
+    391,
+    632
+  ],
+  "name": "trip_morpheridine",
+  "svg": "trip_morpheridine.svg",
+  "sim": [
+    {
+      "name": "trip_pre-084",
+      "psychonaut_name": null,
+      "tripsit_name": "pre-084",
+      "dist": 12.7054821047
+    },
+    {
+      "name": "trip_3-meo-pcmo",
+      "psychonaut_name": null,
+      "tripsit_name": "3-meo-pcmo",
+      "dist": 28.2188159693
+    },
+    {
+      "name": "psyc_3-MeO-PCMo",
+      "psychonaut_name": "3-MeO-PCMo",
+      "tripsit_name": null,
+      "dist": 28.2188159693
+    },
+    {
+      "name": "trip_th-pvp",
+      "psychonaut_name": null,
+      "tripsit_name": "th-pvp",
+      "dist": 29.6885865344
+    },
+    {
+      "name": "trip_5-bpdi",
+      "psychonaut_name": null,
+      "tripsit_name": "5-bpdi",
+      "dist": 30.2400269265
+    },
+    {
+      "name": "psyc_4-MeO-PCP",
+      "psychonaut_name": "4-MeO-PCP",
+      "tripsit_name": null,
+      "dist": 30.2466161427
+    },
+    {
+      "name": "trip_4-meo-pcp",
+      "psychonaut_name": null,
+      "tripsit_name": "4-meo-pcp",
+      "dist": 30.2466161427
+    },
+    {
+      "name": "psyc_3-MeO-PCP",
+      "psychonaut_name": "3-MeO-PCP",
+      "tripsit_name": null,
+      "dist": 30.3133658059
+    },
+    {
+      "name": "trip_3-meo-pcp",
+      "psychonaut_name": null,
+      "tripsit_name": "3-meo-pcp",
+      "dist": 30.3133658059
+    },
+    {
+      "name": "trip_sufentanil",
+      "psychonaut_name": null,
+      "tripsit_name": "sufentanil",
+      "dist": 30.8722372325
+    },
+    {
+      "name": "psyc_Sufentanil",
+      "psychonaut_name": "Sufentanil",
+      "tripsit_name": null,
+      "dist": 30.8722372325
+    },
+    {
+      "name": "trip_5-dbfpv",
+      "psychonaut_name": null,
+      "tripsit_name": "5-dbfpv",
+      "dist": 31.1966908583
+    },
+    {
+      "name": "psyc_Haloperidol",
+      "psychonaut_name": "Haloperidol",
+      "tripsit_name": null,
+      "dist": 31.4546036351
+    },
+    {
+      "name": "trip_3-meo-pcpy",
+      "psychonaut_name": null,
+      "tripsit_name": "3-meo-pcpy",
+      "dist": 31.8371683044
+    },
+    {
+      "name": "trip_mt-45",
+      "psychonaut_name": null,
+      "tripsit_name": "mt-45",
+      "dist": 31.9465629723
+    }
+  ]
+}

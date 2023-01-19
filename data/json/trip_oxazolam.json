@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C18H17ClN2O2/c1-12-10-21-11-17(22)20-16-8-7-14(19)9-15(16)18(21,23-12)13-5-3-2-4-6-13/h2-9,12H,10-11H2,1H3,(H,20,22)",
+  "psychonaut_name": null,
+  "tripsit_name": "oxazolam",
+  "synonyms": null,
+  "distances": [
+    13.902243322,
+    14.0381201426,
+    22.907511636,
+    24.8556341957,
+    26.0381647385,
+    26.4778534098,
+    26.5618474185,
+    26.5618474185,
+    26.6430889165,
+    26.6673161745,
+    27.5029339699,
+    27.5848743512,
+    28.0743489218,
+    28.0743489218,
+    28.1288256947
+  ],
+  "indices": [
+    622,
+    689,
+    490,
+    839,
+    495,
+    486,
+    304,
+    695,
+    545,
+    628,
+    457,
+    574,
+    150,
+    605,
+    803
+  ],
+  "name": "trip_oxazolam",
+  "svg": "trip_oxazolam.svg",
+  "sim": [
+    {
+      "name": "trip_cloxazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "cloxazolam",
+      "dist": 13.902243322
+    },
+    {
+      "name": "trip_mexazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "mexazolam",
+      "dist": 14.0381201426
+    },
+    {
+      "name": "trip_homomazindol",
+      "psychonaut_name": null,
+      "tripsit_name": "homomazindol",
+      "dist": 22.907511636
+    },
+    {
+      "name": "trip_flutazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "flutazolam",
+      "dist": 24.8556341957
+    },
+    {
+      "name": "trip_ketazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "ketazolam",
+      "dist": 26.0381647385
+    },
+    {
+      "name": "trip_prazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "prazepam",
+      "dist": 26.4778534098
+    },
+    {
+      "name": "psyc_Temazepam",
+      "psychonaut_name": "Temazepam",
+      "tripsit_name": null,
+      "dist": 26.5618474185
+    },
+    {
+      "name": "trip_temazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "temazepam",
+      "dist": 26.5618474185
+    },
+    {
+      "name": "trip_lormetazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "lormetazepam",
+      "dist": 26.6430889165
+    },
+    {
+      "name": "trip_diclofensine",
+      "psychonaut_name": null,
+      "tripsit_name": "diclofensine",
+      "dist": 26.6673161745
+    },
+    {
+      "name": "trip_metaclazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "metaclazepam",
+      "dist": 27.5029339699
+    },
+    {
+      "name": "trip_flutoprazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "flutoprazepam",
+      "dist": 27.5848743512
+    },
+    {
+      "name": "psyc_Diclazepam",
+      "psychonaut_name": "Diclazepam",
+      "tripsit_name": null,
+      "dist": 28.0743489218
+    },
+    {
+      "name": "trip_diclazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "diclazepam",
+      "dist": 28.0743489218
+    },
+    {
+      "name": "trip_clorazepate",
+      "psychonaut_name": null,
+      "tripsit_name": "clorazepate",
+      "dist": 28.1288256947
+    }
+  ]
+}

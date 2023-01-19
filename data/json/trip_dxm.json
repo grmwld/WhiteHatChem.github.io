@@ -1,0 +1,141 @@
+{
+  "inchi": "InChI=1S/C18H25NO/c1-19-10-9-18-8-4-3-5-15(18)17(19)11-13-6-7-14(20-2)12-16(13)18/h6-7,12,15,17H,3-5,8-11H2,1-2H3/t15-,17+,18+/m1/s1",
+  "psychonaut_name": null,
+  "tripsit_name": "dxm",
+  "synonyms": [
+    "dextromethorphan",
+    "robo",
+    "syrup",
+    "robotussin",
+    "dex",
+    "robitussin"
+  ],
+  "distances": [
+    2.336e-06,
+    18.8237044214,
+    19.2887239237,
+    20.3965194426,
+    20.3965194426,
+    20.6150566408,
+    20.6150566408,
+    20.7294658492,
+    20.7294658492,
+    21.0113008156,
+    21.0113008156,
+    22.1136811178,
+    22.1136811178,
+    22.4512982033,
+    22.8611424898
+  ],
+  "indices": [
+    642,
+    142,
+    391,
+    53,
+    478,
+    71,
+    343,
+    188,
+    675,
+    52,
+    611,
+    151,
+    827,
+    50,
+    49
+  ],
+  "name": "trip_dxm",
+  "svg": "trip_dxm.svg",
+  "sim": [
+    {
+      "name": "trip_dxm",
+      "psychonaut_name": null,
+      "tripsit_name": "dxm",
+      "dist": 2.336e-06
+    },
+    {
+      "name": "psyc_Desomorphine",
+      "psychonaut_name": "Desomorphine",
+      "tripsit_name": null,
+      "dist": 18.8237044214
+    },
+    {
+      "name": "trip_3-meo-pcpy",
+      "psychonaut_name": null,
+      "tripsit_name": "3-meo-pcpy",
+      "dist": 19.2887239237
+    },
+    {
+      "name": "psyc_3-MeO-PCP",
+      "psychonaut_name": "3-MeO-PCP",
+      "tripsit_name": null,
+      "dist": 20.3965194426
+    },
+    {
+      "name": "trip_3-meo-pcp",
+      "psychonaut_name": null,
+      "tripsit_name": "3-meo-pcp",
+      "dist": 20.3965194426
+    },
+    {
+      "name": "psyc_4-MeO-PCP",
+      "psychonaut_name": "4-MeO-PCP",
+      "tripsit_name": null,
+      "dist": 20.6150566408
+    },
+    {
+      "name": "trip_4-meo-pcp",
+      "psychonaut_name": null,
+      "tripsit_name": "4-meo-pcp",
+      "dist": 20.6150566408
+    },
+    {
+      "name": "psyc_Hydrocodone",
+      "psychonaut_name": "Hydrocodone",
+      "tripsit_name": null,
+      "dist": 20.7294658492
+    },
+    {
+      "name": "trip_hydrocodone",
+      "psychonaut_name": null,
+      "tripsit_name": "hydrocodone",
+      "dist": 20.7294658492
+    },
+    {
+      "name": "psyc_3-MeO-PCMo",
+      "psychonaut_name": "3-MeO-PCMo",
+      "tripsit_name": null,
+      "dist": 21.0113008156
+    },
+    {
+      "name": "trip_3-meo-pcmo",
+      "psychonaut_name": null,
+      "tripsit_name": "3-meo-pcmo",
+      "dist": 21.0113008156
+    },
+    {
+      "name": "psyc_Dihydrocodeine",
+      "psychonaut_name": "Dihydrocodeine",
+      "tripsit_name": null,
+      "dist": 22.1136811178
+    },
+    {
+      "name": "trip_dihydrocodeine",
+      "psychonaut_name": null,
+      "tripsit_name": "dihydrocodeine",
+      "dist": 22.1136811178
+    },
+    {
+      "name": "psyc_3-Me-PCPy",
+      "psychonaut_name": "3-Me-PCPy",
+      "tripsit_name": null,
+      "dist": 22.4512982033
+    },
+    {
+      "name": "psyc_3-Me-PCP",
+      "psychonaut_name": "3-Me-PCP",
+      "tripsit_name": null,
+      "dist": 22.8611424898
+    }
+  ]
+}

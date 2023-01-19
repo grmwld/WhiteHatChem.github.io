@@ -1,0 +1,136 @@
+{
+  "inchi": "InChI=1S/C16H15F2NO2S/c1-19-15(20)10-22(21)16(11-2-6-13(17)7-3-11)12-4-8-14(18)9-5-12/h2-9,16H,10H2,1H3,(H,19,20)",
+  "psychonaut_name": null,
+  "tripsit_name": "dehydroxyfluorafinil",
+  "synonyms": [
+    "modafiendz"
+  ],
+  "distances": [
+    2.336e-06,
+    11.0662790514,
+    14.7840127117,
+    20.2609984117,
+    20.2609984117,
+    23.6506440992,
+    23.6506440992,
+    23.6506440992,
+    23.6506440992,
+    35.0010846651,
+    36.049560341,
+    36.2932443433,
+    36.89962598,
+    36.9918236849,
+    37.3975194751
+  ],
+  "indices": [
+    243,
+    786,
+    616,
+    475,
+    98,
+    551,
+    107,
+    366,
+    238,
+    425,
+    554,
+    525,
+    254,
+    152,
+    550
+  ],
+  "name": "trip_dehydroxyfluorafinil",
+  "svg": "trip_dehydroxyfluorafinil.svg",
+  "sim": [
+    {
+      "name": "psyc_N-Methylbisfluoromodafinil",
+      "psychonaut_name": "N-Methylbisfluoromodafinil",
+      "tripsit_name": null,
+      "dist": 2.336e-06
+    },
+    {
+      "name": "trip_crl-40-941",
+      "psychonaut_name": null,
+      "tripsit_name": "crl-40-941",
+      "dist": 11.0662790514
+    },
+    {
+      "name": "trip_crl-40-940",
+      "psychonaut_name": null,
+      "tripsit_name": "crl-40-940",
+      "dist": 14.7840127117
+    },
+    {
+      "name": "trip_adrafinil",
+      "psychonaut_name": null,
+      "tripsit_name": "adrafinil",
+      "dist": 20.2609984117
+    },
+    {
+      "name": "psyc_Adrafinil",
+      "psychonaut_name": "Adrafinil",
+      "tripsit_name": null,
+      "dist": 20.2609984117
+    },
+    {
+      "name": "trip_armodafinil",
+      "psychonaut_name": null,
+      "tripsit_name": "armodafinil",
+      "dist": 23.6506440992
+    },
+    {
+      "name": "psyc_Armodafinil",
+      "psychonaut_name": "Armodafinil",
+      "tripsit_name": null,
+      "dist": 23.6506440992
+    },
+    {
+      "name": "trip_modafinil",
+      "psychonaut_name": null,
+      "tripsit_name": "modafinil",
+      "dist": 23.6506440992
+    },
+    {
+      "name": "psyc_Modafinil",
+      "psychonaut_name": "Modafinil",
+      "tripsit_name": null,
+      "dist": 23.6506440992
+    },
+    {
+      "name": "trip_fluoxetine",
+      "psychonaut_name": null,
+      "tripsit_name": "fluoxetine",
+      "dist": 35.0010846651
+    },
+    {
+      "name": "trip_atomoxetine",
+      "psychonaut_name": null,
+      "tripsit_name": "atomoxetine",
+      "dist": 36.049560341
+    },
+    {
+      "name": "trip_2-chloro-ephenidine",
+      "psychonaut_name": null,
+      "tripsit_name": "2-chloro-ephenidine",
+      "dist": 36.2932443433
+    },
+    {
+      "name": "psyc_Orphenadrine",
+      "psychonaut_name": "Orphenadrine",
+      "tripsit_name": null,
+      "dist": 36.89962598
+    },
+    {
+      "name": "psyc_Diphenhydramine",
+      "psychonaut_name": "Diphenhydramine",
+      "tripsit_name": null,
+      "dist": 36.9918236849
+    },
+    {
+      "name": "trip_fluorolintane",
+      "psychonaut_name": null,
+      "tripsit_name": "fluorolintane",
+      "dist": 37.3975194751
+    }
+  ]
+}

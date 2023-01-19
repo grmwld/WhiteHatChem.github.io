@@ -1,0 +1,136 @@
+{
+  "inchi": "InChI=1S/C14H20N2/c1-3-16(4-2)10-9-12-11-15-14-8-6-5-7-13(12)14/h5-8,11,15H,3-4,9-10H2,1-2H3",
+  "psychonaut_name": null,
+  "tripsit_name": "det",
+  "synonyms": [
+    "diethyltryptamine"
+  ],
+  "distances": [
+    0.0,
+    6.8037700188,
+    6.8037700188,
+    8.7560268899,
+    8.7560268899,
+    9.2376775371,
+    11.7674372722,
+    11.7674372722,
+    12.1344202945,
+    12.1344202945,
+    12.6535285944,
+    12.6535285944,
+    13.1441986631,
+    13.6075405982,
+    13.6075405982
+  ],
+  "indices": [
+    133,
+    743,
+    155,
+    63,
+    686,
+    212,
+    67,
+    631,
+    776,
+    66,
+    576,
+    68,
+    528,
+    793,
+    139
+  ],
+  "name": "trip_det",
+  "svg": "trip_det.svg",
+  "sim": [
+    {
+      "name": "psyc_DET",
+      "psychonaut_name": "DET",
+      "tripsit_name": null,
+      "dist": 0.0
+    },
+    {
+      "name": "trip_ept",
+      "psychonaut_name": null,
+      "tripsit_name": "ept",
+      "dist": 6.8037700188
+    },
+    {
+      "name": "psyc_EPT",
+      "psychonaut_name": "EPT",
+      "tripsit_name": null,
+      "dist": 6.8037700188
+    },
+    {
+      "name": "psyc_4-HO-DET",
+      "psychonaut_name": "4-HO-DET",
+      "tripsit_name": null,
+      "dist": 8.7560268899
+    },
+    {
+      "name": "trip_4-ho-det",
+      "psychonaut_name": null,
+      "tripsit_name": "4-ho-det",
+      "dist": 8.7560268899
+    },
+    {
+      "name": "psyc_MPT",
+      "psychonaut_name": "MPT",
+      "tripsit_name": null,
+      "dist": 9.2376775371
+    },
+    {
+      "name": "psyc_4-HO-MET",
+      "psychonaut_name": "4-HO-MET",
+      "tripsit_name": null,
+      "dist": 11.7674372722
+    },
+    {
+      "name": "trip_4-ho-met",
+      "psychonaut_name": null,
+      "tripsit_name": "4-ho-met",
+      "dist": 11.7674372722
+    },
+    {
+      "name": "trip_4-ho-ept",
+      "psychonaut_name": null,
+      "tripsit_name": "4-ho-ept",
+      "dist": 12.1344202945
+    },
+    {
+      "name": "psyc_4-HO-EPT",
+      "psychonaut_name": "4-HO-EPT",
+      "tripsit_name": null,
+      "dist": 12.1344202945
+    },
+    {
+      "name": "trip_4-ho-mpt",
+      "psychonaut_name": null,
+      "tripsit_name": "4-ho-mpt",
+      "dist": 12.6535285944
+    },
+    {
+      "name": "psyc_4-HO-MPT",
+      "psychonaut_name": "4-HO-MPT",
+      "tripsit_name": null,
+      "dist": 12.6535285944
+    },
+    {
+      "name": "trip_5-meo-met",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-met",
+      "dist": 13.1441986631
+    },
+    {
+      "name": "trip_dpt",
+      "psychonaut_name": null,
+      "tripsit_name": "dpt",
+      "dist": 13.6075405982
+    },
+    {
+      "name": "psyc_DPT",
+      "psychonaut_name": "DPT",
+      "tripsit_name": null,
+      "dist": 13.6075405982
+    }
+  ]
+}

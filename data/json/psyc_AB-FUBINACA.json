@@ -1,0 +1,159 @@
+{
+  "inchi": "InChI=1S/C20H21FN4O2/c1-12(2)17(19(22)26)23-20(27)18-15-5-3-4-6-16(15)25(24-18)11-13-7-9-14(21)10-8-13/h3-10,12,17H,11H2,1-2H3,(H2,22,26)(H,23,27)/t17-/m0/s1",
+  "psychonaut_name": "AB-FUBINACA",
+  "tripsit_name": null,
+  "synonyms": [
+    "UNII-I7PZF0KTFK",
+    "FT-0696685",
+    "AKOS022174913",
+    "N-((1S)-1-(AMINOCARBONYL)-2-METHYLPROPYL)-1-((4-FLUOROPHENYL)METHYL)-1H-INDAZOLE-3-CARBOXAMIDE",
+    "N-[(1S)-1-(aminocarbonyl)-2-methylpropyl]-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide",
+    "Nalpha-[1-(4-Fluorobenzyl)-1H-indazole-3-ylcarbonyl]-L-valinamide",
+    "SCHEMBL1217062",
+    "N-[(2S)-1-Amino-3-methyl-1-oxobutan-2-yl]-1-[(4-fluorophenyl)methyl]-1H-indazole-3-carboxamide",
+    "ZINC95705073",
+    "DTXSID70728845",
+    "N-[(2S)-1-amino-3-methyl-1-oxobutan-2-yl]-1-[(4-fluorophenyl)methyl]indazole-3-carboxamide",
+    "DEA No. 7012",
+    "CHEMBL4083220",
+    "N-[(1S)-1-(aminocarbonyl)-2-methylpropyl]-1-[(4-fluorophenyl)methyl]-1H-indazole-3-carboxamide",
+    "Q4650002",
+    "N-[(1S)-1-carbamoyl-2-methyl-propyl]-1-[(4-fluorophenyl)methyl]indazole-3-carboxamide",
+    "I7PZF0KTFK",
+    "AB-FUBINACA",
+    "NCGC00390276-01",
+    "1H-INDAZOLE-3-CARBOXAMIDE, N-((1S)-1-(AMINOCARBONYL)-2-METHYLPROPYL)-1-((4-FLUOROPHENYL)METHYL)-",
+    "BDBM50249590",
+    "1185282-01-2",
+    "(S)-N-(1-Amino-3-methyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide",
+    "N-((1S)-1-(aminocarbonyl)-2-methylpropyl]-1-((4-fluorophenyl)methyl)-1H-indazole-3-carboxamide"
+  ],
+  "distances": [
+    3.3036e-06,
+    26.7740507298,
+    28.4921864289,
+    29.0312090033,
+    30.0343248458,
+    30.7336719861,
+    30.7772711182,
+    31.0598629728,
+    31.3317563357,
+    32.8378436352,
+    32.8378436352,
+    32.8378436352,
+    32.8976610645,
+    33.0141330857,
+    33.0382062359
+  ],
+  "indices": [
+    93,
+    838,
+    502,
+    297,
+    606,
+    194,
+    193,
+    298,
+    73,
+    347,
+    146,
+    754,
+    714,
+    529,
+    87
+  ],
+  "name": "psyc_AB-FUBINACA",
+  "svg": "psyc_AB-FUBINACA.svg",
+  "sim": [
+    {
+      "name": "psyc_AB-FUBINACA",
+      "psychonaut_name": "AB-FUBINACA",
+      "tripsit_name": null,
+      "dist": 3.3036e-06
+    },
+    {
+      "name": "trip_pagoclone",
+      "psychonaut_name": null,
+      "tripsit_name": "pagoclone",
+      "dist": 26.7740507298
+    },
+    {
+      "name": "trip_ab-chminaca",
+      "psychonaut_name": null,
+      "tripsit_name": "ab-chminaca",
+      "dist": 28.4921864289
+    },
+    {
+      "name": "psyc_THJ-018",
+      "psychonaut_name": "THJ-018",
+      "tripsit_name": null,
+      "dist": 29.0312090033
+    },
+    {
+      "name": "trip_amfonelicacid",
+      "psychonaut_name": null,
+      "tripsit_name": "amfonelicacid",
+      "dist": 30.0343248458
+    },
+    {
+      "name": "psyc_JWH-073",
+      "psychonaut_name": "JWH-073",
+      "tripsit_name": null,
+      "dist": 30.7336719861
+    },
+    {
+      "name": "psyc_JWH-018",
+      "psychonaut_name": "JWH-018",
+      "tripsit_name": null,
+      "dist": 30.7772711182
+    },
+    {
+      "name": "psyc_THJ-2201",
+      "psychonaut_name": "THJ-2201",
+      "tripsit_name": null,
+      "dist": 31.0598629728
+    },
+    {
+      "name": "psyc_4F-ADB",
+      "psychonaut_name": "4F-ADB",
+      "tripsit_name": null,
+      "dist": 31.3317563357
+    },
+    {
+      "name": "trip_propoxyphene",
+      "psychonaut_name": null,
+      "tripsit_name": "propoxyphene",
+      "dist": 32.8378436352
+    },
+    {
+      "name": "psyc_Dextropropoxyphene",
+      "psychonaut_name": "Dextropropoxyphene",
+      "tripsit_name": null,
+      "dist": 32.8378436352
+    },
+    {
+      "name": "trip_dextropropoxyphene",
+      "psychonaut_name": null,
+      "tripsit_name": "dextropropoxyphene",
+      "dist": 32.8378436352
+    },
+    {
+      "name": "trip_dipipanone",
+      "psychonaut_name": null,
+      "tripsit_name": "dipipanone",
+      "dist": 32.8976610645
+    },
+    {
+      "name": "trip_rilmazafone",
+      "psychonaut_name": null,
+      "tripsit_name": "rilmazafone",
+      "dist": 33.0141330857
+    },
+    {
+      "name": "psyc_5F-PB-22",
+      "psychonaut_name": "5F-PB-22",
+      "tripsit_name": null,
+      "dist": 33.0382062359
+    }
+  ]
+}

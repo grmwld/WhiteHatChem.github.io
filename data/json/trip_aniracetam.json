@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C12H13NO3/c1-16-10-6-4-9(5-7-10)12(15)13-8-2-3-11(13)14/h4-7H,2-3,8H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "aniracetam",
+  "synonyms": null,
+  "distances": [
+    1.9073e-06,
+    13.445068499,
+    18.3516855573,
+    19.1141174869,
+    19.2996534563,
+    19.2996534563,
+    19.3723126917,
+    20.2228460157,
+    20.4587665002,
+    20.4587665002,
+    20.4590931717,
+    20.4590931717,
+    20.5890074205,
+    20.6102508521,
+    20.6140581179
+  ],
+  "indices": [
+    106,
+    435,
+    565,
+    328,
+    561,
+    274,
+    484,
+    440,
+    669,
+    227,
+    92,
+    822,
+    599,
+    405,
+    671
+  ],
+  "name": "trip_aniracetam",
+  "svg": "trip_aniracetam.svg",
+  "sim": [
+    {
+      "name": "psyc_Aniracetam",
+      "psychonaut_name": "Aniracetam",
+      "tripsit_name": null,
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "trip_methoxypiperamide",
+      "psychonaut_name": null,
+      "tripsit_name": "methoxypiperamide",
+      "dist": 13.445068499
+    },
+    {
+      "name": "trip_\u03b1-pbp",
+      "psychonaut_name": null,
+      "tripsit_name": "\u03b1-pbp",
+      "dist": 18.3516855573
+    },
+    {
+      "name": "trip_mephtetramine",
+      "psychonaut_name": null,
+      "tripsit_name": "mephtetramine",
+      "dist": 19.1141174869
+    },
+    {
+      "name": "trip_carphedon",
+      "psychonaut_name": null,
+      "tripsit_name": "carphedon",
+      "dist": 19.2996534563
+    },
+    {
+      "name": "psyc_Phenylpiracetam",
+      "psychonaut_name": "Phenylpiracetam",
+      "tripsit_name": null,
+      "dist": 19.2996534563
+    },
+    {
+      "name": "trip_mbzp",
+      "psychonaut_name": null,
+      "tripsit_name": "mbzp",
+      "dist": 19.3723126917
+    },
+    {
+      "name": "trip_5-meo-pyr-t",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-pyr-t",
+      "dist": 20.2228460157
+    },
+    {
+      "name": "trip_mxe",
+      "psychonaut_name": null,
+      "tripsit_name": "mxe",
+      "dist": 20.4587665002
+    },
+    {
+      "name": "psyc_Methoxetamine",
+      "psychonaut_name": "Methoxetamine",
+      "tripsit_name": null,
+      "dist": 20.4587665002
+    },
+    {
+      "name": "psyc_A-PVP",
+      "psychonaut_name": "A-PVP",
+      "tripsit_name": null,
+      "dist": 20.4590931717
+    },
+    {
+      "name": "trip_a-pvp",
+      "psychonaut_name": null,
+      "tripsit_name": "a-pvp",
+      "dist": 20.4590931717
+    },
+    {
+      "name": "trip_mxm",
+      "psychonaut_name": null,
+      "tripsit_name": "mxm",
+      "dist": 20.5890074205
+    },
+    {
+      "name": "trip_4f-pvp",
+      "psychonaut_name": null,
+      "tripsit_name": "4f-pvp",
+      "dist": 20.6102508521
+    },
+    {
+      "name": "trip_methoxyketamine",
+      "psychonaut_name": null,
+      "tripsit_name": "methoxyketamine",
+      "dist": 20.6140581179
+    }
+  ]
+}

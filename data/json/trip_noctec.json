@@ -1,0 +1,138 @@
+{
+  "inchi": "InChI=1S/C2H3Cl3O2/c3-2(4,5)1(6)7/h1,6-7H",
+  "psychonaut_name": null,
+  "tripsit_name": "noctec",
+  "synonyms": [
+    "chloral-hydrate",
+    "aquachloral",
+    "somnos"
+  ],
+  "distances": [
+    30.7730120639,
+    31.5516766715,
+    35.4720538109,
+    35.4720538109,
+    36.2588300803,
+    36.2588300803,
+    36.7590055266,
+    37.5316402977,
+    37.5316402977,
+    37.773902046,
+    37.773902046,
+    38.0193335891,
+    38.0193335891,
+    38.0256726729,
+    38.2724160726
+  ],
+  "indices": [
+    540,
+    346,
+    39,
+    474,
+    546,
+    99,
+    399,
+    338,
+    179,
+    353,
+    180,
+    2,
+    579,
+    757,
+    745
+  ],
+  "name": "trip_noctec",
+  "svg": "trip_noctec.svg",
+  "sim": [
+    {
+      "name": "trip_chloroform",
+      "psychonaut_name": null,
+      "tripsit_name": "chloroform",
+      "dist": 30.7730120639
+    },
+    {
+      "name": "trip_halothane",
+      "psychonaut_name": null,
+      "tripsit_name": "halothane",
+      "dist": 31.5516766715
+    },
+    {
+      "name": "psyc_2M2B",
+      "psychonaut_name": "2M2B",
+      "tripsit_name": null,
+      "dist": 35.4720538109
+    },
+    {
+      "name": "trip_2-methyl-2-butanol",
+      "psychonaut_name": null,
+      "tripsit_name": "2-methyl-2-butanol",
+      "dist": 35.4720538109
+    },
+    {
+      "name": "trip_alcohol",
+      "psychonaut_name": null,
+      "tripsit_name": "alcohol",
+      "dist": 36.2588300803
+    },
+    {
+      "name": "psyc_Alcohol",
+      "psychonaut_name": "Alcohol",
+      "tripsit_name": null,
+      "dist": 36.2588300803
+    },
+    {
+      "name": "trip_clomethiazole",
+      "psychonaut_name": null,
+      "tripsit_name": "clomethiazole",
+      "dist": 36.7590055266
+    },
+    {
+      "name": "trip_gbl",
+      "psychonaut_name": null,
+      "tripsit_name": "gbl",
+      "dist": 37.5316402977
+    },
+    {
+      "name": "psyc_GBL",
+      "psychonaut_name": "GBL",
+      "tripsit_name": null,
+      "dist": 37.5316402977
+    },
+    {
+      "name": "trip_ghb",
+      "psychonaut_name": null,
+      "tripsit_name": "ghb",
+      "dist": 37.773902046
+    },
+    {
+      "name": "psyc_GHB",
+      "psychonaut_name": "GHB",
+      "tripsit_name": null,
+      "dist": 37.773902046
+    },
+    {
+      "name": "psyc_1,4-Butanediol",
+      "psychonaut_name": "1,4-Butanediol",
+      "tripsit_name": null,
+      "dist": 38.0193335891
+    },
+    {
+      "name": "trip_1,4-butanediol",
+      "psychonaut_name": null,
+      "tripsit_name": "1,4-butanediol",
+      "dist": 38.0193335891
+    },
+    {
+      "name": "trip_diethyl-ether",
+      "psychonaut_name": null,
+      "tripsit_name": "diethyl-ether",
+      "dist": 38.0256726729
+    },
+    {
+      "name": "trip_amfecloral",
+      "psychonaut_name": null,
+      "tripsit_name": "amfecloral",
+      "dist": 38.2724160726
+    }
+  ]
+}

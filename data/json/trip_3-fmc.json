@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C10H12FNO/c1-7(12-2)10(13)8-4-3-5-9(11)6-8/h3-7,12H,1-2H3",
+  "psychonaut_name": null,
+  "tripsit_name": "3-fmc",
+  "synonyms": null,
+  "distances": [
+    1.9697516784,
+    7.2015522131,
+    7.4731052102,
+    8.1420475455,
+    8.1420475455,
+    8.3105025796,
+    8.3105025796,
+    8.5037456562,
+    8.7468491467,
+    8.7468491467,
+    10.6638947303,
+    10.6638947303,
+    10.8432356743,
+    10.8692373157,
+    10.8692373157
+  ],
+  "indices": [
+    750,
+    630,
+    760,
+    48,
+    377,
+    218,
+    547,
+    225,
+    580,
+    16,
+    44,
+    344,
+    831,
+    698,
+    62
+  ],
+  "name": "trip_3-fmc",
+  "svg": "trip_3-fmc.svg",
+  "sim": [
+    {
+      "name": "trip_4-fmc",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fmc",
+      "dist": 1.9697516784
+    },
+    {
+      "name": "trip_3-cmc",
+      "psychonaut_name": null,
+      "tripsit_name": "3-cmc",
+      "dist": 7.2015522131
+    },
+    {
+      "name": "trip_4-cmc",
+      "psychonaut_name": null,
+      "tripsit_name": "4-cmc",
+      "dist": 7.4731052102
+    },
+    {
+      "name": "psyc_3-MMC",
+      "psychonaut_name": "3-MMC",
+      "tripsit_name": null,
+      "dist": 8.1420475455
+    },
+    {
+      "name": "trip_3-mmc",
+      "psychonaut_name": null,
+      "tripsit_name": "3-mmc",
+      "dist": 8.1420475455
+    },
+    {
+      "name": "psyc_Mephedrone",
+      "psychonaut_name": "Mephedrone",
+      "tripsit_name": null,
+      "dist": 8.3105025796
+    },
+    {
+      "name": "trip_mephedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "mephedrone",
+      "dist": 8.3105025796
+    },
+    {
+      "name": "psyc_Methcathinone",
+      "psychonaut_name": "Methcathinone",
+      "tripsit_name": null,
+      "dist": 8.5037456562
+    },
+    {
+      "name": "trip_2-mmc",
+      "psychonaut_name": null,
+      "tripsit_name": "2-mmc",
+      "dist": 8.7468491467
+    },
+    {
+      "name": "psyc_2-MMC",
+      "psychonaut_name": "2-MMC",
+      "tripsit_name": null,
+      "dist": 8.7468491467
+    },
+    {
+      "name": "psyc_3-FMA",
+      "psychonaut_name": "3-FMA",
+      "tripsit_name": null,
+      "dist": 10.6638947303
+    },
+    {
+      "name": "trip_3-fma",
+      "psychonaut_name": null,
+      "tripsit_name": "3-fma",
+      "dist": 10.6638947303
+    },
+    {
+      "name": "trip_3-meomc",
+      "psychonaut_name": null,
+      "tripsit_name": "3-meomc",
+      "dist": 10.8432356743
+    },
+    {
+      "name": "trip_4-fma",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fma",
+      "dist": 10.8692373157
+    },
+    {
+      "name": "psyc_4-FMA",
+      "psychonaut_name": "4-FMA",
+      "tripsit_name": null,
+      "dist": 10.8692373157
+    }
+  ]
+}

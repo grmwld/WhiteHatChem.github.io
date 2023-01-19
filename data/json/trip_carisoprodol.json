@@ -1,0 +1,136 @@
+{
+  "inchi": "InChI=1S/C12H24N2O4/c1-5-6-12(4,7-17-10(13)15)8-18-11(16)14-9(2)3/h9H,5-8H2,1-4H3,(H2,13,15)(H,14,16)",
+  "psychonaut_name": null,
+  "tripsit_name": "carisoprodol",
+  "synonyms": [
+    "soma"
+  ],
+  "distances": [
+    2.6974e-06,
+    20.9423217687,
+    34.6392488873,
+    34.6392488873,
+    34.8572808649,
+    34.8572808649,
+    36.0480111302,
+    36.0480111302,
+    36.6702938251,
+    36.6702938251,
+    37.1521989749,
+    37.1521989749,
+    37.5811280635,
+    37.601597399,
+    38.0696351327
+  ],
+  "indices": [
+    392,
+    219,
+    307,
+    325,
+    453,
+    277,
+    275,
+    649,
+    375,
+    718,
+    242,
+    493,
+    361,
+    202,
+    666
+  ],
+  "name": "trip_carisoprodol",
+  "svg": "trip_carisoprodol.svg",
+  "sim": [
+    {
+      "name": "trip_carisoprodol",
+      "psychonaut_name": null,
+      "tripsit_name": "carisoprodol",
+      "dist": 2.6974e-06
+    },
+    {
+      "name": "psyc_Meprobamate",
+      "psychonaut_name": "Meprobamate",
+      "tripsit_name": null,
+      "dist": 20.9423217687
+    },
+    {
+      "name": "psyc_Theanine",
+      "psychonaut_name": "Theanine",
+      "tripsit_name": null,
+      "dist": 34.6392488873
+    },
+    {
+      "name": "trip_l-theanine",
+      "psychonaut_name": null,
+      "tripsit_name": "l-theanine",
+      "dist": 34.6392488873
+    },
+    {
+      "name": "trip_pramiracetam",
+      "psychonaut_name": null,
+      "tripsit_name": "pramiracetam",
+      "dist": 34.8572808649
+    },
+    {
+      "name": "psyc_Pramiracetam",
+      "psychonaut_name": "Pramiracetam",
+      "tripsit_name": null,
+      "dist": 34.8572808649
+    },
+    {
+      "name": "psyc_Picamilon",
+      "psychonaut_name": "Picamilon",
+      "tripsit_name": null,
+      "dist": 36.0480111302
+    },
+    {
+      "name": "trip_picamilon",
+      "psychonaut_name": null,
+      "tripsit_name": "picamilon",
+      "dist": 36.0480111302
+    },
+    {
+      "name": "trip_4-epd",
+      "psychonaut_name": null,
+      "tripsit_name": "4-epd",
+      "dist": 36.6702938251
+    },
+    {
+      "name": "trip_ethyl-pentedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "ethyl-pentedrone",
+      "dist": 36.6702938251
+    },
+    {
+      "name": "psyc_N-Ethylhexedrone",
+      "psychonaut_name": "N-Ethylhexedrone",
+      "tripsit_name": null,
+      "dist": 37.1521989749
+    },
+    {
+      "name": "trip_hexen",
+      "psychonaut_name": null,
+      "tripsit_name": "hexen",
+      "dist": 37.1521989749
+    },
+    {
+      "name": "trip_4-cbc",
+      "psychonaut_name": null,
+      "tripsit_name": "4-cbc",
+      "dist": 37.5811280635
+    },
+    {
+      "name": "psyc_Lisdexamfetamine",
+      "psychonaut_name": "Lisdexamfetamine",
+      "tripsit_name": null,
+      "dist": 37.601597399
+    },
+    {
+      "name": "trip_bk-ivp",
+      "psychonaut_name": null,
+      "tripsit_name": "bk-ivp",
+      "dist": 38.0696351327
+    }
+  ]
+}

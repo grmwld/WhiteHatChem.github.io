@@ -1,0 +1,137 @@
+{
+  "inchi": "InChI=1S/C12H17NO2/c1-3-10(13-2)6-9-4-5-11-12(7-9)15-8-14-11/h4-5,7,10,13H,3,6,8H2,1-2H3",
+  "psychonaut_name": null,
+  "tripsit_name": "mbdb",
+  "synonyms": [
+    "eden",
+    "methyl-j"
+  ],
+  "distances": [
+    8.0593459,
+    8.0593459,
+    9.7559448116,
+    9.7559448116,
+    10.6511880704,
+    10.6511880704,
+    12.183550542,
+    12.9082774493,
+    12.9095788685,
+    13.0095180001,
+    13.0095180001,
+    14.0083250089,
+    14.0083250089,
+    14.0673195951,
+    14.0673195951
+  ],
+  "indices": [
+    609,
+    208,
+    492,
+    207,
+    115,
+    531,
+    430,
+    479,
+    472,
+    230,
+    460,
+    267,
+    567,
+    700,
+    166
+  ],
+  "name": "trip_mbdb",
+  "svg": "trip_mbdb.svg",
+  "sim": [
+    {
+      "name": "trip_mdma",
+      "psychonaut_name": null,
+      "tripsit_name": "mdma",
+      "dist": 8.0593459
+    },
+    {
+      "name": "psyc_MDMA",
+      "psychonaut_name": "MDMA",
+      "tripsit_name": null,
+      "dist": 8.0593459
+    },
+    {
+      "name": "trip_mdea",
+      "psychonaut_name": null,
+      "tripsit_name": "mdea",
+      "dist": 9.7559448116
+    },
+    {
+      "name": "psyc_MDEA",
+      "psychonaut_name": "MDEA",
+      "tripsit_name": null,
+      "dist": 9.7559448116
+    },
+    {
+      "name": "psyc_Butylone",
+      "psychonaut_name": "Butylone",
+      "tripsit_name": null,
+      "dist": 10.6511880704
+    },
+    {
+      "name": "trip_butylone",
+      "psychonaut_name": null,
+      "tripsit_name": "butylone",
+      "dist": 10.6511880704
+    },
+    {
+      "name": "trip_5-mapdb",
+      "psychonaut_name": null,
+      "tripsit_name": "5-mapdb",
+      "dist": 12.183550542
+    },
+    {
+      "name": "trip_mdoh",
+      "psychonaut_name": null,
+      "tripsit_name": "mdoh",
+      "dist": 12.9082774493
+    },
+    {
+      "name": "trip_mdpa",
+      "psychonaut_name": null,
+      "tripsit_name": "mdpa",
+      "dist": 12.9095788685
+    },
+    {
+      "name": "psyc_Methylone",
+      "psychonaut_name": "Methylone",
+      "tripsit_name": null,
+      "dist": 13.0095180001
+    },
+    {
+      "name": "trip_methylone",
+      "psychonaut_name": null,
+      "tripsit_name": "methylone",
+      "dist": 13.0095180001
+    },
+    {
+      "name": "psyc_Pentylone",
+      "psychonaut_name": "Pentylone",
+      "tripsit_name": null,
+      "dist": 14.0083250089
+    },
+    {
+      "name": "trip_pentylone",
+      "psychonaut_name": null,
+      "tripsit_name": "pentylone",
+      "dist": 14.0083250089
+    },
+    {
+      "name": "trip_ethylone",
+      "psychonaut_name": null,
+      "tripsit_name": "ethylone",
+      "dist": 14.0673195951
+    },
+    {
+      "name": "psyc_Ethylone",
+      "psychonaut_name": "Ethylone",
+      "tripsit_name": null,
+      "dist": 14.0673195951
+    }
+  ]
+}

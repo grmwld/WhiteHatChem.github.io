@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C16H14FN3O/c1-10-4-2-3-5-14(10)20-15(9-17)19-13-7-6-11(18)8-12(13)16(20)21/h2-8H,9,18H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "afloqualone",
+  "synonyms": null,
+  "distances": [
+    15.6378550635,
+    15.6378550635,
+    15.6378550635,
+    16.4036930671,
+    16.4036930671,
+    16.4241476038,
+    22.4752047079,
+    22.4752047079,
+    22.5338903565,
+    22.5338903565,
+    22.7180152155,
+    22.7180152155,
+    23.3571212855,
+    23.3571212855,
+    23.6084287947
+  ],
+  "indices": [
+    224,
+    369,
+    647,
+    798,
+    215,
+    330,
+    770,
+    236,
+    378,
+    103,
+    111,
+    664,
+    148,
+    600,
+    173
+  ],
+  "name": "trip_afloqualone",
+  "svg": "trip_afloqualone.svg",
+  "sim": [
+    {
+      "name": "psyc_Methaqualone",
+      "psychonaut_name": "Methaqualone",
+      "tripsit_name": null,
+      "dist": 15.6378550635
+    },
+    {
+      "name": "trip_ethaqualone",
+      "psychonaut_name": null,
+      "tripsit_name": "ethaqualone",
+      "dist": 15.6378550635
+    },
+    {
+      "name": "trip_methaqualone",
+      "psychonaut_name": null,
+      "tripsit_name": "methaqualone",
+      "dist": 15.6378550635
+    },
+    {
+      "name": "trip_mebroqualone",
+      "psychonaut_name": null,
+      "tripsit_name": "mebroqualone",
+      "dist": 16.4036930671
+    },
+    {
+      "name": "psyc_Mebroqualone",
+      "psychonaut_name": "Mebroqualone",
+      "tripsit_name": null,
+      "dist": 16.4036930671
+    },
+    {
+      "name": "trip_methylmethaqualone",
+      "psychonaut_name": null,
+      "tripsit_name": "methylmethaqualone",
+      "dist": 16.4241476038
+    },
+    {
+      "name": "trip_midazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "midazolam",
+      "dist": 22.4752047079
+    },
+    {
+      "name": "psyc_Midazolam",
+      "psychonaut_name": "Midazolam",
+      "tripsit_name": null,
+      "dist": 22.4752047079
+    },
+    {
+      "name": "trip_alprazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "alprazolam",
+      "dist": 22.5338903565
+    },
+    {
+      "name": "psyc_Alprazolam",
+      "psychonaut_name": "Alprazolam",
+      "tripsit_name": null,
+      "dist": 22.5338903565
+    },
+    {
+      "name": "psyc_Bromazolam",
+      "psychonaut_name": "Bromazolam",
+      "tripsit_name": null,
+      "dist": 22.7180152155
+    },
+    {
+      "name": "trip_bromazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "bromazolam",
+      "dist": 22.7180152155
+    },
+    {
+      "name": "psyc_Diazepam",
+      "psychonaut_name": "Diazepam",
+      "tripsit_name": null,
+      "dist": 23.3571212855
+    },
+    {
+      "name": "trip_diazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "diazepam",
+      "dist": 23.3571212855
+    },
+    {
+      "name": "psyc_Flualprazolam",
+      "psychonaut_name": "Flualprazolam",
+      "tripsit_name": null,
+      "dist": 23.6084287947
+    }
+  ]
+}

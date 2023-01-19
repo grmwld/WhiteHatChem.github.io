@@ -1,0 +1,138 @@
+{
+  "inchi": "InChI=1S/C17H26N2O/c1-12(2)19(13(3)4)9-8-14-11-18-17-7-6-15(20-5)10-16(14)17/h6-7,10-13,18H,8-9H2,1-5H3",
+  "psychonaut_name": null,
+  "tripsit_name": "5-meo-dipt",
+  "synonyms": [
+    "foxy",
+    "foxy-methoxy",
+    "5meodipt"
+  ],
+  "distances": [
+    0.0,
+    11.5310680509,
+    11.5310680509,
+    11.9728856524,
+    11.9728856524,
+    13.0957134659,
+    13.0957134659,
+    13.3749383943,
+    13.3749383943,
+    13.9545482153,
+    13.9545482153,
+    14.6500988641,
+    14.6500988641,
+    15.1519535228,
+    15.6805652626
+  ],
+  "indices": [
+    82,
+    487,
+    65,
+    747,
+    147,
+    81,
+    602,
+    663,
+    58,
+    83,
+    521,
+    326,
+    84,
+    470,
+    60
+  ],
+  "name": "trip_5-meo-dipt",
+  "svg": "trip_5-meo-dipt.svg",
+  "sim": [
+    {
+      "name": "psyc_5-MeO-DiPT",
+      "psychonaut_name": "5-MeO-DiPT",
+      "tripsit_name": null,
+      "dist": 0.0
+    },
+    {
+      "name": "trip_4-ho-dipt",
+      "psychonaut_name": null,
+      "tripsit_name": "4-ho-dipt",
+      "dist": 11.5310680509
+    },
+    {
+      "name": "psyc_4-HO-DiPT",
+      "psychonaut_name": "4-HO-DiPT",
+      "tripsit_name": null,
+      "dist": 11.5310680509
+    },
+    {
+      "name": "trip_dipt",
+      "psychonaut_name": null,
+      "tripsit_name": "dipt",
+      "dist": 11.9728856524
+    },
+    {
+      "name": "psyc_DiPT",
+      "psychonaut_name": "DiPT",
+      "tripsit_name": null,
+      "dist": 11.9728856524
+    },
+    {
+      "name": "psyc_5-MeO-DiBF",
+      "psychonaut_name": "5-MeO-DiBF",
+      "tripsit_name": null,
+      "dist": 13.0957134659
+    },
+    {
+      "name": "trip_5-meo-dibf",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-dibf",
+      "dist": 13.0957134659
+    },
+    {
+      "name": "trip_4-aco-dipt",
+      "psychonaut_name": null,
+      "tripsit_name": "4-aco-dipt",
+      "dist": 13.3749383943
+    },
+    {
+      "name": "psyc_4-AcO-DiPT",
+      "psychonaut_name": "4-AcO-DiPT",
+      "tripsit_name": null,
+      "dist": 13.3749383943
+    },
+    {
+      "name": "psyc_5-MeO-EiPT",
+      "psychonaut_name": "5-MeO-EiPT",
+      "tripsit_name": null,
+      "dist": 13.9545482153
+    },
+    {
+      "name": "trip_5-meo-eipt",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-eipt",
+      "dist": 13.9545482153
+    },
+    {
+      "name": "trip_5-meo-mipt",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-mipt",
+      "dist": 14.6500988641
+    },
+    {
+      "name": "psyc_5-MeO-MiPT",
+      "psychonaut_name": "5-MeO-MiPT",
+      "tripsit_name": null,
+      "dist": 14.6500988641
+    },
+    {
+      "name": "trip_4-meo-mipt",
+      "psychonaut_name": null,
+      "tripsit_name": "4-meo-mipt",
+      "dist": 15.1519535228
+    },
+    {
+      "name": "psyc_4-AcO-MiPT",
+      "psychonaut_name": "4-AcO-MiPT",
+      "tripsit_name": null,
+      "dist": 15.6805652626
+    }
+  ]
+}

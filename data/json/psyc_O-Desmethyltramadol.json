@@ -1,0 +1,138 @@
+{
+  "inchi": "InChI=1S/C15H23NO2/c1-16(2)11-13-6-3-4-9-15(13,18)12-7-5-8-14(17)10-12/h5,7-8,10,13,17-18H,3-4,6,9,11H2,1-2H3",
+  "psychonaut_name": "O-Desmethyltramadol",
+  "tripsit_name": null,
+  "synonyms": [
+    "O-DSMT",
+    "Desmetramadol",
+    "O-Desmethyltramadol"
+  ],
+  "distances": [
+    2.336e-06,
+    10.8515132851,
+    10.8515132851,
+    20.0229825531,
+    21.7340759213,
+    21.7340759213,
+    23.0845388747,
+    23.0845388747,
+    23.3837417331,
+    23.3837417331,
+    23.5266248152,
+    24.234450556,
+    24.2947195587,
+    24.467643703,
+    24.4800919595
+  ],
+  "indices": [
+    623,
+    542,
+    311,
+    566,
+    778,
+    46,
+    362,
+    51,
+    227,
+    669,
+    520,
+    599,
+    665,
+    213,
+    268
+  ],
+  "name": "psyc_O-Desmethyltramadol",
+  "svg": "psyc_O-Desmethyltramadol.svg",
+  "sim": [
+    {
+      "name": "trip_o-desmethyltramadol",
+      "psychonaut_name": null,
+      "tripsit_name": "o-desmethyltramadol",
+      "dist": 2.336e-06
+    },
+    {
+      "name": "trip_tramadol",
+      "psychonaut_name": null,
+      "tripsit_name": "tramadol",
+      "dist": 10.8515132851
+    },
+    {
+      "name": "psyc_Tramadol",
+      "psychonaut_name": "Tramadol",
+      "tripsit_name": null,
+      "dist": 10.8515132851
+    },
+    {
+      "name": "trip_ketobemidone",
+      "psychonaut_name": null,
+      "tripsit_name": "ketobemidone",
+      "dist": 20.0229825531
+    },
+    {
+      "name": "trip_3-ho-pce",
+      "psychonaut_name": null,
+      "tripsit_name": "3-ho-pce",
+      "dist": 21.7340759213
+    },
+    {
+      "name": "psyc_3-HO-PCE",
+      "psychonaut_name": "3-HO-PCE",
+      "tripsit_name": null,
+      "dist": 21.7340759213
+    },
+    {
+      "name": "trip_3-meo-pce",
+      "psychonaut_name": null,
+      "tripsit_name": "3-meo-pce",
+      "dist": 23.0845388747
+    },
+    {
+      "name": "psyc_3-MeO-PCE",
+      "psychonaut_name": "3-MeO-PCE",
+      "tripsit_name": null,
+      "dist": 23.0845388747
+    },
+    {
+      "name": "psyc_Methoxetamine",
+      "psychonaut_name": "Methoxetamine",
+      "tripsit_name": null,
+      "dist": 23.3837417331
+    },
+    {
+      "name": "trip_mxe",
+      "psychonaut_name": null,
+      "tripsit_name": "mxe",
+      "dist": 23.3837417331
+    },
+    {
+      "name": "trip_3-meo-pcpr",
+      "psychonaut_name": null,
+      "tripsit_name": "3-meo-pcpr",
+      "dist": 23.5266248152
+    },
+    {
+      "name": "trip_mxm",
+      "psychonaut_name": null,
+      "tripsit_name": "mxm",
+      "dist": 24.234450556
+    },
+    {
+      "name": "trip_tilidine",
+      "psychonaut_name": null,
+      "tripsit_name": "tilidine",
+      "dist": 24.2947195587
+    },
+    {
+      "name": "psyc_MXPr",
+      "psychonaut_name": "MXPr",
+      "tripsit_name": null,
+      "dist": 24.467643703
+    },
+    {
+      "name": "psyc_Pethidine",
+      "psychonaut_name": "Pethidine",
+      "tripsit_name": null,
+      "dist": 24.4800919595
+    }
+  ]
+}

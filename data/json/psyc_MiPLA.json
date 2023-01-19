@@ -1,0 +1,154 @@
+{
+  "inchi": "InChI=1S/C20H25N3O/c1-12(2)23(4)20(24)14-8-16-15-6-5-7-17-19(15)13(10-21-17)9-18(16)22(3)11-14/h5-8,10,12,14,18,21H,9,11H2,1-4H3/t14-,18-/m1/s1",
+  "psychonaut_name": "MiPLA",
+  "tripsit_name": null,
+  "synonyms": [
+    "Mipla",
+    "9,10-Didehydro-N-isopropyl-6,N-dimethylergoline-8beta-carboxamide",
+    "DTXSID001336793",
+    "SCHEMBL20970957",
+    "Ergoline-8-carboxamide, 9,10-didehydro-N,6-dimethyl-N-(1-methylethyl)-, (8beta)-",
+    "Lysergic acid methylisopropyl amide",
+    "Lamide",
+    "MIPLA",
+    "Lysergic acid methylisopropylamide",
+    "Methylisopropyllysergamide",
+    "Lysergamide, N-isopropyl-N-methyl-",
+    "ERGOLINE-8-CARBOXAMIDE, 9,10-DIDEHYDRO-N,6-DIMETHYL-N-(1-METHYLETHYL)-, (8.BETA.)-",
+    "AC6WQQ5Y4B",
+    "N-Isopropyl-N-methyl-D-lysergamide",
+    "LA-Me/iso",
+    "N-Methyl-N-isopropyllysergamide",
+    "100768-08-9",
+    "(6aR,9R)-N,7-dimethyl-N-propan-2-yl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide",
+    "UNII-AC6WQQ5Y4B"
+  ],
+  "distances": [
+    17.4621635126,
+    17.4621635126,
+    17.4621635126,
+    22.8356528485,
+    22.8356528485,
+    23.8957135686,
+    24.7135777518,
+    24.7135777518,
+    24.7313606127,
+    25.344184693,
+    25.344184693,
+    26.2334304103,
+    26.2334304103,
+    28.5495121849,
+    28.5495121849
+  ],
+  "indices": [
+    191,
+    199,
+    722,
+    157,
+    704,
+    197,
+    635,
+    201,
+    9,
+    351,
+    95,
+    264,
+    468,
+    200,
+    598
+  ],
+  "name": "psyc_MiPLA",
+  "svg": "psyc_MiPLA.svg",
+  "sim": [
+    {
+      "name": "psyc_Iso-LSD",
+      "psychonaut_name": "Iso-LSD",
+      "tripsit_name": null,
+      "dist": 17.4621635126
+    },
+    {
+      "name": "psyc_LSD",
+      "psychonaut_name": "LSD",
+      "tripsit_name": null,
+      "dist": 17.4621635126
+    },
+    {
+      "name": "trip_lsd",
+      "psychonaut_name": null,
+      "tripsit_name": "lsd",
+      "dist": 17.4621635126
+    },
+    {
+      "name": "psyc_ETH-LAD",
+      "psychonaut_name": "ETH-LAD",
+      "tripsit_name": null,
+      "dist": 22.8356528485
+    },
+    {
+      "name": "trip_eth-lad",
+      "psychonaut_name": null,
+      "tripsit_name": "eth-lad",
+      "dist": 22.8356528485
+    },
+    {
+      "name": "psyc_LAE-32",
+      "psychonaut_name": "LAE-32",
+      "tripsit_name": null,
+      "dist": 23.8957135686
+    },
+    {
+      "name": "trip_lsz",
+      "psychonaut_name": null,
+      "tripsit_name": "lsz",
+      "dist": 24.7135777518
+    },
+    {
+      "name": "psyc_LSZ",
+      "psychonaut_name": "LSZ",
+      "tripsit_name": null,
+      "dist": 24.7135777518
+    },
+    {
+      "name": "psyc_1cP-MiPLA",
+      "psychonaut_name": "1cP-MiPLA",
+      "tripsit_name": null,
+      "dist": 24.7313606127
+    },
+    {
+      "name": "trip_ald-52",
+      "psychonaut_name": null,
+      "tripsit_name": "ald-52",
+      "dist": 25.344184693
+    },
+    {
+      "name": "psyc_ALD-52",
+      "psychonaut_name": "ALD-52",
+      "tripsit_name": null,
+      "dist": 25.344184693
+    },
+    {
+      "name": "psyc_PRO-LAD",
+      "psychonaut_name": "PRO-LAD",
+      "tripsit_name": null,
+      "dist": 26.2334304103
+    },
+    {
+      "name": "trip_pro-lad",
+      "psychonaut_name": null,
+      "tripsit_name": "pro-lad",
+      "dist": 26.2334304103
+    },
+    {
+      "name": "psyc_LSM-775",
+      "psychonaut_name": "LSM-775",
+      "tripsit_name": null,
+      "dist": 28.5495121849
+    },
+    {
+      "name": "trip_lsm-775",
+      "psychonaut_name": null,
+      "tripsit_name": "lsm-775",
+      "dist": 28.5495121849
+    }
+  ]
+}

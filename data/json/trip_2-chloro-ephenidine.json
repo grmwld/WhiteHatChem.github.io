@@ -1,0 +1,139 @@
+{
+  "inchi": "InChI=1S/C16H18ClN/c1-2-18-16(13-8-4-3-5-9-13)12-14-10-6-7-11-15(14)17/h3-11,16,18H,2,12H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "2-chloro-ephenidine",
+  "synonyms": [
+    "2-chloroephenidine",
+    "2chloroephenidine",
+    "2-cl-ephenidine",
+    "2clephenidine"
+  ],
+  "distances": [
+    7.9529281022,
+    7.9529281022,
+    14.8490435668,
+    16.501451833,
+    18.3921009855,
+    20.7416247275,
+    20.9166319747,
+    21.6935942165,
+    21.8988026191,
+    21.8988026191,
+    22.3751282076,
+    22.4906128693,
+    22.6615564906,
+    23.2101920004,
+    23.7574374148
+  ],
+  "indices": [
+    160,
+    411,
+    554,
+    263,
+    556,
+    614,
+    152,
+    726,
+    842,
+    354,
+    429,
+    550,
+    254,
+    361,
+    819
+  ],
+  "name": "trip_2-chloro-ephenidine",
+  "svg": "trip_2-chloro-ephenidine.svg",
+  "sim": [
+    {
+      "name": "psyc_Ephenidine",
+      "psychonaut_name": "Ephenidine",
+      "tripsit_name": null,
+      "dist": 7.9529281022
+    },
+    {
+      "name": "trip_ephenidine",
+      "psychonaut_name": null,
+      "tripsit_name": "ephenidine",
+      "dist": 7.9529281022
+    },
+    {
+      "name": "trip_atomoxetine",
+      "psychonaut_name": null,
+      "tripsit_name": "atomoxetine",
+      "dist": 14.8490435668
+    },
+    {
+      "name": "psyc_PPAP",
+      "psychonaut_name": "PPAP",
+      "tripsit_name": null,
+      "dist": 16.501451833
+    },
+    {
+      "name": "trip_methamnetamine",
+      "psychonaut_name": null,
+      "tripsit_name": "methamnetamine",
+      "dist": 18.3921009855
+    },
+    {
+      "name": "trip_propranolol",
+      "psychonaut_name": null,
+      "tripsit_name": "propranolol",
+      "dist": 20.7416247275
+    },
+    {
+      "name": "psyc_Diphenhydramine",
+      "psychonaut_name": "Diphenhydramine",
+      "tripsit_name": null,
+      "dist": 20.9166319747
+    },
+    {
+      "name": "trip_naproxen",
+      "psychonaut_name": null,
+      "tripsit_name": "naproxen",
+      "dist": 21.6935942165
+    },
+    {
+      "name": "trip_5-eapb",
+      "psychonaut_name": null,
+      "tripsit_name": "5-eapb",
+      "dist": 21.8988026191
+    },
+    {
+      "name": "trip_6-eapb",
+      "psychonaut_name": null,
+      "tripsit_name": "6-eapb",
+      "dist": 21.8988026191
+    },
+    {
+      "name": "trip_2-mppp",
+      "psychonaut_name": null,
+      "tripsit_name": "2-mppp",
+      "dist": 22.3751282076
+    },
+    {
+      "name": "trip_fluorolintane",
+      "psychonaut_name": null,
+      "tripsit_name": "fluorolintane",
+      "dist": 22.4906128693
+    },
+    {
+      "name": "psyc_Orphenadrine",
+      "psychonaut_name": "Orphenadrine",
+      "tripsit_name": null,
+      "dist": 22.6615564906
+    },
+    {
+      "name": "trip_4-cbc",
+      "psychonaut_name": null,
+      "tripsit_name": "4-cbc",
+      "dist": 23.2101920004
+    },
+    {
+      "name": "trip_5-meo-nipt",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-nipt",
+      "dist": 23.7574374148
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "inchi": "InChI=1S/C19H16ClFN2O/c20-13-7-8-17-15(9-13)19(14-3-1-2-4-16(14)21)22-10-18(24)23(17)11-12-5-6-12/h1-4,7-9,12H,5-6,10-11H2",
+  "psychonaut_name": null,
+  "tripsit_name": "flutoprazepam",
+  "synonyms": [
+    "restas"
+  ],
+  "distances": [
+    8.0848282942,
+    18.1115361159,
+    18.8291299006,
+    18.8291299006,
+    19.5557276304,
+    20.114138877,
+    20.114138877,
+    20.6184226906,
+    21.1220990057,
+    21.1220990057,
+    21.3570102591,
+    21.3570102591,
+    22.0895684803,
+    22.4019381366,
+    22.4019381366
+  ],
+  "indices": [
+    486,
+    414,
+    150,
+    605,
+    653,
+    770,
+    236,
+    457,
+    148,
+    600,
+    173,
+    738,
+    431,
+    382,
+    177
+  ],
+  "name": "trip_flutoprazepam",
+  "svg": "trip_flutoprazepam.svg",
+  "sim": [
+    {
+      "name": "trip_prazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "prazepam",
+      "dist": 8.0848282942
+    },
+    {
+      "name": "trip_cloniprazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "cloniprazepam",
+      "dist": 18.1115361159
+    },
+    {
+      "name": "psyc_Diclazepam",
+      "psychonaut_name": "Diclazepam",
+      "tripsit_name": null,
+      "dist": 18.8291299006
+    },
+    {
+      "name": "trip_diclazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "diclazepam",
+      "dist": 18.8291299006
+    },
+    {
+      "name": "trip_4-chlorodiazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "4-chlorodiazepam",
+      "dist": 19.5557276304
+    },
+    {
+      "name": "trip_midazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "midazolam",
+      "dist": 20.114138877
+    },
+    {
+      "name": "psyc_Midazolam",
+      "psychonaut_name": "Midazolam",
+      "tripsit_name": null,
+      "dist": 20.114138877
+    },
+    {
+      "name": "trip_metaclazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "metaclazepam",
+      "dist": 20.6184226906
+    },
+    {
+      "name": "psyc_Diazepam",
+      "psychonaut_name": "Diazepam",
+      "tripsit_name": null,
+      "dist": 21.1220990057
+    },
+    {
+      "name": "trip_diazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "diazepam",
+      "dist": 21.1220990057
+    },
+    {
+      "name": "psyc_Flualprazolam",
+      "psychonaut_name": "Flualprazolam",
+      "tripsit_name": null,
+      "dist": 21.3570102591
+    },
+    {
+      "name": "trip_flualprazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "flualprazolam",
+      "dist": 21.3570102591
+    },
+    {
+      "name": "trip_halazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "halazepam",
+      "dist": 22.0895684803
+    },
+    {
+      "name": "trip_flunitrazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "flunitrazepam",
+      "dist": 22.4019381366
+    },
+    {
+      "name": "psyc_Flunitrazepam",
+      "psychonaut_name": "Flunitrazepam",
+      "tripsit_name": null,
+      "dist": 22.4019381366
+    }
+  ]
+}

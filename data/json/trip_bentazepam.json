@@ -1,0 +1,137 @@
+{
+  "inchi": "InChI=1S/C17H16N2OS/c20-14-10-18-16(11-6-2-1-3-7-11)15-12-8-4-5-9-13(12)21-17(15)19-14/h1-3,6-7H,4-5,8-10H2,(H,19,20)",
+  "psychonaut_name": null,
+  "tripsit_name": "bentazepam",
+  "synonyms": [
+    "thiadipone",
+    "tiadipona"
+  ],
+  "distances": [
+    24.3764848306,
+    24.5598025018,
+    24.6994173668,
+    24.855311284,
+    24.855311284,
+    24.9375501742,
+    25.0169290826,
+    25.0169290826,
+    25.48976199,
+    25.5098056266,
+    27.4644867905,
+    27.4824540083,
+    27.4824540083,
+    27.5104128457,
+    27.745378539
+  ],
+  "indices": [
+    527,
+    442,
+    539,
+    269,
+    439,
+    805,
+    615,
+    174,
+    725,
+    608,
+    486,
+    232,
+    784,
+    594,
+    140
+  ],
+  "name": "trip_bentazepam",
+  "svg": "trip_bentazepam.svg",
+  "sim": [
+    {
+      "name": "trip_bromazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "bromazepam",
+      "dist": 24.3764848306
+    },
+    {
+      "name": "trip_nordazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "nordazepam",
+      "dist": 24.5598025018
+    },
+    {
+      "name": "trip_norflurazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "norflurazepam",
+      "dist": 24.6994173668
+    },
+    {
+      "name": "psyc_Phenazepam",
+      "psychonaut_name": "Phenazepam",
+      "tripsit_name": null,
+      "dist": 24.855311284
+    },
+    {
+      "name": "trip_phenazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "phenazepam",
+      "dist": 24.855311284
+    },
+    {
+      "name": "trip_clotiazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "clotiazepam",
+      "dist": 24.9375501742
+    },
+    {
+      "name": "trip_flubromazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "flubromazepam",
+      "dist": 25.0169290826
+    },
+    {
+      "name": "psyc_Flubromazepam",
+      "psychonaut_name": "Flubromazepam",
+      "tripsit_name": null,
+      "dist": 25.0169290826
+    },
+    {
+      "name": "trip_delorazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "delorazepam",
+      "dist": 25.48976199
+    },
+    {
+      "name": "trip_tetrazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "tetrazepam",
+      "dist": 25.5098056266
+    },
+    {
+      "name": "trip_prazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "prazepam",
+      "dist": 27.4644867905
+    },
+    {
+      "name": "psyc_Metizolam",
+      "psychonaut_name": "Metizolam",
+      "tripsit_name": null,
+      "dist": 27.4824540083
+    },
+    {
+      "name": "trip_metizolam",
+      "psychonaut_name": null,
+      "tripsit_name": "metizolam",
+      "dist": 27.4824540083
+    },
+    {
+      "name": "trip_medazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "medazepam",
+      "dist": 27.5104128457
+    },
+    {
+      "name": "psyc_Deschloroetizolam",
+      "psychonaut_name": "Deschloroetizolam",
+      "tripsit_name": null,
+      "dist": 27.745378539
+    }
+  ]
+}

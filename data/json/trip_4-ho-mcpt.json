@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C14H16N2O/c1-16(11-5-6-11)8-7-10-9-15-12-3-2-4-13(17)14(10)12/h2-4,9,11H,5-8H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "4-ho-mcpt",
+  "synonyms": null,
+  "distances": [
+    31.1847962333,
+    34.3421487201,
+    34.4501610828,
+    34.9177412962,
+    35.292026006,
+    35.5414728038,
+    35.6115825884,
+    35.6126914729,
+    35.6826904049,
+    35.7398334266,
+    35.7398334266,
+    35.756558757,
+    35.756558757,
+    35.8951907876,
+    35.9455137125
+  ],
+  "indices": [
+    305,
+    328,
+    721,
+    448,
+    462,
+    512,
+    552,
+    131,
+    327,
+    423,
+    285,
+    706,
+    272,
+    553,
+    801
+  ],
+  "name": "trip_4-ho-mcpt",
+  "svg": "trip_4-ho-mcpt.svg",
+  "sim": [
+    {
+      "name": "psyc_N-Methyl-Cyclazodone",
+      "psychonaut_name": "N-Methyl-Cyclazodone",
+      "tripsit_name": null,
+      "dist": 31.1847962333
+    },
+    {
+      "name": "trip_mephtetramine",
+      "psychonaut_name": null,
+      "tripsit_name": "mephtetramine",
+      "dist": 34.3421487201
+    },
+    {
+      "name": "trip_metaxalone",
+      "psychonaut_name": null,
+      "tripsit_name": "metaxalone",
+      "dist": 34.4501610828
+    },
+    {
+      "name": "trip_phenetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "phenetrazine",
+      "dist": 34.9177412962
+    },
+    {
+      "name": "trip_glutethimide",
+      "psychonaut_name": null,
+      "tripsit_name": "glutethimide",
+      "dist": 35.292026006
+    },
+    {
+      "name": "trip_4,4-dmar",
+      "psychonaut_name": null,
+      "tripsit_name": "4,4-dmar",
+      "dist": 35.5414728038
+    },
+    {
+      "name": "trip_mephenmetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "mephenmetrazine",
+      "dist": 35.6115825884
+    },
+    {
+      "name": "psyc_Cyclazodone",
+      "psychonaut_name": "Cyclazodone",
+      "tripsit_name": null,
+      "dist": 35.6126914729
+    },
+    {
+      "name": "trip_4-methylaminorex",
+      "psychonaut_name": null,
+      "tripsit_name": "4-methylaminorex",
+      "dist": 35.6826904049
+    },
+    {
+      "name": "trip_psilocin",
+      "psychonaut_name": null,
+      "tripsit_name": "psilocin",
+      "dist": 35.7398334266
+    },
+    {
+      "name": "psyc_Psilocin",
+      "psychonaut_name": "Psilocin",
+      "tripsit_name": null,
+      "dist": 35.7398334266
+    },
+    {
+      "name": "trip_phenmetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "phenmetrazine",
+      "dist": 35.756558757
+    },
+    {
+      "name": "psyc_Phenmetrazine",
+      "psychonaut_name": "Phenmetrazine",
+      "tripsit_name": null,
+      "dist": 35.756558757
+    },
+    {
+      "name": "trip_3,6-dmpm",
+      "psychonaut_name": null,
+      "tripsit_name": "3,6-dmpm",
+      "dist": 35.8951907876
+    },
+    {
+      "name": "trip_pemoline",
+      "psychonaut_name": null,
+      "tripsit_name": "pemoline",
+      "dist": 35.9455137125
+    }
+  ]
+}

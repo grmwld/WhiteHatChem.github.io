@@ -1,0 +1,136 @@
+{
+  "inchi": "InChI=1S/C16H19Cl2NO2.ClH/c1-19-10-4-6-14(19)15(16(20)21-2)11(8-10)9-3-5-12(17)13(18)7-9;/h3,5,7,10-11,14-15H,4,6,8H2,1-2H3;1H/t10-,11+,14+,15-;/m0./s1",
+  "psychonaut_name": null,
+  "tripsit_name": "rti-111",
+  "synonyms": [
+    "dichloropane"
+  ],
+  "distances": [
+    15.0197674518,
+    16.7074573062,
+    16.7074573062,
+    21.4452086177,
+    21.4452086177,
+    24.2132617269,
+    24.2132617269,
+    24.2132617269,
+    24.7588207826,
+    24.7588207826,
+    26.000023475,
+    26.000023475,
+    28.2964511547,
+    28.2964511547,
+    28.4636920075
+  ],
+  "indices": [
+    149,
+    782,
+    313,
+    127,
+    824,
+    651,
+    302,
+    190,
+    40,
+    652,
+    642,
+    145,
+    294,
+    837,
+    628
+  ],
+  "name": "trip_rti-111",
+  "svg": "trip_rti-111.svg",
+  "sim": [
+    {
+      "name": "psyc_Dichloropane",
+      "psychonaut_name": "Dichloropane",
+      "tripsit_name": null,
+      "dist": 15.0197674518
+    },
+    {
+      "name": "trip_troparil",
+      "psychonaut_name": null,
+      "tripsit_name": "troparil",
+      "dist": 16.7074573062
+    },
+    {
+      "name": "psyc_Troparil",
+      "psychonaut_name": "Troparil",
+      "tripsit_name": null,
+      "dist": 16.7074573062
+    },
+    {
+      "name": "psyc_Cocaine",
+      "psychonaut_name": "Cocaine",
+      "tripsit_name": null,
+      "dist": 21.4452086177
+    },
+    {
+      "name": "trip_cocaine",
+      "psychonaut_name": null,
+      "tripsit_name": "cocaine",
+      "dist": 21.4452086177
+    },
+    {
+      "name": "trip_ibogaine",
+      "psychonaut_name": null,
+      "tripsit_name": "ibogaine",
+      "dist": 24.2132617269
+    },
+    {
+      "name": "psyc_Tabernanthe iboga (botany)",
+      "psychonaut_name": "Tabernanthe iboga (botany)",
+      "tripsit_name": null,
+      "dist": 24.2132617269
+    },
+    {
+      "name": "psyc_Ibogaine",
+      "psychonaut_name": "Ibogaine",
+      "tripsit_name": null,
+      "dist": 24.2132617269
+    },
+    {
+      "name": "psyc_3,4-CTMP",
+      "psychonaut_name": "3,4-CTMP",
+      "tripsit_name": null,
+      "dist": 24.7588207826
+    },
+    {
+      "name": "trip_3,4-ctmp",
+      "psychonaut_name": null,
+      "tripsit_name": "3,4-ctmp",
+      "dist": 24.7588207826
+    },
+    {
+      "name": "trip_dxm",
+      "psychonaut_name": null,
+      "tripsit_name": "dxm",
+      "dist": 26.000023475
+    },
+    {
+      "name": "psyc_Dextromethorphan",
+      "psychonaut_name": "Dextromethorphan",
+      "tripsit_name": null,
+      "dist": 26.000023475
+    },
+    {
+      "name": "psyc_Sertraline",
+      "psychonaut_name": "Sertraline",
+      "tripsit_name": null,
+      "dist": 28.2964511547
+    },
+    {
+      "name": "trip_sertraline",
+      "psychonaut_name": null,
+      "tripsit_name": "sertraline",
+      "dist": 28.2964511547
+    },
+    {
+      "name": "trip_diclofensine",
+      "psychonaut_name": null,
+      "tripsit_name": "diclofensine",
+      "dist": 28.4636920075
+    }
+  ]
+}

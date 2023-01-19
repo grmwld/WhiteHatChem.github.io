@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C19H21NO/c1-15-9-11-17(12-10-15)19(21)18(20-13-5-6-14-20)16-7-3-2-4-8-16/h2-4,7-12,18H,5-6,13-14H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "pyrophenidone",
+  "synonyms": null,
+  "distances": [
+    13.5230352473,
+    13.5230352473,
+    14.4838614265,
+    14.5227262047,
+    14.7528776821,
+    14.7528776821,
+    15.0357215242,
+    16.6168477428,
+    20.0919593025,
+    20.0919593025,
+    20.5346305305,
+    20.5346305305,
+    21.9329123197,
+    21.9918405834,
+    22.982362038
+  ],
+  "indices": [
+    403,
+    153,
+    467,
+    550,
+    629,
+    228,
+    814,
+    739,
+    783,
+    143,
+    229,
+    699,
+    405,
+    481,
+    458
+  ],
+  "name": "trip_pyrophenidone",
+  "svg": "trip_pyrophenidone.svg",
+  "sim": [
+    {
+      "name": "trip_diphenidine",
+      "psychonaut_name": null,
+      "tripsit_name": "diphenidine",
+      "dist": 13.5230352473
+    },
+    {
+      "name": "psyc_Diphenidine",
+      "psychonaut_name": "Diphenidine",
+      "tripsit_name": null,
+      "dist": 13.5230352473
+    },
+    {
+      "name": "trip_naphyrone",
+      "psychonaut_name": null,
+      "tripsit_name": "naphyrone",
+      "dist": 14.4838614265
+    },
+    {
+      "name": "trip_fluorolintane",
+      "psychonaut_name": null,
+      "tripsit_name": "fluorolintane",
+      "dist": 14.5227262047
+    },
+    {
+      "name": "trip_methoxphenidine",
+      "psychonaut_name": null,
+      "tripsit_name": "methoxphenidine",
+      "dist": 14.7528776821
+    },
+    {
+      "name": "psyc_Methoxphenidine",
+      "psychonaut_name": "Methoxphenidine",
+      "tripsit_name": null,
+      "dist": 14.7528776821
+    },
+    {
+      "name": "trip_cyclizine",
+      "psychonaut_name": null,
+      "tripsit_name": "cyclizine",
+      "dist": 15.0357215242
+    },
+    {
+      "name": "trip_indapyrophenidone",
+      "psychonaut_name": null,
+      "tripsit_name": "indapyrophenidone",
+      "dist": 16.6168477428
+    },
+    {
+      "name": "trip_2-dpmp",
+      "psychonaut_name": null,
+      "tripsit_name": "2-dpmp",
+      "dist": 20.0919593025
+    },
+    {
+      "name": "psyc_Desoxypipradrol",
+      "psychonaut_name": "Desoxypipradrol",
+      "tripsit_name": null,
+      "dist": 20.0919593025
+    },
+    {
+      "name": "psyc_Methylnaphthidate",
+      "psychonaut_name": "Methylnaphthidate",
+      "tripsit_name": null,
+      "dist": 20.5346305305
+    },
+    {
+      "name": "trip_hdmp-28",
+      "psychonaut_name": null,
+      "tripsit_name": "hdmp-28",
+      "dist": 20.5346305305
+    },
+    {
+      "name": "trip_4f-pvp",
+      "psychonaut_name": null,
+      "tripsit_name": "4f-pvp",
+      "dist": 21.9329123197
+    },
+    {
+      "name": "trip_hdep-28",
+      "psychonaut_name": null,
+      "tripsit_name": "hdep-28",
+      "dist": 21.9918405834
+    },
+    {
+      "name": "trip_4f-php",
+      "psychonaut_name": null,
+      "tripsit_name": "4f-php",
+      "dist": 22.982362038
+    }
+  ]
+}

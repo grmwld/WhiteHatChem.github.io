@@ -1,0 +1,180 @@
+{
+  "inchi": "InChI=1S/C17H22N2O/c1-4-9-19(10-5-2)11-8-14-13-18-17-7-6-15(20-3)12-16(14)17/h4-7,12-13,18H,1-2,8-11H2,3H3",
+  "psychonaut_name": "5-MeO-DALT",
+  "tripsit_name": null,
+  "synonyms": [
+    "Tryptamine, N,N-diallyl-5-methoxy",
+    "N-allyl-N-[2-(5-methoxy-1H-indol-3-yl)ethyl]prop-2-en-1-amine",
+    "SCHEMBL15162217",
+    "J-523223",
+    "N-Allyl-N-(2-(5-methoxy-1H-indol-3-yl)ethyl)prop-2-en-1-amine",
+    "5-methoxy-N,N-diallyltryptamine",
+    "[2-(5-methoxy-1H-indol-3-yl)ethyl]bis(prop-2-en-1-yl)amine",
+    "N,N-Diallyl-5-methoxytryptamine",
+    "928822-98-4",
+    "MFCD11655942",
+    "J-800202",
+    "AS-30565",
+    "N-[2-(5-methoxy-1H-indol-3-yl)ethyl]-N-prop-2-enylprop-2-en-1-amine",
+    "5-Methoxy-DALT",
+    "Indole, 3-[2-(diallylamino)ethyl]-5-methoxy",
+    "Q9134216",
+    "CHEMBL2391541",
+    "5-MEO DALT",
+    "3-[2-(Diallylamino)ethyl]-5-methoxyindole",
+    "AC-8818",
+    "A844374",
+    "5-MeO-DALT solution, 1.0 mg/mL in acetonitrile, certified reference material",
+    "UNII-V25VK0QTAA",
+    "J-640466",
+    "5-methoxy-n,n-di-2-propen-1-yl-1h-indole-3-ethanamine",
+    "5-methoxy DALT",
+    "ZINC40448582",
+    "V25VK0QTAA",
+    "AKOS005145816",
+    "N,N-DI ALLYL-5-METHOXY TRYPTAMINE",
+    "5-MeO-DALT (5-Methoxy-N,N-diallyltryptamine) 1.0 mg/ml in Acetonitrile",
+    "5-MeO-DALT",
+    "N-[2-(5-methoxy-1H-indol-3-yl)ethyl]-N-prop-2-enyl-2-propen-1-amine",
+    "DTXSID30239169",
+    "1H-Indole-3-ethanamine, 5-methoxy-N,N-di-2-propen-1-yl-",
+    "5-MeO-DALT (5-Methoxy-N,N-diallyltryptamine)",
+    "142D640",
+    "AM20041417",
+    "N-[2-(5-methoxy-1H-indol-3-yl)ethyl]-N-prop-2-enyl-prop-2-en-1-amine",
+    "N,N-Diallyl-5-methoxy-1H-indole-3-ethanamine",
+    "CHEBI:190972",
+    "BCP06624",
+    "BDBM50435344",
+    "5-METHOXY-DALT",
+    "5-Methoxy-N,N-diallyl-1H-indole-3-ethanamine"
+  ],
+  "distances": [
+    3.3036e-06,
+    11.9728869268,
+    13.3749383943,
+    19.1849311824,
+    30.1340298237,
+    30.1340298237,
+    35.126051266,
+    35.126051266,
+    35.4220214625,
+    35.6302901774,
+    35.6302901774,
+    35.6893059963,
+    35.6893059963,
+    35.9184885175,
+    35.9184885175
+  ],
+  "indices": [
+    79,
+    480,
+    464,
+    359,
+    101,
+    332,
+    59,
+    323,
+    528,
+    544,
+    56,
+    636,
+    222,
+    66,
+    776
+  ],
+  "name": "psyc_5-MeO-DALT",
+  "svg": "psyc_5-MeO-DALT.svg",
+  "sim": [
+    {
+      "name": "psyc_5-MeO-DALT",
+      "psychonaut_name": "5-MeO-DALT",
+      "tripsit_name": null,
+      "dist": 3.3036e-06
+    },
+    {
+      "name": "trip_dalt",
+      "psychonaut_name": null,
+      "tripsit_name": "dalt",
+      "dist": 11.9728869268
+    },
+    {
+      "name": "trip_4-aco-dalt",
+      "psychonaut_name": null,
+      "tripsit_name": "4-aco-dalt",
+      "dist": 13.3749383943
+    },
+    {
+      "name": "trip_5-meo-malt",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-malt",
+      "dist": 19.1849311824
+    },
+    {
+      "name": "psyc_Allylescaline",
+      "psychonaut_name": "Allylescaline",
+      "tripsit_name": null,
+      "dist": 30.1340298237
+    },
+    {
+      "name": "trip_allylescaline",
+      "psychonaut_name": null,
+      "tripsit_name": "allylescaline",
+      "dist": 30.1340298237
+    },
+    {
+      "name": "psyc_4-AcO-MET",
+      "psychonaut_name": "4-AcO-MET",
+      "tripsit_name": null,
+      "dist": 35.126051266
+    },
+    {
+      "name": "trip_4-aco-met",
+      "psychonaut_name": null,
+      "tripsit_name": "4-aco-met",
+      "dist": 35.126051266
+    },
+    {
+      "name": "trip_5-meo-met",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-met",
+      "dist": 35.4220214625
+    },
+    {
+      "name": "trip_4-aco-det",
+      "psychonaut_name": null,
+      "tripsit_name": "4-aco-det",
+      "dist": 35.6302901774
+    },
+    {
+      "name": "psyc_4-AcO-DET",
+      "psychonaut_name": "4-AcO-DET",
+      "tripsit_name": null,
+      "dist": 35.6302901774
+    },
+    {
+      "name": "trip_methallylescaline",
+      "psychonaut_name": null,
+      "tripsit_name": "methallylescaline",
+      "dist": 35.6893059963
+    },
+    {
+      "name": "psyc_Methallylescaline",
+      "psychonaut_name": "Methallylescaline",
+      "tripsit_name": null,
+      "dist": 35.6893059963
+    },
+    {
+      "name": "psyc_4-HO-EPT",
+      "psychonaut_name": "4-HO-EPT",
+      "tripsit_name": null,
+      "dist": 35.9184885175
+    },
+    {
+      "name": "trip_4-ho-ept",
+      "psychonaut_name": null,
+      "tripsit_name": "4-ho-ept",
+      "dist": 35.9184885175
+    }
+  ]
+}

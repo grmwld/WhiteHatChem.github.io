@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C12H14F2N2O2/c13-12(14)17-10-2-1-9(7-11(10)18-12)8-16-5-3-15-4-6-16/h1-2,7,15H,3-6,8H2",
+  "psychonaut_name": null,
+  "tripsit_name": "db-mdbp",
+  "synonyms": null,
+  "distances": [
+    30.9079078407,
+    30.9079078407,
+    31.4190777596,
+    31.4190777596,
+    31.4222042421,
+    31.4262121727,
+    31.5862196222,
+    31.6530434735,
+    31.6530434735,
+    31.7600293276,
+    31.7600293276,
+    32.0304630239,
+    32.0304630239,
+    32.0963001817,
+    32.0963001817
+  ],
+  "indices": [
+    15,
+    510,
+    45,
+    604,
+    823,
+    563,
+    466,
+    52,
+    611,
+    778,
+    46,
+    362,
+    51,
+    227,
+    669
+  ],
+  "name": "trip_db-mdbp",
+  "svg": "trip_db-mdbp.svg",
+  "sim": [
+    {
+      "name": "psyc_2-Fluorodeschloroketamine",
+      "psychonaut_name": "2-Fluorodeschloroketamine",
+      "tripsit_name": null,
+      "dist": 30.9079078407
+    },
+    {
+      "name": "trip_2-fdck",
+      "psychonaut_name": null,
+      "tripsit_name": "2-fdck",
+      "dist": 30.9079078407
+    },
+    {
+      "name": "psyc_3-FPM",
+      "psychonaut_name": "3-FPM",
+      "tripsit_name": null,
+      "dist": 31.4190777596
+    },
+    {
+      "name": "trip_3-fpm",
+      "psychonaut_name": null,
+      "tripsit_name": "3-fpm",
+      "dist": 31.4190777596
+    },
+    {
+      "name": "trip_4-fpp",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fpp",
+      "dist": 31.4222042421
+    },
+    {
+      "name": "trip_ethketamine",
+      "psychonaut_name": null,
+      "tripsit_name": "ethketamine",
+      "dist": 31.4262121727
+    },
+    {
+      "name": "trip_4-fpm",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fpm",
+      "dist": 31.5862196222
+    },
+    {
+      "name": "psyc_3-MeO-PCMo",
+      "psychonaut_name": "3-MeO-PCMo",
+      "tripsit_name": null,
+      "dist": 31.6530434735
+    },
+    {
+      "name": "trip_3-meo-pcmo",
+      "psychonaut_name": null,
+      "tripsit_name": "3-meo-pcmo",
+      "dist": 31.6530434735
+    },
+    {
+      "name": "trip_3-ho-pce",
+      "psychonaut_name": null,
+      "tripsit_name": "3-ho-pce",
+      "dist": 31.7600293276
+    },
+    {
+      "name": "psyc_3-HO-PCE",
+      "psychonaut_name": "3-HO-PCE",
+      "tripsit_name": null,
+      "dist": 31.7600293276
+    },
+    {
+      "name": "trip_3-meo-pce",
+      "psychonaut_name": null,
+      "tripsit_name": "3-meo-pce",
+      "dist": 32.0304630239
+    },
+    {
+      "name": "psyc_3-MeO-PCE",
+      "psychonaut_name": "3-MeO-PCE",
+      "tripsit_name": null,
+      "dist": 32.0304630239
+    },
+    {
+      "name": "psyc_Methoxetamine",
+      "psychonaut_name": "Methoxetamine",
+      "tripsit_name": null,
+      "dist": 32.0963001817
+    },
+    {
+      "name": "trip_mxe",
+      "psychonaut_name": null,
+      "tripsit_name": "mxe",
+      "dist": 32.0963001817
+    }
+  ]
+}

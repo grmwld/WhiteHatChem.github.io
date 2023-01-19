@@ -1,0 +1,137 @@
+{
+  "inchi": "InChI=1S/C16H15N/c1-16-13-8-4-2-6-11(13)10-15(17-16)12-7-3-5-9-14(12)16/h2-9,15,17H,10H2,1H3/t15-,16+/m1/s1",
+  "psychonaut_name": null,
+  "tripsit_name": "mk-801",
+  "synonyms": [
+    "dizocilpine",
+    "mk801"
+  ],
+  "distances": [
+    22.6904442929,
+    24.9093730888,
+    25.3703488752,
+    25.3703488752,
+    25.6379254749,
+    25.7237486124,
+    25.7237486124,
+    25.9240317065,
+    25.9240317065,
+    26.0357326573,
+    26.0445843418,
+    26.1886350254,
+    26.1886350254,
+    26.2566525703,
+    26.2566525703
+  ],
+  "indices": [
+    462,
+    512,
+    251,
+    517,
+    563,
+    15,
+    510,
+    106,
+    678,
+    671,
+    761,
+    196,
+    590,
+    141,
+    730
+  ],
+  "name": "trip_mk-801",
+  "svg": "trip_mk-801.svg",
+  "sim": [
+    {
+      "name": "trip_glutethimide",
+      "psychonaut_name": null,
+      "tripsit_name": "glutethimide",
+      "dist": 22.6904442929
+    },
+    {
+      "name": "trip_4,4-dmar",
+      "psychonaut_name": null,
+      "tripsit_name": "4,4-dmar",
+      "dist": 24.9093730888
+    },
+    {
+      "name": "psyc_O-PCE",
+      "psychonaut_name": "O-PCE",
+      "tripsit_name": null,
+      "dist": 25.3703488752
+    },
+    {
+      "name": "trip_o-pce",
+      "psychonaut_name": null,
+      "tripsit_name": "o-pce",
+      "dist": 25.3703488752
+    },
+    {
+      "name": "trip_ethketamine",
+      "psychonaut_name": null,
+      "tripsit_name": "ethketamine",
+      "dist": 25.6379254749
+    },
+    {
+      "name": "psyc_2-Fluorodeschloroketamine",
+      "psychonaut_name": "2-Fluorodeschloroketamine",
+      "tripsit_name": null,
+      "dist": 25.7237486124
+    },
+    {
+      "name": "trip_2-fdck",
+      "psychonaut_name": null,
+      "tripsit_name": "2-fdck",
+      "dist": 25.7237486124
+    },
+    {
+      "name": "psyc_Aniracetam",
+      "psychonaut_name": "Aniracetam",
+      "tripsit_name": null,
+      "dist": 25.9240317065
+    },
+    {
+      "name": "trip_aniracetam",
+      "psychonaut_name": null,
+      "tripsit_name": "aniracetam",
+      "dist": 25.9240317065
+    },
+    {
+      "name": "trip_methoxyketamine",
+      "psychonaut_name": null,
+      "tripsit_name": "methoxyketamine",
+      "dist": 26.0357326573
+    },
+    {
+      "name": "trip_g-130",
+      "psychonaut_name": null,
+      "tripsit_name": "g-130",
+      "dist": 26.0445843418
+    },
+    {
+      "name": "psyc_Ketamine",
+      "psychonaut_name": "Ketamine",
+      "tripsit_name": null,
+      "dist": 26.1886350254
+    },
+    {
+      "name": "trip_ketamine",
+      "psychonaut_name": null,
+      "tripsit_name": "ketamine",
+      "dist": 26.1886350254
+    },
+    {
+      "name": "psyc_Deschloroketamine",
+      "psychonaut_name": "Deschloroketamine",
+      "tripsit_name": null,
+      "dist": 26.2566525703
+    },
+    {
+      "name": "trip_deschloroketamine",
+      "psychonaut_name": null,
+      "tripsit_name": "deschloroketamine",
+      "dist": 26.2566525703
+    }
+  ]
+}

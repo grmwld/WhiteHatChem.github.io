@@ -1,0 +1,137 @@
+{
+  "inchi": "InChI=1S/C12H18O/c1-8(2)10-6-5-7-11(9(3)4)12(10)13/h5-9,13H,1-4H3",
+  "psychonaut_name": null,
+  "tripsit_name": "propofol",
+  "synonyms": [
+    "milk-of-amnesia",
+    "diprivan"
+  ],
+  "distances": [
+    20.6905600137,
+    21.149692167,
+    21.1509301669,
+    21.2346085402,
+    21.5833741805,
+    21.7152326851,
+    21.7152326851,
+    21.7248691638,
+    21.7248691638,
+    21.7926449188,
+    21.8021366017,
+    22.0599975896,
+    22.0599975896,
+    22.0739273865,
+    22.0739273865
+  ],
+  "indices": [
+    758,
+    447,
+    690,
+    465,
+    262,
+    48,
+    377,
+    580,
+    16,
+    389,
+    339,
+    547,
+    218,
+    159,
+    530
+  ],
+  "name": "trip_propofol",
+  "svg": "trip_propofol.svg",
+  "sim": [
+    {
+      "name": "trip_ibuprofen",
+      "psychonaut_name": null,
+      "tripsit_name": "ibuprofen",
+      "dist": 20.6905600137
+    },
+    {
+      "name": "trip_4-cic",
+      "psychonaut_name": null,
+      "tripsit_name": "4-cic",
+      "dist": 21.149692167
+    },
+    {
+      "name": "trip_mpa",
+      "psychonaut_name": null,
+      "tripsit_name": "mpa",
+      "dist": 21.1509301669
+    },
+    {
+      "name": "trip_2-nmc",
+      "psychonaut_name": null,
+      "tripsit_name": "2-nmc",
+      "dist": 21.2346085402
+    },
+    {
+      "name": "psyc_PMMA",
+      "psychonaut_name": "PMMA",
+      "tripsit_name": null,
+      "dist": 21.5833741805
+    },
+    {
+      "name": "psyc_3-MMC",
+      "psychonaut_name": "3-MMC",
+      "tripsit_name": null,
+      "dist": 21.7152326851
+    },
+    {
+      "name": "trip_3-mmc",
+      "psychonaut_name": null,
+      "tripsit_name": "3-mmc",
+      "dist": 21.7152326851
+    },
+    {
+      "name": "trip_2-mmc",
+      "psychonaut_name": null,
+      "tripsit_name": "2-mmc",
+      "dist": 21.7248691638
+    },
+    {
+      "name": "psyc_2-MMC",
+      "psychonaut_name": "2-MMC",
+      "tripsit_name": null,
+      "dist": 21.7248691638
+    },
+    {
+      "name": "trip_3-mec",
+      "psychonaut_name": null,
+      "tripsit_name": "3-mec",
+      "dist": 21.7926449188
+    },
+    {
+      "name": "trip_2-mec",
+      "psychonaut_name": null,
+      "tripsit_name": "2-mec",
+      "dist": 21.8021366017
+    },
+    {
+      "name": "trip_mephedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "mephedrone",
+      "dist": 22.0599975896
+    },
+    {
+      "name": "psyc_Mephedrone",
+      "psychonaut_name": "Mephedrone",
+      "tripsit_name": null,
+      "dist": 22.0599975896
+    },
+    {
+      "name": "psyc_Ephedrine",
+      "psychonaut_name": "Ephedrine",
+      "tripsit_name": null,
+      "dist": 22.0739273865
+    },
+    {
+      "name": "trip_pseudoephedrine",
+      "psychonaut_name": null,
+      "tripsit_name": "pseudoephedrine",
+      "dist": 22.0739273865
+    }
+  ]
+}

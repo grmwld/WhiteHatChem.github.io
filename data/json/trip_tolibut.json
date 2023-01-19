@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C11H15NO2/c1-8-2-4-9(5-3-8)10(7-12)6-11(13)14/h2-5,10H,6-7,12H2,1H3,(H,13,14)",
+  "psychonaut_name": null,
+  "tripsit_name": "tolibut",
+  "synonyms": null,
+  "distances": [
+    7.6015898497,
+    7.6015898497,
+    7.6058055488,
+    7.6058055488,
+    8.1420475455,
+    8.1420475455,
+    15.4001626142,
+    17.7943592521,
+    17.7943592521,
+    17.999376922,
+    18.1709647504,
+    18.2046111585,
+    18.2766612497,
+    18.2766612497,
+    18.3740441729
+  ],
+  "indices": [
+    108,
+    370,
+    785,
+    271,
+    420,
+    170,
+    315,
+    156,
+    808,
+    680,
+    825,
+    339,
+    70,
+    603,
+    265
+  ],
+  "name": "trip_tolibut",
+  "svg": "trip_tolibut.svg",
+  "sim": [
+    {
+      "name": "psyc_Baclofen",
+      "psychonaut_name": "Baclofen",
+      "tripsit_name": null,
+      "dist": 7.6015898497
+    },
+    {
+      "name": "trip_baclofen",
+      "psychonaut_name": null,
+      "tripsit_name": "baclofen",
+      "dist": 7.6015898497
+    },
+    {
+      "name": "trip_phenibut",
+      "psychonaut_name": null,
+      "tripsit_name": "phenibut",
+      "dist": 7.6058055488
+    },
+    {
+      "name": "psyc_Phenibut",
+      "psychonaut_name": "Phenibut",
+      "tripsit_name": null,
+      "dist": 7.6058055488
+    },
+    {
+      "name": "trip_fluorophenibut",
+      "psychonaut_name": null,
+      "tripsit_name": "fluorophenibut",
+      "dist": 8.1420475455
+    },
+    {
+      "name": "psyc_F-Phenibut",
+      "psychonaut_name": "F-Phenibut",
+      "tripsit_name": null,
+      "dist": 8.1420475455
+    },
+    {
+      "name": "psyc_Tyrosine",
+      "psychonaut_name": "Tyrosine",
+      "tripsit_name": null,
+      "dist": 15.4001626142
+    },
+    {
+      "name": "psyc_ETH-CAT",
+      "psychonaut_name": "ETH-CAT",
+      "tripsit_name": null,
+      "dist": 17.7943592521
+    },
+    {
+      "name": "trip_ethylcathinone",
+      "psychonaut_name": null,
+      "tripsit_name": "ethylcathinone",
+      "dist": 17.7943592521
+    },
+    {
+      "name": "trip_neb",
+      "psychonaut_name": null,
+      "tripsit_name": "neb",
+      "dist": 17.999376922
+    },
+    {
+      "name": "trip_4f-neb",
+      "psychonaut_name": null,
+      "tripsit_name": "4f-neb",
+      "dist": 18.1709647504
+    },
+    {
+      "name": "trip_2-mec",
+      "psychonaut_name": null,
+      "tripsit_name": "2-mec",
+      "dist": 18.2046111585
+    },
+    {
+      "name": "psyc_4-MEC",
+      "psychonaut_name": "4-MEC",
+      "tripsit_name": null,
+      "dist": 18.2766612497
+    },
+    {
+      "name": "trip_4-mec",
+      "psychonaut_name": null,
+      "tripsit_name": "4-mec",
+      "dist": 18.2766612497
+    },
+    {
+      "name": "psyc_Pentedrone",
+      "psychonaut_name": "Pentedrone",
+      "tripsit_name": null,
+      "dist": 18.3740441729
+    }
+  ]
+}

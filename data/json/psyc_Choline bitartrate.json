@@ -1,0 +1,155 @@
+{
+  "inchi": "InChI=1S/C5H14NO.C4H6O6/c1-6(2,3)4-5-7;5-1(3(7)8)2(6)4(9)10/h7H,4-5H2,1-3H3;1-2,5-6H,(H,7,8)(H,9,10)/q+1;/p-1",
+  "psychonaut_name": "Choline bitartrate",
+  "tripsit_name": null,
+  "synonyms": [
+    "CHOLINI BITARTRAS",
+    "W-104008",
+    "Cholinebitartrate",
+    "Cholinibitatratis",
+    "AS-72782",
+    "Choline tartrate (1:1)",
+    "CHOLINE BITARTRATE",
+    "B0607-300158",
+    "AKOS015902411",
+    "DB-057014",
+    "FT-0623770",
+    "2-hydroxyethyl(trimethyl)azanium;2,3,4-trihydroxy-4-oxobutanoate",
+    "2-hydroxyethyl(trimethyl)azanium;(2R,3R)-2,3,4-trihydroxy-4-oxobutanoate",
+    "MFCD31726185",
+    "SCHEMBL225595",
+    "CHEMBL2105935",
+    "87-67-2",
+    "(2-hydroxyethyl)trimethylazanium 3-carboxy-2,3-dihydroxypropanoate",
+    "BCP23009",
+    "2-Hydroxy-N,N,N-trimethylethanaminium 3-carboxy-2,3-dihydroxypropanoate"
+  ],
+  "distances": [
+    40.729735783,
+    47.5428928459,
+    47.5428928459,
+    49.5574605335,
+    49.5920319094,
+    49.647613216,
+    49.6887013416,
+    49.6887013416,
+    49.7722179699,
+    49.9978539579,
+    49.9978539579,
+    50.0180094519,
+    50.0180094519,
+    50.126446558,
+    50.126446558
+  ],
+  "indices": [
+    102,
+    325,
+    307,
+    202,
+    758,
+    364,
+    355,
+    278,
+    315,
+    835,
+    77,
+    499,
+    303,
+    275,
+    649
+  ],
+  "name": "psyc_Choline bitartrate",
+  "svg": "psyc_Choline bitartrate.svg",
+  "sim": [
+    {
+      "name": "psyc_Alpha-GPC",
+      "psychonaut_name": "Alpha-GPC",
+      "tripsit_name": null,
+      "dist": 40.729735783
+    },
+    {
+      "name": "trip_l-theanine",
+      "psychonaut_name": null,
+      "tripsit_name": "l-theanine",
+      "dist": 47.5428928459
+    },
+    {
+      "name": "psyc_Theanine",
+      "psychonaut_name": "Theanine",
+      "tripsit_name": null,
+      "dist": 47.5428928459
+    },
+    {
+      "name": "psyc_Lisdexamfetamine",
+      "psychonaut_name": "Lisdexamfetamine",
+      "tripsit_name": null,
+      "dist": 49.5574605335
+    },
+    {
+      "name": "trip_ibuprofen",
+      "psychonaut_name": null,
+      "tripsit_name": "ibuprofen",
+      "dist": 49.5920319094
+    },
+    {
+      "name": "trip_tolibut",
+      "psychonaut_name": null,
+      "tripsit_name": "tolibut",
+      "dist": 49.647613216
+    },
+    {
+      "name": "trip_pregabalin",
+      "psychonaut_name": null,
+      "tripsit_name": "pregabalin",
+      "dist": 49.6887013416
+    },
+    {
+      "name": "psyc_Pregabalin",
+      "psychonaut_name": "Pregabalin",
+      "tripsit_name": null,
+      "dist": 49.6887013416
+    },
+    {
+      "name": "psyc_Tyrosine",
+      "psychonaut_name": "Tyrosine",
+      "tripsit_name": null,
+      "dist": 49.7722179699
+    },
+    {
+      "name": "trip_5-htp",
+      "psychonaut_name": null,
+      "tripsit_name": "5-htp",
+      "dist": 49.9978539579
+    },
+    {
+      "name": "psyc_5-Hydroxytryptophan",
+      "psychonaut_name": "5-Hydroxytryptophan",
+      "tripsit_name": null,
+      "dist": 49.9978539579
+    },
+    {
+      "name": "trip_tapentadol",
+      "psychonaut_name": null,
+      "tripsit_name": "tapentadol",
+      "dist": 50.0180094519
+    },
+    {
+      "name": "psyc_Tapentadol",
+      "psychonaut_name": "Tapentadol",
+      "tripsit_name": null,
+      "dist": 50.0180094519
+    },
+    {
+      "name": "psyc_Picamilon",
+      "psychonaut_name": "Picamilon",
+      "tripsit_name": null,
+      "dist": 50.126446558
+    },
+    {
+      "name": "trip_picamilon",
+      "psychonaut_name": null,
+      "tripsit_name": "picamilon",
+      "dist": 50.126446558
+    }
+  ]
+}

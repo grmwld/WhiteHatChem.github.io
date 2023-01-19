@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C19H22ClN5O/c20-16-5-3-6-17(15-16)23-13-11-22(12-14-23)8-4-10-25-19(26)24-9-2-1-7-18(24)21-25/h1-3,5-7,9,15H,4,8,10-14H2",
+  "psychonaut_name": null,
+  "tripsit_name": "trazodone",
+  "synonyms": [],
+  "distances": [
+    20.6555090698,
+    23.4808817262,
+    27.1754912415,
+    27.2286618183,
+    27.2286618183,
+    27.3117614227,
+    28.2623728436,
+    28.2623728436,
+    28.6108256732,
+    28.904707518,
+    28.904707518,
+    28.9467832369,
+    29.0236330747,
+    29.0538556112,
+    29.0538556112
+  ],
+  "indices": [
+    279,
+    345,
+    185,
+    713,
+    287,
+    687,
+    172,
+    348,
+    612,
+    337,
+    97,
+    839,
+    746,
+    319,
+    380
+  ],
+  "name": "trip_trazodone",
+  "svg": "trip_trazodone.svg",
+  "sim": [
+    {
+      "name": "psyc_Prochlorperazine",
+      "psychonaut_name": "Prochlorperazine",
+      "tripsit_name": null,
+      "dist": 20.6555090698
+    },
+    {
+      "name": "trip_hydroxyzine",
+      "psychonaut_name": null,
+      "tripsit_name": "hydroxyzine",
+      "dist": 23.4808817262
+    },
+    {
+      "name": "psyc_Haloperidol",
+      "psychonaut_name": "Haloperidol",
+      "tripsit_name": null,
+      "dist": 27.1754912415
+    },
+    {
+      "name": "trip_quetiapine",
+      "psychonaut_name": null,
+      "tripsit_name": "quetiapine",
+      "dist": 27.2286618183
+    },
+    {
+      "name": "psyc_Quetiapine",
+      "psychonaut_name": "Quetiapine",
+      "tripsit_name": null,
+      "dist": 27.2286618183
+    },
+    {
+      "name": "trip_parafluorofentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "parafluorofentanyl",
+      "dist": 27.3117614227
+    },
+    {
+      "name": "psyc_Fentanyl",
+      "psychonaut_name": "Fentanyl",
+      "tripsit_name": null,
+      "dist": 28.2623728436
+    },
+    {
+      "name": "trip_fentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "fentanyl",
+      "dist": 28.2623728436
+    },
+    {
+      "name": "trip_methoxyacetyl-fentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "methoxyacetyl-fentanyl",
+      "dist": 28.6108256732
+    },
+    {
+      "name": "trip_acetylfentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "acetylfentanyl",
+      "dist": 28.904707518
+    },
+    {
+      "name": "psyc_Acetylfentanyl",
+      "psychonaut_name": "Acetylfentanyl",
+      "tripsit_name": null,
+      "dist": 28.904707518
+    },
+    {
+      "name": "trip_flutazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "flutazolam",
+      "dist": 28.9467832369
+    },
+    {
+      "name": "trip_parafluorobutyrfentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "parafluorobutyrfentanyl",
+      "dist": 29.0236330747
+    },
+    {
+      "name": "psyc_Zopiclone",
+      "psychonaut_name": "Zopiclone",
+      "tripsit_name": null,
+      "dist": 29.0538556112
+    },
+    {
+      "name": "trip_eszopiclone",
+      "psychonaut_name": null,
+      "tripsit_name": "eszopiclone",
+      "dist": 29.0538556112
+    }
+  ]
+}

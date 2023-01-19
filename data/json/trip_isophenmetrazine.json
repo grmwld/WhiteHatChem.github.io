@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C11H15NO/c1-9-8-13-11(7-12-9)10-5-3-2-4-6-10/h2-6,9,11-12H,7-8H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "isophenmetrazine",
+  "synonyms": null,
+  "distances": [
+    11.0386101481,
+    11.0386101481,
+    13.464887946,
+    13.4954193256,
+    13.4954193256,
+    13.630523402,
+    14.8637350046,
+    15.8546117385,
+    16.1432065866,
+    16.5741105752,
+    17.4074421719,
+    18.1736626176,
+    18.1736626176,
+    19.8403940322,
+    19.8403940322
+  ],
+  "indices": [
+    272,
+    706,
+    448,
+    45,
+    604,
+    466,
+    553,
+    552,
+    761,
+    451,
+    656,
+    763,
+    247,
+    245,
+    693
+  ],
+  "name": "trip_isophenmetrazine",
+  "svg": "trip_isophenmetrazine.svg",
+  "sim": [
+    {
+      "name": "psyc_Phenmetrazine",
+      "psychonaut_name": "Phenmetrazine",
+      "tripsit_name": null,
+      "dist": 11.0386101481
+    },
+    {
+      "name": "trip_phenmetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "phenmetrazine",
+      "dist": 11.0386101481
+    },
+    {
+      "name": "trip_phenetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "phenetrazine",
+      "dist": 13.464887946
+    },
+    {
+      "name": "psyc_3-FPM",
+      "psychonaut_name": "3-FPM",
+      "tripsit_name": null,
+      "dist": 13.4954193256
+    },
+    {
+      "name": "trip_3-fpm",
+      "psychonaut_name": null,
+      "tripsit_name": "3-fpm",
+      "dist": 13.4954193256
+    },
+    {
+      "name": "trip_4-fpm",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fpm",
+      "dist": 13.630523402
+    },
+    {
+      "name": "trip_3,6-dmpm",
+      "psychonaut_name": null,
+      "tripsit_name": "3,6-dmpm",
+      "dist": 14.8637350046
+    },
+    {
+      "name": "trip_mephenmetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "mephenmetrazine",
+      "dist": 15.8546117385
+    },
+    {
+      "name": "trip_g-130",
+      "psychonaut_name": null,
+      "tripsit_name": "g-130",
+      "dist": 16.1432065866
+    },
+    {
+      "name": "trip_aminorex",
+      "psychonaut_name": null,
+      "tripsit_name": "aminorex",
+      "dist": 16.5741105752
+    },
+    {
+      "name": "trip_4-benzylpiperidine",
+      "psychonaut_name": null,
+      "tripsit_name": "4-benzylpiperidine",
+      "dist": 17.4074421719
+    },
+    {
+      "name": "trip_nicotine",
+      "psychonaut_name": null,
+      "tripsit_name": "nicotine",
+      "dist": 18.1736626176
+    },
+    {
+      "name": "psyc_Nicotine",
+      "psychonaut_name": "Nicotine",
+      "tripsit_name": null,
+      "dist": 18.1736626176
+    },
+    {
+      "name": "psyc_NM-2-AI",
+      "psychonaut_name": "NM-2-AI",
+      "tripsit_name": null,
+      "dist": 19.8403940322
+    },
+    {
+      "name": "trip_nm-2-ai",
+      "psychonaut_name": null,
+      "tripsit_name": "nm-2-ai",
+      "dist": 19.8403940322
+    }
+  ]
+}

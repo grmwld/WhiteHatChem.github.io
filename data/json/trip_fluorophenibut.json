@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C10H12FNO2/c11-9-3-1-7(2-4-9)8(6-12)5-10(13)14/h1-4,8H,5-6,12H2,(H,13,14)",
+  "psychonaut_name": null,
+  "tripsit_name": "fluorophenibut",
+  "synonyms": null,
+  "distances": [
+    1.3487e-06,
+    7.2015519483,
+    7.2015519483,
+    8.1420475455,
+    8.4945185321,
+    8.4945185321,
+    16.020344198,
+    18.8944072865,
+    18.9209524445,
+    19.1600236521,
+    19.1600236521,
+    19.2731794039,
+    19.3621523684,
+    19.3621523684,
+    19.3877612019
+  ],
+  "indices": [
+    170,
+    108,
+    370,
+    364,
+    785,
+    271,
+    315,
+    381,
+    825,
+    61,
+    433,
+    795,
+    352,
+    42,
+    639
+  ],
+  "name": "trip_fluorophenibut",
+  "svg": "trip_fluorophenibut.svg",
+  "sim": [
+    {
+      "name": "psyc_F-Phenibut",
+      "psychonaut_name": "F-Phenibut",
+      "tripsit_name": null,
+      "dist": 1.3487e-06
+    },
+    {
+      "name": "psyc_Baclofen",
+      "psychonaut_name": "Baclofen",
+      "tripsit_name": null,
+      "dist": 7.2015519483
+    },
+    {
+      "name": "trip_baclofen",
+      "psychonaut_name": null,
+      "tripsit_name": "baclofen",
+      "dist": 7.2015519483
+    },
+    {
+      "name": "trip_tolibut",
+      "psychonaut_name": null,
+      "tripsit_name": "tolibut",
+      "dist": 8.1420475455
+    },
+    {
+      "name": "trip_phenibut",
+      "psychonaut_name": null,
+      "tripsit_name": "phenibut",
+      "dist": 8.4945185321
+    },
+    {
+      "name": "psyc_Phenibut",
+      "psychonaut_name": "Phenibut",
+      "tripsit_name": null,
+      "dist": 8.4945185321
+    },
+    {
+      "name": "psyc_Tyrosine",
+      "psychonaut_name": "Tyrosine",
+      "tripsit_name": null,
+      "dist": 16.020344198
+    },
+    {
+      "name": "trip_4-fluoropentedrone",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fluoropentedrone",
+      "dist": 18.8944072865
+    },
+    {
+      "name": "trip_4f-neb",
+      "psychonaut_name": null,
+      "tripsit_name": "4f-neb",
+      "dist": 18.9209524445
+    },
+    {
+      "name": "psyc_4-FA",
+      "psychonaut_name": "4-FA",
+      "tripsit_name": null,
+      "dist": 19.1600236521
+    },
+    {
+      "name": "trip_4-fa",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fa",
+      "dist": 19.1600236521
+    },
+    {
+      "name": "trip_4-fea",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fea",
+      "dist": 19.2731794039
+    },
+    {
+      "name": "trip_3-fa",
+      "psychonaut_name": null,
+      "tripsit_name": "3-fa",
+      "dist": 19.3621523684
+    },
+    {
+      "name": "psyc_3-FA",
+      "psychonaut_name": "3-FA",
+      "tripsit_name": null,
+      "dist": 19.3621523684
+    },
+    {
+      "name": "trip_3-fea",
+      "psychonaut_name": null,
+      "tripsit_name": "3-fea",
+      "dist": 19.3877612019
+    }
+  ]
+}

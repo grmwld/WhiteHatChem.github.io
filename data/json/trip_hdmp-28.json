@@ -1,0 +1,136 @@
+{
+  "inchi": "InChI=1S/C18H21NO2/c1-21-18(20)17(16-8-4-5-11-19-16)15-10-9-13-6-2-3-7-14(13)12-15/h2-3,6-7,9-10,12,16-17,19H,4-5,8,11H2,1H3/t16-,17-/m1/s1",
+  "psychonaut_name": null,
+  "tripsit_name": "hdmp-28",
+  "synonyms": [
+    "methylnaphtidate"
+  ],
+  "distances": [
+    3.0158e-06,
+    8.9217689628,
+    15.0621753199,
+    15.0621753199,
+    15.7483829698,
+    15.7483829698,
+    15.8043351033,
+    16.0056514296,
+    17.1016115734,
+    17.1016115734,
+    17.184173151,
+    17.184173151,
+    17.4244191318,
+    17.4727675948,
+    17.4727675948
+  ],
+  "indices": [
+    229,
+    481,
+    780,
+    75,
+    751,
+    74,
+    360,
+    672,
+    40,
+    652,
+    231,
+    427,
+    591,
+    167,
+    504
+  ],
+  "name": "trip_hdmp-28",
+  "svg": "trip_hdmp-28.svg",
+  "sim": [
+    {
+      "name": "psyc_Methylnaphthidate",
+      "psychonaut_name": "Methylnaphthidate",
+      "tripsit_name": null,
+      "dist": 3.0158e-06
+    },
+    {
+      "name": "trip_hdep-28",
+      "psychonaut_name": null,
+      "tripsit_name": "hdep-28",
+      "dist": 8.9217689628
+    },
+    {
+      "name": "trip_4-fluoromethylphenidate",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fluoromethylphenidate",
+      "dist": 15.0621753199
+    },
+    {
+      "name": "psyc_4F-MPH",
+      "psychonaut_name": "4F-MPH",
+      "tripsit_name": null,
+      "dist": 15.0621753199
+    },
+    {
+      "name": "trip_4-fluoroethylphenidate",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fluoroethylphenidate",
+      "dist": 15.7483829698
+    },
+    {
+      "name": "psyc_4F-EPH",
+      "psychonaut_name": "4F-EPH",
+      "tripsit_name": null,
+      "dist": 15.7483829698
+    },
+    {
+      "name": "trip_4-methylmethylphenidate",
+      "psychonaut_name": null,
+      "tripsit_name": "4-methylmethylphenidate",
+      "dist": 15.8043351033
+    },
+    {
+      "name": "trip_focalin",
+      "psychonaut_name": null,
+      "tripsit_name": "focalin",
+      "dist": 16.0056514296
+    },
+    {
+      "name": "psyc_3,4-CTMP",
+      "psychonaut_name": "3,4-CTMP",
+      "tripsit_name": null,
+      "dist": 17.1016115734
+    },
+    {
+      "name": "trip_3,4-ctmp",
+      "psychonaut_name": null,
+      "tripsit_name": "3,4-ctmp",
+      "dist": 17.1016115734
+    },
+    {
+      "name": "psyc_Methylphenidate",
+      "psychonaut_name": "Methylphenidate",
+      "tripsit_name": null,
+      "dist": 17.184173151
+    },
+    {
+      "name": "trip_methylphenidate",
+      "psychonaut_name": null,
+      "tripsit_name": "methylphenidate",
+      "dist": 17.184173151
+    },
+    {
+      "name": "trip_propylphenidate",
+      "psychonaut_name": null,
+      "tripsit_name": "propylphenidate",
+      "dist": 17.4244191318
+    },
+    {
+      "name": "psyc_Ethylphenidate",
+      "psychonaut_name": "Ethylphenidate",
+      "tripsit_name": null,
+      "dist": 17.4727675948
+    },
+    {
+      "name": "trip_ethylphenidate",
+      "psychonaut_name": null,
+      "tripsit_name": "ethylphenidate",
+      "dist": 17.4727675948
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "inchi": "InChI=1S/C13H21NO3/c1-5-17-13-11(15-3)7-10(6-9(2)14)8-12(13)16-4/h7-9H,5-6,14H2,1-4H3",
+  "psychonaut_name": "3C-E",
+  "tripsit_name": null,
+  "synonyms": [
+    "3C-E",
+    "CHEMBL128038",
+    "3,5-dimethoxy-4-ethoxyamphetamine",
+    "SCHEMBL5308245",
+    "BENZENEETHANAMINE, 4-ETHOXY-3,5-DIMETHOXY-.ALPHA.-METHYL-",
+    "DTXSID40658382",
+    "4-ETHOXY-3,5-DIMETHOXY-.ALPHA.-METHYLBENZENEETHANAMINE",
+    "3,5-Dimethoxy-4-ethoxyamphetamine",
+    "1-(4-ethoxy-3,5-dimethoxyphenyl)propan-2-amine",
+    "4-Ethoxy-3,5-dimethoxyamphetamine",
+    "146849-92-5",
+    "Q4636226"
+  ],
+  "distances": [
+    1.3487e-06,
+    3.2753907706,
+    7.094386673,
+    7.094386673,
+    8.7069396831,
+    9.2289502626,
+    9.2289502626,
+    9.2637239664,
+    9.2637239664,
+    9.3687813034,
+    9.4955036164,
+    11.1722762029,
+    12.3449904193,
+    12.6070017419,
+    12.6070017419
+  ],
+  "indices": [
+    54,
+    437,
+    489,
+    55,
+    299,
+    538,
+    300,
+    701,
+    301,
+    621,
+    412,
+    72,
+    717,
+    667,
+    138
+  ],
+  "name": "psyc_3C-E",
+  "svg": "psyc_3C-E.svg",
+  "sim": [
+    {
+      "name": "psyc_3C-E",
+      "psychonaut_name": "3C-E",
+      "tripsit_name": null,
+      "dist": 1.3487e-06
+    },
+    {
+      "name": "trip_mem",
+      "psychonaut_name": null,
+      "tripsit_name": "mem",
+      "dist": 3.2753907706
+    },
+    {
+      "name": "trip_3c-p",
+      "psychonaut_name": null,
+      "tripsit_name": "3c-p",
+      "dist": 7.094386673
+    },
+    {
+      "name": "psyc_3C-P",
+      "psychonaut_name": "3C-P",
+      "tripsit_name": null,
+      "dist": 7.094386673
+    },
+    {
+      "name": "psyc_TMA",
+      "psychonaut_name": "TMA",
+      "tripsit_name": null,
+      "dist": 8.7069396831
+    },
+    {
+      "name": "trip_tma-2",
+      "psychonaut_name": null,
+      "tripsit_name": "tma-2",
+      "dist": 9.2289502626
+    },
+    {
+      "name": "psyc_TMA-2",
+      "psychonaut_name": "TMA-2",
+      "tripsit_name": null,
+      "dist": 9.2289502626
+    },
+    {
+      "name": "trip_tma-6",
+      "psychonaut_name": null,
+      "tripsit_name": "tma-6",
+      "dist": 9.2637239664
+    },
+    {
+      "name": "psyc_TMA-6",
+      "psychonaut_name": "TMA-6",
+      "tripsit_name": null,
+      "dist": 9.2637239664
+    },
+    {
+      "name": "trip_dopr",
+      "psychonaut_name": null,
+      "tripsit_name": "dopr",
+      "dist": 9.3687813034
+    },
+    {
+      "name": "trip_doet",
+      "psychonaut_name": null,
+      "tripsit_name": "doet",
+      "dist": 9.4955036164
+    },
+    {
+      "name": "psyc_4C-D",
+      "psychonaut_name": "4C-D",
+      "tripsit_name": null,
+      "dist": 11.1722762029
+    },
+    {
+      "name": "trip_isoproscaline",
+      "psychonaut_name": null,
+      "tripsit_name": "isoproscaline",
+      "dist": 12.3449904193
+    },
+    {
+      "name": "trip_dom",
+      "psychonaut_name": null,
+      "tripsit_name": "dom",
+      "dist": 12.6070017419
+    },
+    {
+      "name": "psyc_DOM",
+      "psychonaut_name": "DOM",
+      "tripsit_name": null,
+      "dist": 12.6070017419
+    }
+  ]
+}

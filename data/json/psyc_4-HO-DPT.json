@@ -1,0 +1,156 @@
+{
+  "inchi": "InChI=1S/C16H24N2O/c1-3-9-18(10-4-2)11-8-13-12-17-14-6-5-7-15(19)16(13)14/h5-7,12,17,19H,3-4,8-11H2,1-2H3",
+  "psychonaut_name": "4-HO-DPT",
+  "tripsit_name": null,
+  "synonyms": [
+    "DTXSID90618835",
+    "Deprocin",
+    "63065-88-3",
+    "3-(2-(Dipropylamino)ethyl)-1H-indol-4-ol",
+    "UNII-KS597YAU98",
+    "Q4637138",
+    "KS597YAU98",
+    "4-Hydroxydipropyltryptamine",
+    "3-[2-(Dipropylamino)ethyl]-4-indolol",
+    "4-Hydroxy-N,N-dipropyltryptamine",
+    "4-Indolol, 3-[2-(dipropylamino)ethyl]",
+    "3-[2-(Dipropylamino)ethyl]-1H-indol-4-ol",
+    "SCHEMBL20970980",
+    "4-HO-DPT",
+    "Tryptamine, N,N-dipropyl-4-hydroxy",
+    "Dipropyl-4-hydroxytryptamine",
+    "DB13990",
+    "N,N-Dipropyl-4-hydroxytryptamine",
+    "1H-Indol-4-ol, 3-[2-(dipropylamino)ethyl]-",
+    "1H-Indol-4-ol, 3-(2-(dipropylamino)ethyl)-",
+    "EN-0009"
+  ],
+  "distances": [
+    1.9073e-06,
+    6.8037700188,
+    6.8037700188,
+    8.7560264543,
+    8.7560264543,
+    11.5310680509,
+    12.1344202945,
+    12.1344202945,
+    13.5354561204,
+    13.5354561204,
+    13.6075394769,
+    13.6075394769,
+    16.3479638001,
+    16.3479638001,
+    16.3763734664
+  ],
+  "indices": [
+    64,
+    66,
+    776,
+    793,
+    139,
+    406,
+    155,
+    743,
+    68,
+    576,
+    63,
+    686,
+    56,
+    544,
+    522
+  ],
+  "name": "psyc_4-HO-DPT",
+  "svg": "psyc_4-HO-DPT.svg",
+  "sim": [
+    {
+      "name": "psyc_4-HO-DPT",
+      "psychonaut_name": "4-HO-DPT",
+      "tripsit_name": null,
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "psyc_4-HO-EPT",
+      "psychonaut_name": "4-HO-EPT",
+      "tripsit_name": null,
+      "dist": 6.8037700188
+    },
+    {
+      "name": "trip_4-ho-ept",
+      "psychonaut_name": null,
+      "tripsit_name": "4-ho-ept",
+      "dist": 6.8037700188
+    },
+    {
+      "name": "trip_dpt",
+      "psychonaut_name": null,
+      "tripsit_name": "dpt",
+      "dist": 8.7560264543
+    },
+    {
+      "name": "psyc_DPT",
+      "psychonaut_name": "DPT",
+      "tripsit_name": null,
+      "dist": 8.7560264543
+    },
+    {
+      "name": "trip_5-meo-dpt",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-dpt",
+      "dist": 11.5310680509
+    },
+    {
+      "name": "psyc_EPT",
+      "psychonaut_name": "EPT",
+      "tripsit_name": null,
+      "dist": 12.1344202945
+    },
+    {
+      "name": "trip_ept",
+      "psychonaut_name": null,
+      "tripsit_name": "ept",
+      "dist": 12.1344202945
+    },
+    {
+      "name": "psyc_4-HO-MPT",
+      "psychonaut_name": "4-HO-MPT",
+      "tripsit_name": null,
+      "dist": 13.5354561204
+    },
+    {
+      "name": "trip_4-ho-mpt",
+      "psychonaut_name": null,
+      "tripsit_name": "4-ho-mpt",
+      "dist": 13.5354561204
+    },
+    {
+      "name": "psyc_4-HO-DET",
+      "psychonaut_name": "4-HO-DET",
+      "tripsit_name": null,
+      "dist": 13.6075394769
+    },
+    {
+      "name": "trip_4-ho-det",
+      "psychonaut_name": null,
+      "tripsit_name": "4-ho-det",
+      "dist": 13.6075394769
+    },
+    {
+      "name": "psyc_4-AcO-DET",
+      "psychonaut_name": "4-AcO-DET",
+      "tripsit_name": null,
+      "dist": 16.3479638001
+    },
+    {
+      "name": "trip_4-aco-det",
+      "psychonaut_name": null,
+      "tripsit_name": "4-aco-det",
+      "dist": 16.3479638001
+    },
+    {
+      "name": "trip_pipt",
+      "psychonaut_name": null,
+      "tripsit_name": "pipt",
+      "dist": 16.3763734664
+    }
+  ]
+}

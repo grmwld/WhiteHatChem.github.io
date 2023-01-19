@@ -1,0 +1,136 @@
+{
+  "inchi": "InChI=1S/C13H19NO3/c1-4-7-17-13-11(15-2)8-10(5-6-14)9-12(13)16-3/h4,8-9H,1,5-7,14H2,2-3H3",
+  "psychonaut_name": null,
+  "tripsit_name": "allylescaline",
+  "synonyms": [
+    "al"
+  ],
+  "distances": [
+    1.3487e-06,
+    14.9099853442,
+    14.9099853442,
+    17.805714168,
+    17.805714168,
+    18.4059598476,
+    18.4059598476,
+    19.0477009345,
+    19.0477009345,
+    20.0213752962,
+    20.0213752962,
+    20.5625281986,
+    20.5625281986,
+    21.0387520865,
+    21.3571574379
+  ],
+  "indices": [
+    101,
+    636,
+    222,
+    163,
+    728,
+    715,
+    283,
+    220,
+    620,
+    34,
+    421,
+    756,
+    31,
+    444,
+    717
+  ],
+  "name": "trip_allylescaline",
+  "svg": "trip_allylescaline.svg",
+  "sim": [
+    {
+      "name": "psyc_Allylescaline",
+      "psychonaut_name": "Allylescaline",
+      "tripsit_name": null,
+      "dist": 1.3487e-06
+    },
+    {
+      "name": "trip_methallylescaline",
+      "psychonaut_name": null,
+      "tripsit_name": "methallylescaline",
+      "dist": 14.9099853442
+    },
+    {
+      "name": "psyc_Methallylescaline",
+      "psychonaut_name": "Methallylescaline",
+      "tripsit_name": null,
+      "dist": 14.9099853442
+    },
+    {
+      "name": "psyc_Escaline",
+      "psychonaut_name": "Escaline",
+      "tripsit_name": null,
+      "dist": 17.805714168
+    },
+    {
+      "name": "trip_escaline",
+      "psychonaut_name": null,
+      "tripsit_name": "escaline",
+      "dist": 17.805714168
+    },
+    {
+      "name": "trip_proscaline",
+      "psychonaut_name": null,
+      "tripsit_name": "proscaline",
+      "dist": 18.4059598476
+    },
+    {
+      "name": "psyc_Proscaline",
+      "psychonaut_name": "Proscaline",
+      "tripsit_name": null,
+      "dist": 18.4059598476
+    },
+    {
+      "name": "psyc_Mescaline",
+      "psychonaut_name": "Mescaline",
+      "tripsit_name": null,
+      "dist": 19.0477009345
+    },
+    {
+      "name": "trip_mescaline",
+      "psychonaut_name": null,
+      "tripsit_name": "mescaline",
+      "dist": 19.0477009345
+    },
+    {
+      "name": "psyc_2C-P",
+      "psychonaut_name": "2C-P",
+      "tripsit_name": null,
+      "dist": 20.0213752962
+    },
+    {
+      "name": "trip_2c-p",
+      "psychonaut_name": null,
+      "tripsit_name": "2c-p",
+      "dist": 20.0213752962
+    },
+    {
+      "name": "trip_2c-e",
+      "psychonaut_name": null,
+      "tripsit_name": "2c-e",
+      "dist": 20.5625281986
+    },
+    {
+      "name": "psyc_2C-E",
+      "psychonaut_name": "2C-E",
+      "tripsit_name": null,
+      "dist": 20.5625281986
+    },
+    {
+      "name": "trip_cyclopropylmescaline",
+      "psychonaut_name": null,
+      "tripsit_name": "cyclopropylmescaline",
+      "dist": 21.0387520865
+    },
+    {
+      "name": "trip_isoproscaline",
+      "psychonaut_name": null,
+      "tripsit_name": "isoproscaline",
+      "dist": 21.3571574379
+    }
+  ]
+}

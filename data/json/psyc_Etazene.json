@@ -1,0 +1,150 @@
+{
+  "inchi": "InChI=1S/C22H29N3O/c1-4-24(5-2)15-16-25-21-10-8-7-9-20(21)23-22(25)17-18-11-13-19(14-12-18)26-6-3/h7-14H,4-6,15-17H2,1-3H3",
+  "psychonaut_name": "Etazene",
+  "tripsit_name": null,
+  "synonyms": [
+    "Etazen",
+    "14030-76-3",
+    "UNII-H7YW5L26CS",
+    "DEA NO. 9765",
+    "Etodesnitazene",
+    "DTXSID601336496",
+    "2-(2-(4-ethoxybenzyl)-1H-benzimidazol-1-yl)-N,N-diethylethan-1-amine",
+    "Benzimidazole, 1-(2-(diethylamino)ethyl)-2-(p-ethoxybenzyl)-",
+    "H7YW5L26CS",
+    "Etazene",
+    "1H-Benzimidazole-1-ethanamine, 2-((4-ethoxyphenyl)methyl)-N,N-diethyl-",
+    "2-((4-Ethoxyphenyl)methyl)-N,N-diethyl-1H-benzimidazole-1-ethanamine",
+    "N,N-diethyl-2-{[(4-ethoxyphenyl)methyl]-1h-benzimidazol-1-yl}-ethan-1-amine",
+    "Etazone",
+    "Desnitroetonitazene"
+  ],
+  "distances": [
+    3.3036e-06,
+    22.3093868189,
+    23.6564396356,
+    23.6564396356,
+    26.6525197969,
+    27.33512029,
+    27.7341439251,
+    28.5034873569,
+    28.6766610873,
+    28.8971132097,
+    28.9057738559,
+    29.0438227535,
+    29.6030861973,
+    29.6030861973,
+    29.6833159058
+  ],
+  "indices": [
+    164,
+    535,
+    109,
+    810,
+    297,
+    845,
+    193,
+    336,
+    406,
+    469,
+    22,
+    194,
+    87,
+    587,
+    847
+  ],
+  "name": "psyc_Etazene",
+  "svg": "psyc_Etazene.svg",
+  "sim": [
+    {
+      "name": "psyc_Etazene",
+      "psychonaut_name": "Etazene",
+      "tripsit_name": null,
+      "dist": 3.3036e-06
+    },
+    {
+      "name": "trip_clonitazene",
+      "psychonaut_name": null,
+      "tripsit_name": "clonitazene",
+      "dist": 22.3093868189
+    },
+    {
+      "name": "psyc_Benzydamine",
+      "psychonaut_name": "Benzydamine",
+      "tripsit_name": null,
+      "dist": 23.6564396356
+    },
+    {
+      "name": "trip_benzydamine",
+      "psychonaut_name": null,
+      "tripsit_name": "benzydamine",
+      "dist": 23.6564396356
+    },
+    {
+      "name": "psyc_THJ-018",
+      "psychonaut_name": "THJ-018",
+      "tripsit_name": null,
+      "dist": 26.6525197969
+    },
+    {
+      "name": "trip_flurazepam",
+      "psychonaut_name": null,
+      "tripsit_name": "flurazepam",
+      "dist": 27.33512029
+    },
+    {
+      "name": "psyc_JWH-018",
+      "psychonaut_name": "JWH-018",
+      "tripsit_name": null,
+      "dist": 27.7341439251
+    },
+    {
+      "name": "trip_4-aco-dpt",
+      "psychonaut_name": null,
+      "tripsit_name": "4-aco-dpt",
+      "dist": 28.5034873569
+    },
+    {
+      "name": "trip_5-meo-dpt",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-dpt",
+      "dist": 28.6766610873
+    },
+    {
+      "name": "trip_prl-8-53",
+      "psychonaut_name": null,
+      "tripsit_name": "prl-8-53",
+      "dist": 28.8971132097
+    },
+    {
+      "name": "psyc_25E-NBOH",
+      "psychonaut_name": "25E-NBOH",
+      "tripsit_name": null,
+      "dist": 28.9057738559
+    },
+    {
+      "name": "psyc_JWH-073",
+      "psychonaut_name": "JWH-073",
+      "tripsit_name": null,
+      "dist": 29.0438227535
+    },
+    {
+      "name": "psyc_5F-PB-22",
+      "psychonaut_name": "5F-PB-22",
+      "tripsit_name": null,
+      "dist": 29.6030861973
+    },
+    {
+      "name": "trip_5f-pb-22",
+      "psychonaut_name": null,
+      "tripsit_name": "5f-pb-22",
+      "dist": 29.6030861973
+    },
+    {
+      "name": "trip_25p-nbome",
+      "psychonaut_name": null,
+      "tripsit_name": "25p-nbome",
+      "dist": 29.6833159058
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "inchi": "InChI=1S/C12H19NO3/c1-8(13)5-9-6-11(15-3)12(16-4)7-10(9)14-2/h6-8H,5,13H2,1-4H3",
+  "psychonaut_name": "TMA-2",
+  "tripsit_name": null,
+  "synonyms": [
+    "UNII-713Z3SL0TJ",
+    "Benzeneethanamine,2,4,5-trimethoxy-.alpha.-methyl-(.+/-.)-",
+    "Benzeneethanamine, 2,4,5-trimethoxy-alpha-methyl-, (+-)-",
+    "713Z3SL0TJ",
+    "2,4,5-Trimethoxyphenylisopropylamine",
+    "Benzeneethanamine, 2,4,5-trimethoxy-.alpha.-methyl-",
+    "2,4,5-Trimethoxyamphetamine",
+    "2,4,5-TRIMETHOXYAMPHETAMIN",
+    "2,4,5-TRIMETHOXYAMPHETAMINE, DL-",
+    "2,4,5-Trimethoxy-.alpha.-methylphenethylamine",
+    "TMA-2",
+    "DTXSID00874364",
+    "DL-2,4,5-TRIMETHOXYAMPHETAMINE",
+    "1083-09-6",
+    "2,4,5-Trimethoxy-alpha-methylbenzeneethanamine",
+    "22199-15-1",
+    "J13.143A",
+    "BAA08309",
+    "Phenethylamine, alpha-methyl-2,4,5-trimethoxy-",
+    "(+/-)1-Methyl-2-(2,4,5-trimethoxy-phenyl)-ethylamine",
+    "1-Methyl-2-(2,4,5-trimethoxyphenyl)ethylamine #",
+    "1-Methyl-2-(2,4,5-trimethoxy-phenyl)-ethylamine(2,4,5-TMA)",
+    "(+/-)-1-(2,4,5-TRIMETHOXYPHENYL)-2-AMINOPROPANE",
+    "AKOS000161117",
+    "1-(2,4,5-trimethoxyphenyl)propan-2-amine",
+    "Phenethylamine, .alpha.-methyl-2,4,5-trimethoxy-",
+    "Phenethylamine, 2,4,5-trimethoxy-alpha-methyl-",
+    "BDBM50005253",
+    "2,4,5-Trimethoxy-alpha-methylphenethylamine",
+    "Phenethylamine, 2,4,5-trimethoxy-.alpha.-methyl-",
+    "CHEMBL8389",
+    "SCHEMBL398580",
+    "2,4,5-TMA",
+    "1-Methyl-2-(2,4,5-trimethoxy-phenyl)-ethylamine"
+  ],
+  "distances": [
+    0.0,
+    3.275390625,
+    3.6767636485,
+    3.6767636485,
+    8.706939245,
+    9.0507825144,
+    9.0507825144,
+    9.2289502626,
+    9.2289502626,
+    9.7849550878,
+    11.5890827501,
+    11.5890827501,
+    11.9385653515,
+    12.6539012095,
+    12.9002544526
+  ],
+  "indices": [
+    300,
+    299,
+    701,
+    301,
+    437,
+    667,
+    138,
+    506,
+    54,
+    412,
+    135,
+    581,
+    72,
+    10,
+    621
+  ],
+  "name": "psyc_TMA-2",
+  "svg": "psyc_TMA-2.svg",
+  "sim": [
+    {
+      "name": "psyc_TMA-2",
+      "psychonaut_name": "TMA-2",
+      "tripsit_name": null,
+      "dist": 0.0
+    },
+    {
+      "name": "psyc_TMA",
+      "psychonaut_name": "TMA",
+      "tripsit_name": null,
+      "dist": 3.275390625
+    },
+    {
+      "name": "trip_tma-6",
+      "psychonaut_name": null,
+      "tripsit_name": "tma-6",
+      "dist": 3.6767636485
+    },
+    {
+      "name": "psyc_TMA-6",
+      "psychonaut_name": "TMA-6",
+      "tripsit_name": null,
+      "dist": 3.6767636485
+    },
+    {
+      "name": "trip_mem",
+      "psychonaut_name": null,
+      "tripsit_name": "mem",
+      "dist": 8.706939245
+    },
+    {
+      "name": "trip_dom",
+      "psychonaut_name": null,
+      "tripsit_name": "dom",
+      "dist": 9.0507825144
+    },
+    {
+      "name": "psyc_DOM",
+      "psychonaut_name": "DOM",
+      "tripsit_name": null,
+      "dist": 9.0507825144
+    },
+    {
+      "name": "trip_3c-e",
+      "psychonaut_name": null,
+      "tripsit_name": "3c-e",
+      "dist": 9.2289502626
+    },
+    {
+      "name": "psyc_3C-E",
+      "psychonaut_name": "3C-E",
+      "tripsit_name": null,
+      "dist": 9.2289502626
+    },
+    {
+      "name": "trip_doet",
+      "psychonaut_name": null,
+      "tripsit_name": "doet",
+      "dist": 9.7849550878
+    },
+    {
+      "name": "psyc_DOB",
+      "psychonaut_name": "DOB",
+      "tripsit_name": null,
+      "dist": 11.5890827501
+    },
+    {
+      "name": "trip_dob",
+      "psychonaut_name": null,
+      "tripsit_name": "dob",
+      "dist": 11.5890827501
+    },
+    {
+      "name": "psyc_4C-D",
+      "psychonaut_name": "4C-D",
+      "tripsit_name": null,
+      "dist": 11.9385653515
+    },
+    {
+      "name": "psyc_2,5-DMA",
+      "psychonaut_name": "2,5-DMA",
+      "tripsit_name": null,
+      "dist": 12.6539012095
+    },
+    {
+      "name": "trip_dopr",
+      "psychonaut_name": null,
+      "tripsit_name": "dopr",
+      "dist": 12.9002544526
+    }
+  ]
+}

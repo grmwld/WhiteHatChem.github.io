@@ -1,0 +1,137 @@
+{
+  "inchi": "InChI=1S/C12H17NO/c1-10-12(14-9-8-13(10)2)11-6-4-3-5-7-11/h3-7,10,12H,8-9H2,1-2H3/t10-,12+/m0/s1",
+  "psychonaut_name": null,
+  "tripsit_name": "mephenmetrazine",
+  "synonyms": [
+    "4-mpm",
+    "4-methylphenmetrazine"
+  ],
+  "distances": [
+    14.0333008489,
+    14.0333008489,
+    15.0317788775,
+    15.0317788775,
+    15.0812997589,
+    15.5037817495,
+    15.7470191678,
+    15.7470191678,
+    15.8546117385,
+    17.7370179749,
+    19.743203068,
+    19.8714650207,
+    21.1983020894,
+    21.3004091035,
+    21.4359546694
+  ],
+  "indices": [
+    272,
+    706,
+    604,
+    45,
+    466,
+    448,
+    247,
+    763,
+    477,
+    553,
+    761,
+    484,
+    327,
+    656,
+    328
+  ],
+  "name": "trip_mephenmetrazine",
+  "svg": "trip_mephenmetrazine.svg",
+  "sim": [
+    {
+      "name": "psyc_Phenmetrazine",
+      "psychonaut_name": "Phenmetrazine",
+      "tripsit_name": null,
+      "dist": 14.0333008489
+    },
+    {
+      "name": "trip_phenmetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "phenmetrazine",
+      "dist": 14.0333008489
+    },
+    {
+      "name": "trip_3-fpm",
+      "psychonaut_name": null,
+      "tripsit_name": "3-fpm",
+      "dist": 15.0317788775
+    },
+    {
+      "name": "psyc_3-FPM",
+      "psychonaut_name": "3-FPM",
+      "tripsit_name": null,
+      "dist": 15.0317788775
+    },
+    {
+      "name": "trip_4-fpm",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fpm",
+      "dist": 15.0812997589
+    },
+    {
+      "name": "trip_phenetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "phenetrazine",
+      "dist": 15.5037817495
+    },
+    {
+      "name": "psyc_Nicotine",
+      "psychonaut_name": "Nicotine",
+      "tripsit_name": null,
+      "dist": 15.7470191678
+    },
+    {
+      "name": "trip_nicotine",
+      "psychonaut_name": null,
+      "tripsit_name": "nicotine",
+      "dist": 15.7470191678
+    },
+    {
+      "name": "trip_isophenmetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "isophenmetrazine",
+      "dist": 15.8546117385
+    },
+    {
+      "name": "trip_3,6-dmpm",
+      "psychonaut_name": null,
+      "tripsit_name": "3,6-dmpm",
+      "dist": 17.7370179749
+    },
+    {
+      "name": "trip_g-130",
+      "psychonaut_name": null,
+      "tripsit_name": "g-130",
+      "dist": 19.743203068
+    },
+    {
+      "name": "trip_mbzp",
+      "psychonaut_name": null,
+      "tripsit_name": "mbzp",
+      "dist": 19.8714650207
+    },
+    {
+      "name": "trip_4-methylaminorex",
+      "psychonaut_name": null,
+      "tripsit_name": "4-methylaminorex",
+      "dist": 21.1983020894
+    },
+    {
+      "name": "trip_4-benzylpiperidine",
+      "psychonaut_name": null,
+      "tripsit_name": "4-benzylpiperidine",
+      "dist": 21.3004091035
+    },
+    {
+      "name": "trip_mephtetramine",
+      "psychonaut_name": null,
+      "tripsit_name": "mephtetramine",
+      "dist": 21.4359546694
+    }
+  ]
+}

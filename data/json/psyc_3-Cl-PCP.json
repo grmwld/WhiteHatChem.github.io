@@ -1,0 +1,137 @@
+{
+  "inchi": "InChI=1S/C17H24ClN/c18-16-9-7-8-15(14-16)17(10-3-1-4-11-17)19-12-5-2-6-13-19/h7-9,14H,1-6,10-13H2",
+  "psychonaut_name": "3-Cl-PCP",
+  "tripsit_name": null,
+  "synonyms": [
+    "3-Chloro-PCP",
+    "3-Cl-PCP"
+  ],
+  "distances": [
+    7.6015906025,
+    7.9492206695,
+    7.9492206695,
+    8.953961771,
+    8.953961771,
+    9.581334135,
+    10.7000013262,
+    10.7000013262,
+    10.7451334739,
+    10.7451334739,
+    10.8458650928,
+    11.0957528039,
+    14.1603663778,
+    14.1603663778,
+    24.8558920309
+  ],
+  "indices": [
+    49,
+    260,
+    571,
+    47,
+    648,
+    50,
+    478,
+    53,
+    343,
+    71,
+    537,
+    391,
+    611,
+    52,
+    145
+  ],
+  "name": "psyc_3-Cl-PCP",
+  "svg": "psyc_3-Cl-PCP.svg",
+  "sim": [
+    {
+      "name": "psyc_3-Me-PCP",
+      "psychonaut_name": "3-Me-PCP",
+      "tripsit_name": null,
+      "dist": 7.6015906025
+    },
+    {
+      "name": "psyc_PCP",
+      "psychonaut_name": "PCP",
+      "tripsit_name": null,
+      "dist": 7.9492206695
+    },
+    {
+      "name": "trip_pcp",
+      "psychonaut_name": null,
+      "tripsit_name": "pcp",
+      "dist": 7.9492206695
+    },
+    {
+      "name": "psyc_3-HO-PCP",
+      "psychonaut_name": "3-HO-PCP",
+      "tripsit_name": null,
+      "dist": 8.953961771
+    },
+    {
+      "name": "trip_3-ho-pcp",
+      "psychonaut_name": null,
+      "tripsit_name": "3-ho-pcp",
+      "dist": 8.953961771
+    },
+    {
+      "name": "psyc_3-Me-PCPy",
+      "psychonaut_name": "3-Me-PCPy",
+      "tripsit_name": null,
+      "dist": 9.581334135
+    },
+    {
+      "name": "trip_3-meo-pcp",
+      "psychonaut_name": null,
+      "tripsit_name": "3-meo-pcp",
+      "dist": 10.7000013262
+    },
+    {
+      "name": "psyc_3-MeO-PCP",
+      "psychonaut_name": "3-MeO-PCP",
+      "tripsit_name": null,
+      "dist": 10.7000013262
+    },
+    {
+      "name": "trip_4-meo-pcp",
+      "psychonaut_name": null,
+      "tripsit_name": "4-meo-pcp",
+      "dist": 10.7451334739
+    },
+    {
+      "name": "psyc_4-MeO-PCP",
+      "psychonaut_name": "4-MeO-PCP",
+      "tripsit_name": null,
+      "dist": 10.7451334739
+    },
+    {
+      "name": "trip_rolicyclidine",
+      "psychonaut_name": null,
+      "tripsit_name": "rolicyclidine",
+      "dist": 10.8458650928
+    },
+    {
+      "name": "trip_3-meo-pcpy",
+      "psychonaut_name": null,
+      "tripsit_name": "3-meo-pcpy",
+      "dist": 11.0957528039
+    },
+    {
+      "name": "trip_3-meo-pcmo",
+      "psychonaut_name": null,
+      "tripsit_name": "3-meo-pcmo",
+      "dist": 14.1603663778
+    },
+    {
+      "name": "psyc_3-MeO-PCMo",
+      "psychonaut_name": "3-MeO-PCMo",
+      "tripsit_name": null,
+      "dist": 14.1603663778
+    },
+    {
+      "name": "psyc_Dextromethorphan",
+      "psychonaut_name": "Dextromethorphan",
+      "tripsit_name": null,
+      "dist": 24.8558920309
+    }
+  ]
+}

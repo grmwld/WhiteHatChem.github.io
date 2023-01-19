@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C16H24N2O4/c1-5-17(6-2)11-16(3,4)12-22-15(19)13-7-9-14(10-8-13)18(20)21/h7-10H,5-6,11-12H2,1-4H3",
+  "psychonaut_name": null,
+  "tripsit_name": "nitracaine",
+  "synonyms": null,
+  "distances": [
+    27.8945889603,
+    27.8945889603,
+    30.0066256518,
+    30.0066256518,
+    30.7950209123,
+    31.85078354,
+    32.0334298039,
+    32.6185469402,
+    32.7220628695,
+    32.7220628695,
+    32.7230066775,
+    32.7230066775,
+    32.7952168024,
+    32.7952168024,
+    32.8202539201
+  ],
+  "indices": [
+    544,
+    56,
+    323,
+    59,
+    336,
+    676,
+    406,
+    469,
+    60,
+    792,
+    83,
+    521,
+    776,
+    66,
+    582
+  ],
+  "name": "trip_nitracaine",
+  "svg": "trip_nitracaine.svg",
+  "sim": [
+    {
+      "name": "trip_4-aco-det",
+      "psychonaut_name": null,
+      "tripsit_name": "4-aco-det",
+      "dist": 27.8945889603
+    },
+    {
+      "name": "psyc_4-AcO-DET",
+      "psychonaut_name": "4-AcO-DET",
+      "tripsit_name": null,
+      "dist": 27.8945889603
+    },
+    {
+      "name": "trip_4-aco-met",
+      "psychonaut_name": null,
+      "tripsit_name": "4-aco-met",
+      "dist": 30.0066256518
+    },
+    {
+      "name": "psyc_4-AcO-MET",
+      "psychonaut_name": "4-AcO-MET",
+      "tripsit_name": null,
+      "dist": 30.0066256518
+    },
+    {
+      "name": "trip_4-aco-dpt",
+      "psychonaut_name": null,
+      "tripsit_name": "4-aco-dpt",
+      "dist": 30.7950209123
+    },
+    {
+      "name": "trip_centrophenoxine",
+      "psychonaut_name": null,
+      "tripsit_name": "centrophenoxine",
+      "dist": 31.85078354
+    },
+    {
+      "name": "trip_5-meo-dpt",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-dpt",
+      "dist": 32.0334298039
+    },
+    {
+      "name": "trip_prl-8-53",
+      "psychonaut_name": null,
+      "tripsit_name": "prl-8-53",
+      "dist": 32.6185469402
+    },
+    {
+      "name": "psyc_4-AcO-MiPT",
+      "psychonaut_name": "4-AcO-MiPT",
+      "tripsit_name": null,
+      "dist": 32.7220628695
+    },
+    {
+      "name": "trip_4-aco-mipt",
+      "psychonaut_name": null,
+      "tripsit_name": "4-aco-mipt",
+      "dist": 32.7220628695
+    },
+    {
+      "name": "psyc_5-MeO-EiPT",
+      "psychonaut_name": "5-MeO-EiPT",
+      "tripsit_name": null,
+      "dist": 32.7230066775
+    },
+    {
+      "name": "trip_5-meo-eipt",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-eipt",
+      "dist": 32.7230066775
+    },
+    {
+      "name": "trip_4-ho-ept",
+      "psychonaut_name": null,
+      "tripsit_name": "4-ho-ept",
+      "dist": 32.7952168024
+    },
+    {
+      "name": "psyc_4-HO-EPT",
+      "psychonaut_name": "4-HO-EPT",
+      "tripsit_name": null,
+      "dist": 32.7952168024
+    },
+    {
+      "name": "trip_isomethadone",
+      "psychonaut_name": null,
+      "tripsit_name": "isomethadone",
+      "dist": 32.8202539201
+    }
+  ]
+}

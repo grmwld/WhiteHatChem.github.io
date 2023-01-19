@@ -1,0 +1,136 @@
+{
+  "inchi": "InChI=1S/C15H15NO/c1-15(2,13-9-6-10-16-11-13)14(17)12-7-4-3-5-8-12/h3-11H,1-2H3",
+  "psychonaut_name": null,
+  "tripsit_name": "2-mppp",
+  "synonyms": [
+    "n-piperidinecathinone"
+  ],
+  "distances": [
+    22.2060586171,
+    22.3482594881,
+    22.3482594881,
+    22.3751282076,
+    22.74786434,
+    22.74786434,
+    23.1242121382,
+    23.8085985567,
+    23.8765708846,
+    23.9816328339,
+    23.9816328339,
+    23.9816328339,
+    24.2722443483,
+    24.2722443483,
+    24.8776302001
+  ],
+  "indices": [
+    726,
+    160,
+    411,
+    525,
+    408,
+    154,
+    556,
+    516,
+    554,
+    647,
+    224,
+    369,
+    798,
+    215,
+    371
+  ],
+  "name": "trip_2-mppp",
+  "svg": "trip_2-mppp.svg",
+  "sim": [
+    {
+      "name": "trip_naproxen",
+      "psychonaut_name": null,
+      "tripsit_name": "naproxen",
+      "dist": 22.2060586171
+    },
+    {
+      "name": "psyc_Ephenidine",
+      "psychonaut_name": "Ephenidine",
+      "tripsit_name": null,
+      "dist": 22.3482594881
+    },
+    {
+      "name": "trip_ephenidine",
+      "psychonaut_name": null,
+      "tripsit_name": "ephenidine",
+      "dist": 22.3482594881
+    },
+    {
+      "name": "trip_2-chloro-ephenidine",
+      "psychonaut_name": null,
+      "tripsit_name": "2-chloro-ephenidine",
+      "dist": 22.3751282076
+    },
+    {
+      "name": "trip_doxylamine",
+      "psychonaut_name": null,
+      "tripsit_name": "doxylamine",
+      "dist": 22.74786434
+    },
+    {
+      "name": "psyc_Doxylamine",
+      "psychonaut_name": "Doxylamine",
+      "tripsit_name": null,
+      "dist": 22.74786434
+    },
+    {
+      "name": "trip_methamnetamine",
+      "psychonaut_name": null,
+      "tripsit_name": "methamnetamine",
+      "dist": 23.1242121382
+    },
+    {
+      "name": "trip_bupropion",
+      "psychonaut_name": null,
+      "tripsit_name": "bupropion",
+      "dist": 23.8085985567
+    },
+    {
+      "name": "trip_atomoxetine",
+      "psychonaut_name": null,
+      "tripsit_name": "atomoxetine",
+      "dist": 23.8765708846
+    },
+    {
+      "name": "trip_methaqualone",
+      "psychonaut_name": null,
+      "tripsit_name": "methaqualone",
+      "dist": 23.9816328339
+    },
+    {
+      "name": "psyc_Methaqualone",
+      "psychonaut_name": "Methaqualone",
+      "tripsit_name": null,
+      "dist": 23.9816328339
+    },
+    {
+      "name": "trip_ethaqualone",
+      "psychonaut_name": null,
+      "tripsit_name": "ethaqualone",
+      "dist": 23.9816328339
+    },
+    {
+      "name": "trip_mebroqualone",
+      "psychonaut_name": null,
+      "tripsit_name": "mebroqualone",
+      "dist": 24.2722443483
+    },
+    {
+      "name": "psyc_Mebroqualone",
+      "psychonaut_name": "Mebroqualone",
+      "tripsit_name": null,
+      "dist": 24.2722443483
+    },
+    {
+      "name": "trip_d2pm",
+      "psychonaut_name": null,
+      "tripsit_name": "d2pm",
+      "dist": 24.8776302001
+    }
+  ]
+}

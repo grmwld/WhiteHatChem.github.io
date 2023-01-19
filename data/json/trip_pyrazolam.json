@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C16H12BrN5/c1-10-20-21-15-9-19-16(13-4-2-3-7-18-13)12-8-11(17)5-6-14(12)22(10)15/h2-8H,9H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "pyrazolam",
+  "synonyms": null,
+  "distances": [
+    2.336e-06,
+    7.0435344619,
+    7.0435344619,
+    9.6961277105,
+    9.6961277105,
+    11.1752146178,
+    11.1752146178,
+    13.1161597135,
+    13.1161597135,
+    13.2942543182,
+    14.6942943685,
+    14.6942943685,
+    14.6972893739,
+    15.6485803515,
+    15.6485803515
+  ],
+  "indices": [
+    748,
+    664,
+    111,
+    449,
+    175,
+    103,
+    378,
+    173,
+    738,
+    654,
+    312,
+    691,
+    787,
+    843,
+    176
+  ],
+  "name": "trip_pyrazolam",
+  "svg": "trip_pyrazolam.svg",
+  "sim": [
+    {
+      "name": "trip_pyrazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "pyrazolam",
+      "dist": 2.336e-06
+    },
+    {
+      "name": "trip_bromazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "bromazolam",
+      "dist": 7.0435344619
+    },
+    {
+      "name": "psyc_Bromazolam",
+      "psychonaut_name": "Bromazolam",
+      "tripsit_name": null,
+      "dist": 7.0435344619
+    },
+    {
+      "name": "trip_flubromazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "flubromazolam",
+      "dist": 9.6961277105
+    },
+    {
+      "name": "psyc_Flubromazolam",
+      "psychonaut_name": "Flubromazolam",
+      "tripsit_name": null,
+      "dist": 9.6961277105
+    },
+    {
+      "name": "psyc_Alprazolam",
+      "psychonaut_name": "Alprazolam",
+      "tripsit_name": null,
+      "dist": 11.1752146178
+    },
+    {
+      "name": "trip_alprazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "alprazolam",
+      "dist": 11.1752146178
+    },
+    {
+      "name": "psyc_Flualprazolam",
+      "psychonaut_name": "Flualprazolam",
+      "tripsit_name": null,
+      "dist": 13.1161597135
+    },
+    {
+      "name": "trip_flualprazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "flualprazolam",
+      "dist": 13.1161597135
+    },
+    {
+      "name": "trip_brotizolam",
+      "psychonaut_name": null,
+      "tripsit_name": "brotizolam",
+      "dist": 13.2942543182
+    },
+    {
+      "name": "psyc_Triazolam",
+      "psychonaut_name": "Triazolam",
+      "tripsit_name": null,
+      "dist": 14.6942943685
+    },
+    {
+      "name": "trip_triazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "triazolam",
+      "dist": 14.6942943685
+    },
+    {
+      "name": "trip_estazolam",
+      "psychonaut_name": null,
+      "tripsit_name": "estazolam",
+      "dist": 14.6972893739
+    },
+    {
+      "name": "trip_fluclotizolam",
+      "psychonaut_name": null,
+      "tripsit_name": "fluclotizolam",
+      "dist": 15.6485803515
+    },
+    {
+      "name": "psyc_Fluclotizolam",
+      "psychonaut_name": "Fluclotizolam",
+      "tripsit_name": null,
+      "dist": 15.6485803515
+    }
+  ]
+}

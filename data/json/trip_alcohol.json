@@ -1,0 +1,140 @@
+{
+  "inchi": "InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "alcohol",
+  "synonyms": [
+    "etoh",
+    "beer",
+    "ethanol",
+    "booze",
+    "hooch"
+  ],
+  "distances": [
+    3.372e-07,
+    14.8613048949,
+    19.2902118747,
+    19.2902118747,
+    20.5140251006,
+    20.5140251006,
+    20.7520037683,
+    20.7520037683,
+    20.797812655,
+    22.5058274246,
+    22.5058274246,
+    22.510279363,
+    22.510279363,
+    25.2679609117,
+    26.4275027733
+  ],
+  "indices": [
+    99,
+    757,
+    579,
+    2,
+    474,
+    39,
+    338,
+    179,
+    540,
+    766,
+    249,
+    353,
+    180,
+    450,
+    399
+  ],
+  "name": "trip_alcohol",
+  "svg": "trip_alcohol.svg",
+  "sim": [
+    {
+      "name": "psyc_Alcohol",
+      "psychonaut_name": "Alcohol",
+      "tripsit_name": null,
+      "dist": 3.372e-07
+    },
+    {
+      "name": "trip_diethyl-ether",
+      "psychonaut_name": null,
+      "tripsit_name": "diethyl-ether",
+      "dist": 14.8613048949
+    },
+    {
+      "name": "trip_1,4-butanediol",
+      "psychonaut_name": null,
+      "tripsit_name": "1,4-butanediol",
+      "dist": 19.2902118747
+    },
+    {
+      "name": "psyc_1,4-Butanediol",
+      "psychonaut_name": "1,4-Butanediol",
+      "tripsit_name": null,
+      "dist": 19.2902118747
+    },
+    {
+      "name": "trip_2-methyl-2-butanol",
+      "psychonaut_name": null,
+      "tripsit_name": "2-methyl-2-butanol",
+      "dist": 20.5140251006
+    },
+    {
+      "name": "psyc_2M2B",
+      "psychonaut_name": "2M2B",
+      "tripsit_name": null,
+      "dist": 20.5140251006
+    },
+    {
+      "name": "trip_gbl",
+      "psychonaut_name": null,
+      "tripsit_name": "gbl",
+      "dist": 20.7520037683
+    },
+    {
+      "name": "psyc_GBL",
+      "psychonaut_name": "GBL",
+      "tripsit_name": null,
+      "dist": 20.7520037683
+    },
+    {
+      "name": "trip_chloroform",
+      "psychonaut_name": null,
+      "tripsit_name": "chloroform",
+      "dist": 20.797812655
+    },
+    {
+      "name": "trip_nitrous",
+      "psychonaut_name": null,
+      "tripsit_name": "nitrous",
+      "dist": 22.5058274246
+    },
+    {
+      "name": "psyc_Nitrous",
+      "psychonaut_name": "Nitrous",
+      "tripsit_name": null,
+      "dist": 22.5058274246
+    },
+    {
+      "name": "trip_ghb",
+      "psychonaut_name": null,
+      "tripsit_name": "ghb",
+      "dist": 22.510279363
+    },
+    {
+      "name": "psyc_GHB",
+      "psychonaut_name": "GHB",
+      "tripsit_name": null,
+      "dist": 22.510279363
+    },
+    {
+      "name": "trip_gaba",
+      "psychonaut_name": null,
+      "tripsit_name": "gaba",
+      "dist": 25.2679609117
+    },
+    {
+      "name": "trip_clomethiazole",
+      "psychonaut_name": null,
+      "tripsit_name": "clomethiazole",
+      "dist": 26.4275027733
+    }
+  ]
+}

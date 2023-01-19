@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C19H23NO3/c1-3-22-15-7-4-11-10-13-12-5-6-14(21)18-19(12,8-9-20(13)2)16(11)17(15)23-18/h4-7,12-14,18,21H,3,8-10H2,1-2H3/t12-,13+,14-,18-,19-/m0/s1",
+  "psychonaut_name": null,
+  "tripsit_name": "ethylmorphine",
+  "synonyms": null,
+  "distances": [
+    3.3036e-06,
+    8.7069401212,
+    8.7069401212,
+    14.3247311232,
+    14.3247311232,
+    18.4637748097,
+    18.4637748097,
+    20.637869594,
+    21.7226278013,
+    21.7226278013,
+    22.7154439543,
+    22.7154439543,
+    24.1737346267,
+    24.3021221223,
+    24.3021221223
+  ],
+  "indices": [
+    709,
+    128,
+    650,
+    610,
+    239,
+    827,
+    151,
+    183,
+    188,
+    675,
+    189,
+    388,
+    142,
+    428,
+    256
+  ],
+  "name": "trip_ethylmorphine",
+  "svg": "trip_ethylmorphine.svg",
+  "sim": [
+    {
+      "name": "trip_ethylmorphine",
+      "psychonaut_name": null,
+      "tripsit_name": "ethylmorphine",
+      "dist": 3.3036e-06
+    },
+    {
+      "name": "psyc_Codeine",
+      "psychonaut_name": "Codeine",
+      "tripsit_name": null,
+      "dist": 8.7069401212
+    },
+    {
+      "name": "trip_codeine",
+      "psychonaut_name": null,
+      "tripsit_name": "codeine",
+      "dist": 8.7069401212
+    },
+    {
+      "name": "trip_morphine",
+      "psychonaut_name": null,
+      "tripsit_name": "morphine",
+      "dist": 14.3247311232
+    },
+    {
+      "name": "psyc_Morphine",
+      "psychonaut_name": "Morphine",
+      "tripsit_name": null,
+      "dist": 14.3247311232
+    },
+    {
+      "name": "trip_dihydrocodeine",
+      "psychonaut_name": null,
+      "tripsit_name": "dihydrocodeine",
+      "dist": 18.4637748097
+    },
+    {
+      "name": "psyc_Dihydrocodeine",
+      "psychonaut_name": "Dihydrocodeine",
+      "tripsit_name": null,
+      "dist": 18.4637748097
+    },
+    {
+      "name": "psyc_Galantamine",
+      "psychonaut_name": "Galantamine",
+      "tripsit_name": null,
+      "dist": 20.637869594
+    },
+    {
+      "name": "psyc_Hydrocodone",
+      "psychonaut_name": "Hydrocodone",
+      "tripsit_name": null,
+      "dist": 21.7226278013
+    },
+    {
+      "name": "trip_hydrocodone",
+      "psychonaut_name": null,
+      "tripsit_name": "hydrocodone",
+      "dist": 21.7226278013
+    },
+    {
+      "name": "psyc_Hydromorphone",
+      "psychonaut_name": "Hydromorphone",
+      "tripsit_name": null,
+      "dist": 22.7154439543
+    },
+    {
+      "name": "trip_hydromorphone",
+      "psychonaut_name": null,
+      "tripsit_name": "hydromorphone",
+      "dist": 22.7154439543
+    },
+    {
+      "name": "psyc_Desomorphine",
+      "psychonaut_name": "Desomorphine",
+      "tripsit_name": null,
+      "dist": 24.1737346267
+    },
+    {
+      "name": "trip_oxycodone",
+      "psychonaut_name": null,
+      "tripsit_name": "oxycodone",
+      "dist": 24.3021221223
+    },
+    {
+      "name": "psyc_Oxycodone",
+      "psychonaut_name": "Oxycodone",
+      "tripsit_name": null,
+      "dist": 24.3021221223
+    }
+  ]
+}

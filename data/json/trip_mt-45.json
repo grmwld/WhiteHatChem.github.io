@@ -1,0 +1,137 @@
+{
+  "inchi": "InChI=1S/C24H32N2/c1-4-10-21(11-5-1)20-24(22-12-6-2-7-13-22)26-18-16-25(17-19-26)23-14-8-3-9-15-23/h1-2,4-7,10-13,23-24H,3,8-9,14-20H2",
+  "psychonaut_name": null,
+  "tripsit_name": "mt-45",
+  "synonyms": [
+    "ic-6",
+    "mt45"
+  ],
+  "distances": [
+    21.8219508817,
+    22.1724289979,
+    24.3253939841,
+    25.7571513791,
+    25.7571513791,
+    27.9740905778,
+    27.9740905778,
+    28.1654353428,
+    28.9798966806,
+    29.8430648645,
+    29.8430648645,
+    30.1418440332,
+    30.521320833,
+    30.5447119998,
+    30.5447119998
+  ],
+  "indices": [
+    739,
+    407,
+    720,
+    228,
+    629,
+    153,
+    403,
+    345,
+    714,
+    337,
+    97,
+    518,
+    687,
+    348,
+    172
+  ],
+  "name": "trip_mt-45",
+  "svg": "trip_mt-45.svg",
+  "sim": [
+    {
+      "name": "trip_indapyrophenidone",
+      "psychonaut_name": null,
+      "tripsit_name": "indapyrophenidone",
+      "dist": 21.8219508817
+    },
+    {
+      "name": "trip_cyclopentyl-fentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "cyclopentyl-fentanyl",
+      "dist": 22.1724289979
+    },
+    {
+      "name": "trip_palfium",
+      "psychonaut_name": null,
+      "tripsit_name": "palfium",
+      "dist": 24.3253939841
+    },
+    {
+      "name": "psyc_Methoxphenidine",
+      "psychonaut_name": "Methoxphenidine",
+      "tripsit_name": null,
+      "dist": 25.7571513791
+    },
+    {
+      "name": "trip_methoxphenidine",
+      "psychonaut_name": null,
+      "tripsit_name": "methoxphenidine",
+      "dist": 25.7571513791
+    },
+    {
+      "name": "psyc_Diphenidine",
+      "psychonaut_name": "Diphenidine",
+      "tripsit_name": null,
+      "dist": 27.9740905778
+    },
+    {
+      "name": "trip_diphenidine",
+      "psychonaut_name": null,
+      "tripsit_name": "diphenidine",
+      "dist": 27.9740905778
+    },
+    {
+      "name": "trip_hydroxyzine",
+      "psychonaut_name": null,
+      "tripsit_name": "hydroxyzine",
+      "dist": 28.1654353428
+    },
+    {
+      "name": "trip_dipipanone",
+      "psychonaut_name": null,
+      "tripsit_name": "dipipanone",
+      "dist": 28.9798966806
+    },
+    {
+      "name": "trip_acetylfentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "acetylfentanyl",
+      "dist": 29.8430648645
+    },
+    {
+      "name": "psyc_Acetylfentanyl",
+      "psychonaut_name": "Acetylfentanyl",
+      "tripsit_name": null,
+      "dist": 29.8430648645
+    },
+    {
+      "name": "trip_pre-084",
+      "psychonaut_name": null,
+      "tripsit_name": "pre-084",
+      "dist": 30.1418440332
+    },
+    {
+      "name": "trip_parafluorofentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "parafluorofentanyl",
+      "dist": 30.521320833
+    },
+    {
+      "name": "trip_fentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "fentanyl",
+      "dist": 30.5447119998
+    },
+    {
+      "name": "psyc_Fentanyl",
+      "psychonaut_name": "Fentanyl",
+      "tripsit_name": null,
+      "dist": 30.5447119998
+    }
+  ]
+}

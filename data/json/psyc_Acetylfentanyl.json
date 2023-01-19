@@ -1,0 +1,176 @@
+{
+  "inchi": "InChI=1S/C21H26N2O/c1-18(24)23(20-10-6-3-7-11-20)21-13-16-22(17-14-21)15-12-19-8-4-2-5-9-19/h2-11,21H,12-17H2,1H3",
+  "psychonaut_name": "Acetylfentanyl",
+  "tripsit_name": null,
+  "synonyms": [
+    "N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]acetamide",
+    "N-(1-Phenethyl-piperidin-4-yl)-N-phenyl-acetamide",
+    "Acetyl fentanyl-13C6 solution, 100 mug/mL in methanol, ampule of 1 mL, certified reference material",
+    "J125.906G",
+    "Fentanyl specified impurity C [EP]",
+    "Q15408427",
+    "Acetyl fentanyl solution, 1.0 mg/mL in methanol, ampule of 1 mL, certified reference material",
+    "AKOS025149437",
+    "AM806987",
+    "N-(1-phenethylpiperidin-4-yl)-N-phenylacetamide",
+    "FENTANYL RELATED COMPOUND G [USP IMPURITY]",
+    "Piperidine, 1-phenethyl-4-(N-phenylacetamido)-",
+    "1-(2-phenylethyl)-4-(N-acetylphenylamino)piperidine",
+    "Acetylfentanyl",
+    "ZINC12650422",
+    "3258-84-2",
+    "Fentanyl related compound G",
+    "(N-(1-Phenethylpiperidin-4-yl)-N-phenylacetamide)",
+    "AS-38221",
+    "FENTANYL RELATED COMPOUND G CI",
+    "FENTANYL IMPURITY C [EP IMPURITY]",
+    "SCHEMBL684578",
+    "FENTANYL CITRATE IMPURITY C [EP IMPURITY]",
+    "FENTANYL RELATED COMPOUND G CI [USP-RS]",
+    "UNII-6DZ28538KS",
+    "Fentanyl impurity C [EP]",
+    "Acetyl fentanyl",
+    "N-Phenyl-N-(1-(2-phenylethyl)piperidin-4-yl)acetamide",
+    "6DZ28538KS",
+    "N-Phenyl-N-[1-(2-phenylethyl)-4-piperidinyl]acetamide #",
+    "Acetamide, N-phenyl-N-(1-(2-phenylethyl)-4-piperidinyl)-",
+    "MFCD07369982",
+    "Fentanyl acetyl analog",
+    "Acetyl fentanyl solution, 50 mug/mL in methanol, certified reference material, ampule of 1 mL",
+    "DEA No. 9821",
+    "DTXSID80186275",
+    "Acetanilide, N-(1-phenethyl-4-piperidyl)-",
+    "Fentanyl related compound G [USP]",
+    "Acetamide, N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl]-",
+    "Acetyl fentanyl-13C6 solution, 50 mug/mL in methanol, certified reference material, ampule of 1 mL",
+    "Acetyl fentanyl solution"
+  ],
+  "distances": [
+    1.9073e-06,
+    8.8763873668,
+    8.8763873668,
+    12.6326216552,
+    12.9128797004,
+    14.2691569808,
+    15.1944082114,
+    17.7365499768,
+    19.4153302214,
+    19.7852152486,
+    22.5650623166,
+    22.5650623166,
+    22.9963853732,
+    23.6919830026,
+    23.9344630294
+  ],
+  "indices": [
+    97,
+    172,
+    348,
+    612,
+    687,
+    350,
+    762,
+    746,
+    692,
+    834,
+    228,
+    629,
+    467,
+    592,
+    407
+  ],
+  "name": "psyc_Acetylfentanyl",
+  "svg": "psyc_Acetylfentanyl.svg",
+  "sim": [
+    {
+      "name": "psyc_Acetylfentanyl",
+      "psychonaut_name": "Acetylfentanyl",
+      "tripsit_name": null,
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "psyc_Fentanyl",
+      "psychonaut_name": "Fentanyl",
+      "tripsit_name": null,
+      "dist": 8.8763873668
+    },
+    {
+      "name": "trip_fentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "fentanyl",
+      "dist": 8.8763873668
+    },
+    {
+      "name": "trip_methoxyacetyl-fentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "methoxyacetyl-fentanyl",
+      "dist": 12.6326216552
+    },
+    {
+      "name": "trip_parafluorofentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "parafluorofentanyl",
+      "dist": 12.9128797004
+    },
+    {
+      "name": "trip_butyrfentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "butyrfentanyl",
+      "dist": 14.2691569808
+    },
+    {
+      "name": "trip_acryl-fentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "acryl-fentanyl",
+      "dist": 15.1944082114
+    },
+    {
+      "name": "trip_parafluorobutyrfentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "parafluorobutyrfentanyl",
+      "dist": 17.7365499768
+    },
+    {
+      "name": "trip_valerylfentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "valerylfentanyl",
+      "dist": 19.4153302214
+    },
+    {
+      "name": "trip_furanylfentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "furanylfentanyl",
+      "dist": 19.7852152486
+    },
+    {
+      "name": "psyc_Methoxphenidine",
+      "psychonaut_name": "Methoxphenidine",
+      "tripsit_name": null,
+      "dist": 22.5650623166
+    },
+    {
+      "name": "trip_methoxphenidine",
+      "psychonaut_name": null,
+      "tripsit_name": "methoxphenidine",
+      "dist": 22.5650623166
+    },
+    {
+      "name": "trip_naphyrone",
+      "psychonaut_name": null,
+      "tripsit_name": "naphyrone",
+      "dist": 22.9963853732
+    },
+    {
+      "name": "trip_pyrophenidone",
+      "psychonaut_name": null,
+      "tripsit_name": "pyrophenidone",
+      "dist": 23.6919830026
+    },
+    {
+      "name": "trip_cyclopentyl-fentanyl",
+      "psychonaut_name": null,
+      "tripsit_name": "cyclopentyl-fentanyl",
+      "dist": 23.9344630294
+    }
+  ]
+}

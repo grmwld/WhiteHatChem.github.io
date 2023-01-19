@@ -1,0 +1,149 @@
+{
+  "inchi": "InChI=1S/C11H13NO/c1-8(12)6-9-2-3-10-4-5-13-11(10)7-9/h2-5,7-8H,6,12H2,1H3",
+  "psychonaut_name": "6-APB",
+  "tripsit_name": null,
+  "synonyms": [
+    "BenzoFury",
+    "6-BENZOFURANETHANAMINE, .ALPHA.-METHYL-",
+    "UNII-285VE60914",
+    "285VE60914",
+    "1-(benzofuran-6-yl)propan-2-amine",
+    "Benzofury",
+    "1-(1-benzofuran-6-yl)propan-2-amine",
+    "6-APB",
+    "DTXSID401010105",
+    "Q2664395",
+    "SCHEMBL5987271",
+    "J3.334.441D",
+    "6-(2-Aminopropyl)benzofuran",
+    "286834-85-3"
+  ],
+  "distances": [
+    1.3487e-06,
+    1.3487e-06,
+    1.3487e-06,
+    12.0991501691,
+    12.0991501691,
+    12.0991501691,
+    12.3607379147,
+    12.3607379147,
+    12.485321582,
+    12.485321582,
+    12.5510158903,
+    12.837486949,
+    12.837486949,
+    12.8694706867,
+    13.968995777
+  ],
+  "indices": [
+    76,
+    613,
+    88,
+    418,
+    78,
+    640,
+    42,
+    352,
+    61,
+    433,
+    509,
+    752,
+    12,
+    329,
+    354
+  ],
+  "name": "psyc_6-APB",
+  "svg": "psyc_6-APB.svg",
+  "sim": [
+    {
+      "name": "psyc_5-APB",
+      "psychonaut_name": "5-APB",
+      "tripsit_name": null,
+      "dist": 1.3487e-06
+    },
+    {
+      "name": "trip_5-apb",
+      "psychonaut_name": null,
+      "tripsit_name": "5-apb",
+      "dist": 1.3487e-06
+    },
+    {
+      "name": "psyc_6-APB",
+      "psychonaut_name": "6-APB",
+      "tripsit_name": null,
+      "dist": 1.3487e-06
+    },
+    {
+      "name": "trip_5-mapb",
+      "psychonaut_name": null,
+      "tripsit_name": "5-mapb",
+      "dist": 12.0991501691
+    },
+    {
+      "name": "psyc_5-MAPB",
+      "psychonaut_name": "5-MAPB",
+      "tripsit_name": null,
+      "dist": 12.0991501691
+    },
+    {
+      "name": "trip_6-mapb",
+      "psychonaut_name": null,
+      "tripsit_name": "6-mapb",
+      "dist": 12.0991501691
+    },
+    {
+      "name": "psyc_3-FA",
+      "psychonaut_name": "3-FA",
+      "tripsit_name": null,
+      "dist": 12.3607379147
+    },
+    {
+      "name": "trip_3-fa",
+      "psychonaut_name": null,
+      "tripsit_name": "3-fa",
+      "dist": 12.3607379147
+    },
+    {
+      "name": "psyc_4-FA",
+      "psychonaut_name": "4-FA",
+      "tripsit_name": null,
+      "dist": 12.485321582
+    },
+    {
+      "name": "trip_4-fa",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fa",
+      "dist": 12.485321582
+    },
+    {
+      "name": "trip_5-it",
+      "psychonaut_name": null,
+      "tripsit_name": "5-it",
+      "dist": 12.5510158903
+    },
+    {
+      "name": "trip_2-fa",
+      "psychonaut_name": null,
+      "tripsit_name": "2-fa",
+      "dist": 12.837486949
+    },
+    {
+      "name": "psyc_2-FA",
+      "psychonaut_name": "2-FA",
+      "tripsit_name": null,
+      "dist": 12.837486949
+    },
+    {
+      "name": "trip_2-methylamphetamine",
+      "psychonaut_name": null,
+      "tripsit_name": "2-methylamphetamine",
+      "dist": 12.8694706867
+    },
+    {
+      "name": "trip_6-eapb",
+      "psychonaut_name": null,
+      "tripsit_name": "6-eapb",
+      "dist": 13.968995777
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "inchi": "InChI=1S/C21H30O2/c1-5-6-7-8-15-12-18(22)20-16-11-14(2)9-10-17(16)21(3,4)23-19(20)13-15/h11-13,16-17,22H,5-10H2,1-4H3/t16-,17-/m1/s1",
+  "psychonaut_name": null,
+  "tripsit_name": "marinol",
+  "synonyms": [
+    "dronabinol",
+    "syndros",
+    "cesamet",
+    "\u03b49-thc",
+    "\u03b49--tetrahydrocannabinol",
+    "delta9-tetrahydrocannabinol",
+    "delta9-thc"
+  ],
+  "distances": [
+    17.3390319455,
+    21.7695393106,
+    29.2084436201,
+    30.3031074366,
+    30.3031074366,
+    31.5075713247,
+    31.5075713247,
+    32.4652420807,
+    32.4741013847,
+    32.4782097174,
+    32.4782097174,
+    33.0357897336,
+    33.4066482963,
+    33.4066482963,
+    33.6043878506
+  ],
+  "indices": [
+    296,
+    118,
+    840,
+    709,
+    165,
+    675,
+    188,
+    213,
+    183,
+    388,
+    189,
+    308,
+    151,
+    827,
+    128
+  ],
+  "name": "trip_marinol",
+  "svg": "trip_marinol.svg",
+  "sim": [
+    {
+      "name": "psyc_THC-O",
+      "psychonaut_name": "THC-O",
+      "tripsit_name": null,
+      "dist": 17.3390319455
+    },
+    {
+      "name": "psyc_Cannabidiol",
+      "psychonaut_name": "Cannabidiol",
+      "tripsit_name": null,
+      "dist": 21.7695393106
+    },
+    {
+      "name": "trip_pentazocine",
+      "psychonaut_name": null,
+      "tripsit_name": "pentazocine",
+      "dist": 29.2084436201
+    },
+    {
+      "name": "trip_ethylmorphine",
+      "psychonaut_name": null,
+      "tripsit_name": "ethylmorphine",
+      "dist": 30.3031074366
+    },
+    {
+      "name": "psyc_Ethylmorphine",
+      "psychonaut_name": "Ethylmorphine",
+      "tripsit_name": null,
+      "dist": 30.3031074366
+    },
+    {
+      "name": "trip_hydrocodone",
+      "psychonaut_name": null,
+      "tripsit_name": "hydrocodone",
+      "dist": 31.5075713247
+    },
+    {
+      "name": "psyc_Hydrocodone",
+      "psychonaut_name": "Hydrocodone",
+      "tripsit_name": null,
+      "dist": 31.5075713247
+    },
+    {
+      "name": "psyc_MXPr",
+      "psychonaut_name": "MXPr",
+      "tripsit_name": null,
+      "dist": 32.4652420807
+    },
+    {
+      "name": "psyc_Galantamine",
+      "psychonaut_name": "Galantamine",
+      "tripsit_name": null,
+      "dist": 32.4741013847
+    },
+    {
+      "name": "trip_hydromorphone",
+      "psychonaut_name": null,
+      "tripsit_name": "hydromorphone",
+      "dist": 32.4782097174
+    },
+    {
+      "name": "psyc_Hydromorphone",
+      "psychonaut_name": "Hydromorphone",
+      "tripsit_name": null,
+      "dist": 32.4782097174
+    },
+    {
+      "name": "psyc_Thebaine",
+      "psychonaut_name": "Thebaine",
+      "tripsit_name": null,
+      "dist": 33.0357897336
+    },
+    {
+      "name": "psyc_Dihydrocodeine",
+      "psychonaut_name": "Dihydrocodeine",
+      "tripsit_name": null,
+      "dist": 33.4066482963
+    },
+    {
+      "name": "trip_dihydrocodeine",
+      "psychonaut_name": null,
+      "tripsit_name": "dihydrocodeine",
+      "dist": 33.4066482963
+    },
+    {
+      "name": "psyc_Codeine",
+      "psychonaut_name": "Codeine",
+      "tripsit_name": null,
+      "dist": 33.6043878506
+    }
+  ]
+}

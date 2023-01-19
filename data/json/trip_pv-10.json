@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C19H29NO/c1-2-3-4-5-9-14-18(20-15-10-11-16-20)19(21)17-12-7-6-8-13-17/h6-8,12-13,18H,2-5,9-11,14-16H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "pv-10",
+  "synonyms": null,
+  "distances": [
+    5.8999270548,
+    11.7998554027,
+    17.6997821342,
+    17.6997821342,
+    18.4518639427,
+    21.387544576,
+    22.0336469496,
+    23.5997095122,
+    23.5997095122,
+    23.856782204,
+    23.863449738,
+    24.4132574867,
+    25.2288560625,
+    26.5678579155,
+    26.5761385023
+  ],
+  "indices": [
+    727,
+    619,
+    617,
+    91,
+    458,
+    830,
+    467,
+    92,
+    822,
+    405,
+    555,
+    666,
+    846,
+    320,
+    591
+  ],
+  "name": "trip_pv-10",
+  "svg": "trip_pv-10.svg",
+  "sim": [
+    {
+      "name": "trip_pv-9",
+      "psychonaut_name": null,
+      "tripsit_name": "pv-9",
+      "dist": 5.8999270548
+    },
+    {
+      "name": "trip_pv-8",
+      "psychonaut_name": null,
+      "tripsit_name": "pv-8",
+      "dist": 11.7998554027
+    },
+    {
+      "name": "trip_alpha-php",
+      "psychonaut_name": null,
+      "tripsit_name": "alpha-php",
+      "dist": 17.6997821342
+    },
+    {
+      "name": "psyc_A-PHP",
+      "psychonaut_name": "A-PHP",
+      "tripsit_name": null,
+      "dist": 17.6997821342
+    },
+    {
+      "name": "trip_4f-php",
+      "psychonaut_name": null,
+      "tripsit_name": "4f-php",
+      "dist": 18.4518639427
+    },
+    {
+      "name": "trip_5-bpdi",
+      "psychonaut_name": null,
+      "tripsit_name": "5-bpdi",
+      "dist": 21.387544576
+    },
+    {
+      "name": "trip_naphyrone",
+      "psychonaut_name": null,
+      "tripsit_name": "naphyrone",
+      "dist": 22.0336469496
+    },
+    {
+      "name": "psyc_A-PVP",
+      "psychonaut_name": "A-PVP",
+      "tripsit_name": null,
+      "dist": 23.5997095122
+    },
+    {
+      "name": "trip_a-pvp",
+      "psychonaut_name": null,
+      "tripsit_name": "a-pvp",
+      "dist": 23.5997095122
+    },
+    {
+      "name": "trip_4f-pvp",
+      "psychonaut_name": null,
+      "tripsit_name": "4f-pvp",
+      "dist": 23.856782204
+    },
+    {
+      "name": "trip_mdphp",
+      "psychonaut_name": null,
+      "tripsit_name": "mdphp",
+      "dist": 23.863449738
+    },
+    {
+      "name": "trip_bk-ivp",
+      "psychonaut_name": null,
+      "tripsit_name": "bk-ivp",
+      "dist": 24.4132574867
+    },
+    {
+      "name": "trip_5-dbfpv",
+      "psychonaut_name": null,
+      "tripsit_name": "5-dbfpv",
+      "dist": 25.2288560625
+    },
+    {
+      "name": "psyc_\u0391-PiHP",
+      "psychonaut_name": "\u0391-PiHP",
+      "tripsit_name": null,
+      "dist": 26.5678579155
+    },
+    {
+      "name": "trip_propylphenidate",
+      "psychonaut_name": null,
+      "tripsit_name": "propylphenidate",
+      "dist": 26.5761385023
+    }
+  ]
+}

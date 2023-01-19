@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C13H18N2O2/c1-14-7-9-15(10-8-14)13(16)11-3-5-12(17-2)6-4-11/h3-6H,7-10H2,1-2H3",
+  "psychonaut_name": null,
+  "tripsit_name": "methoxypiperamide",
+  "synonyms": null,
+  "distances": [
+    13.445068499,
+    13.445068499,
+    17.1725618678,
+    18.8179611441,
+    18.8179611441,
+    18.8386851221,
+    19.2705871676,
+    19.7087674997,
+    20.2126965194,
+    20.6045345612,
+    21.0580151591,
+    21.0580151591,
+    22.1363647928,
+    22.1475708054,
+    22.4724909145
+  ],
+  "indices": [
+    678,
+    106,
+    484,
+    268,
+    769,
+    440,
+    526,
+    565,
+    405,
+    566,
+    92,
+    822,
+    455,
+    237,
+    51
+  ],
+  "name": "trip_methoxypiperamide",
+  "svg": "trip_methoxypiperamide.svg",
+  "sim": [
+    {
+      "name": "trip_aniracetam",
+      "psychonaut_name": null,
+      "tripsit_name": "aniracetam",
+      "dist": 13.445068499
+    },
+    {
+      "name": "psyc_Aniracetam",
+      "psychonaut_name": "Aniracetam",
+      "tripsit_name": null,
+      "dist": 13.445068499
+    },
+    {
+      "name": "trip_mbzp",
+      "psychonaut_name": null,
+      "tripsit_name": "mbzp",
+      "dist": 17.1725618678
+    },
+    {
+      "name": "psyc_Pethidine",
+      "psychonaut_name": "Pethidine",
+      "tripsit_name": null,
+      "dist": 18.8179611441
+    },
+    {
+      "name": "trip_demerol",
+      "psychonaut_name": null,
+      "tripsit_name": "demerol",
+      "dist": 18.8179611441
+    },
+    {
+      "name": "trip_5-meo-pyr-t",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-pyr-t",
+      "dist": 18.8386851221
+    },
+    {
+      "name": "trip_moclobemide",
+      "psychonaut_name": null,
+      "tripsit_name": "moclobemide",
+      "dist": 19.2705871676
+    },
+    {
+      "name": "trip_\u03b1-pbp",
+      "psychonaut_name": null,
+      "tripsit_name": "\u03b1-pbp",
+      "dist": 19.7087674997
+    },
+    {
+      "name": "trip_4f-pvp",
+      "psychonaut_name": null,
+      "tripsit_name": "4f-pvp",
+      "dist": 20.2126965194
+    },
+    {
+      "name": "trip_ketobemidone",
+      "psychonaut_name": null,
+      "tripsit_name": "ketobemidone",
+      "dist": 20.6045345612
+    },
+    {
+      "name": "psyc_A-PVP",
+      "psychonaut_name": "A-PVP",
+      "tripsit_name": null,
+      "dist": 21.0580151591
+    },
+    {
+      "name": "trip_a-pvp",
+      "psychonaut_name": null,
+      "tripsit_name": "a-pvp",
+      "dist": 21.0580151591
+    },
+    {
+      "name": "trip_5-ppdi",
+      "psychonaut_name": null,
+      "tripsit_name": "5-ppdi",
+      "dist": 22.1363647928
+    },
+    {
+      "name": "psyc_Mirtazapine",
+      "psychonaut_name": "Mirtazapine",
+      "tripsit_name": null,
+      "dist": 22.1475708054
+    },
+    {
+      "name": "psyc_3-MeO-PCE",
+      "psychonaut_name": "3-MeO-PCE",
+      "tripsit_name": null,
+      "dist": 22.4724909145
+    }
+  ]
+}

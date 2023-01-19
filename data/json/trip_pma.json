@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C36H56O8/c1-7-8-9-10-11-12-13-14-15-16-17-18-29(39)43-32-24(3)35(42)27(30-33(5,6)36(30,32)44-25(4)38)20-26(22-37)21-34(41)28(35)19-23(2)31(34)40/h19-20,24,27-28,30,32,37,41-42H,7-18,21-22H2,1-6H3/t24-,27+,28-,30-,32-,34-,35-,36-/m1/s1",
+  "psychonaut_name": null,
+  "tripsit_name": "pma",
+  "synonyms": null,
+  "distances": [
+    3.8147e-06,
+    69.3302783782,
+    69.3302783782,
+    82.3531600411,
+    87.2523112606,
+    88.566232499,
+    90.2922392931,
+    96.4801479337,
+    96.4801479337,
+    97.0634457456,
+    97.1245726744,
+    98.0343829193,
+    98.4502471905,
+    98.4902983404,
+    99.7455160333
+  ],
+  "indices": [
+    483,
+    119,
+    773,
+    813,
+    828,
+    291,
+    292,
+    114,
+    393,
+    296,
+    162,
+    646,
+    532,
+    116,
+    186
+  ],
+  "name": "trip_pma",
+  "svg": "trip_pma.svg",
+  "sim": [
+    {
+      "name": "trip_pma",
+      "psychonaut_name": null,
+      "tripsit_name": "pma",
+      "dist": 3.8147e-06
+    },
+    {
+      "name": "psyc_Cannabis",
+      "psychonaut_name": "Cannabis",
+      "tripsit_name": null,
+      "dist": 69.3302783782
+    },
+    {
+      "name": "trip_cannabis",
+      "psychonaut_name": null,
+      "tripsit_name": "cannabis",
+      "dist": 69.3302783782
+    },
+    {
+      "name": "trip_pst",
+      "psychonaut_name": null,
+      "tripsit_name": "pst",
+      "dist": 82.3531600411
+    },
+    {
+      "name": "trip_ashwagandha",
+      "psychonaut_name": null,
+      "tripsit_name": "ashwagandha",
+      "dist": 87.2523112606
+    },
+    {
+      "name": "psyc_Salvinorin A",
+      "psychonaut_name": "Salvinorin A",
+      "tripsit_name": null,
+      "dist": 88.566232499
+    },
+    {
+      "name": "psyc_Salvinorin B methoxymethyl ether",
+      "psychonaut_name": "Salvinorin B methoxymethyl ether",
+      "tripsit_name": null,
+      "dist": 90.2922392931
+    },
+    {
+      "name": "psyc_Buprenorphine",
+      "psychonaut_name": "Buprenorphine",
+      "tripsit_name": null,
+      "dist": 96.4801479337
+    },
+    {
+      "name": "trip_buprenorphine",
+      "psychonaut_name": null,
+      "tripsit_name": "buprenorphine",
+      "dist": 96.4801479337
+    },
+    {
+      "name": "psyc_THC-O",
+      "psychonaut_name": "THC-O",
+      "tripsit_name": null,
+      "dist": 97.0634457456
+    },
+    {
+      "name": "psyc_Ergotamine",
+      "psychonaut_name": "Ergotamine",
+      "tripsit_name": null,
+      "dist": 97.1245726744
+    },
+    {
+      "name": "trip_nicomorphine",
+      "psychonaut_name": null,
+      "tripsit_name": "nicomorphine",
+      "dist": 98.0343829193
+    },
+    {
+      "name": "trip_viagra",
+      "psychonaut_name": null,
+      "tripsit_name": "viagra",
+      "dist": 98.4502471905
+    },
+    {
+      "name": "psyc_Cabergoline",
+      "psychonaut_name": "Cabergoline",
+      "tripsit_name": null,
+      "dist": 98.4902983404
+    },
+    {
+      "name": "psyc_Heroin",
+      "psychonaut_name": "Heroin",
+      "tripsit_name": null,
+      "dist": 99.7455160333
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C12H21N/c1-10-3-9-4-11(2,6-10)8-12(13,5-9)7-10/h9H,3-8,13H2,1-2H3",
+  "psychonaut_name": null,
+  "tripsit_name": "memantine",
+  "synonyms": null,
+  "distances": [
+    1.9073e-06,
+    27.7812016662,
+    40.8289352436,
+    41.9971210765,
+    42.4491064187,
+    42.4491064187,
+    44.3995434437,
+    44.6592909763,
+    44.6592909763,
+    45.9647373546,
+    45.9647373546,
+    45.9736013543,
+    45.9736013543,
+    45.9978398355,
+    46.0767526923
+  ],
+  "indices": [
+    324,
+    104,
+    309,
+    761,
+    401,
+    181,
+    806,
+    141,
+    730,
+    688,
+    259,
+    517,
+    251,
+    415,
+    196
+  ],
+  "name": "trip_memantine",
+  "svg": "trip_memantine.svg",
+  "sim": [
+    {
+      "name": "trip_memantine",
+      "psychonaut_name": null,
+      "tripsit_name": "memantine",
+      "dist": 1.9073e-06
+    },
+    {
+      "name": "psyc_Amantadine",
+      "psychonaut_name": "Amantadine",
+      "tripsit_name": null,
+      "dist": 27.7812016662
+    },
+    {
+      "name": "psyc_Thujone",
+      "psychonaut_name": "Thujone",
+      "tripsit_name": null,
+      "dist": 40.8289352436
+    },
+    {
+      "name": "trip_g-130",
+      "psychonaut_name": null,
+      "tripsit_name": "g-130",
+      "dist": 41.9971210765
+    },
+    {
+      "name": "trip_gabapentin",
+      "psychonaut_name": null,
+      "tripsit_name": "gabapentin",
+      "dist": 42.4491064187
+    },
+    {
+      "name": "psyc_Gabapentin",
+      "psychonaut_name": "Gabapentin",
+      "tripsit_name": null,
+      "dist": 42.4491064187
+    },
+    {
+      "name": "trip_tiletamine",
+      "psychonaut_name": null,
+      "tripsit_name": "tiletamine",
+      "dist": 44.3995434437
+    },
+    {
+      "name": "psyc_Deschloroketamine",
+      "psychonaut_name": "Deschloroketamine",
+      "tripsit_name": null,
+      "dist": 44.6592909763
+    },
+    {
+      "name": "trip_deschloroketamine",
+      "psychonaut_name": null,
+      "tripsit_name": "deschloroketamine",
+      "dist": 44.6592909763
+    },
+    {
+      "name": "trip_pce",
+      "psychonaut_name": null,
+      "tripsit_name": "pce",
+      "dist": 45.9647373546
+    },
+    {
+      "name": "psyc_PCE",
+      "psychonaut_name": "PCE",
+      "tripsit_name": null,
+      "dist": 45.9647373546
+    },
+    {
+      "name": "trip_o-pce",
+      "psychonaut_name": null,
+      "tripsit_name": "o-pce",
+      "dist": 45.9736013543
+    },
+    {
+      "name": "psyc_O-PCE",
+      "psychonaut_name": "O-PCE",
+      "tripsit_name": null,
+      "dist": 45.9736013543
+    },
+    {
+      "name": "trip_methyprylon",
+      "psychonaut_name": null,
+      "tripsit_name": "methyprylon",
+      "dist": 45.9978398355
+    },
+    {
+      "name": "psyc_Ketamine",
+      "psychonaut_name": "Ketamine",
+      "tripsit_name": null,
+      "dist": 46.0767526923
+    }
+  ]
+}

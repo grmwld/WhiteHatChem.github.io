@@ -1,0 +1,140 @@
+{
+  "inchi": "InChI=1S/C32H46N8O6S2/c1-19(2)31(43)45-11-9-27(21(5)39(17-41)15-25-13-35-23(7)37-29(25)33)47-48-28(10-12-46-32(44)20(3)4)22(6)40(18-42)16-26-14-36-24(8)38-30(26)34/h13-14,17-20H,9-12,15-16H2,1-8H3,(H2,33,35,37)(H2,34,36,38)/b27-21-,28-22-",
+  "psychonaut_name": null,
+  "tripsit_name": "sulbutiamine",
+  "synonyms": [
+    "sulbut",
+    "arcalion",
+    "enerion",
+    "bisibuthiamine",
+    "youvitan"
+  ],
+  "distances": [
+    81.1465988678,
+    90.6325535645,
+    91.9924366371,
+    95.5896840423,
+    95.915271244,
+    97.3692582951,
+    97.3692582951,
+    98.2332851956,
+    100.1109833354,
+    100.8766118598,
+    101.5203951184,
+    101.5203951184,
+    101.8265174129,
+    101.8265174129,
+    102.0762582582
+  ],
+  "indices": [
+    532,
+    813,
+    116,
+    454,
+    817,
+    773,
+    119,
+    6,
+    515,
+    529,
+    3,
+    683,
+    261,
+    483,
+    777
+  ],
+  "name": "trip_sulbutiamine",
+  "svg": "trip_sulbutiamine.svg",
+  "sim": [
+    {
+      "name": "trip_viagra",
+      "psychonaut_name": null,
+      "tripsit_name": "viagra",
+      "dist": 81.1465988678
+    },
+    {
+      "name": "trip_pst",
+      "psychonaut_name": null,
+      "tripsit_name": "pst",
+      "dist": 90.6325535645
+    },
+    {
+      "name": "psyc_Cabergoline",
+      "psychonaut_name": "Cabergoline",
+      "tripsit_name": null,
+      "dist": 91.9924366371
+    },
+    {
+      "name": "trip_acetildenafil",
+      "psychonaut_name": null,
+      "tripsit_name": "acetildenafil",
+      "dist": 95.5896840423
+    },
+    {
+      "name": "trip_doip",
+      "psychonaut_name": null,
+      "tripsit_name": "doip",
+      "dist": 95.915271244
+    },
+    {
+      "name": "trip_cannabis",
+      "psychonaut_name": null,
+      "tripsit_name": "cannabis",
+      "dist": 97.3692582951
+    },
+    {
+      "name": "psyc_Cannabis",
+      "psychonaut_name": "Cannabis",
+      "tripsit_name": null,
+      "dist": 97.3692582951
+    },
+    {
+      "name": "psyc_1V-LSD",
+      "psychonaut_name": "1V-LSD",
+      "tripsit_name": null,
+      "dist": 98.2332851956
+    },
+    {
+      "name": "trip_homosildenafil",
+      "psychonaut_name": null,
+      "tripsit_name": "homosildenafil",
+      "dist": 100.1109833354
+    },
+    {
+      "name": "trip_rilmazafone",
+      "psychonaut_name": null,
+      "tripsit_name": "rilmazafone",
+      "dist": 100.8766118598
+    },
+    {
+      "name": "psyc_1B-LSD",
+      "psychonaut_name": "1B-LSD",
+      "tripsit_name": null,
+      "dist": 101.5203951184
+    },
+    {
+      "name": "trip_1b-lsd",
+      "psychonaut_name": null,
+      "tripsit_name": "1b-lsd",
+      "dist": 101.5203951184
+    },
+    {
+      "name": "psyc_PMA",
+      "psychonaut_name": "PMA",
+      "tripsit_name": null,
+      "dist": 101.8265174129
+    },
+    {
+      "name": "trip_pma",
+      "psychonaut_name": null,
+      "tripsit_name": "pma",
+      "dist": 101.8265174129
+    },
+    {
+      "name": "trip_dramamine",
+      "psychonaut_name": null,
+      "tripsit_name": "dramamine",
+      "dist": 102.0762582582
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "inchi": "InChI=1S/C18H22N2O5/c1-23-16-7-5-4-6-14(16)12-19-9-8-13-10-18(25-3)15(20(21)22)11-17(13)24-2/h4-7,10-11,19H,8-9,12H2,1-3H3",
+  "psychonaut_name": "25N-NBOMe",
+  "tripsit_name": null,
+  "synonyms": [
+    "CHEBI:180519",
+    "SCHEMBL17287290",
+    "UNII-0G7SSW2N0S",
+    "1354632-03-3",
+    "2-(2,5-dimethoxy-4-nitrophenyl)-N-[(2-methoxyphenyl)methyl]ethanamine",
+    "2-(2,5-Dimethoxy-4-nitrophenyl)-N-(2-methoxybenzyl)ethanamine",
+    "Benzeneethanamine, 2,5-dimethoxy-N-((2-methoxyphenyl)methyl)-4-nitro-",
+    "25N-NBOMe",
+    "N-(2-Methoxybenzyl)-2-(2,5-dimethoxy-4-nitrophenyl)ethylamine",
+    "25N-Nbome",
+    "2C-N-NBOMe",
+    "2c-N-Nbome",
+    "DTXSID501014186",
+    "ZINC96032841",
+    "Q27236750",
+    "0G7SSW2N0S"
+  ],
+  "distances": [
+    2.6974e-06,
+    17.2301928927,
+    17.2301928927,
+    17.2880669336,
+    17.2880669336,
+    18.4174679313,
+    18.4174679313,
+    18.8500625893,
+    18.8500625893,
+    19.1888566423,
+    19.1888566423,
+    19.2090327314,
+    20.2676864434,
+    20.5884871524,
+    20.5884871524
+  ],
+  "indices": [
+    342,
+    833,
+    20,
+    702,
+    18,
+    21,
+    365,
+    742,
+    25,
+    23,
+    661,
+    438,
+    557,
+    505,
+    19
+  ],
+  "name": "psyc_25N-NBOMe",
+  "svg": "psyc_25N-NBOMe.svg",
+  "sim": [
+    {
+      "name": "trip_25n-nbome",
+      "psychonaut_name": null,
+      "tripsit_name": "25n-nbome",
+      "dist": 2.6974e-06
+    },
+    {
+      "name": "trip_25c-nbome",
+      "psychonaut_name": null,
+      "tripsit_name": "25c-nbome",
+      "dist": 17.2301928927
+    },
+    {
+      "name": "psyc_25C-NBOMe",
+      "psychonaut_name": "25C-NBOMe",
+      "tripsit_name": null,
+      "dist": 17.2301928927
+    },
+    {
+      "name": "trip_25b-nbome",
+      "psychonaut_name": null,
+      "tripsit_name": "25b-nbome",
+      "dist": 17.2880669336
+    },
+    {
+      "name": "psyc_25B-NBOMe",
+      "psychonaut_name": "25B-NBOMe",
+      "tripsit_name": null,
+      "dist": 17.2880669336
+    },
+    {
+      "name": "psyc_25D-NBOMe",
+      "psychonaut_name": "25D-NBOMe",
+      "tripsit_name": null,
+      "dist": 18.4174679313
+    },
+    {
+      "name": "trip_25d-nbome",
+      "psychonaut_name": null,
+      "tripsit_name": "25d-nbome",
+      "dist": 18.4174679313
+    },
+    {
+      "name": "trip_25i-nbome",
+      "psychonaut_name": null,
+      "tripsit_name": "25i-nbome",
+      "dist": 18.8500625893
+    },
+    {
+      "name": "psyc_25I-NBOMe",
+      "psychonaut_name": "25I-NBOMe",
+      "tripsit_name": null,
+      "dist": 18.8500625893
+    },
+    {
+      "name": "psyc_25H-NBOMe",
+      "psychonaut_name": "25H-NBOMe",
+      "tripsit_name": null,
+      "dist": 19.1888566423
+    },
+    {
+      "name": "trip_25h-nbome",
+      "psychonaut_name": null,
+      "tripsit_name": "25h-nbome",
+      "dist": 19.1888566423
+    },
+    {
+      "name": "trip_25e-nbome",
+      "psychonaut_name": null,
+      "tripsit_name": "25e-nbome",
+      "dist": 19.2090327314
+    },
+    {
+      "name": "trip_25t-2-nbome",
+      "psychonaut_name": null,
+      "tripsit_name": "25t-2-nbome",
+      "dist": 20.2676864434
+    },
+    {
+      "name": "trip_25c-nboh",
+      "psychonaut_name": null,
+      "tripsit_name": "25c-nboh",
+      "dist": 20.5884871524
+    },
+    {
+      "name": "psyc_25C-NBOH",
+      "psychonaut_name": "25C-NBOH",
+      "tripsit_name": null,
+      "dist": 20.5884871524
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C14H23NO/c1-5-14(11(2)10-15(3)4)12-7-6-8-13(16)9-12/h6-9,11,14,16H,5,10H2,1-4H3/t11-,14+/m0/s1",
+  "psychonaut_name": null,
+  "tripsit_name": "tapentadol",
+  "synonyms": null,
+  "distances": [
+    0.0,
+    18.8833991557,
+    18.8833991557,
+    20.2526710538,
+    20.2526710538,
+    20.5124890501,
+    20.8648291383,
+    22.1405037047,
+    22.4033923169,
+    22.4033923169,
+    22.6696835174,
+    22.6696835174,
+    22.6956580761,
+    22.6956580761,
+    22.704704382
+  ],
+  "indices": [
+    303,
+    69,
+    836,
+    443,
+    235,
+    758,
+    465,
+    470,
+    84,
+    326,
+    842,
+    354,
+    67,
+    631,
+    147
+  ],
+  "name": "trip_tapentadol",
+  "svg": "trip_tapentadol.svg",
+  "sim": [
+    {
+      "name": "psyc_Tapentadol",
+      "psychonaut_name": "Tapentadol",
+      "tripsit_name": null,
+      "dist": 0.0
+    },
+    {
+      "name": "psyc_4-HO-MiPT",
+      "psychonaut_name": "4-HO-MiPT",
+      "tripsit_name": null,
+      "dist": 18.8833991557
+    },
+    {
+      "name": "trip_4-ho-mipt",
+      "psychonaut_name": null,
+      "tripsit_name": "4-ho-mipt",
+      "dist": 18.8833991557
+    },
+    {
+      "name": "trip_mipt",
+      "psychonaut_name": null,
+      "tripsit_name": "mipt",
+      "dist": 20.2526710538
+    },
+    {
+      "name": "psyc_MiPT",
+      "psychonaut_name": "MiPT",
+      "tripsit_name": null,
+      "dist": 20.2526710538
+    },
+    {
+      "name": "trip_ibuprofen",
+      "psychonaut_name": null,
+      "tripsit_name": "ibuprofen",
+      "dist": 20.5124890501
+    },
+    {
+      "name": "trip_2-nmc",
+      "psychonaut_name": null,
+      "tripsit_name": "2-nmc",
+      "dist": 20.8648291383
+    },
+    {
+      "name": "trip_4-meo-mipt",
+      "psychonaut_name": null,
+      "tripsit_name": "4-meo-mipt",
+      "dist": 22.1405037047
+    },
+    {
+      "name": "psyc_5-MeO-MiPT",
+      "psychonaut_name": "5-MeO-MiPT",
+      "tripsit_name": null,
+      "dist": 22.4033923169
+    },
+    {
+      "name": "trip_5-meo-mipt",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-mipt",
+      "dist": 22.4033923169
+    },
+    {
+      "name": "trip_5-eapb",
+      "psychonaut_name": null,
+      "tripsit_name": "5-eapb",
+      "dist": 22.6696835174
+    },
+    {
+      "name": "trip_6-eapb",
+      "psychonaut_name": null,
+      "tripsit_name": "6-eapb",
+      "dist": 22.6696835174
+    },
+    {
+      "name": "psyc_4-HO-MET",
+      "psychonaut_name": "4-HO-MET",
+      "tripsit_name": null,
+      "dist": 22.6956580761
+    },
+    {
+      "name": "trip_4-ho-met",
+      "psychonaut_name": null,
+      "tripsit_name": "4-ho-met",
+      "dist": 22.6956580761
+    },
+    {
+      "name": "psyc_DiPT",
+      "psychonaut_name": "DiPT",
+      "tripsit_name": null,
+      "dist": 22.704704382
+    }
+  ]
+}

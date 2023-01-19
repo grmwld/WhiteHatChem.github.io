@@ -1,0 +1,150 @@
+{
+  "inchi": "InChI=1S/C15H17Cl2NO2/c1-20-15(19)14-10(7-9-3-5-13(14)18-9)8-2-4-11(16)12(17)6-8/h2,4,6,9-10,13-14,18H,3,5,7H2,1H3/t9-,10+,13+,14-/m0/s1",
+  "psychonaut_name": "Dichloropane",
+  "tripsit_name": null,
+  "synonyms": [
+    "2-Carbomethoxy-3-(3,4-dichlorophenyl)tropane",
+    "V7SQE82R87",
+    "DTXSID20932894",
+    "(1R,5S)-3beta-(3,4-Dichlorophenyl)-8-azabicyclo[3.2.1]octane-2beta-carboxylic acid methyl ester",
+    "8-Azabicyclo(3.2.1)octane-2-carboxylic acid, 3-(3,4-dichlorophenyl)-, methyl ester, (1R-(exo,exo))-",
+    "Cdct cpd",
+    "methyl (1R,2S,3S,5S)-3-(3,4-dichlorophenyl)-8-azabicyclo[3.2.1]octane-2-carboxylate",
+    "SCHEMBL1240408",
+    "UNII-V7SQE82R87",
+    "O-456",
+    "146725-34-0",
+    "Q5272482",
+    "8-AZABICYCLO(3.2.1)OCTANE-2-CARBOXYLIC ACID, 3-(3,4-DICHLOROPHENYL)-, METHYL ESTER, (1R,2S,3S,5S)-",
+    "MFZ 2-13",
+    "Dichloropane"
+  ],
+  "distances": [
+    15.0197674518,
+    19.2949423374,
+    19.2949423374,
+    22.3517208794,
+    22.3517208794,
+    25.6096204801,
+    25.6096204801,
+    26.287790181,
+    26.287790181,
+    26.8414977864,
+    26.8717180954,
+    26.8717180954,
+    27.3761303812,
+    27.3761303812,
+    27.3761303812
+  ],
+  "indices": [
+    340,
+    782,
+    313,
+    652,
+    40,
+    824,
+    127,
+    780,
+    75,
+    360,
+    751,
+    74,
+    190,
+    651,
+    302
+  ],
+  "name": "psyc_Dichloropane",
+  "svg": "psyc_Dichloropane.svg",
+  "sim": [
+    {
+      "name": "trip_rti-111",
+      "psychonaut_name": null,
+      "tripsit_name": "rti-111",
+      "dist": 15.0197674518
+    },
+    {
+      "name": "trip_troparil",
+      "psychonaut_name": null,
+      "tripsit_name": "troparil",
+      "dist": 19.2949423374
+    },
+    {
+      "name": "psyc_Troparil",
+      "psychonaut_name": "Troparil",
+      "tripsit_name": null,
+      "dist": 19.2949423374
+    },
+    {
+      "name": "trip_3,4-ctmp",
+      "psychonaut_name": null,
+      "tripsit_name": "3,4-ctmp",
+      "dist": 22.3517208794
+    },
+    {
+      "name": "psyc_3,4-CTMP",
+      "psychonaut_name": "3,4-CTMP",
+      "tripsit_name": null,
+      "dist": 22.3517208794
+    },
+    {
+      "name": "trip_cocaine",
+      "psychonaut_name": null,
+      "tripsit_name": "cocaine",
+      "dist": 25.6096204801
+    },
+    {
+      "name": "psyc_Cocaine",
+      "psychonaut_name": "Cocaine",
+      "tripsit_name": null,
+      "dist": 25.6096204801
+    },
+    {
+      "name": "trip_4-fluoromethylphenidate",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fluoromethylphenidate",
+      "dist": 26.287790181
+    },
+    {
+      "name": "psyc_4F-MPH",
+      "psychonaut_name": "4F-MPH",
+      "tripsit_name": null,
+      "dist": 26.287790181
+    },
+    {
+      "name": "trip_4-methylmethylphenidate",
+      "psychonaut_name": null,
+      "tripsit_name": "4-methylmethylphenidate",
+      "dist": 26.8414977864
+    },
+    {
+      "name": "trip_4-fluoroethylphenidate",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fluoroethylphenidate",
+      "dist": 26.8717180954
+    },
+    {
+      "name": "psyc_4F-EPH",
+      "psychonaut_name": "4F-EPH",
+      "tripsit_name": null,
+      "dist": 26.8717180954
+    },
+    {
+      "name": "psyc_Ibogaine",
+      "psychonaut_name": "Ibogaine",
+      "tripsit_name": null,
+      "dist": 27.3761303812
+    },
+    {
+      "name": "trip_ibogaine",
+      "psychonaut_name": null,
+      "tripsit_name": "ibogaine",
+      "dist": 27.3761303812
+    },
+    {
+      "name": "psyc_Tabernanthe iboga (botany)",
+      "psychonaut_name": "Tabernanthe iboga (botany)",
+      "tripsit_name": null,
+      "dist": 27.3761303812
+    }
+  ]
+}

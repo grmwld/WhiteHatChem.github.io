@@ -1,0 +1,134 @@
+{
+  "inchi": "InChI=1S/C13H19NO3/c1-2-15-12-5-3-4-6-13(12)17-10-11-9-14-7-8-16-11/h3-6,11,14H,2,7-10H2,1H3",
+  "psychonaut_name": null,
+  "tripsit_name": "viloxazine",
+  "synonyms": null,
+  "distances": [
+    22.4184605142,
+    22.5082056977,
+    23.4096449057,
+    23.4387382485,
+    23.4399725258,
+    23.4399725258,
+    23.5271242129,
+    23.5271242129,
+    23.5820982197,
+    24.0534302103,
+    24.2210268587,
+    24.2210268587,
+    24.2915877989,
+    24.7498803955,
+    24.7498803955
+  ],
+  "indices": [
+    440,
+    821,
+    448,
+    444,
+    678,
+    106,
+    167,
+    504,
+    721,
+    656,
+    751,
+    74,
+    591,
+    362,
+    51
+  ],
+  "name": "trip_viloxazine",
+  "svg": "trip_viloxazine.svg",
+  "sim": [
+    {
+      "name": "trip_5-meo-pyr-t",
+      "psychonaut_name": null,
+      "tripsit_name": "5-meo-pyr-t",
+      "dist": 22.4184605142
+    },
+    {
+      "name": "trip_methylmorphenate",
+      "psychonaut_name": null,
+      "tripsit_name": "methylmorphenate",
+      "dist": 22.5082056977
+    },
+    {
+      "name": "trip_phenetrazine",
+      "psychonaut_name": null,
+      "tripsit_name": "phenetrazine",
+      "dist": 23.4096449057
+    },
+    {
+      "name": "trip_cyclopropylmescaline",
+      "psychonaut_name": null,
+      "tripsit_name": "cyclopropylmescaline",
+      "dist": 23.4387382485
+    },
+    {
+      "name": "trip_aniracetam",
+      "psychonaut_name": null,
+      "tripsit_name": "aniracetam",
+      "dist": 23.4399725258
+    },
+    {
+      "name": "psyc_Aniracetam",
+      "psychonaut_name": "Aniracetam",
+      "tripsit_name": null,
+      "dist": 23.4399725258
+    },
+    {
+      "name": "psyc_Ethylphenidate",
+      "psychonaut_name": "Ethylphenidate",
+      "tripsit_name": null,
+      "dist": 23.5271242129
+    },
+    {
+      "name": "trip_ethylphenidate",
+      "psychonaut_name": null,
+      "tripsit_name": "ethylphenidate",
+      "dist": 23.5271242129
+    },
+    {
+      "name": "trip_metaxalone",
+      "psychonaut_name": null,
+      "tripsit_name": "metaxalone",
+      "dist": 23.5820982197
+    },
+    {
+      "name": "trip_4-benzylpiperidine",
+      "psychonaut_name": null,
+      "tripsit_name": "4-benzylpiperidine",
+      "dist": 24.0534302103
+    },
+    {
+      "name": "trip_4-fluoroethylphenidate",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fluoroethylphenidate",
+      "dist": 24.2210268587
+    },
+    {
+      "name": "psyc_4F-EPH",
+      "psychonaut_name": "4F-EPH",
+      "tripsit_name": null,
+      "dist": 24.2210268587
+    },
+    {
+      "name": "trip_propylphenidate",
+      "psychonaut_name": null,
+      "tripsit_name": "propylphenidate",
+      "dist": 24.2915877989
+    },
+    {
+      "name": "trip_3-meo-pce",
+      "psychonaut_name": null,
+      "tripsit_name": "3-meo-pce",
+      "dist": 24.7498803955
+    },
+    {
+      "name": "psyc_3-MeO-PCE",
+      "psychonaut_name": "3-MeO-PCE",
+      "tripsit_name": null,
+      "dist": 24.7498803955
+    }
+  ]
+}

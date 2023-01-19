@@ -1,0 +1,136 @@
+{
+  "inchi": "InChI=1S/C17H19NO/c19-17(16-12-7-13-18-16,14-8-3-1-4-9-14)15-10-5-2-6-11-15/h1-6,8-11,16,18-19H,7,12-13H2",
+  "psychonaut_name": null,
+  "tripsit_name": "d2pm",
+  "synonyms": [
+    "diphenylprolinol"
+  ],
+  "distances": [
+    19.9768558103,
+    19.9768558103,
+    24.2478202548,
+    24.7079251938,
+    24.7079251938,
+    24.8776302001,
+    26.2058431618,
+    26.3887307824,
+    26.3887307824,
+    26.5457725363,
+    27.3766175232,
+    27.8094691993,
+    27.8324794372,
+    27.8324794372,
+    28.0073428744
+  ],
+  "indices": [
+    783,
+    143,
+    550,
+    153,
+    403,
+    429,
+    592,
+    229,
+    699,
+    814,
+    681,
+    237,
+    75,
+    780,
+    837
+  ],
+  "name": "trip_d2pm",
+  "svg": "trip_d2pm.svg",
+  "sim": [
+    {
+      "name": "trip_2-dpmp",
+      "psychonaut_name": null,
+      "tripsit_name": "2-dpmp",
+      "dist": 19.9768558103
+    },
+    {
+      "name": "psyc_Desoxypipradrol",
+      "psychonaut_name": "Desoxypipradrol",
+      "tripsit_name": null,
+      "dist": 19.9768558103
+    },
+    {
+      "name": "trip_fluorolintane",
+      "psychonaut_name": null,
+      "tripsit_name": "fluorolintane",
+      "dist": 24.2478202548
+    },
+    {
+      "name": "psyc_Diphenidine",
+      "psychonaut_name": "Diphenidine",
+      "tripsit_name": null,
+      "dist": 24.7079251938
+    },
+    {
+      "name": "trip_diphenidine",
+      "psychonaut_name": null,
+      "tripsit_name": "diphenidine",
+      "dist": 24.7079251938
+    },
+    {
+      "name": "trip_2-mppp",
+      "psychonaut_name": null,
+      "tripsit_name": "2-mppp",
+      "dist": 24.8776302001
+    },
+    {
+      "name": "trip_pyrophenidone",
+      "psychonaut_name": null,
+      "tripsit_name": "pyrophenidone",
+      "dist": 26.2058431618
+    },
+    {
+      "name": "psyc_Methylnaphthidate",
+      "psychonaut_name": "Methylnaphthidate",
+      "tripsit_name": null,
+      "dist": 26.3887307824
+    },
+    {
+      "name": "trip_hdmp-28",
+      "psychonaut_name": null,
+      "tripsit_name": "hdmp-28",
+      "dist": 26.3887307824
+    },
+    {
+      "name": "trip_cyclizine",
+      "psychonaut_name": null,
+      "tripsit_name": "cyclizine",
+      "dist": 26.5457725363
+    },
+    {
+      "name": "trip_mk-801",
+      "psychonaut_name": null,
+      "tripsit_name": "mk-801",
+      "dist": 27.3766175232
+    },
+    {
+      "name": "psyc_Mirtazapine",
+      "psychonaut_name": "Mirtazapine",
+      "tripsit_name": null,
+      "dist": 27.8094691993
+    },
+    {
+      "name": "psyc_4F-MPH",
+      "psychonaut_name": "4F-MPH",
+      "tripsit_name": null,
+      "dist": 27.8324794372
+    },
+    {
+      "name": "trip_4-fluoromethylphenidate",
+      "psychonaut_name": null,
+      "tripsit_name": "4-fluoromethylphenidate",
+      "dist": 27.8324794372
+    },
+    {
+      "name": "trip_sertraline",
+      "psychonaut_name": null,
+      "tripsit_name": "sertraline",
+      "dist": 28.0073428744
+    }
+  ]
+}
