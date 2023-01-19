@@ -1,0 +1,288 @@
+{
+  "inchi": "InChI=1S/C16H12O5/c1-20-16-11(18)8-13-14(15(16)19)10(17)7-12(21-13)9-5-3-2-4-6-9/h2-8,18-19H,1H3",
+  "psychonaut_names": [
+    "Oroxylin A"
+  ],
+  "tripsit_names": null,
+  "isomerd_names": null,
+  "isod_ids": null,
+  "synonyms": [
+    "AC-31960",
+    "6-Methoxybaicalein",
+    "FT-0688332",
+    "UNII-53K24Z586G",
+    "baicalein 6-methyl ether",
+    "s9204",
+    "O-160",
+    "Oroxylin-A",
+    "Q3356627",
+    "FLAVONE, 5,7-DIHYDROXY-6-METHOXY-",
+    "OROXYLIN A [MI]",
+    "480-11-5",
+    "BCP31803",
+    "5,7-dihydroxy-6-methoxy-2-phenyl-4H-1-benzopyran-4-one",
+    "CCG-267292",
+    "Oroxylia A",
+    "GLXC-13294",
+    "CHEMBL183513",
+    "Oroxylin",
+    "HY-N0560",
+    "BDBM50430091",
+    "ZINC5998558",
+    "4H-1-Benzopyran-4-one, 5,7-dihydroxy-6-methoxy-2-phenyl-",
+    "5,7-dihydroxy-6-methoxyflavone",
+    "Oroxylin A, >=98% (HPLC)",
+    "BS-16891",
+    "Baicalein 6-methyl ether;6-Methoxybaicalein",
+    "5,7-dihydroxy-6-methoxy-2-phenylchromen-4-one",
+    "5,7-dihydroxy-6-methoxy-2-phenyl-4H-chromen-4-one",
+    "Oroxylin?A",
+    "CHEBI:61668",
+    "5,7-Dihydroxy-6-methoxy-2-phenyl-chromen-4-one",
+    "SCHEMBL431423",
+    "CS-4948",
+    "5,7-dihydroxy-6-methoxy-2-phenylchromen-4-one.",
+    "LMPK12111096",
+    "EX-A4028",
+    "AKOS015903364",
+    "A871997",
+    "MFCD02259441",
+    "DTXSID70197375",
+    "53K24Z586G",
+    "A14367"
+  ],
+  "distances": [
+    22.283432435,
+    25.3913809984,
+    25.871439076,
+    26.018650115,
+    28.1416823354,
+    28.50138343,
+    28.7479523303,
+    29.0545141918,
+    29.1539963876,
+    29.289578258,
+    29.8329475705,
+    30.8949350101,
+    30.9299292347,
+    31.0156505825,
+    31.0298279036,
+    31.2178496726,
+    31.5586631331,
+    31.9491908107,
+    32.0367849639
+  ],
+  "indices": [
+    677,
+    185,
+    186,
+    187,
+    124,
+    476,
+    149,
+    453,
+    480,
+    407,
+    496,
+    498,
+    234,
+    147,
+    478,
+    500,
+    444,
+    219,
+    78
+  ],
+  "name": "psyc_Oroxylin_A",
+  "svg": "psyc_Oroxylin_A.svg",
+  "sim": [
+    {
+      "name": "isomer_Ipriflavone",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "Ipriflavone"
+      ],
+      "dist": 22.283432435
+    },
+    {
+      "name": "psyc_25B-NBOH_trip_25b-nboh",
+      "psychonaut_names": [
+        "25B-NBOH"
+      ],
+      "tripsit_names": [
+        "25b-nboh"
+      ],
+      "isomerd_names": null,
+      "dist": 25.3913809984
+    },
+    {
+      "name": "psyc_25C-NBOH_trip_25c-nboh",
+      "psychonaut_names": [
+        "25C-NBOH"
+      ],
+      "tripsit_names": [
+        "25c-nboh"
+      ],
+      "isomerd_names": null,
+      "dist": 25.871439076
+    },
+    {
+      "name": "psyc_25I-NBOH_trip_25i-nboh",
+      "psychonaut_names": [
+        "25I-NBOH"
+      ],
+      "tripsit_names": [
+        "25i-nboh"
+      ],
+      "isomerd_names": null,
+      "dist": 26.018650115
+    },
+    {
+      "name": "psyc_Mebroqualone_trip_mebroqualone",
+      "psychonaut_names": [
+        "Mebroqualone"
+      ],
+      "tripsit_names": [
+        "mebroqualone"
+      ],
+      "isomerd_names": null,
+      "dist": 28.1416823354
+    },
+    {
+      "name": "trip_methylmethaqualone",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "methylmethaqualone"
+      ],
+      "isomerd_names": null,
+      "dist": 28.50138343
+    },
+    {
+      "name": "psyc_Methaqualone_trip_ethaqualone_methaqualone",
+      "psychonaut_names": [
+        "Methaqualone"
+      ],
+      "tripsit_names": [
+        "ethaqualone",
+        "methaqualone"
+      ],
+      "isomerd_names": null,
+      "dist": 28.7479523303
+    },
+    {
+      "name": "trip_afloqualone",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "afloqualone"
+      ],
+      "isomerd_names": null,
+      "dist": 29.0545141918
+    },
+    {
+      "name": "trip_25i-nbf",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "25i-nbf"
+      ],
+      "isomerd_names": null,
+      "dist": 29.1539963876
+    },
+    {
+      "name": "trip_naproxen",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "naproxen"
+      ],
+      "isomerd_names": null,
+      "dist": 29.289578258
+    },
+    {
+      "name": "trip_amfonelicacid",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "amfonelicacid"
+      ],
+      "isomerd_names": null,
+      "dist": 29.8329475705
+    },
+    {
+      "name": "trip_metaclazepam",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "metaclazepam"
+      ],
+      "isomerd_names": null,
+      "dist": 30.8949350101
+    },
+    {
+      "name": "psyc_25E-NBOH",
+      "psychonaut_names": [
+        "25E-NBOH"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 30.9299292347
+    },
+    {
+      "name": "psyc_Temazepam_trip_temazepam",
+      "psychonaut_names": [
+        "Temazepam"
+      ],
+      "tripsit_names": [
+        "temazepam"
+      ],
+      "isomerd_names": null,
+      "dist": 31.0156505825
+    },
+    {
+      "name": "trip_diclofensine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "diclofensine"
+      ],
+      "isomerd_names": null,
+      "dist": 31.0298279036
+    },
+    {
+      "name": "trip_25i-nbmd",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "25i-nbmd"
+      ],
+      "isomerd_names": null,
+      "dist": 31.2178496726
+    },
+    {
+      "name": "trip_clorazepate",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "clorazepate"
+      ],
+      "isomerd_names": null,
+      "dist": 31.5586631331
+    },
+    {
+      "name": "psyc_25H-NBOMe_trip_25h-nbome",
+      "psychonaut_names": [
+        "25H-NBOMe"
+      ],
+      "tripsit_names": [
+        "25h-nbome"
+      ],
+      "isomerd_names": null,
+      "dist": 31.9491908107
+    },
+    {
+      "name": "psyc_Bromo-DragonFLY_trip_bromo-dragonfly",
+      "psychonaut_names": [
+        "Bromo-DragonFLY"
+      ],
+      "tripsit_names": [
+        "bromo-dragonfly"
+      ],
+      "isomerd_names": null,
+      "dist": 32.0367849639
+    }
+  ]
+}

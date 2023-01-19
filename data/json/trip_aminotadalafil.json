@@ -1,8 +1,12 @@
 {
-  "inchi": "InChI=1S/C21H18N4O4/c22-24-9-18(26)25-15(21(24)27)8-13-12-3-1-2-4-14(12)23-19(13)20(25)11-5-6-16-17(7-11)29-10-28-16/h1-7,15,20,23H,8-10,22H2/t15-,20-/m1/s1",
-  "psychonaut_name": null,
-  "tripsit_name": "aminotadalafil",
-  "synonyms": null,
+  "inchi": "InChI=1S/C21H18N4O4/c22-24-9-18(26)25-15(21(24)27)8-13-12-3-1-2-4-14(12)23-19(13)20(25)11-5-6-16-17(7-11)29-10-28-16/h1-7,15,20,23H,8-10,22H2",
+  "psychonaut_names": null,
+  "tripsit_names": [
+    "aminotadalafil"
+  ],
+  "isomerd_names": null,
+  "isod_ids": null,
+  "synonyms": [],
   "distances": [
     10.770489705,
     33.8567629213,
@@ -10,125 +14,223 @@
     34.4951186113,
     36.4092323752,
     36.5358092348,
-    36.5358092348,
     36.7499784093,
     37.4406969237,
     38.1919046662,
     38.297228808,
     38.8747644939,
     39.7220706347,
-    39.7220706347,
-    39.7396925512
+    39.7396925512,
+    39.9416092981,
+    40.0015227982,
+    40.1355521804,
+    40.4371890685,
+    40.6505103198,
+    40.700629722
   ],
   "indices": [
-    513,
+    548,
+    526,
+    512,
+    515,
+    510,
+    238,
+    509,
     495,
-    839,
-    768,
-    414,
-    598,
-    200,
-    574,
-    689,
-    486,
-    456,
-    736,
-    740,
-    122,
-    572
+    511,
+    528,
+    497,
+    204,
+    513,
+    555,
+    568,
+    180,
+    498,
+    247,
+    474
   ],
   "name": "trip_aminotadalafil",
   "svg": "trip_aminotadalafil.svg",
   "sim": [
     {
       "name": "trip_cialis",
-      "psychonaut_name": null,
-      "tripsit_name": "cialis",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "cialis"
+      ],
+      "isomerd_names": null,
       "dist": 10.770489705
     },
     {
       "name": "trip_ketazolam",
-      "psychonaut_name": null,
-      "tripsit_name": "ketazolam",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "ketazolam"
+      ],
+      "isomerd_names": null,
       "dist": 33.8567629213
     },
     {
       "name": "trip_flutazolam",
-      "psychonaut_name": null,
-      "tripsit_name": "flutazolam",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "flutazolam"
+      ],
+      "isomerd_names": null,
       "dist": 34.1109281598
     },
     {
       "name": "trip_paroxetine",
-      "psychonaut_name": null,
-      "tripsit_name": "paroxetine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "paroxetine"
+      ],
+      "isomerd_names": null,
       "dist": 34.4951186113
     },
     {
       "name": "trip_cloniprazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "cloniprazepam",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "cloniprazepam"
+      ],
+      "isomerd_names": null,
       "dist": 36.4092323752
     },
     {
-      "name": "trip_lsm-775",
-      "psychonaut_name": null,
-      "tripsit_name": "lsm-775",
-      "dist": 36.5358092348
-    },
-    {
-      "name": "psyc_LSM-775",
-      "psychonaut_name": "LSM-775",
-      "tripsit_name": null,
+      "name": "psyc_LSM-775_trip_lsm-775",
+      "psychonaut_names": [
+        "LSM-775"
+      ],
+      "tripsit_names": [
+        "lsm-775"
+      ],
+      "isomerd_names": null,
       "dist": 36.5358092348
     },
     {
       "name": "trip_flutoprazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "flutoprazepam",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "flutoprazepam"
+      ],
+      "isomerd_names": null,
       "dist": 36.7499784093
     },
     {
       "name": "trip_mexazolam",
-      "psychonaut_name": null,
-      "tripsit_name": "mexazolam",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "mexazolam"
+      ],
+      "isomerd_names": null,
       "dist": 37.4406969237
     },
     {
       "name": "trip_prazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "prazepam",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "prazepam"
+      ],
+      "isomerd_names": null,
       "dist": 38.1919046662
     },
     {
       "name": "trip_2c-b-fly-nbome",
-      "psychonaut_name": null,
-      "tripsit_name": "2c-b-fly-nbome",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "2c-b-fly-nbome"
+      ],
+      "isomerd_names": null,
       "dist": 38.297228808
     },
     {
       "name": "trip_oxazolam",
-      "psychonaut_name": null,
-      "tripsit_name": "oxazolam",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "oxazolam"
+      ],
+      "isomerd_names": null,
       "dist": 38.8747644939
     },
     {
-      "name": "trip_cinolazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "cinolazepam",
-      "dist": 39.7220706347
-    },
-    {
-      "name": "psyc_Cinolazepam",
-      "psychonaut_name": "Cinolazepam",
-      "tripsit_name": null,
+      "name": "psyc_Cinolazepam_trip_cinolazepam",
+      "psychonaut_names": [
+        "Cinolazepam"
+      ],
+      "tripsit_names": [
+        "cinolazepam"
+      ],
+      "isomerd_names": null,
       "dist": 39.7220706347
     },
     {
       "name": "trip_camazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "camazepam",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "camazepam"
+      ],
+      "isomerd_names": null,
       "dist": 39.7396925512
+    },
+    {
+      "name": "trip_pagoclone",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "pagoclone"
+      ],
+      "isomerd_names": null,
+      "dist": 39.9416092981
+    },
+    {
+      "name": "trip_benzodioxole-fentanyl",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "benzodioxole-fentanyl"
+      ],
+      "isomerd_names": null,
+      "dist": 40.0015227982
+    },
+    {
+      "name": "psyc_Zopiclone_trip_eszopiclone_zopiclone",
+      "psychonaut_names": [
+        "Zopiclone"
+      ],
+      "tripsit_names": [
+        "eszopiclone",
+        "zopiclone"
+      ],
+      "isomerd_names": null,
+      "dist": 40.1355521804
+    },
+    {
+      "name": "trip_metaclazepam",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "metaclazepam"
+      ],
+      "isomerd_names": null,
+      "dist": 40.4371890685
+    },
+    {
+      "name": "psyc_LSZ_trip_lsz",
+      "psychonaut_names": [
+        "LSZ"
+      ],
+      "tripsit_names": [
+        "lsz"
+      ],
+      "isomerd_names": null,
+      "dist": 40.6505103198
+    },
+    {
+      "name": "trip_cloxazolam",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "cloxazolam"
+      ],
+      "isomerd_names": null,
+      "dist": 40.700629722
     }
   ]
 }

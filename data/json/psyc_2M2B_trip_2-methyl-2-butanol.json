@@ -1,0 +1,354 @@
+{
+  "inchi": "InChI=1S/C5H12O/c1-4-5(2,3)6/h6H,4H2,1-3H3",
+  "psychonaut_names": [
+    "2M2B"
+  ],
+  "tripsit_names": [
+    "2-methyl-2-butanol"
+  ],
+  "isomerd_names": null,
+  "isod_ids": null,
+  "synonyms": [
+    "Amylene hydrate",
+    "2-BUTANOL,2-METHYL",
+    "NSC-760354",
+    "Amylene hydrate, USAN",
+    "tert.-amyl alcohol",
+    "methyl-tert-butyl alcohol",
+    "Tox21_302356",
+    "2-METHYL-2-BUTANOL",
+    "Dimethylethylcarbinol",
+    "2-methyl-2butanol",
+    "amylene-hydrate",
+    "2-methyl-2-butanol (tert-amyl alcohol)",
+    "tert. amylalcohol",
+    "tert-Isoamyl alcohol",
+    "EINECS 200-908-9",
+    "C21401",
+    "tert-Amyl alcohol",
+    "DTXSID0041436",
+    "Dimethyl ethyl carbinol",
+    "1,1-Dimethyl-1-propanol",
+    "tertiary amylalcohol",
+    "Ethyl dimethyl carbinol",
+    "1,1-dimethylpropanol",
+    "tert-Pentanol",
+    "BRN 1361351",
+    "NSC25498",
+    "A838528",
+    "CCG-213670",
+    "3-Methylbutan-3-ol",
+    "F0001-1906",
+    "Amylene hydrate (NF)",
+    "Amylenum hydratum",
+    "t-Pentyl alcohol",
+    "WLN: QX2&1&1",
+    "2-Methyl-2-butanol, ReagentPlus(R), >=99%",
+    "Pharmakon1600-01301017",
+    "Ethyldimethylcarbinol",
+    "NSC760354",
+    "tertpentanol",
+    "2-Methyl-2-butanol, analytical standard",
+    "NCGC00166208-01",
+    "t-AmOH",
+    "AB01563165_01",
+    "HMS3264I17",
+    "69C393R11Z",
+    "2-Methyl-2-butanol 100 microg/mL in Methanol",
+    "MFCD00004478",
+    "75-85-4",
+    "tert-n-Amyl alcohol",
+    "Amylenhydrat",
+    "tert-amyl-alcohol",
+    "4-01-00-01668 (Beilstein Handbook Reference)",
+    "FT-0612915",
+    "25-85-4",
+    "t-Amyl alcohol",
+    "2-Methyl butanol-2",
+    "tert-Pentyl alcohol",
+    "3-Hydroxy-3-methyl butane",
+    "2-Butanol, 2-methyl-",
+    "2-Methyl-2-butanol 100 microg/mL in Acetonitrile",
+    "tertamyl alcohol",
+    "3-Methyl-butanol-(3) [German]",
+    "CAS-75-85-4",
+    "5A800302-5F41-4E10-9197-D3B0BD85C237",
+    "2-ETHYL-2-PROPANOL",
+    "NSC 25498",
+    "tert.-amylalcohol",
+    "AMYLENE HYDRATE [MART.]",
+    "2-Methylbutan-2-ol",
+    "3-Methyl-butanol-(3)",
+    "HSDB 5005",
+    "DSSTox_CID_21436",
+    "ZINC1481970",
+    "AI3-24191",
+    "Amylene hydrate [USAN]",
+    "1,1-Dimethyl-1-propanol-[d6]",
+    "Amylene hydrate [NF]",
+    "DSSTox_RID_79732",
+    "NSC-25498",
+    "C2H5C(CH3)2OH",
+    "PENTYL ALCOHOL, TERT-",
+    "2m2b",
+    "NCGC00255665-01",
+    "TERT-PENTYL ALCOHOL [MI]",
+    "t-Amyl Alchohol, Pharmaceutical Secondary Standard; Certified Reference Material",
+    "Methyl-3 butanol-3",
+    "EC 200-908-9",
+    "Amylalkohol, tertiaerer",
+    "AMYLENE HYDRATE [HSDB]",
+    "Q209428",
+    "UNII-69C393R11Z",
+    "2-Methyl-2-butanol, ReagentPlus(R), 99%",
+    "2-Methyl-butan-2-ol",
+    "tertiary amyl alcohol",
+    "AMY11089",
+    "E80408",
+    "CHEMBL44658",
+    "tert-Pentyl alcohol 2-Methyl-2-butanol",
+    "tert-amylalcohol",
+    "D02931",
+    "DSSTox_GSID_41436",
+    "2-Methyl-2-butanol, anhydrous, >=99%",
+    "CHEBI:132750",
+    "AKOS000119037",
+    "Methyl-2 butanol-2",
+    "J-510046",
+    "P0059"
+  ],
+  "distances": [
+    20.5140251006,
+    20.6724566481,
+    23.9559710679,
+    24.0119573688,
+    25.4925226955,
+    26.1717479008,
+    26.3697232577,
+    26.6395035046,
+    26.7592152917,
+    26.8112047145,
+    27.4988980159,
+    27.5932445717,
+    27.9957620956,
+    28.8286341842,
+    29.295811439,
+    29.7193917928,
+    30.5460717605,
+    30.5498030486,
+    30.6282045517
+  ],
+  "indices": [
+    283,
+    576,
+    287,
+    289,
+    288,
+    297,
+    577,
+    578,
+    580,
+    300,
+    331,
+    305,
+    589,
+    573,
+    304,
+    591,
+    314,
+    318,
+    597
+  ],
+  "name": "psyc_2M2B_trip_2-methyl-2-butanol",
+  "svg": "psyc_2M2B_trip_2-methyl-2-butanol.svg",
+  "sim": [
+    {
+      "name": "psyc_Alcohol_trip_alcohol",
+      "psychonaut_names": [
+        "Alcohol"
+      ],
+      "tripsit_names": [
+        "alcohol"
+      ],
+      "isomerd_names": null,
+      "dist": 20.5140251006
+    },
+    {
+      "name": "trip_diethyl-ether",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "diethyl-ether"
+      ],
+      "isomerd_names": null,
+      "dist": 20.6724566481
+    },
+    {
+      "name": "psyc_1,4-Butanediol_trip_1,4-butanediol",
+      "psychonaut_names": [
+        "1,4-Butanediol"
+      ],
+      "tripsit_names": [
+        "1,4-butanediol"
+      ],
+      "isomerd_names": null,
+      "dist": 23.9559710679
+    },
+    {
+      "name": "psyc_GHB_trip_ghb",
+      "psychonaut_names": [
+        "GHB"
+      ],
+      "tripsit_names": [
+        "ghb"
+      ],
+      "isomerd_names": null,
+      "dist": 24.0119573688
+    },
+    {
+      "name": "psyc_GBL_trip_gbl",
+      "psychonaut_names": [
+        "GBL"
+      ],
+      "tripsit_names": [
+        "gbl"
+      ],
+      "isomerd_names": null,
+      "dist": 25.4925226955
+    },
+    {
+      "name": "psyc_1,3-dimethylbutylamine",
+      "psychonaut_names": [
+        "1,3-dimethylbutylamine"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 26.1717479008
+    },
+    {
+      "name": "trip_gaba",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "gaba"
+      ],
+      "isomerd_names": null,
+      "dist": 26.3697232577
+    },
+    {
+      "name": "trip_clomethiazole",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "clomethiazole"
+      ],
+      "isomerd_names": null,
+      "dist": 26.6395035046
+    },
+    {
+      "name": "trip_thiopropamine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "thiopropamine"
+      ],
+      "isomerd_names": null,
+      "dist": 26.7592152917
+    },
+    {
+      "name": "psyc_1,3-DMAA_trip_dmaa",
+      "psychonaut_names": [
+        "1,3-DMAA"
+      ],
+      "tripsit_names": [
+        "dmaa"
+      ],
+      "isomerd_names": null,
+      "dist": 26.8112047145
+    },
+    {
+      "name": "trip_phentermine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "phentermine"
+      ],
+      "isomerd_names": null,
+      "dist": 27.4988980159
+    },
+    {
+      "name": "psyc_Methiopropamine",
+      "psychonaut_names": [
+        "Methiopropamine"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 27.5932445717
+    },
+    {
+      "name": "trip_chloroform",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "chloroform"
+      ],
+      "isomerd_names": null,
+      "dist": 27.9957620956
+    },
+    {
+      "name": "trip_halothane",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "halothane"
+      ],
+      "isomerd_names": null,
+      "dist": 28.8286341842
+    },
+    {
+      "name": "psyc_Phenethylamine_(compound)_trip_phenethylamine",
+      "psychonaut_names": [
+        "Phenethylamine (compound)"
+      ],
+      "tripsit_names": [
+        "phenethylamine"
+      ],
+      "isomerd_names": null,
+      "dist": 29.295811439
+    },
+    {
+      "name": "isomer_4-Methylpropiophenone",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "4-Methylpropiophenone"
+      ],
+      "dist": 29.7193917928
+    },
+    {
+      "name": "psyc_Dexamphetamine_trip_dexedrine_amphetamine",
+      "psychonaut_names": [
+        "Dexamphetamine"
+      ],
+      "tripsit_names": [
+        "dexedrine",
+        "amphetamine"
+      ],
+      "isomerd_names": null,
+      "dist": 30.5460717605
+    },
+    {
+      "name": "psyc_Nitrous_trip_nitrous",
+      "psychonaut_names": [
+        "Nitrous"
+      ],
+      "tripsit_names": [
+        "nitrous"
+      ],
+      "isomerd_names": null,
+      "dist": 30.5498030486
+    },
+    {
+      "name": "isomer_3,5-DMePEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3,5-DMePEA"
+      ],
+      "dist": 30.6282045517
+    }
+  ]
+}

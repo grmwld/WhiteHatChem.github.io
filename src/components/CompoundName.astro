@@ -1,23 +1,28 @@
 ---
 import psychonaut from '../assets/img/psychonaut_icon.png'
 import tripsit from '../assets/img/tripsit_icon.png'
+import isomerdesign from '../assets/img/isomerdesign_icon.png'
 
 export interface Props {
-    name: string | null;
-    site: 'psychonaut' | 'tripsit';
+    name: string;
+    site: 'psychonaut' | 'tripsit' | 'isomerdesign';
 }
 
 const { name, site } = Astro.props;
+
+function truncate(str: string, length: number) {
+    if (str.length > length) {
+        return str.slice(0, length) + '...';
+    } else return str;
+}
 ---
 
-{
-    name && <div class="flex flex-row items-center gap-2">
-        <img
-            src={site === 'psychonaut' ? psychonaut : tripsit}
-            class="w-4 rounded"
-            alt="psychonaut"
-        />
-        <h2 class="group-hover:text-indigo-600">{name}</h2>
-    </div>
-}
 
+<div class="flex flex-row items-center gap-2">
+    <img
+        src={site === 'psychonaut' ? psychonaut : site === 'tripsit' ? tripsit : isomerdesign}
+        class="w-4 rounded"
+        alt={site}
+    />
+    <h2 title={name} class="group-hover:text-indigo-600 text-sm leading-tight">{truncate(name,20)}</h2>
+</div>

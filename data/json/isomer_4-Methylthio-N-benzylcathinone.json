@@ -1,0 +1,233 @@
+{
+  "inchi": "InChI=1S/C17H19NOS/c1-13(18-12-14-6-4-3-5-7-14)17(19)15-8-10-16(20-2)11-9-15/h3-11,13,18H,12H2,1-2H3",
+  "psychonaut_names": null,
+  "tripsit_names": null,
+  "isomerd_names": [
+    "4-Methylthio-N-benzylcathinone"
+  ],
+  "isod_ids": [
+    6992
+  ],
+  "synonyms": [
+    "4-Methylthio-N-benzylcathinone"
+  ],
+  "distances": [
+    17.7865482207,
+    18.7568045921,
+    18.774133232,
+    19.2008292655,
+    22.0309757297,
+    22.1854470606,
+    22.5123358924,
+    23.1714206273,
+    24.4708127922,
+    24.6211430196,
+    24.6753245787,
+    24.731582725,
+    24.8316057189,
+    25.1619146378,
+    25.3669132069,
+    25.4198701768,
+    25.546530961,
+    26.8190733493,
+    26.831641987
+  ],
+  "indices": [
+    483,
+    458,
+    216,
+    151,
+    461,
+    407,
+    679,
+    502,
+    409,
+    189,
+    390,
+    417,
+    217,
+    677,
+    434,
+    519,
+    517,
+    357,
+    359
+  ],
+  "name": "isomer_4-Methylthio-N-benzylcathinone",
+  "svg": "isomer_4-Methylthio-N-benzylcathinone.svg",
+  "sim": [
+    {
+      "name": "trip_atomoxetine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "atomoxetine"
+      ],
+      "isomerd_names": null,
+      "dist": 17.7865482207
+    },
+    {
+      "name": "trip_2-chloro-ephenidine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "2-chloro-ephenidine"
+      ],
+      "isomerd_names": null,
+      "dist": 18.7568045921
+    },
+    {
+      "name": "psyc_PPAP",
+      "psychonaut_names": [
+        "PPAP"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 18.774133232
+    },
+    {
+      "name": "psyc_Ephenidine_trip_ephenidine",
+      "psychonaut_names": [
+        "Ephenidine"
+      ],
+      "tripsit_names": [
+        "ephenidine"
+      ],
+      "isomerd_names": null,
+      "dist": 19.2008292655
+    },
+    {
+      "name": "trip_propranolol",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "propranolol"
+      ],
+      "isomerd_names": null,
+      "dist": 22.0309757297
+    },
+    {
+      "name": "trip_naproxen",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "naproxen"
+      ],
+      "isomerd_names": null,
+      "dist": 22.1854470606
+    },
+    {
+      "name": "isomer_PRL-8-53",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "PRL-8-53"
+      ],
+      "dist": 22.5123358924
+    },
+    {
+      "name": "trip_prl-8-53",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "prl-8-53"
+      ],
+      "isomerd_names": null,
+      "dist": 23.1714206273
+    },
+    {
+      "name": "trip_methamnetamine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "methamnetamine"
+      ],
+      "isomerd_names": null,
+      "dist": 24.4708127922
+    },
+    {
+      "name": "psyc_Diphenhydramine",
+      "psychonaut_names": [
+        "Diphenhydramine"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 24.6211430196
+    },
+    {
+      "name": "trip_4-cbc",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-cbc"
+      ],
+      "isomerd_names": null,
+      "dist": 24.6753245787
+    },
+    {
+      "name": "trip_5-meo-nipt",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "5-meo-nipt"
+      ],
+      "isomerd_names": null,
+      "dist": 24.731582725
+    },
+    {
+      "name": "psyc_Orphenadrine",
+      "psychonaut_names": [
+        "Orphenadrine"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 24.8316057189
+    },
+    {
+      "name": "isomer_Ipriflavone",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "Ipriflavone"
+      ],
+      "dist": 25.1619146378
+    },
+    {
+      "name": "trip_2-mppp",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "2-mppp"
+      ],
+      "isomerd_names": null,
+      "dist": 25.3669132069
+    },
+    {
+      "name": "trip_naphyrone",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "naphyrone"
+      ],
+      "isomerd_names": null,
+      "dist": 25.4198701768
+    },
+    {
+      "name": "trip_pyrophenidone",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "pyrophenidone"
+      ],
+      "isomerd_names": null,
+      "dist": 25.546530961
+    },
+    {
+      "name": "trip_4-cic",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-cic"
+      ],
+      "isomerd_names": null,
+      "dist": 26.8190733493
+    },
+    {
+      "name": "trip_4f-neb",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4f-neb"
+      ],
+      "isomerd_names": null,
+      "dist": 26.831641987
+    }
+  ]
+}

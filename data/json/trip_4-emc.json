@@ -1,136 +1,243 @@
 {
   "inchi": "InChI=1S/C12H17NO/c1-4-10-5-7-11(8-6-10)12(14)9(2)13-3/h5-9,13H,4H2,1-3H3",
-  "psychonaut_name": null,
-  "tripsit_name": "4-emc",
+  "psychonaut_names": null,
+  "tripsit_names": [
+    "4-emc"
+  ],
+  "isomerd_names": null,
+  "isod_ids": null,
   "synonyms": [
     "4-ethylmethcathinone"
   ],
   "distances": [
     8.1998202979,
-    8.1998202979,
     8.4503857587,
-    8.4503857587,
-    8.6308635738,
     8.6308635738,
     8.9009107145,
     8.998924615,
     9.1804703789,
-    9.310123422,
+    9.2361800597,
     9.310123422,
     9.494821442,
     9.5450371754,
     9.7049313152,
-    9.8250485019
+    9.8250485019,
+    10.2090809659,
+    10.803401934,
+    10.8149665268,
+    10.9508923311,
+    11.002888387,
+    11.1011113203,
+    11.1412351636
   ],
   "indices": [
-    547,
-    218,
-    48,
-    377,
-    580,
-    16,
-    372,
-    655,
-    716,
-    603,
-    70,
-    831,
-    389,
-    339,
-    265
+    34,
+    35,
+    36,
+    340,
+    395,
+    343,
+    602,
+    64,
+    344,
+    369,
+    370,
+    63,
+    32,
+    66,
+    319,
+    320,
+    321,
+    360,
+    322
   ],
   "name": "trip_4-emc",
   "svg": "trip_4-emc.svg",
   "sim": [
     {
-      "name": "trip_mephedrone",
-      "psychonaut_name": null,
-      "tripsit_name": "mephedrone",
+      "name": "psyc_Mephedrone_trip_mephedrone",
+      "psychonaut_names": [
+        "Mephedrone"
+      ],
+      "tripsit_names": [
+        "mephedrone"
+      ],
+      "isomerd_names": null,
       "dist": 8.1998202979
     },
     {
-      "name": "psyc_Mephedrone",
-      "psychonaut_name": "Mephedrone",
-      "tripsit_name": null,
-      "dist": 8.1998202979
-    },
-    {
-      "name": "psyc_3-MMC",
-      "psychonaut_name": "3-MMC",
-      "tripsit_name": null,
+      "name": "psyc_3-MMC_trip_3-mmc",
+      "psychonaut_names": [
+        "3-MMC"
+      ],
+      "tripsit_names": [
+        "3-mmc"
+      ],
+      "isomerd_names": null,
       "dist": 8.4503857587
     },
     {
-      "name": "trip_3-mmc",
-      "psychonaut_name": null,
-      "tripsit_name": "3-mmc",
-      "dist": 8.4503857587
-    },
-    {
-      "name": "trip_2-mmc",
-      "psychonaut_name": null,
-      "tripsit_name": "2-mmc",
-      "dist": 8.6308635738
-    },
-    {
-      "name": "psyc_2-MMC",
-      "psychonaut_name": "2-MMC",
-      "tripsit_name": null,
+      "name": "psyc_2-MMC_trip_2-mmc",
+      "psychonaut_names": [
+        "2-MMC"
+      ],
+      "tripsit_names": [
+        "2-mmc"
+      ],
+      "isomerd_names": null,
       "dist": 8.6308635738
     },
     {
       "name": "trip_buphedrone",
-      "psychonaut_name": null,
-      "tripsit_name": "buphedrone",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "buphedrone"
+      ],
+      "isomerd_names": null,
       "dist": 8.9009107145
     },
     {
       "name": "trip_4-mpd",
-      "psychonaut_name": null,
-      "tripsit_name": "4-mpd",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-mpd"
+      ],
+      "isomerd_names": null,
       "dist": 8.998924615
     },
     {
       "name": "trip_methedrone",
-      "psychonaut_name": null,
-      "tripsit_name": "methedrone",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "methedrone"
+      ],
+      "isomerd_names": null,
       "dist": 9.1804703789
     },
     {
-      "name": "trip_4-mec",
-      "psychonaut_name": null,
-      "tripsit_name": "4-mec",
-      "dist": 9.310123422
+      "name": "isomer_4-Cl-Buphedrone",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "4-Cl-Buphedrone"
+      ],
+      "dist": 9.2361800597
     },
     {
-      "name": "psyc_4-MEC",
-      "psychonaut_name": "4-MEC",
-      "tripsit_name": null,
+      "name": "psyc_4-MEC_trip_4-mec",
+      "psychonaut_names": [
+        "4-MEC"
+      ],
+      "tripsit_names": [
+        "4-mec"
+      ],
+      "isomerd_names": null,
       "dist": 9.310123422
     },
     {
       "name": "trip_3-meomc",
-      "psychonaut_name": null,
-      "tripsit_name": "3-meomc",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "3-meomc"
+      ],
+      "isomerd_names": null,
       "dist": 9.494821442
     },
     {
       "name": "trip_3-mec",
-      "psychonaut_name": null,
-      "tripsit_name": "3-mec",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "3-mec"
+      ],
+      "isomerd_names": null,
       "dist": 9.5450371754
     },
     {
       "name": "trip_2-mec",
-      "psychonaut_name": null,
-      "tripsit_name": "2-mec",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "2-mec"
+      ],
+      "isomerd_names": null,
       "dist": 9.7049313152
     },
     {
-      "name": "psyc_Pentedrone",
-      "psychonaut_name": "Pentedrone",
-      "tripsit_name": null,
+      "name": "psyc_Pentedrone_trip_pentedrone",
+      "psychonaut_names": [
+        "Pentedrone"
+      ],
+      "tripsit_names": [
+        "pentedrone"
+      ],
+      "isomerd_names": null,
       "dist": 9.8250485019
+    },
+    {
+      "name": "psyc_ETH-CAT_trip_ethylcathinone",
+      "psychonaut_names": [
+        "ETH-CAT"
+      ],
+      "tripsit_names": [
+        "ethylcathinone"
+      ],
+      "isomerd_names": null,
+      "dist": 10.2090809659
+    },
+    {
+      "name": "psyc_Mexedrone_trip_mexedrone",
+      "psychonaut_names": [
+        "Mexedrone"
+      ],
+      "tripsit_names": [
+        "mexedrone"
+      ],
+      "isomerd_names": null,
+      "dist": 10.803401934
+    },
+    {
+      "name": "trip_4-cmc",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-cmc"
+      ],
+      "isomerd_names": null,
+      "dist": 10.8149665268
+    },
+    {
+      "name": "trip_3-cmc",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "3-cmc"
+      ],
+      "isomerd_names": null,
+      "dist": 10.9508923311
+    },
+    {
+      "name": "trip_4-fmc",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-fmc"
+      ],
+      "isomerd_names": null,
+      "dist": 11.002888387
+    },
+    {
+      "name": "trip_4-fluoropentedrone",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-fluoropentedrone"
+      ],
+      "isomerd_names": null,
+      "dist": 11.1011113203
+    },
+    {
+      "name": "trip_3-fmc",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "3-fmc"
+      ],
+      "isomerd_names": null,
+      "dist": 11.1412351636
     }
   ]
 }

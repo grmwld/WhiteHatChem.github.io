@@ -4,8 +4,9 @@ import Main from '../../layouts/Main.astro';
 import CompoundCard from '../../components/CompoundCard.astro';
 
 interface IParams {
-    psychonaut_name: string | null;
-    tripsit_name: string | null;
+    psychonaut_names: string[] | null;
+    tripsit_names: string[] | null;
+    isomerd_names: string[] | null;
 	name: string;
     svg: string
 }

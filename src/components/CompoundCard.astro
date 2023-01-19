@@ -3,22 +3,24 @@ import ComponentSvg from './ComponentSvg.astro'
 import CompoundName from './CompoundName.astro';
 
 export interface Props {
-    psychonaut_name: string | null;
-    tripsit_name: string | null;
+    psychonaut_names: string[] | null;
+    tripsit_names: string[] | null;
+    isomerd_names: string[] | null;
 	name: string;
     svg: string
 }
 
-const { psychonaut_name, tripsit_name, name, svg } = Astro.props;
+const { psychonaut_names, tripsit_names, isomerd_names, name, svg } = Astro.props;
 ---
 
 <a
     href={`/molecule/${name}`}
     class="flex flex-col items-center group"
 >
-    <div class="flex">
-        <CompoundName name={tripsit_name} site="tripsit"/>
-        <CompoundName name={psychonaut_name} site="psychonaut"/>
+    <div class="flex flex-col">
+        {psychonaut_names && psychonaut_names.map(name => <CompoundName name={name} site="psychonaut"/>)}
+        {tripsit_names && tripsit_names.map(name => <CompoundName name={name} site="tripsit"/>)}
+        {isomerd_names && isomerd_names.map(name => <CompoundName name={name} site="isomerdesign"/>)}
     </div>
     <div class="w-full border-t border-neutral-400/20 mt-2 group-hover:border-indigo-400/50"/>
     <ComponentSvg svg={svg} name={name}/>

@@ -1,0 +1,243 @@
+{
+  "inchi": "InChI=1S/C15H23NO/c1-3-10-16(4-2)13-9-8-12-6-5-7-15(17)14(12)11-13/h5-7,13,17H,3-4,8-11H2,1-2H3",
+  "psychonaut_names": null,
+  "tripsit_names": null,
+  "isomerd_names": [
+    "PEAT"
+  ],
+  "isod_ids": [
+    6960
+  ],
+  "synonyms": [
+    "PEAT"
+  ],
+  "distances": [
+    6.8037708598,
+    14.6163069492,
+    16.335635795,
+    17.9144670896,
+    20.8575849244,
+    21.1047490132,
+    21.2244561547,
+    21.2266918932,
+    21.3154788802,
+    21.4644516997,
+    22.7339024865,
+    22.7776247759,
+    22.816915508,
+    22.8582135086,
+    22.9107313573,
+    22.996447745,
+    23.2373905239,
+    23.2888017324,
+    23.4256858245
+  ],
+  "indices": [
+    654,
+    653,
+    637,
+    683,
+    87,
+    619,
+    618,
+    108,
+    107,
+    465,
+    622,
+    136,
+    105,
+    104,
+    638,
+    419,
+    626,
+    138,
+    387
+  ],
+  "name": "isomer_PEAT",
+  "svg": "isomer_PEAT.svg",
+  "sim": [
+    {
+      "name": "isomer_EEAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "EEAT"
+      ],
+      "dist": 6.8037708598
+    },
+    {
+      "name": "isomer_BHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "BHAT"
+      ],
+      "dist": 14.6163069492
+    },
+    {
+      "name": "isomer_PHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "PHAT"
+      ],
+      "dist": 16.335635795
+    },
+    {
+      "name": "isomer_BBAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "BBAT"
+      ],
+      "dist": 17.9144670896
+    },
+    {
+      "name": "psyc_4-HO-MET_trip_4-ho-met",
+      "psychonaut_names": [
+        "4-HO-MET"
+      ],
+      "tripsit_names": [
+        "4-ho-met"
+      ],
+      "isomerd_names": null,
+      "dist": 20.8575849244
+    },
+    {
+      "name": "isomer_EHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "EHAT"
+      ],
+      "dist": 21.1047490132
+    },
+    {
+      "name": "isomer_MMAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "MMAT"
+      ],
+      "dist": 21.2244561547
+    },
+    {
+      "name": "psyc_4-HO-MPT_trip_4-ho-mpt",
+      "psychonaut_names": [
+        "4-HO-MPT"
+      ],
+      "tripsit_names": [
+        "4-ho-mpt"
+      ],
+      "isomerd_names": null,
+      "dist": 21.2266918932
+    },
+    {
+      "name": "psyc_4-HO-DET_trip_4-ho-det",
+      "psychonaut_names": [
+        "4-HO-DET"
+      ],
+      "tripsit_names": [
+        "4-ho-det"
+      ],
+      "isomerd_names": null,
+      "dist": 21.3154788802
+    },
+    {
+      "name": "trip_bk-ivp",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "bk-ivp"
+      ],
+      "isomerd_names": null,
+      "dist": 21.4644516997
+    },
+    {
+      "name": "isomer_2-(2-Hydroxyethyl)-4-methoxy-5-propylphenol",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-(2-Hydroxyethyl)-4-methoxy-5-propylphenol"
+      ],
+      "dist": 22.7339024865
+    },
+    {
+      "name": "psyc_4-HO-EPT_trip_4-ho-ept",
+      "psychonaut_names": [
+        "4-HO-EPT"
+      ],
+      "tripsit_names": [
+        "4-ho-ept"
+      ],
+      "isomerd_names": null,
+      "dist": 22.7776247759
+    },
+    {
+      "name": "psyc_MPT",
+      "psychonaut_names": [
+        "MPT"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 22.816915508
+    },
+    {
+      "name": "psyc_DET_trip_det",
+      "psychonaut_names": [
+        "DET"
+      ],
+      "tripsit_names": [
+        "det"
+      ],
+      "isomerd_names": null,
+      "dist": 22.8582135086
+    },
+    {
+      "name": "isomer_7-[(Propan-2-yl)amino]-5,6,7,8-tetrahydronaphthalen-1-ol",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "7-[(Propan-2-yl)amino]-5,6,7,8-tetrahydronaphthalen-1-ol"
+      ],
+      "dist": 22.9107313573
+    },
+    {
+      "name": "trip_5-meo-met",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "5-meo-met"
+      ],
+      "isomerd_names": null,
+      "dist": 22.996447745
+    },
+    {
+      "name": "isomer_2-(2-Aminoethyl)-4-methoxy-5-propylphenol",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-(2-Aminoethyl)-4-methoxy-5-propylphenol"
+      ],
+      "dist": 23.2373905239
+    },
+    {
+      "name": "psyc_Prolintane_trip_prolintane",
+      "psychonaut_names": [
+        "Prolintane"
+      ],
+      "tripsit_names": [
+        "prolintane"
+      ],
+      "isomerd_names": null,
+      "dist": 23.2888017324
+    },
+    {
+      "name": "trip_dimemebfe",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "dimemebfe"
+      ],
+      "isomerd_names": null,
+      "dist": 23.4256858245
+    }
+  ]
+}

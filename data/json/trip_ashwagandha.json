@@ -1,134 +1,249 @@
 {
-  "inchi": "InChI=1S/C28H38O6/c1-14-11-21(33-25(32)17(14)13-29)15(2)18-5-6-19-16-12-24-28(34-24)23(31)8-7-22(30)27(28,4)20(16)9-10-26(18,19)3/h7-8,15-16,18-21,23-24,29,31H,5-6,9-13H2,1-4H3/t15-,16-,18+,19-,20-,21+,23-,24+,26+,27-,28+/m0/s1",
-  "psychonaut_name": null,
-  "tripsit_name": "ashwagandha",
-  "synonyms": null,
+  "inchi": "InChI=1S/C28H38O6/c1-14-11-21(33-25(32)17(14)13-29)15(2)18-5-6-19-16-12-24-28(34-24)23(31)8-7-22(30)27(28,4)20(16)9-10-26(18,19)3/h7-8,15-16,18-21,23-24,29,31H,5-6,9-13H2,1-4H3",
+  "psychonaut_names": null,
+  "tripsit_names": [
+    "ashwagandha"
+  ],
+  "isomerd_names": null,
+  "isod_ids": null,
+  "synonyms": [],
   "distances": [
     49.1825337987,
     50.5443367794,
     56.2241998123,
-    56.2241998123,
     60.8945842471,
-    60.8945842471,
-    66.9385139396,
     66.9385139396,
     72.9485919694,
     74.1209058998,
-    74.1209058998,
-    75.0528915062,
     75.0528915062,
     75.1312165949,
-    75.1312165949
+    75.1683916908,
+    76.118229507,
+    76.4231352764,
+    76.7259352542,
+    76.7356651414,
+    77.1251804344,
+    77.3369125766,
+    77.6114779134,
+    77.729734472,
+    78.6523979738
   ],
   "indices": [
-    291,
-    292,
-    732,
-    136,
-    114,
-    393,
-    397,
-    186,
-    296,
-    709,
-    165,
-    256,
-    428,
-    151,
-    827
+    267,
+    270,
+    253,
+    282,
+    245,
+    271,
+    232,
+    210,
+    218,
+    228,
+    209,
+    184,
+    570,
+    503,
+    547,
+    284,
+    208,
+    183,
+    182
   ],
   "name": "trip_ashwagandha",
   "svg": "trip_ashwagandha.svg",
   "sim": [
     {
-      "name": "psyc_Salvinorin A",
-      "psychonaut_name": "Salvinorin A",
-      "tripsit_name": null,
+      "name": "psyc_Salvinorin_A",
+      "psychonaut_names": [
+        "Salvinorin A"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
       "dist": 49.1825337987
     },
     {
-      "name": "psyc_Salvinorin B methoxymethyl ether",
-      "psychonaut_name": "Salvinorin B methoxymethyl ether",
-      "tripsit_name": null,
+      "name": "psyc_Salvinorin_B_methoxymethyl_ether",
+      "psychonaut_names": [
+        "Salvinorin B methoxymethyl ether"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
       "dist": 50.5443367794
     },
     {
-      "name": "trip_doc",
-      "psychonaut_name": null,
-      "tripsit_name": "doc",
+      "name": "psyc_DOC_trip_doc",
+      "psychonaut_names": [
+        "DOC"
+      ],
+      "tripsit_names": [
+        "doc"
+      ],
+      "isomerd_names": null,
       "dist": 56.2241998123
     },
     {
-      "name": "psyc_DOC",
-      "psychonaut_name": "DOC",
-      "tripsit_name": null,
-      "dist": 56.2241998123
-    },
-    {
-      "name": "psyc_Buprenorphine",
-      "psychonaut_name": "Buprenorphine",
-      "tripsit_name": null,
+      "name": "psyc_Buprenorphine_trip_buprenorphine",
+      "psychonaut_names": [
+        "Buprenorphine"
+      ],
+      "tripsit_names": [
+        "buprenorphine"
+      ],
+      "isomerd_names": null,
       "dist": 60.8945842471
     },
     {
-      "name": "trip_buprenorphine",
-      "psychonaut_name": null,
-      "tripsit_name": "buprenorphine",
-      "dist": 60.8945842471
-    },
-    {
-      "name": "trip_heroin",
-      "psychonaut_name": null,
-      "tripsit_name": "heroin",
-      "dist": 66.9385139396
-    },
-    {
-      "name": "psyc_Heroin",
-      "psychonaut_name": "Heroin",
-      "tripsit_name": null,
+      "name": "psyc_Heroin_trip_heroin",
+      "psychonaut_names": [
+        "Heroin"
+      ],
+      "tripsit_names": [
+        "heroin"
+      ],
+      "isomerd_names": null,
       "dist": 66.9385139396
     },
     {
       "name": "psyc_THC-O",
-      "psychonaut_name": "THC-O",
-      "tripsit_name": null,
+      "psychonaut_names": [
+        "THC-O"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
       "dist": 72.9485919694
     },
     {
-      "name": "trip_ethylmorphine",
-      "psychonaut_name": null,
-      "tripsit_name": "ethylmorphine",
+      "name": "psyc_Ethylmorphine_trip_ethylmorphine",
+      "psychonaut_names": [
+        "Ethylmorphine"
+      ],
+      "tripsit_names": [
+        "ethylmorphine"
+      ],
+      "isomerd_names": null,
       "dist": 74.1209058998
     },
     {
-      "name": "psyc_Ethylmorphine",
-      "psychonaut_name": "Ethylmorphine",
-      "tripsit_name": null,
-      "dist": 74.1209058998
-    },
-    {
-      "name": "psyc_Oxycodone",
-      "psychonaut_name": "Oxycodone",
-      "tripsit_name": null,
+      "name": "psyc_Oxycodone_trip_oxycodone",
+      "psychonaut_names": [
+        "Oxycodone"
+      ],
+      "tripsit_names": [
+        "oxycodone"
+      ],
+      "isomerd_names": null,
       "dist": 75.0528915062
     },
     {
-      "name": "trip_oxycodone",
-      "psychonaut_name": null,
-      "tripsit_name": "oxycodone",
-      "dist": 75.0528915062
-    },
-    {
-      "name": "psyc_Dihydrocodeine",
-      "psychonaut_name": "Dihydrocodeine",
-      "tripsit_name": null,
+      "name": "psyc_Dihydrocodeine_trip_dihydrocodeine",
+      "psychonaut_names": [
+        "Dihydrocodeine"
+      ],
+      "tripsit_names": [
+        "dihydrocodeine"
+      ],
+      "isomerd_names": null,
       "dist": 75.1312165949
     },
     {
-      "name": "trip_dihydrocodeine",
-      "psychonaut_name": null,
-      "tripsit_name": "dihydrocodeine",
-      "dist": 75.1312165949
+      "name": "psyc_Naloxone",
+      "psychonaut_names": [
+        "Naloxone"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 75.1683916908
+    },
+    {
+      "name": "psyc_Codeine_trip_codeine",
+      "psychonaut_names": [
+        "Codeine"
+      ],
+      "tripsit_names": [
+        "codeine"
+      ],
+      "isomerd_names": null,
+      "dist": 76.118229507
+    },
+    {
+      "name": "psyc_Oxymorphone_trip_oxymorphone",
+      "psychonaut_names": [
+        "Oxymorphone"
+      ],
+      "tripsit_names": [
+        "oxymorphone"
+      ],
+      "isomerd_names": null,
+      "dist": 76.4231352764
+    },
+    {
+      "name": "trip_nicomorphine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "nicomorphine"
+      ],
+      "isomerd_names": null,
+      "dist": 76.7259352542
+    },
+    {
+      "name": "trip_6-mddm",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "6-mddm"
+      ],
+      "isomerd_names": null,
+      "dist": 76.7356651414
+    },
+    {
+      "name": "trip_marinol",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "marinol"
+      ],
+      "isomerd_names": null,
+      "dist": 77.1251804344
+    },
+    {
+      "name": "psyc_Ergotamine",
+      "psychonaut_names": [
+        "Ergotamine"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 77.3369125766
+    },
+    {
+      "name": "psyc_Hydrocodone_trip_hydrocodone",
+      "psychonaut_names": [
+        "Hydrocodone"
+      ],
+      "tripsit_names": [
+        "hydrocodone"
+      ],
+      "isomerd_names": null,
+      "dist": 77.6114779134
+    },
+    {
+      "name": "psyc_Morphine_trip_morphine",
+      "psychonaut_names": [
+        "Morphine"
+      ],
+      "tripsit_names": [
+        "morphine"
+      ],
+      "isomerd_names": null,
+      "dist": 77.729734472
+    },
+    {
+      "name": "psyc_Hydromorphone_trip_hydromorphone",
+      "psychonaut_names": [
+        "Hydromorphone"
+      ],
+      "tripsit_names": [
+        "hydromorphone"
+      ],
+      "isomerd_names": null,
+      "dist": 78.6523979738
     }
   ]
 }

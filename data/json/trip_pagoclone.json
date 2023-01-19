@@ -1,14 +1,17 @@
 {
   "inchi": "InChI=1S/C23H22ClN3O2/c1-14(2)7-10-16(28)13-19-17-5-3-4-6-18(17)23(29)27(19)21-12-9-15-8-11-20(24)25-22(15)26-21/h3-6,8-9,11-12,14,19H,7,10,13H2,1-2H3",
-  "psychonaut_name": null,
-  "tripsit_name": "pagoclone",
-  "synonyms": null,
+  "psychonaut_names": null,
+  "tripsit_names": [
+    "pagoclone"
+  ],
+  "isomerd_names": null,
+  "isod_ids": null,
+  "synonyms": [],
   "distances": [
     26.7740507298,
-    26.7740507298,
     28.8393926997,
+    29.8179934257,
     30.2688555,
-    30.6856432817,
     30.6856432817,
     31.0388481619,
     31.2259467978,
@@ -18,117 +21,216 @@
     32.7843703829,
     32.9743367601,
     33.9483393717,
-    34.1234063416
+    34.1234063416,
+    34.1990721817,
+    34.2028876619,
+    34.3672310113,
+    34.7179061554,
+    35.0276066487
   ],
   "indices": [
-    802,
-    93,
-    297,
-    193,
-    87,
-    587,
-    298,
-    572,
-    194,
-    606,
-    432,
-    746,
-    845,
+    236,
+    265,
     687,
-    350
+    272,
+    263,
+    262,
+    513,
+    264,
+    496,
+    559,
+    556,
+    538,
+    550,
+    557,
+    537,
+    563,
+    246,
+    552,
+    260
   ],
   "name": "trip_pagoclone",
   "svg": "trip_pagoclone.svg",
   "sim": [
     {
-      "name": "trip_ab-fubinaca",
-      "psychonaut_name": null,
-      "tripsit_name": "ab-fubinaca",
-      "dist": 26.7740507298
-    },
-    {
-      "name": "psyc_AB-FUBINACA",
-      "psychonaut_name": "AB-FUBINACA",
-      "tripsit_name": null,
+      "name": "psyc_AB-FUBINACA_trip_ab-fubinaca",
+      "psychonaut_names": [
+        "AB-FUBINACA"
+      ],
+      "tripsit_names": [
+        "ab-fubinaca"
+      ],
+      "isomerd_names": null,
       "dist": 26.7740507298
     },
     {
       "name": "psyc_THJ-018",
-      "psychonaut_name": "THJ-018",
-      "tripsit_name": null,
+      "psychonaut_names": [
+        "THJ-018"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
       "dist": 28.8393926997
     },
     {
+      "name": "isomer_Ethylbenzyl-4CN-BINACA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "Ethylbenzyl-4CN-BINACA"
+      ],
+      "dist": 29.8179934257
+    },
+    {
       "name": "psyc_JWH-018",
-      "psychonaut_name": "JWH-018",
-      "tripsit_name": null,
+      "psychonaut_names": [
+        "JWH-018"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
       "dist": 30.2688555
     },
     {
-      "name": "psyc_5F-PB-22",
-      "psychonaut_name": "5F-PB-22",
-      "tripsit_name": null,
-      "dist": 30.6856432817
-    },
-    {
-      "name": "trip_5f-pb-22",
-      "psychonaut_name": null,
-      "tripsit_name": "5f-pb-22",
+      "name": "psyc_5F-PB-22_trip_5f-pb-22",
+      "psychonaut_names": [
+        "5F-PB-22"
+      ],
+      "tripsit_names": [
+        "5f-pb-22"
+      ],
+      "isomerd_names": null,
       "dist": 30.6856432817
     },
     {
       "name": "psyc_THJ-2201",
-      "psychonaut_name": "THJ-2201",
-      "tripsit_name": null,
+      "psychonaut_names": [
+        "THJ-2201"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
       "dist": 31.0388481619
     },
     {
       "name": "trip_camazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "camazepam",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "camazepam"
+      ],
+      "isomerd_names": null,
       "dist": 31.2259467978
     },
     {
       "name": "psyc_JWH-073",
-      "psychonaut_name": "JWH-073",
-      "tripsit_name": null,
+      "psychonaut_names": [
+        "JWH-073"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
       "dist": 31.2430675904
     },
     {
       "name": "trip_amfonelicacid",
-      "psychonaut_name": null,
-      "tripsit_name": "amfonelicacid",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "amfonelicacid"
+      ],
+      "isomerd_names": null,
       "dist": 32.4695075555
     },
     {
       "name": "trip_am-2201",
-      "psychonaut_name": null,
-      "tripsit_name": "am-2201",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "am-2201"
+      ],
+      "isomerd_names": null,
       "dist": 32.7454281011
     },
     {
       "name": "trip_parafluorobutyrfentanyl",
-      "psychonaut_name": null,
-      "tripsit_name": "parafluorobutyrfentanyl",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "parafluorobutyrfentanyl"
+      ],
+      "isomerd_names": null,
       "dist": 32.7843703829
     },
     {
       "name": "trip_flurazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "flurazepam",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "flurazepam"
+      ],
+      "isomerd_names": null,
       "dist": 32.9743367601
     },
     {
       "name": "trip_parafluorofentanyl",
-      "psychonaut_name": null,
-      "tripsit_name": "parafluorofentanyl",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "parafluorofentanyl"
+      ],
+      "isomerd_names": null,
       "dist": 33.9483393717
     },
     {
       "name": "trip_butyrfentanyl",
-      "psychonaut_name": null,
-      "tripsit_name": "butyrfentanyl",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "butyrfentanyl"
+      ],
+      "isomerd_names": null,
       "dist": 34.1234063416
+    },
+    {
+      "name": "trip_rilmazafone",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "rilmazafone"
+      ],
+      "isomerd_names": null,
+      "dist": 34.1990721817
+    },
+    {
+      "name": "trip_valerylfentanyl",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "valerylfentanyl"
+      ],
+      "isomerd_names": null,
+      "dist": 34.2028876619
+    },
+    {
+      "name": "psyc_Tianeptine_trip_tianeptine",
+      "psychonaut_names": [
+        "Tianeptine"
+      ],
+      "tripsit_names": [
+        "tianeptine"
+      ],
+      "isomerd_names": null,
+      "dist": 34.3672310113
+    },
+    {
+      "name": "trip_methoxyacetyl-fentanyl",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "methoxyacetyl-fentanyl"
+      ],
+      "isomerd_names": null,
+      "dist": 34.7179061554
+    },
+    {
+      "name": "psyc_Dextropropoxyphene_trip_propoxyphene_dextropropoxyphene",
+      "psychonaut_names": [
+        "Dextropropoxyphene"
+      ],
+      "tripsit_names": [
+        "propoxyphene",
+        "dextropropoxyphene"
+      ],
+      "isomerd_names": null,
+      "dist": 35.0276066487
     }
   ]
 }

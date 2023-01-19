@@ -1,0 +1,420 @@
+{
+  "inchi": "InChI=1S/C5H11NO2S/c1-9-3-2-4(6)5(7)8/h4H,2-3,6H2,1H3,(H,7,8)",
+  "psychonaut_names": [
+    "MET"
+  ],
+  "tripsit_names": [
+    "met"
+  ],
+  "isomerd_names": null,
+  "isod_ids": null,
+  "synonyms": [
+    "L-Methionine,(S)",
+    "Methionine [USAN:USP:INN:BAN]",
+    "S-Methyl-L-homocysteine",
+    "L-alpha-Amino-gamma-methylthiobutyric acid",
+    "(S)-(+)-Methionine",
+    "METHIONINE [HSDB]",
+    "MFCD00801344",
+    "HSDB 4317",
+    "58576-49-1",
+    "methionine",
+    "A-amino-g-methylmercaptobutyrate",
+    "L-Homocysteine, S-methyl-",
+    "L-(-)-Methionine",
+    "SCHEMBL4226",
+    "DTXSID5040548",
+    "DB00134",
+    "l-2-Amino-4-(methylthio)butyric acid",
+    "NSC760117",
+    "L(-)-Amino-gamma-methylthiobutyric acid",
+    "AKOS000281626",
+    "a-Amino-g-methylmercaptobutyric acid",
+    "Cymethion",
+    "L-alpha-Amino-gamma-methylmercaptobutyric acid",
+    "L-Methionine, Vetec(TM) reagent grade, >=98%",
+    "M02945",
+    "NSC-760117",
+    "Neo-methidin",
+    "Methioninum",
+    "L-Met",
+    "gamma-methylthio-alpha-aminobutyrate",
+    "Methionine (L-Methionine)",
+    "63M683",
+    "L-Methionine (JP17)",
+    "2-Amino-4-methylthiobutanoic acid (S)-",
+    "L-METHIONINE [USP-RS]",
+    "CCRIS 5536",
+    "METHIONINE [EP MONOGRAPH]",
+    "Poly-L-methionine",
+    "L-Methionin",
+    "METHIONINE [MART.]",
+    "BDBM50142500",
+    "gamma-Methylthio-alpha-aminobutyric acid",
+    "Methionine [USAN:INN]",
+    "F1905-8241",
+    "(S)-methionine",
+    "2-Amino-4-(methylthio)butyric acid, (S)-",
+    "L-Methionine, labeled with carbon-11",
+    "LEUCINE IMPURITY B [EP IMPURITY]",
+    "M02939",
+    "L-Methionine, reagent grade, >=98% (HPLC)",
+    "C-11 Met",
+    "alpha-amino-alpha-aminobutyric acid",
+    "L(-)-Methionin",
+    "CHEMBL42336",
+    "C6CB5837-2B49-4B25-AAB0-D305DAFE26EB",
+    "D70895",
+    "(2S)-2-amino-4-methylsulfanyl-butanoic acid",
+    "methylethyltryptamine",
+    "D00019",
+    "G-methylthio-a-aminobutyrate",
+    "L-Methionine, certified reference material, TraceCERT(R)",
+    "(S)-2-Amino-4-(methylmercapto)butyric acid",
+    "M0099",
+    "bmse000044",
+    "DB-029971",
+    "METHIONINE [INN]",
+    "H-Met-2-Chlorotrityl Resin",
+    "Q22124685",
+    "L-2-Amino-4methylthiobutyric acid",
+    "CS-W020566",
+    "Polymethionine",
+    "NCGC00160620-01",
+    "1006386-95-3",
+    "L-Methionine, United States Pharmacopeia (USP) Reference Standard",
+    "g-Methylthio-a-aminobutyric acid",
+    "L-Methionine, Pharmaceutical Secondary Standard; Certified Reference Material",
+    "(S)-2-Amino-4-(methylthio)butanoate",
+    "METHIONINE [MI]",
+    "S-Methionine",
+    "METHIONINE [II]",
+    "UNII-AE28F7PNPL",
+    "Methionine (USP)",
+    "M-3100",
+    "2-Amino-4-methylthiobutanoate",
+    "L-2-Amino-4-(methylthio)butanoic acid",
+    "L-Methionine, from non-animal source, meets EP, JP, USP testing specifications, suitable for cell culture, 99.0-101.0%",
+    "L-Methionine (H-Met-OH)",
+    "Z1250208671",
+    "(2S)-2-amino-4-(methylsulfanyl)butanoate",
+    "MFCD00063097",
+    "Methilanin",
+    "Liquimeth",
+    "METHIONINE [VANDF]",
+    "L-a-Amino-g-methylthiobutyric acid",
+    "L-METHIONINE [FCC]",
+    "A5456",
+    "h-Met-h",
+    "1qq9",
+    "(S)-2-amino-4-(methylthio)-Butanoate",
+    "(S)-2-Amino-4-(methylthio)butanoic acid",
+    "D-2-Amino-4-(methylthio)butanoic acid",
+    "L-a-amino-g-methylthiobutyrate",
+    "L-gamma-Methylthio-alpha-aminobutyric acid",
+    "HY-N0326",
+    "h-Met-oh",
+    "63-68-3",
+    "(L)-Methionine",
+    "L-2-Amino-4-methylthiobutyric acid",
+    "METHIONINE [USAN]",
+    "L-Methioninum",
+    "Methionine, European Pharmacopoeia (EP) Reference Standard",
+    "Toxin WAR",
+    "SCHEMBL15702352",
+    "CHEBI:16643",
+    "(S)-2-amino-4-(methylthio)butyric acid",
+    "METHIONINE [USP MONOGRAPH]",
+    "2-Amino-4-(methylthio)butyrate",
+    "racemic methionine",
+    "AM20100552",
+    "NSC-22946",
+    "3h-l-methionine",
+    "ZINC1532529",
+    "L-Methionine, Cell Culture Reagent (H-L-Met-OH)",
+    "C00073",
+    "1wkm",
+    "(2S)-2-Amino-4-methylsulfanylbutanoic acid",
+    "C-11 Methionine",
+    "(S)-2-amino-4-(methylthio)-Butanoic acid",
+    "GTPL4814",
+    "NCGC00160620-02",
+    "L-Methionine, Vetec(TM), 98.5%",
+    "(2S)-2-amino-4-(methylsulfanyl)butanoic acid",
+    "Toxin WAR (Bacillus thuringiensis strain PS205C)",
+    "A934626",
+    "L-Methionine-[34S]",
+    "AKOS015852512",
+    "met",
+    "Methionine, L- (8CI)",
+    "CCG-266196",
+    "CCRIS 5528",
+    "1pg2",
+    "Methionine (VAN)",
+    "Soft tissue sarcoma-associated protein (human clone WO2004048938-SEQID-1139)",
+    "Pharmakon1600-01301006",
+    "s5633",
+    "L-alpha-amino-gamma-methylthiobutyrate",
+    "METHIONINE [INCI]",
+    "NSC 22946",
+    "AE28F7PNPL",
+    "L(-)-amino-alpha-amino-alpha-aminobutyric acid",
+    "(R)-2-Amino-4-(methylmercapto)butyric acid",
+    "alpha-amino-gamma-methylmercaptobutyrate",
+    "L-Methionine, BioUltra, >=99.5% (NT)",
+    "METHIONINE, L-",
+    "AS-10898",
+    "METHIONINE [WHO-DD]",
+    "(35S)Methionine",
+    "L-METHIONINE [JAN]",
+    "L-Methionine, SAJ special grade, >=98.5%",
+    "Acimethin",
+    "carbon-11 methionine",
+    "Metionina [DCIT]",
+    "metionina",
+    "L-Methionine Z (TN)",
+    "L-Methionine, PharmaGrade, Ajinomoto, EP, JP, USP, manufactured under appropriate GMP controls for Pharma or Biopharmaceutical production, suitable for cell culture",
+    "N-(2CT Resin)-L-Met-OH (200-400 mesh, > 0.3 mmol/g)",
+    "bmse000915",
+    "L-methionine",
+    "Butanoic acid, 2-amino-4-(methylthio)-, (S)-",
+    "EINECS 200-562-9",
+    "Methioninum [INN-Latin]"
+  ],
+  "distances": [
+    18.4843791275,
+    20.2419161261,
+    21.3924653381,
+    21.6638223199,
+    21.6999412712,
+    22.1186493633,
+    22.308202848,
+    23.4625998412,
+    24.0225825559,
+    24.4185483379,
+    24.5634715735,
+    25.891843759,
+    26.2483525804,
+    26.4883881086,
+    26.6150674695,
+    26.8229476385,
+    27.4729014657,
+    27.7250886742,
+    27.9329117457
+  ],
+  "indices": [
+    577,
+    289,
+    299,
+    300,
+    306,
+    290,
+    297,
+    294,
+    580,
+    575,
+    333,
+    314,
+    305,
+    332,
+    287,
+    309,
+    10,
+    304,
+    310
+  ],
+  "name": "psyc_MET_trip_met",
+  "svg": "psyc_MET_trip_met.svg",
+  "sim": [
+    {
+      "name": "trip_gaba",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "gaba"
+      ],
+      "isomerd_names": null,
+      "dist": 18.4843791275
+    },
+    {
+      "name": "psyc_GHB_trip_ghb",
+      "psychonaut_names": [
+        "GHB"
+      ],
+      "tripsit_names": [
+        "ghb"
+      ],
+      "isomerd_names": null,
+      "dist": 20.2419161261
+    },
+    {
+      "name": "psyc_Theanine_trip_l-theanine",
+      "psychonaut_names": [
+        "Theanine"
+      ],
+      "tripsit_names": [
+        "l-theanine"
+      ],
+      "isomerd_names": null,
+      "dist": 21.3924653381
+    },
+    {
+      "name": "psyc_1,3-DMAA_trip_dmaa",
+      "psychonaut_names": [
+        "1,3-DMAA"
+      ],
+      "tripsit_names": [
+        "dmaa"
+      ],
+      "isomerd_names": null,
+      "dist": 21.6638223199
+    },
+    {
+      "name": "psyc_Pregabalin_trip_pregabalin",
+      "psychonaut_names": [
+        "Pregabalin"
+      ],
+      "tripsit_names": [
+        "pregabalin"
+      ],
+      "isomerd_names": null,
+      "dist": 21.6999412712
+    },
+    {
+      "name": "psyc_Creatine",
+      "psychonaut_names": [
+        "Creatine"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 22.1186493633
+    },
+    {
+      "name": "psyc_1,3-dimethylbutylamine",
+      "psychonaut_names": [
+        "1,3-dimethylbutylamine"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 22.308202848
+    },
+    {
+      "name": "psyc_N-Acetylcysteine",
+      "psychonaut_names": [
+        "N-Acetylcysteine"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 23.4625998412
+    },
+    {
+      "name": "trip_thiopropamine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "thiopropamine"
+      ],
+      "isomerd_names": null,
+      "dist": 24.0225825559
+    },
+    {
+      "name": "trip_aet",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "aet"
+      ],
+      "isomerd_names": null,
+      "dist": 24.4185483379
+    },
+    {
+      "name": "trip_4-mta",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-mta"
+      ],
+      "isomerd_names": null,
+      "dist": 24.5634715735
+    },
+    {
+      "name": "psyc_Dexamphetamine_trip_dexedrine_amphetamine",
+      "psychonaut_names": [
+        "Dexamphetamine"
+      ],
+      "tripsit_names": [
+        "dexedrine",
+        "amphetamine"
+      ],
+      "isomerd_names": null,
+      "dist": 25.891843759
+    },
+    {
+      "name": "psyc_Methiopropamine",
+      "psychonaut_names": [
+        "Methiopropamine"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 26.2483525804
+    },
+    {
+      "name": "trip_2-methylamphetamine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "2-methylamphetamine"
+      ],
+      "isomerd_names": null,
+      "dist": 26.4883881086
+    },
+    {
+      "name": "psyc_1,4-Butanediol_trip_1,4-butanediol",
+      "psychonaut_names": [
+        "1,4-Butanediol"
+      ],
+      "tripsit_names": [
+        "1,4-butanediol"
+      ],
+      "isomerd_names": null,
+      "dist": 26.6150674695
+    },
+    {
+      "name": "psyc_Tyrosine",
+      "psychonaut_names": [
+        "Tyrosine"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 26.8229476385
+    },
+    {
+      "name": "psyc_Phenibut_trip_phenibut",
+      "psychonaut_names": [
+        "Phenibut"
+      ],
+      "tripsit_names": [
+        "phenibut"
+      ],
+      "isomerd_names": null,
+      "dist": 27.4729014657
+    },
+    {
+      "name": "psyc_Phenethylamine_(compound)_trip_phenethylamine",
+      "psychonaut_names": [
+        "Phenethylamine (compound)"
+      ],
+      "tripsit_names": [
+        "phenethylamine"
+      ],
+      "isomerd_names": null,
+      "dist": 27.7250886742
+    },
+    {
+      "name": "psyc_3-FA_trip_3-fa",
+      "psychonaut_names": [
+        "3-FA"
+      ],
+      "tripsit_names": [
+        "3-fa"
+      ],
+      "isomerd_names": null,
+      "dist": 27.9329117457
+    }
+  ]
+}

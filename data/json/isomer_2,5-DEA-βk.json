@@ -1,0 +1,238 @@
+{
+  "inchi": "InChI=1S/C13H19NO3/c1-4-16-10-6-7-12(17-5-2)11(8-10)13(15)9(3)14/h6-9H,4-5,14H2,1-3H3",
+  "psychonaut_names": null,
+  "tripsit_names": null,
+  "isomerd_names": [
+    "2,5-DEA-\u03b2k"
+  ],
+  "isod_ids": [
+    6917
+  ],
+  "synonyms": [
+    "2,5-DEA-\u03b2k"
+  ],
+  "distances": [
+    13.6646543432,
+    14.7444519988,
+    16.0630262712,
+    16.6739131179,
+    17.5065809682,
+    17.9995871603,
+    18.3123841787,
+    18.4458162852,
+    18.4808151158,
+    18.7281871818,
+    19.0235578153,
+    19.3228380502,
+    19.4429284271,
+    19.4482737425,
+    19.9529506404,
+    20.1744928648,
+    20.2348757177,
+    20.3818991746,
+    20.4428838236
+  ],
+  "indices": [
+    640,
+    645,
+    631,
+    620,
+    646,
+    657,
+    403,
+    92,
+    95,
+    422,
+    399,
+    390,
+    420,
+    604,
+    72,
+    641,
+    114,
+    593,
+    621
+  ],
+  "name": "isomer_2,5-DEA-\u03b2k",
+  "svg": "isomer_2,5-DEA-\u03b2k.svg",
+  "sim": [
+    {
+      "name": "isomer_1-(2,5-Diethoxyphenyl)-2-(methylamino)ethan-1-one",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "1-(2,5-Diethoxyphenyl)-2-(methylamino)ethan-1-one"
+      ],
+      "dist": 13.6646543432
+    },
+    {
+      "name": "isomer_\u03b2-HO-2,5-DEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "\u03b2-HO-2,5-DEA"
+      ],
+      "dist": 14.7444519988
+    },
+    {
+      "name": "isomer_2-Amino-1-(2,5-diethoxyphenyl)ethan-1-ol",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-Amino-1-(2,5-diethoxyphenyl)ethan-1-ol"
+      ],
+      "dist": 16.0630262712
+    },
+    {
+      "name": "isomer_2-HO-N-Me-5-EA-\u03b2k",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-HO-N-Me-5-EA-\u03b2k"
+      ],
+      "dist": 16.6739131179
+    },
+    {
+      "name": "isomer_1-(2,5-Diethoxyphenyl)-2-(methylamino)ethan-1-ol",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "1-(2,5-Diethoxyphenyl)-2-(methylamino)ethan-1-ol"
+      ],
+      "dist": 17.5065809682
+    },
+    {
+      "name": "isomer_\u03b2-HO-N-Me-2,5-DEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "\u03b2-HO-N-Me-2,5-DEA"
+      ],
+      "dist": 17.9995871603
+    },
+    {
+      "name": "trip_mem",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "mem"
+      ],
+      "isomerd_names": null,
+      "dist": 18.3123841787
+    },
+    {
+      "name": "psyc_4C-D",
+      "psychonaut_names": [
+        "4C-D"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 18.4458162852
+    },
+    {
+      "name": "psyc_3C-E_trip_3c-e",
+      "psychonaut_names": [
+        "3C-E"
+      ],
+      "tripsit_names": [
+        "3c-e"
+      ],
+      "isomerd_names": null,
+      "dist": 18.4808151158
+    },
+    {
+      "name": "trip_dopr",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "dopr"
+      ],
+      "isomerd_names": null,
+      "dist": 18.7281871818
+    },
+    {
+      "name": "trip_doet",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "doet"
+      ],
+      "isomerd_names": null,
+      "dist": 19.0235578153
+    },
+    {
+      "name": "trip_4-cbc",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-cbc"
+      ],
+      "isomerd_names": null,
+      "dist": 19.3228380502
+    },
+    {
+      "name": "trip_4-epd_ethyl-pentedrone",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-epd",
+        "ethyl-pentedrone"
+      ],
+      "isomerd_names": null,
+      "dist": 19.4429284271
+    },
+    {
+      "name": "isomer_1-(5-Ethoxy-2-hydroxyphenyl)-2-(methylamino)ethan-1-one",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "1-(5-Ethoxy-2-hydroxyphenyl)-2-(methylamino)ethan-1-one"
+      ],
+      "dist": 19.4482737425
+    },
+    {
+      "name": "psyc_Escaline_trip_escaline",
+      "psychonaut_names": [
+        "Escaline"
+      ],
+      "tripsit_names": [
+        "escaline"
+      ],
+      "isomerd_names": null,
+      "dist": 19.9529506404
+    },
+    {
+      "name": "isomer_1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-one",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-one"
+      ],
+      "dist": 20.1744928648
+    },
+    {
+      "name": "psyc_3C-P_trip_3c-p",
+      "psychonaut_names": [
+        "3C-P"
+      ],
+      "tripsit_names": [
+        "3c-p"
+      ],
+      "isomerd_names": null,
+      "dist": 20.2348757177
+    },
+    {
+      "name": "isomer_2-Amino-1-(5-ethoxy-2-hydroxyphenyl)ethan-1-one",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-Amino-1-(5-ethoxy-2-hydroxyphenyl)ethan-1-one"
+      ],
+      "dist": 20.3818991746
+    },
+    {
+      "name": "isomer_2,5-DMMA-\u03b2k",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2,5-DMMA-\u03b2k"
+      ],
+      "dist": 20.4428838236
+    }
+  ]
+}

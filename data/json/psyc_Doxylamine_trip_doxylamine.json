@@ -1,0 +1,354 @@
+{
+  "inchi": "InChI=1S/C17H22N2O/c1-17(20-14-13-19(2)3,15-9-5-4-6-10-15)16-11-7-8-12-18-16/h4-12H,13-14H2,1-3H3",
+  "psychonaut_names": [
+    "Doxylamine"
+  ],
+  "tripsit_names": [
+    "doxylamine"
+  ],
+  "isomerd_names": null,
+  "isod_ids": null,
+  "synonyms": [
+    "Prestwick2_000027",
+    "NCGC00021147-03",
+    "Prestwick0_000027",
+    "DOXYLAMINE [INN]",
+    "Pyridine, 2-[.alpha.-[2-(dimethylamino)ethoxy]-.alpha.-methylbenzyl]-",
+    "Doxylamine (INN)",
+    "SDCCGSBI-0050336.P005",
+    "AB00053466",
+    "R-Doxylamine",
+    "N,N-dimethyl-2-(1-phenyl-1-(pyridin-2-yl)ethoxy)ethan-1-amine",
+    "NCGC00021147-05",
+    "Spectrum4_000528",
+    "Decapryn (TN)",
+    "doxylamine",
+    "NCGC00089789-02",
+    "GTPL7171",
+    "N,N-dimethyl-2-[(1-phenyl-1-pyridin-2-ylethyl)oxy]ethanamine",
+    "N,N-Dimethyl-2-(1-phenyl-1-(2-pyridinyl)ethoxy)ethanamine",
+    "EC 207-414-2",
+    "SBI-0050336.P004",
+    "NCGC00021147-02",
+    "AB00053466-18",
+    "2-(alpha-(2-(Dimethylamino)ethoxy)-alpha-methylbenzyl)pyridine",
+    "BRD-A44008656-036-05-0",
+    "HSDB 5184",
+    "NCGC00021147-13",
+    "NCGC00021147-21",
+    "BSPBio_001938",
+    "KBio2_006630",
+    "DOXYLAMINE [VANDF]",
+    "N,N-dimethyl-2-(1-phenyl-1-(pyridin-2-yl)ethoxy)ethanamine",
+    "DOXYLAMINE [HSDB]",
+    "KBio2_001494",
+    ".alpha.-Dimethylaminoethoxyphenylmethyl-2-picoline",
+    "AB00053466_20",
+    "Doxylaminum",
+    "DTXSID1022970",
+    "EINECS 207-414-2",
+    "DivK1c_000841",
+    "Spectrum5_000949",
+    "SPBio_000130",
+    "NCI C60684",
+    "D07878",
+    "N,N-dimethyl-2-[1-phenyl-1-(pyridin-2-yl)ethoxy]ethanamine",
+    "Lopac0_000348",
+    "KBioGR_001135",
+    "2-(.alpha.-(2-(Dimethylamino)ethoxy)-.alpha.-methylbenzyl)pyridine",
+    "DB00366",
+    "BRN 0230379",
+    "Dossilamina [DCIT]",
+    "dimethyl({2-[1-phenyl-1-(pyridin-2-yl)ethoxy]ethyl})amine",
+    "AC-15949",
+    "KBio3_001158",
+    "2-(.ALPHA.(2-(DIMETHYLAMINO)ETHOXY)-.ALPHA.-METHYLBENZYL)PYRIDINE",
+    "Spectrum_001014",
+    "N,N-dimethyl-2-(1-phenyl-1-pyridin-2-ylethoxy)ethanamine",
+    "Doxylaminum [INN-Latin]",
+    "KBio2_004062",
+    "Doxilminio",
+    "NCGC00089789-04",
+    "FT-0603401",
+    "469-21-6",
+    "Dossilamina",
+    "KBioSS_001494",
+    "Prestwick3_000027",
+    "Spectrum3_000409",
+    "Pyridine, 2-(alpha-(2-(dimethylamino)ethoxy)-alpha-methylbenzyl)-",
+    "Spectrum2_000115",
+    "HMS3604L05",
+    "DOXYLAMINE [MI]",
+    "NCGC00021147-04",
+    "CCG-204443",
+    "IDI1_000841",
+    "Ethanamine, N,N-dimethyl-2-(1-phenyl-1-(2-pyridinyl)ethoxy)-",
+    "Phenyl-2-pyridylmethyl-.beta.-N,N-dimethylaminoethyl ether",
+    "CHEBI:51380",
+    "NCGC00089789-05",
+    "SPBio_002014",
+    "469D216",
+    "Doxylamine [INN:BAN]",
+    "BRD-A44008656-036-15-9",
+    "2-Dimethylaminoethoxyphenylmethyl-2-picoline",
+    "Q423390",
+    "Alsadorm",
+    "PYRIDINE, 2-(.ALPHA.-(2-(DIMETHYLAMINO)ETHOXY)-.ALPHA.-METHYLBENZYL)-",
+    "doxilamina",
+    "Mereprine",
+    "NCGC00021147-06",
+    "DB-051407",
+    "AB00053466_19",
+    "N,N-Dimethyl-2-[1-phenyl-1-(2-pyridinyl)ethoxy]ethanamine #",
+    "(+/-)-Doxylamine",
+    "KBio1_000841",
+    "5-21-03-00508 (Beilstein Handbook Reference)",
+    "95QB77JKPL",
+    "Ethanamine, N,N-dimethyl-2-[1-phenyl-1-(2-pyridinyl)ethoxy]-",
+    "NCGC00021147-09",
+    "STL018676",
+    "Prestwick1_000027",
+    "NINDS_000841",
+    "NCGC00021147-08",
+    "CHEMBL1004",
+    "BPBio1_000103",
+    "Doxilminio [INN-Spanish]",
+    "UNII-95QB77JKPL",
+    "BSPBio_000093",
+    "AKOS005657227",
+    "DOXYLAMINE [WHO-DD]",
+    "SCHEMBL4709",
+    "L001076",
+    "BCP09058",
+    "Phenyl-2-pyridylmethyl-beta-N,N-dimethylaminoethyl ether"
+  ],
+  "distances": [
+    19.1572177761,
+    19.2936184626,
+    22.1913660254,
+    22.2433681248,
+    22.7454668496,
+    22.74786434,
+    23.2676331298,
+    23.6100497298,
+    24.1005900331,
+    24.755832794,
+    25.451373242,
+    25.6289059523,
+    25.8024380264,
+    25.8782856647,
+    26.0182736077,
+    26.0947265442,
+    26.5561458393,
+    26.8796677905,
+    26.9165637444
+  ],
+  "indices": [
+    217,
+    189,
+    543,
+    679,
+    502,
+    434,
+    230,
+    251,
+    483,
+    215,
+    86,
+    419,
+    358,
+    387,
+    188,
+    99,
+    458,
+    105,
+    135
+  ],
+  "name": "psyc_Doxylamine_trip_doxylamine",
+  "svg": "psyc_Doxylamine_trip_doxylamine.svg",
+  "sim": [
+    {
+      "name": "psyc_Orphenadrine",
+      "psychonaut_names": [
+        "Orphenadrine"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 19.1572177761
+    },
+    {
+      "name": "psyc_Diphenhydramine",
+      "psychonaut_names": [
+        "Diphenhydramine"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 19.2936184626
+    },
+    {
+      "name": "trip_isomethadone",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "isomethadone"
+      ],
+      "isomerd_names": null,
+      "dist": 22.1913660254
+    },
+    {
+      "name": "isomer_PRL-8-53",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "PRL-8-53"
+      ],
+      "dist": 22.2433681248
+    },
+    {
+      "name": "trip_prl-8-53",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "prl-8-53"
+      ],
+      "isomerd_names": null,
+      "dist": 22.7454668496
+    },
+    {
+      "name": "trip_2-mppp",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "2-mppp"
+      ],
+      "isomerd_names": null,
+      "dist": 22.74786434
+    },
+    {
+      "name": "psyc_Benzydamine_trip_benzydamine",
+      "psychonaut_names": [
+        "Benzydamine"
+      ],
+      "tripsit_names": [
+        "benzydamine"
+      ],
+      "isomerd_names": null,
+      "dist": 23.2676331298
+    },
+    {
+      "name": "psyc_Methadone_trip_methadone",
+      "psychonaut_names": [
+        "Methadone"
+      ],
+      "tripsit_names": [
+        "methadone"
+      ],
+      "isomerd_names": null,
+      "dist": 23.6100497298
+    },
+    {
+      "name": "trip_atomoxetine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "atomoxetine"
+      ],
+      "isomerd_names": null,
+      "dist": 24.1005900331
+    },
+    {
+      "name": "psyc_Alimemazine",
+      "psychonaut_names": [
+        "Alimemazine"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 24.755832794
+    },
+    {
+      "name": "psyc_5-MeO-DMT_trip_5-meo-dmt",
+      "psychonaut_names": [
+        "5-MeO-DMT"
+      ],
+      "tripsit_names": [
+        "5-meo-dmt"
+      ],
+      "isomerd_names": null,
+      "dist": 25.451373242
+    },
+    {
+      "name": "trip_5-meo-met",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "5-meo-met"
+      ],
+      "isomerd_names": null,
+      "dist": 25.6289059523
+    },
+    {
+      "name": "trip_centrophenoxine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "centrophenoxine"
+      ],
+      "isomerd_names": null,
+      "dist": 25.8024380264
+    },
+    {
+      "name": "trip_dimemebfe",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "dimemebfe"
+      ],
+      "isomerd_names": null,
+      "dist": 25.8782856647
+    },
+    {
+      "name": "psyc_Promethazine_trip_promethazine",
+      "psychonaut_names": [
+        "Promethazine"
+      ],
+      "tripsit_names": [
+        "promethazine"
+      ],
+      "isomerd_names": null,
+      "dist": 26.0182736077
+    },
+    {
+      "name": "psyc_4-AcO-DMT_trip_4-aco-dmt",
+      "psychonaut_names": [
+        "4-AcO-DMT"
+      ],
+      "tripsit_names": [
+        "4-aco-dmt"
+      ],
+      "isomerd_names": null,
+      "dist": 26.0947265442
+    },
+    {
+      "name": "trip_2-chloro-ephenidine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "2-chloro-ephenidine"
+      ],
+      "isomerd_names": null,
+      "dist": 26.5561458393
+    },
+    {
+      "name": "psyc_MPT",
+      "psychonaut_names": [
+        "MPT"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 26.8796677905
+    },
+    {
+      "name": "psyc_5-MeO-MiPT_trip_5-meo-mipt",
+      "psychonaut_names": [
+        "5-MeO-MiPT"
+      ],
+      "tripsit_names": [
+        "5-meo-mipt"
+      ],
+      "isomerd_names": null,
+      "dist": 26.9165637444
+    }
+  ]
+}

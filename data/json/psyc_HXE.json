@@ -1,139 +1,253 @@
 {
   "inchi": "InChI=1S/C18H26N6S/c1-4-24-11-6-14(7-12-24)23(3)18-20-15-8-13-25-16(15)17(21-18)22(2)10-5-9-19/h8,13-14H,4-7,10-12H2,1-3H3",
-  "psychonaut_name": "HXE",
-  "tripsit_name": null,
+  "psychonaut_names": [
+    "HXE"
+  ],
+  "tripsit_names": null,
+  "isomerd_names": null,
+  "isod_ids": null,
   "synonyms": [
-    "HXE",
-    "BDBM50539963",
+    "3-[[2-[(1-ethylpiperidin-4-yl)-methyl-amino]thieno[3,2-d]pyrimidin-4-yl]-methyl-amino]propanenitrile",
     "CHEMBL4637123",
-    "3-[[2-[(1-ethylpiperidin-4-yl)-methyl-amino]thieno[3,2-d]pyrimidin-4-yl]-methyl-amino]propanenitrile"
+    "BDBM50539963"
   ],
   "distances": [
     32.7547352403,
     35.0923864383,
     35.8001672837,
-    35.8001672837,
-    36.2992307807,
     36.2992307807,
     38.943539171,
-    38.943539171,
+    38.950697816,
     39.2861115354,
     39.4475088825,
-    39.4475088825,
-    39.7043163807,
     39.7043163807,
     39.751140842,
-    39.751140842
+    40.1855999867,
+    40.2148875743,
+    40.275732688,
+    40.2894026006,
+    40.3071535335,
+    40.4664695303,
+    40.6959206676,
+    40.7316463773,
+    40.7746911632
   ],
   "indices": [
-    398,
-    349,
-    422,
-    317,
-    316,
-    358,
-    295,
-    673,
-    687,
-    348,
-    172,
-    337,
-    97,
-    637,
-    694
+    506,
+    489,
+    177,
+    155,
+    261,
+    683,
+    550,
+    257,
+    249,
+    527,
+    168,
+    230,
+    462,
+    552,
+    241,
+    250,
+    557,
+    226,
+    665
   ],
   "name": "psyc_HXE",
   "svg": "psyc_HXE.svg",
   "sim": [
     {
       "name": "trip_u-49900",
-      "psychonaut_name": null,
-      "tripsit_name": "u-49900",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "u-49900"
+      ],
+      "isomerd_names": null,
       "dist": 32.7547352403
     },
     {
       "name": "trip_u-51754",
-      "psychonaut_name": null,
-      "tripsit_name": "u-51754",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "u-51754"
+      ],
+      "isomerd_names": null,
       "dist": 35.0923864383
     },
     {
-      "name": "trip_sonata",
-      "psychonaut_name": null,
-      "tripsit_name": "sonata",
+      "name": "psyc_Zaleplon_trip_sonata",
+      "psychonaut_names": [
+        "Zaleplon"
+      ],
+      "tripsit_names": [
+        "sonata"
+      ],
+      "isomerd_names": null,
       "dist": 35.8001672837
     },
     {
-      "name": "psyc_Zaleplon",
-      "psychonaut_name": "Zaleplon",
-      "tripsit_name": null,
-      "dist": 35.8001672837
-    },
-    {
-      "name": "psyc_U-47700",
-      "psychonaut_name": "U-47700",
-      "tripsit_name": null,
+      "name": "psyc_U-47700_trip_u-47700",
+      "psychonaut_names": [
+        "U-47700"
+      ],
+      "tripsit_names": [
+        "u-47700"
+      ],
+      "isomerd_names": null,
       "dist": 36.2992307807
     },
     {
-      "name": "trip_u-47700",
-      "psychonaut_name": null,
-      "tripsit_name": "u-47700",
-      "dist": 36.2992307807
-    },
-    {
-      "name": "psyc_Sufentanil",
-      "psychonaut_name": "Sufentanil",
-      "tripsit_name": null,
+      "name": "psyc_Sufentanil_trip_sufentanil",
+      "psychonaut_names": [
+        "Sufentanil"
+      ],
+      "tripsit_names": [
+        "sufentanil"
+      ],
+      "isomerd_names": null,
       "dist": 38.943539171
     },
     {
-      "name": "trip_sufentanil",
-      "psychonaut_name": null,
-      "tripsit_name": "sufentanil",
-      "dist": 38.943539171
+      "name": "isomer_BBAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "BBAT"
+      ],
+      "dist": 38.950697816
     },
     {
       "name": "trip_parafluorofentanyl",
-      "psychonaut_name": null,
-      "tripsit_name": "parafluorofentanyl",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "parafluorofentanyl"
+      ],
+      "isomerd_names": null,
       "dist": 39.2861115354
     },
     {
-      "name": "trip_fentanyl",
-      "psychonaut_name": null,
-      "tripsit_name": "fentanyl",
+      "name": "psyc_Fentanyl_trip_fentanyl",
+      "psychonaut_names": [
+        "Fentanyl"
+      ],
+      "tripsit_names": [
+        "fentanyl"
+      ],
+      "isomerd_names": null,
       "dist": 39.4475088825
     },
     {
-      "name": "psyc_Fentanyl",
-      "psychonaut_name": "Fentanyl",
-      "tripsit_name": null,
-      "dist": 39.4475088825
-    },
-    {
-      "name": "trip_acetylfentanyl",
-      "psychonaut_name": null,
-      "tripsit_name": "acetylfentanyl",
+      "name": "psyc_Acetylfentanyl_trip_acetylfentanyl",
+      "psychonaut_names": [
+        "Acetylfentanyl"
+      ],
+      "tripsit_names": [
+        "acetylfentanyl"
+      ],
+      "isomerd_names": null,
       "dist": 39.7043163807
     },
     {
-      "name": "psyc_Acetylfentanyl",
-      "psychonaut_name": "Acetylfentanyl",
-      "tripsit_name": null,
-      "dist": 39.7043163807
-    },
-    {
-      "name": "trip_citalopram",
-      "psychonaut_name": null,
-      "tripsit_name": "citalopram",
+      "name": "trip_citalopram_escitalopram",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "citalopram",
+        "escitalopram"
+      ],
+      "isomerd_names": null,
       "dist": 39.751140842
     },
     {
-      "name": "trip_escitalopram",
-      "psychonaut_name": null,
-      "tripsit_name": "escitalopram",
-      "dist": 39.751140842
+      "name": "psyc_Tramadol_trip_tramadol",
+      "psychonaut_names": [
+        "Tramadol"
+      ],
+      "tripsit_names": [
+        "tramadol"
+      ],
+      "isomerd_names": null,
+      "dist": 40.1855999867
+    },
+    {
+      "name": "psyc_Benzydamine_trip_benzydamine",
+      "psychonaut_names": [
+        "Benzydamine"
+      ],
+      "tripsit_names": [
+        "benzydamine"
+      ],
+      "isomerd_names": null,
+      "dist": 40.2148875743
+    },
+    {
+      "name": "trip_ah-7921",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "ah-7921"
+      ],
+      "isomerd_names": null,
+      "dist": 40.275732688
+    },
+    {
+      "name": "trip_methoxyacetyl-fentanyl",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "methoxyacetyl-fentanyl"
+      ],
+      "isomerd_names": null,
+      "dist": 40.2894026006
+    },
+    {
+      "name": "psyc_Iso-LSD_LSD_trip_lsd",
+      "psychonaut_names": [
+        "Iso-LSD",
+        "LSD"
+      ],
+      "tripsit_names": [
+        "lsd"
+      ],
+      "isomerd_names": null,
+      "dist": 40.3071535335
+    },
+    {
+      "name": "psyc_ETH-LAD_trip_eth-lad",
+      "psychonaut_names": [
+        "ETH-LAD"
+      ],
+      "tripsit_names": [
+        "eth-lad"
+      ],
+      "isomerd_names": null,
+      "dist": 40.4664695303
+    },
+    {
+      "name": "trip_butyrfentanyl",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "butyrfentanyl"
+      ],
+      "isomerd_names": null,
+      "dist": 40.6959206676
+    },
+    {
+      "name": "psyc_Zolpidem_trip_zolpidem",
+      "psychonaut_names": [
+        "Zolpidem"
+      ],
+      "tripsit_names": [
+        "zolpidem"
+      ],
+      "isomerd_names": null,
+      "dist": 40.7316463773
+    },
+    {
+      "name": "isomer_PEAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "PEAT"
+      ],
+      "dist": 40.7746911632
     }
   ]
 }

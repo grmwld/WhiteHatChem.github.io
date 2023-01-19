@@ -1,225 +1,335 @@
 {
   "inchi": "InChI=1S/C4H9N3O2/c1-7(4(5)6)2-3(8)9/h2H2,1H3,(H3,5,6)(H,8,9)",
-  "psychonaut_name": "Creatine",
-  "tripsit_name": null,
+  "psychonaut_names": [
+    "Creatine"
+  ],
+  "tripsit_names": null,
+  "isomerd_names": null,
+  "isod_ids": null,
   "synonyms": [
-    "Kreatin",
-    "(.alpha.-Methylguanido)acetic acid",
-    "N-(aminoiminomethyl)-N-methylglycine",
-    "F8880-7830",
-    "2-(carbamimidoyl-methyl-amino)acetic acid",
-    "Creatine, hydrate",
-    "2-(N-methylcarbamimidamido)acetic acid",
-    "2-(1-Methylguanidino)acetic acid",
-    "Methylguanidoacetic acid",
-    "D89574",
-    "CHEBI:16919",
     "s5588",
-    "NSC 8752",
-    "bmse000078",
-    "AC-34370",
-    "C3610",
-    "N-carbamimidoyl-N-methylglycine",
-    "CREATINE [HSDB]",
-    "Cosmocair C 100",
-    "ZINC3861770",
-    "N-amidinosarcosine",
-    "A-MEethyl guanidine acetic acid",
-    "MFCD00004282",
-    "CREATINE [WHO-DD]",
-    "EC 200-306-6",
-    "CHEMBL283800",
-    "HY-W010388",
-    "(a-Methylguanido)acetic acid",
-    "AKOS005717096",
     "alpha-Methylguanidino acetic acid",
-    "((amino(imino)methyl)(methyl)amino)acetate",
-    "Methylguanidoacetate",
-    "Creatine",
-    "Neotine",
-    "AI3-15320",
-    "Krebiozon",
-    "UNII-MU72812GK0",
-    "((amino(imino)methyl)(methyl)amino)acetic acid",
-    "BDBM50357229",
-    "Glycine, N-(aminoiminomethyl)-N-methyl-",
-    "CS-W011104",
-    "NSC-8752",
-    "HSDB 7336",
-    "CCG-266112",
-    "methylglycocyamine",
-    "DTXSID1040451",
-    "NSC8752",
-    "W-105270",
-    "Creatine, anhydrous, >=99.0% (NT)",
-    "IOM",
-    "N-[amino(imino)methyl]-N-methylglycine",
-    "Pyrolysate",
+    "EC 200-306-6",
     "(N-methylcarbamimidamido)acetic acid",
-    "2-[carbamimidoyl(methyl)amino]acetic acid",
-    "(N-(AMIDINO)-N-METHYLAMINO)ACETIC ACID",
+    "STR05570",
+    "((amino(imino)methyl)(methyl)amino)acetate",
+    "GTPL4496",
+    "AC-34370",
+    "bmse000999",
+    "HSDB 7336",
     "creatine",
-    "Creatin",
-    "CREATINE [MI]",
+    "2-(N-methylcarbamimidamido)acetic acid",
+    "CREATINE [INCI]",
+    "Kreatinum",
+    "FT-0624083",
+    "HY-W010388",
     "(alpha-Methylguanido)acetate",
     "BBL012187",
-    "(alpha-Methylguanido)acetic acid",
-    "N-methyl-N-guanylglycine",
-    "CREATINE [VANDF]",
-    "N-[(E)-AMINO(IMINO)METHYL]-N-METHYLGLYCINE",
-    "Creatine, hydrate (Salt/Mix)",
-    "2-(1-methylcarbamimidamido)acetic acid",
-    "[[Amino(imino)methyl](methyl)amino]acetic acid #",
-    "[[Amino(imino)methyl](methyl)amino]acetate",
-    "Kreatinum",
-    "Creatine (8CI)",
     "Q223600",
-    "[[Amino(imino)methyl](methyl)amino]acetic acid",
+    "2-(1-Methylguanidino)acetic acid",
+    "AI3-15320",
     "CREATINE [II]",
+    "Methylguanidoacetic acid",
+    "(N-(AMIDINO)-N-METHYLAMINO)ACETIC ACID",
+    "N-[(E)-AMINO(IMINO)METHYL]-N-METHYLGLYCINE",
+    "N-methyl-N-guanylglycine",
+    "Krebiozon",
+    "CS-W011104",
+    "[[Amino(imino)methyl](methyl)amino]acetic acid",
     "STL163516",
-    "STR05570",
-    "N-(Aminoiminomethyl)-N-methyl-glycine",
-    "GTPL4496",
-    "bmse000999",
+    "((amino(imino)methyl)(methyl)amino)acetic acid",
+    "Cosmocair C 100",
+    "D89574",
+    "CHEMBL283800",
+    "AKOS005717096",
     "DB00148",
-    "bmse000950",
-    "1093737-19-9",
-    "Creatine, anhydrous",
-    "SCHEMBL21567",
+    "IOM",
+    "CREATINE [VANDF]",
+    "2-(1-methylcarbamimidamido)acetic acid",
+    "NSC 8752",
+    "N-amidinosarcosine",
+    "Creatine, hydrate",
+    "Creatine (8CI)",
+    "Glycine, N-(aminoiminomethyl)-N-methyl-",
+    "N-carbamimidoyl-N-methylglycine",
     "CREATINE [USP-RS]",
+    "Kreatin",
+    "Methylguanidoacetate",
+    "Pyrolysate",
+    "DTXSID1040451",
+    "[[Amino(imino)methyl](methyl)amino]acetic acid #",
+    "N-[amino(imino)methyl]-N-methylglycine",
+    "Creatine, hydrate (Salt/Mix)",
+    "UNII-MU72812GK0",
+    "W-105270",
+    "1093737-19-9",
+    "Creatin",
+    "BDBM50357229",
+    "(.alpha.-Methylguanido)acetic acid",
     "57-00-1",
-    "FT-0624083",
+    "NSC-8752",
+    "(alpha-Methylguanido)acetic acid",
+    "ZINC3861770",
+    "SCHEMBL21567",
+    "[[Amino(imino)methyl](methyl)amino]acetate",
+    "bmse000078",
+    "Neotine",
+    "Creatine, anhydrous, >=99.0% (NT)",
+    "CHEBI:16919",
+    "CREATINE [WHO-DD]",
+    "N-(Aminoiminomethyl)-N-methyl-glycine",
+    "(a-Methylguanido)acetic acid",
+    "2-(carbamimidoyl-methyl-amino)acetic acid",
+    "EINECS 200-306-6",
+    "CREATINE [MI]",
+    "A-MEethyl guanidine acetic acid",
+    "NSC8752",
     "C00300",
+    "F8880-7830",
     "MU72812GK0",
-    "CREATINE [INCI]",
-    "EINECS 200-306-6"
+    "methylglycocyamine",
+    "MFCD00004282",
+    "bmse000950",
+    "2-[carbamimidoyl(methyl)amino]acetic acid",
+    "C3610",
+    "N-(aminoiminomethyl)-N-methylglycine",
+    "Creatine, anhydrous",
+    "CCG-266112",
+    "CREATINE [HSDB]"
   ],
   "distances": [
     19.0157654255,
     20.7051163547,
-    20.7051163547,
-    22.1186493633,
     22.1186493633,
     22.7723064685,
     23.4815770435,
-    23.4815770435,
     24.3794980325,
     24.4708664175,
-    24.4708664175,
-    25.3351557561,
     25.3351557561,
     26.0758324056,
-    26.6680382694
+    26.6680382694,
+    27.2342629444,
+    27.852863092,
+    27.9914461422,
+    27.9949063709,
+    28.107655242,
+    28.2139651951,
+    28.337505557,
+    28.5388122765,
+    28.6524744906
   ],
   "indices": [
-    450,
-    180,
-    353,
-    501,
-    210,
-    363,
-    494,
-    276,
-    679,
-    255,
-    674,
-    307,
-    325,
-    241,
-    731
+    577,
+    289,
+    291,
+    575,
+    295,
+    586,
+    296,
+    299,
+    294,
+    580,
+    306,
+    297,
+    304,
+    287,
+    305,
+    300,
+    596,
+    591,
+    597
   ],
   "name": "psyc_Creatine",
   "svg": "psyc_Creatine.svg",
   "sim": [
     {
       "name": "trip_gaba",
-      "psychonaut_name": null,
-      "tripsit_name": "gaba",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "gaba"
+      ],
+      "isomerd_names": null,
       "dist": 19.0157654255
     },
     {
-      "name": "psyc_GHB",
-      "psychonaut_name": "GHB",
-      "tripsit_name": null,
+      "name": "psyc_GHB_trip_ghb",
+      "psychonaut_names": [
+        "GHB"
+      ],
+      "tripsit_names": [
+        "ghb"
+      ],
+      "isomerd_names": null,
       "dist": 20.7051163547
     },
     {
-      "name": "trip_ghb",
-      "psychonaut_name": null,
-      "tripsit_name": "ghb",
-      "dist": 20.7051163547
-    },
-    {
-      "name": "trip_met",
-      "psychonaut_name": null,
-      "tripsit_name": "met",
-      "dist": 22.1186493633
-    },
-    {
-      "name": "psyc_MET",
-      "psychonaut_name": "MET",
-      "tripsit_name": null,
+      "name": "psyc_MET_trip_met",
+      "psychonaut_names": [
+        "MET"
+      ],
+      "tripsit_names": [
+        "met"
+      ],
+      "isomerd_names": null,
       "dist": 22.1186493633
     },
     {
       "name": "trip_aet",
-      "psychonaut_name": null,
-      "tripsit_name": "aet",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "aet"
+      ],
+      "isomerd_names": null,
       "dist": 22.7723064685
     },
     {
-      "name": "trip_piracetam",
-      "psychonaut_name": null,
-      "tripsit_name": "piracetam",
-      "dist": 23.4815770435
-    },
-    {
-      "name": "psyc_Piracetam",
-      "psychonaut_name": "Piracetam",
-      "tripsit_name": null,
+      "name": "psyc_Piracetam_trip_piracetam",
+      "psychonaut_names": [
+        "Piracetam"
+      ],
+      "tripsit_names": [
+        "piracetam"
+      ],
+      "isomerd_names": null,
       "dist": 23.4815770435
     },
     {
       "name": "trip_2-pta",
-      "psychonaut_name": null,
-      "tripsit_name": "2-pta",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "2-pta"
+      ],
+      "isomerd_names": null,
       "dist": 24.3794980325
     },
     {
-      "name": "psyc_Oxiracetam",
-      "psychonaut_name": "Oxiracetam",
-      "tripsit_name": null,
+      "name": "psyc_Oxiracetam_trip_oxiracetam",
+      "psychonaut_names": [
+        "Oxiracetam"
+      ],
+      "tripsit_names": [
+        "oxiracetam"
+      ],
+      "isomerd_names": null,
       "dist": 24.4708664175
     },
     {
-      "name": "trip_oxiracetam",
-      "psychonaut_name": null,
-      "tripsit_name": "oxiracetam",
-      "dist": 24.4708664175
-    },
-    {
-      "name": "psyc_Theanine",
-      "psychonaut_name": "Theanine",
-      "tripsit_name": null,
-      "dist": 25.3351557561
-    },
-    {
-      "name": "trip_l-theanine",
-      "psychonaut_name": null,
-      "tripsit_name": "l-theanine",
+      "name": "psyc_Theanine_trip_l-theanine",
+      "psychonaut_names": [
+        "Theanine"
+      ],
+      "tripsit_names": [
+        "l-theanine"
+      ],
+      "isomerd_names": null,
       "dist": 25.3351557561
     },
     {
       "name": "psyc_N-Acetylcysteine",
-      "psychonaut_name": "N-Acetylcysteine",
-      "tripsit_name": null,
+      "psychonaut_names": [
+        "N-Acetylcysteine"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
       "dist": 26.0758324056
     },
     {
       "name": "trip_thiopropamine",
-      "psychonaut_name": null,
-      "tripsit_name": "thiopropamine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "thiopropamine"
+      ],
+      "isomerd_names": null,
       "dist": 26.6680382694
+    },
+    {
+      "name": "psyc_Pregabalin_trip_pregabalin",
+      "psychonaut_names": [
+        "Pregabalin"
+      ],
+      "tripsit_names": [
+        "pregabalin"
+      ],
+      "isomerd_names": null,
+      "dist": 27.2342629444
+    },
+    {
+      "name": "psyc_1,3-dimethylbutylamine",
+      "psychonaut_names": [
+        "1,3-dimethylbutylamine"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 27.852863092
+    },
+    {
+      "name": "psyc_Phenethylamine_(compound)_trip_phenethylamine",
+      "psychonaut_names": [
+        "Phenethylamine (compound)"
+      ],
+      "tripsit_names": [
+        "phenethylamine"
+      ],
+      "isomerd_names": null,
+      "dist": 27.9914461422
+    },
+    {
+      "name": "psyc_1,4-Butanediol_trip_1,4-butanediol",
+      "psychonaut_names": [
+        "1,4-Butanediol"
+      ],
+      "tripsit_names": [
+        "1,4-butanediol"
+      ],
+      "isomerd_names": null,
+      "dist": 27.9949063709
+    },
+    {
+      "name": "psyc_Methiopropamine",
+      "psychonaut_names": [
+        "Methiopropamine"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 28.107655242
+    },
+    {
+      "name": "psyc_1,3-DMAA_trip_dmaa",
+      "psychonaut_names": [
+        "1,3-DMAA"
+      ],
+      "tripsit_names": [
+        "dmaa"
+      ],
+      "isomerd_names": null,
+      "dist": 28.2139651951
+    },
+    {
+      "name": "isomer_2,6-DMePEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2,6-DMePEA"
+      ],
+      "dist": 28.337505557
+    },
+    {
+      "name": "isomer_4-Methylpropiophenone",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "4-Methylpropiophenone"
+      ],
+      "dist": 28.5388122765
+    },
+    {
+      "name": "isomer_3,5-DMePEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3,5-DMePEA"
+      ],
+      "dist": 28.6524744906
     }
   ]
 }

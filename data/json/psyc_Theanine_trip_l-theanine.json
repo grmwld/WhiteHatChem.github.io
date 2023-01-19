@@ -1,0 +1,327 @@
+{
+  "inchi": "InChI=1S/C7H14N2O3/c1-2-9-6(10)4-3-5(8)7(11)12/h5H,2-4,8H2,1H3,(H,9,10)(H,11,12)",
+  "psychonaut_names": [
+    "Theanine"
+  ],
+  "tripsit_names": [
+    "l-theanine"
+  ],
+  "isomerd_names": null,
+  "isod_ids": null,
+  "synonyms": [
+    "THEANINE [INCI]",
+    "N?-Ethyl-L-glutamine",
+    "AM82649",
+    "081T616",
+    "(2S)-2-azanyl-5-(ethylamino)-5-oxidanylidene-pentanoic acid",
+    "Theanin",
+    "Q909931",
+    "NCGC00178565-01",
+    "L-Theanine",
+    "SDCCGMLS-0066811.P001",
+    "AS-12265",
+    "L-Glutamic acid ?-(ethylamide)",
+    "L-Theamine",
+    "N2085",
+    "NSC-21308",
+    "SPECTRUM1505254",
+    "3081-61-6",
+    "L-Theanine, >=98% (HPLC)",
+    "Spectrum5_000897",
+    "HY-15121",
+    "A820634",
+    "H-Glu(NHEt)-OH",
+    "BCP28252",
+    "L-glutamic acid -r-monoethylamide",
+    "THEANINE [WHO-DD]",
+    "KBioGR_002514",
+    "Spectrum4_001984",
+    "L-gamma-Glutamylethylamide",
+    "N-gamma-Ethyl-L-glutamine",
+    "theanine",
+    "N5-Ethyl-L-glutamine",
+    "L-Theanine (Ngamma-ethyl-L-glutamine)",
+    "SCHEMBL190716",
+    "SR-05000002409-1",
+    "UNII-8021PR16QO",
+    "NSC 21308",
+    "BSPBio_002633",
+    "N(5)-ethyl-L-glutamine",
+    "8021PR16QO",
+    "Q-201330",
+    "THEANINE [VANDF]",
+    "Spectrum2_001693",
+    "CCRIS 7326",
+    "KBio3_002133",
+    "EINECS 221-379-0",
+    "CHEMBL3039113",
+    "DB12444",
+    "AKOS016842508",
+    "s3852",
+    "AC-23939",
+    "T0954",
+    "C01047",
+    "HSDB 8166",
+    "n-ethylglutamine",
+    "(2S)-2-amino-5-(ethylamino)-5-oxopentanoic acid",
+    "L-Theanine, United States Pharmacopeia (USP) Reference Standard",
+    "SR-05000002409",
+    "ZINC1532828",
+    "CHEBI:17394",
+    "L-THEANINE [USP-RS]",
+    "MFCD00059653",
+    "THEANINE [MI]",
+    "Suntheanine",
+    "N-Ethyl-L-glutamine",
+    "THEANINE, L-",
+    "Glutamine, N-gamma-ethyl-",
+    "Glutamine, N-ethyl-, L-",
+    "(S)-2-Amino-5-(ethylamino)-5-oxopentanoic acid",
+    "CCG-38778",
+    "DTXSID80184817",
+    "C6B5A580-D410-4464-ADB8-543860137D4C",
+    "SPBio_001646",
+    "CS-0003777",
+    "(+)-Theanine",
+    "Spectrum3_001137"
+  ],
+  "distances": [
+    20.7916819153,
+    21.3924653381,
+    22.5696357581,
+    24.3551727252,
+    25.3351557561,
+    26.2689849502,
+    26.4729383954,
+    27.5505594353,
+    27.6720702015,
+    28.2072451977,
+    29.2660692205,
+    29.5559812944,
+    29.638897304,
+    29.7710624955,
+    29.7781889904,
+    30.1363185023,
+    30.1444631677,
+    30.3651845638,
+    30.6155388367
+  ],
+  "indices": [
+    294,
+    291,
+    306,
+    5,
+    290,
+    309,
+    577,
+    345,
+    10,
+    289,
+    2,
+    3,
+    63,
+    367,
+    89,
+    593,
+    88,
+    300,
+    32
+  ],
+  "name": "psyc_Theanine_trip_l-theanine",
+  "svg": "psyc_Theanine_trip_l-theanine.svg",
+  "sim": [
+    {
+      "name": "psyc_N-Acetylcysteine",
+      "psychonaut_names": [
+        "N-Acetylcysteine"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 20.7916819153
+    },
+    {
+      "name": "psyc_MET_trip_met",
+      "psychonaut_names": [
+        "MET"
+      ],
+      "tripsit_names": [
+        "met"
+      ],
+      "isomerd_names": null,
+      "dist": 21.3924653381
+    },
+    {
+      "name": "psyc_Pregabalin_trip_pregabalin",
+      "psychonaut_names": [
+        "Pregabalin"
+      ],
+      "tripsit_names": [
+        "pregabalin"
+      ],
+      "isomerd_names": null,
+      "dist": 22.5696357581
+    },
+    {
+      "name": "psyc_Picamilon_trip_picamilon",
+      "psychonaut_names": [
+        "Picamilon"
+      ],
+      "tripsit_names": [
+        "picamilon"
+      ],
+      "isomerd_names": null,
+      "dist": 24.3551727252
+    },
+    {
+      "name": "psyc_Creatine",
+      "psychonaut_names": [
+        "Creatine"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 25.3351557561
+    },
+    {
+      "name": "psyc_Tyrosine",
+      "psychonaut_names": [
+        "Tyrosine"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 26.2689849502
+    },
+    {
+      "name": "trip_gaba",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "gaba"
+      ],
+      "isomerd_names": null,
+      "dist": 26.4729383954
+    },
+    {
+      "name": "trip_tolibut",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "tolibut"
+      ],
+      "isomerd_names": null,
+      "dist": 27.5505594353
+    },
+    {
+      "name": "psyc_Phenibut_trip_phenibut",
+      "psychonaut_names": [
+        "Phenibut"
+      ],
+      "tripsit_names": [
+        "phenibut"
+      ],
+      "isomerd_names": null,
+      "dist": 27.6720702015
+    },
+    {
+      "name": "psyc_GHB_trip_ghb",
+      "psychonaut_names": [
+        "GHB"
+      ],
+      "tripsit_names": [
+        "ghb"
+      ],
+      "isomerd_names": null,
+      "dist": 28.2072451977
+    },
+    {
+      "name": "psyc_Baclofen_trip_baclofen",
+      "psychonaut_names": [
+        "Baclofen"
+      ],
+      "tripsit_names": [
+        "baclofen"
+      ],
+      "isomerd_names": null,
+      "dist": 29.2660692205
+    },
+    {
+      "name": "psyc_F-Phenibut_trip_fluorophenibut",
+      "psychonaut_names": [
+        "F-Phenibut"
+      ],
+      "tripsit_names": [
+        "fluorophenibut"
+      ],
+      "isomerd_names": null,
+      "dist": 29.5559812944
+    },
+    {
+      "name": "psyc_Pentedrone_trip_pentedrone",
+      "psychonaut_names": [
+        "Pentedrone"
+      ],
+      "tripsit_names": [
+        "pentedrone"
+      ],
+      "isomerd_names": null,
+      "dist": 29.638897304
+    },
+    {
+      "name": "trip_neb",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "neb"
+      ],
+      "isomerd_names": null,
+      "dist": 29.7710624955
+    },
+    {
+      "name": "psyc_NEP",
+      "psychonaut_names": [
+        "NEP"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 29.7781889904
+    },
+    {
+      "name": "isomer_2-Amino-1-(5-ethoxy-2-hydroxyphenyl)ethan-1-one",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-Amino-1-(5-ethoxy-2-hydroxyphenyl)ethan-1-one"
+      ],
+      "dist": 30.1363185023
+    },
+    {
+      "name": "psyc_Hexedrone_trip_hexedrone",
+      "psychonaut_names": [
+        "Hexedrone"
+      ],
+      "tripsit_names": [
+        "hexedrone"
+      ],
+      "isomerd_names": null,
+      "dist": 30.1444631677
+    },
+    {
+      "name": "psyc_1,3-DMAA_trip_dmaa",
+      "psychonaut_names": [
+        "1,3-DMAA"
+      ],
+      "tripsit_names": [
+        "dmaa"
+      ],
+      "isomerd_names": null,
+      "dist": 30.3651845638
+    },
+    {
+      "name": "psyc_ETH-CAT_trip_ethylcathinone",
+      "psychonaut_names": [
+        "ETH-CAT"
+      ],
+      "tripsit_names": [
+        "ethylcathinone"
+      ],
+      "isomerd_names": null,
+      "dist": 30.6155388367
+    }
+  ]
+}

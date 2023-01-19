@@ -1,134 +1,246 @@
 {
   "inchi": "InChI=1S/C24H38O4/c1-5-9-12-19(7-3)17-27-23(25)21-14-11-15-22(16-21)24(26)28-18-20(8-4)13-10-6-2/h11,14-16,19-20H,5-10,12-13,17-18H2,1-4H3",
-  "psychonaut_name": null,
-  "tripsit_name": "doip",
-  "synonyms": null,
+  "psychonaut_names": null,
+  "tripsit_names": [
+    "doip"
+  ],
+  "isomerd_names": null,
+  "isod_ids": null,
+  "synonyms": [],
   "distances": [
     43.6239968433,
     45.5596197864,
     45.9400509496,
-    48.2923859528,
+    48.238370927,
     48.2923859528,
     48.3387981263,
-    48.3387981263,
     48.6252736376,
-    48.6252736376,
+    49.6523190113,
     50.2699208415,
     51.0583090959,
     51.6013229792,
-    51.6013229792,
     52.0421417842,
-    52.0421417842
+    52.219502725,
+    52.3060171834,
+    52.3232842453,
+    52.356127268,
+    52.9714439765,
+    53.4318527718,
+    53.6187031924
   ],
   "indices": [
-    336,
-    73,
-    6,
-    683,
-    3,
-    4,
-    558,
-    164,
+    507,
+    235,
+    279,
     682,
-    734,
-    406,
-    468,
-    264,
-    807,
-    5
+    277,
+    276,
+    259,
+    687,
+    525,
+    492,
+    258,
+    268,
+    260,
+    545,
+    157,
+    221,
+    195,
+    563,
+    469
   ],
   "name": "trip_doip",
   "svg": "trip_doip.svg",
   "sim": [
     {
       "name": "trip_4-aco-dpt",
-      "psychonaut_name": null,
-      "tripsit_name": "4-aco-dpt",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-aco-dpt"
+      ],
+      "isomerd_names": null,
       "dist": 43.6239968433
     },
     {
       "name": "psyc_4F-ADB",
-      "psychonaut_name": "4F-ADB",
-      "tripsit_name": null,
+      "psychonaut_names": [
+        "4F-ADB"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
       "dist": 45.5596197864
     },
     {
       "name": "psyc_1V-LSD",
-      "psychonaut_name": "1V-LSD",
-      "tripsit_name": null,
+      "psychonaut_names": [
+        "1V-LSD"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
       "dist": 45.9400509496
     },
     {
-      "name": "trip_1b-lsd",
-      "psychonaut_name": null,
-      "tripsit_name": "1b-lsd",
+      "name": "isomer_ADB-BINACA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "ADB-BINACA"
+      ],
+      "dist": 48.238370927
+    },
+    {
+      "name": "psyc_1B-LSD_trip_1b-lsd",
+      "psychonaut_names": [
+        "1B-LSD"
+      ],
+      "tripsit_names": [
+        "1b-lsd"
+      ],
+      "isomerd_names": null,
       "dist": 48.2923859528
     },
     {
-      "name": "psyc_1B-LSD",
-      "psychonaut_name": "1B-LSD",
-      "tripsit_name": null,
-      "dist": 48.2923859528
-    },
-    {
-      "name": "psyc_1P-ETH-LAD",
-      "psychonaut_name": "1P-ETH-LAD",
-      "tripsit_name": null,
+      "name": "psyc_1P-ETH-LAD_trip_1p-eth-lad",
+      "psychonaut_names": [
+        "1P-ETH-LAD"
+      ],
+      "tripsit_names": [
+        "1p-eth-lad"
+      ],
+      "isomerd_names": null,
       "dist": 48.3387981263
     },
     {
-      "name": "trip_1p-eth-lad",
-      "psychonaut_name": null,
-      "tripsit_name": "1p-eth-lad",
-      "dist": 48.3387981263
-    },
-    {
-      "name": "psyc_Etazene",
-      "psychonaut_name": "Etazene",
-      "tripsit_name": null,
+      "name": "psyc_Etazene_trip_etodesnitazene",
+      "psychonaut_names": [
+        "Etazene"
+      ],
+      "tripsit_names": [
+        "etodesnitazene"
+      ],
+      "isomerd_names": null,
       "dist": 48.6252736376
     },
     {
-      "name": "trip_etodesnitazene",
-      "psychonaut_name": null,
-      "tripsit_name": "etodesnitazene",
-      "dist": 48.6252736376
+      "name": "isomer_Ethylbenzyl-4CN-BINACA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "Ethylbenzyl-4CN-BINACA"
+      ],
+      "dist": 49.6523190113
     },
     {
       "name": "trip_pv-10",
-      "psychonaut_name": null,
-      "tripsit_name": "pv-10",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "pv-10"
+      ],
+      "isomerd_names": null,
       "dist": 50.2699208415
     },
     {
       "name": "trip_5-meo-dpt",
-      "psychonaut_name": null,
-      "tripsit_name": "5-meo-dpt",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "5-meo-dpt"
+      ],
+      "isomerd_names": null,
       "dist": 51.0583090959
     },
     {
-      "name": "trip_pro-lad",
-      "psychonaut_name": null,
-      "tripsit_name": "pro-lad",
+      "name": "psyc_PRO-LAD_trip_pro-lad",
+      "psychonaut_names": [
+        "PRO-LAD"
+      ],
+      "tripsit_names": [
+        "pro-lad"
+      ],
+      "isomerd_names": null,
       "dist": 51.6013229792
     },
     {
-      "name": "psyc_PRO-LAD",
-      "psychonaut_name": "PRO-LAD",
-      "tripsit_name": null,
-      "dist": 51.6013229792
-    },
-    {
-      "name": "trip_1p-lsd",
-      "psychonaut_name": null,
-      "tripsit_name": "1p-lsd",
+      "name": "psyc_1P-LSD_trip_1p-lsd",
+      "psychonaut_names": [
+        "1P-LSD"
+      ],
+      "tripsit_names": [
+        "1p-lsd"
+      ],
+      "isomerd_names": null,
       "dist": 52.0421417842
     },
     {
-      "name": "psyc_1P-LSD",
-      "psychonaut_name": "1P-LSD",
-      "tripsit_name": null,
-      "dist": 52.0421417842
+      "name": "psyc_Dextropropoxyphene_trip_propoxyphene_dextropropoxyphene",
+      "psychonaut_names": [
+        "Dextropropoxyphene"
+      ],
+      "tripsit_names": [
+        "propoxyphene",
+        "dextropropoxyphene"
+      ],
+      "isomerd_names": null,
+      "dist": 52.219502725
+    },
+    {
+      "name": "trip_25p-nbome",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "25p-nbome"
+      ],
+      "isomerd_names": null,
+      "dist": 52.3060171834
+    },
+    {
+      "name": "psyc_4-AcO-DET_trip_4-aco-det",
+      "psychonaut_names": [
+        "4-AcO-DET"
+      ],
+      "tripsit_names": [
+        "4-aco-det"
+      ],
+      "isomerd_names": null,
+      "dist": 52.3232842453
+    },
+    {
+      "name": "psyc_4-AcO-DiPT_trip_4-aco-dipt",
+      "psychonaut_names": [
+        "4-AcO-DiPT"
+      ],
+      "tripsit_names": [
+        "4-aco-dipt"
+      ],
+      "isomerd_names": null,
+      "dist": 52.356127268
+    },
+    {
+      "name": "psyc_Omberacetam_trip_noopept",
+      "psychonaut_names": [
+        "Omberacetam"
+      ],
+      "tripsit_names": [
+        "noopept"
+      ],
+      "isomerd_names": null,
+      "dist": 52.9714439765
+    },
+    {
+      "name": "trip_valerylfentanyl",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "valerylfentanyl"
+      ],
+      "isomerd_names": null,
+      "dist": 53.4318527718
+    },
+    {
+      "name": "trip_nitracaine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "nitracaine"
+      ],
+      "isomerd_names": null,
+      "dist": 53.6187031924
     }
   ]
 }

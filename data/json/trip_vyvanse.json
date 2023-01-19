@@ -1,139 +1,247 @@
 {
-  "inchi": "InChI=1S/C15H25N3O.2CH4O3S/c1-12(11-13-7-3-2-4-8-13)18-15(19)14(17)9-5-6-10-16;2*1-5(2,3)4/h2-4,7-8,12,14H,5-6,9-11,16-17H2,1H3,(H,18,19);2*1H3,(H,2,3,4)/t12-,14-;;/m0../s1",
-  "psychonaut_name": null,
-  "tripsit_name": "vyvanse",
+  "inchi": "InChI=1S/C15H25N3O.2CH4O3S/c1-12(11-13-7-3-2-4-8-13)18-15(19)14(17)9-5-6-10-16;2*1-5(2,3)4/h2-4,7-8,12,14H,5-6,9-11,16-17H2,1H3,(H,18,19);2*1H3,(H,2,3,4)",
+  "psychonaut_names": null,
+  "tripsit_names": [
+    "vyvanse"
+  ],
+  "isomerd_names": null,
+  "isod_ids": null,
   "synonyms": [
-    "lisdextroamfetamine",
-    "lisdextroamphetamine",
     "lisdexamphetamine",
-    "lisdexamfetamine"
+    "lisdextroamphetamine",
+    "lisdexamfetamine",
+    "lisdextroamfetamine"
   ],
   "distances": [
     49.4982515277,
-    49.4982515277,
+    49.622109586,
     49.8987231135,
     50.2851512432,
     52.2866596312,
+    53.1558641961,
     54.1580396776,
-    54.1580396776,
-    54.251604329,
     54.251604329,
     54.6144422721,
     55.0698575355,
     55.0990319363,
-    55.0990319363,
-    55.0990319363,
-    56.4710889457
+    56.4710889457,
+    56.9217742073,
+    56.9418241532,
+    57.8436339309,
+    57.8886554996,
+    57.9172551772,
+    57.9710726455,
+    58.0500777212
   ],
   "indices": [
-    93,
-    802,
-    202,
-    73,
-    502,
-    755,
-    252,
-    310,
-    500,
-    838,
-    529,
-    347,
-    754,
-    146,
-    6
+    236,
+    682,
+    141,
+    235,
+    534,
+    687,
+    195,
+    246,
+    555,
+    537,
+    260,
+    279,
+    277,
+    221,
+    564,
+    543,
+    251,
+    525,
+    563
   ],
   "name": "trip_vyvanse",
   "svg": "trip_vyvanse.svg",
   "sim": [
     {
-      "name": "psyc_AB-FUBINACA",
-      "psychonaut_name": "AB-FUBINACA",
-      "tripsit_name": null,
+      "name": "psyc_AB-FUBINACA_trip_ab-fubinaca",
+      "psychonaut_names": [
+        "AB-FUBINACA"
+      ],
+      "tripsit_names": [
+        "ab-fubinaca"
+      ],
+      "isomerd_names": null,
       "dist": 49.4982515277
     },
     {
-      "name": "trip_ab-fubinaca",
-      "psychonaut_name": null,
-      "tripsit_name": "ab-fubinaca",
-      "dist": 49.4982515277
+      "name": "isomer_ADB-BINACA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "ADB-BINACA"
+      ],
+      "dist": 49.622109586
     },
     {
       "name": "psyc_Lisdexamfetamine",
-      "psychonaut_name": "Lisdexamfetamine",
-      "tripsit_name": null,
+      "psychonaut_names": [
+        "Lisdexamfetamine"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
       "dist": 49.8987231135
     },
     {
       "name": "psyc_4F-ADB",
-      "psychonaut_name": "4F-ADB",
-      "tripsit_name": null,
+      "psychonaut_names": [
+        "4F-ADB"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
       "dist": 50.2851512432
     },
     {
       "name": "trip_ab-chminaca",
-      "psychonaut_name": null,
-      "tripsit_name": "ab-chminaca",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "ab-chminaca"
+      ],
+      "isomerd_names": null,
       "dist": 52.2866596312
     },
     {
-      "name": "trip_noopept",
-      "psychonaut_name": null,
-      "tripsit_name": "noopept",
+      "name": "isomer_Ethylbenzyl-4CN-BINACA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "Ethylbenzyl-4CN-BINACA"
+      ],
+      "dist": 53.1558641961
+    },
+    {
+      "name": "psyc_Omberacetam_trip_noopept",
+      "psychonaut_names": [
+        "Omberacetam"
+      ],
+      "tripsit_names": [
+        "noopept"
+      ],
+      "isomerd_names": null,
       "dist": 54.1580396776
     },
     {
-      "name": "psyc_Omberacetam",
-      "psychonaut_name": "Omberacetam",
-      "tripsit_name": null,
-      "dist": 54.1580396776
-    },
-    {
-      "name": "psyc_Tianeptine",
-      "psychonaut_name": "Tianeptine",
-      "tripsit_name": null,
-      "dist": 54.251604329
-    },
-    {
-      "name": "trip_tianeptine",
-      "psychonaut_name": null,
-      "tripsit_name": "tianeptine",
+      "name": "psyc_Tianeptine_trip_tianeptine",
+      "psychonaut_names": [
+        "Tianeptine"
+      ],
+      "tripsit_names": [
+        "tianeptine"
+      ],
+      "isomerd_names": null,
       "dist": 54.251604329
     },
     {
       "name": "trip_pagoclone",
-      "psychonaut_name": null,
-      "tripsit_name": "pagoclone",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "pagoclone"
+      ],
+      "isomerd_names": null,
       "dist": 54.6144422721
     },
     {
       "name": "trip_rilmazafone",
-      "psychonaut_name": null,
-      "tripsit_name": "rilmazafone",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "rilmazafone"
+      ],
+      "isomerd_names": null,
       "dist": 55.0698575355
     },
     {
-      "name": "trip_propoxyphene",
-      "psychonaut_name": null,
-      "tripsit_name": "propoxyphene",
-      "dist": 55.0990319363
-    },
-    {
-      "name": "trip_dextropropoxyphene",
-      "psychonaut_name": null,
-      "tripsit_name": "dextropropoxyphene",
-      "dist": 55.0990319363
-    },
-    {
-      "name": "psyc_Dextropropoxyphene",
-      "psychonaut_name": "Dextropropoxyphene",
-      "tripsit_name": null,
+      "name": "psyc_Dextropropoxyphene_trip_propoxyphene_dextropropoxyphene",
+      "psychonaut_names": [
+        "Dextropropoxyphene"
+      ],
+      "tripsit_names": [
+        "propoxyphene",
+        "dextropropoxyphene"
+      ],
+      "isomerd_names": null,
       "dist": 55.0990319363
     },
     {
       "name": "psyc_1V-LSD",
-      "psychonaut_name": "1V-LSD",
-      "tripsit_name": null,
+      "psychonaut_names": [
+        "1V-LSD"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
       "dist": 56.4710889457
+    },
+    {
+      "name": "psyc_1B-LSD_trip_1b-lsd",
+      "psychonaut_names": [
+        "1B-LSD"
+      ],
+      "tripsit_names": [
+        "1b-lsd"
+      ],
+      "isomerd_names": null,
+      "dist": 56.9217742073
+    },
+    {
+      "name": "psyc_4-AcO-DiPT_trip_4-aco-dipt",
+      "psychonaut_names": [
+        "4-AcO-DiPT"
+      ],
+      "tripsit_names": [
+        "4-aco-dipt"
+      ],
+      "isomerd_names": null,
+      "dist": 56.9418241532
+    },
+    {
+      "name": "trip_doip",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "doip"
+      ],
+      "isomerd_names": null,
+      "dist": 57.8436339309
+    },
+    {
+      "name": "trip_isomethadone",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "isomethadone"
+      ],
+      "isomerd_names": null,
+      "dist": 57.8886554996
+    },
+    {
+      "name": "psyc_Methadone_trip_methadone",
+      "psychonaut_names": [
+        "Methadone"
+      ],
+      "tripsit_names": [
+        "methadone"
+      ],
+      "isomerd_names": null,
+      "dist": 57.9172551772
+    },
+    {
+      "name": "trip_pv-10",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "pv-10"
+      ],
+      "isomerd_names": null,
+      "dist": 57.9710726455
+    },
+    {
+      "name": "trip_valerylfentanyl",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "valerylfentanyl"
+      ],
+      "isomerd_names": null,
+      "dist": 58.0500777212
     }
   ]
 }

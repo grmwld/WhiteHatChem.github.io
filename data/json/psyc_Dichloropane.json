@@ -1,150 +1,269 @@
 {
-  "inchi": "InChI=1S/C15H17Cl2NO2/c1-20-15(19)14-10(7-9-3-5-13(14)18-9)8-2-4-11(16)12(17)6-8/h2,4,6,9-10,13-14,18H,3,5,7H2,1H3/t9-,10+,13+,14-/m0/s1",
-  "psychonaut_name": "Dichloropane",
-  "tripsit_name": null,
-  "synonyms": [
-    "2-Carbomethoxy-3-(3,4-dichlorophenyl)tropane",
-    "V7SQE82R87",
-    "DTXSID20932894",
-    "(1R,5S)-3beta-(3,4-Dichlorophenyl)-8-azabicyclo[3.2.1]octane-2beta-carboxylic acid methyl ester",
-    "8-Azabicyclo(3.2.1)octane-2-carboxylic acid, 3-(3,4-dichlorophenyl)-, methyl ester, (1R-(exo,exo))-",
-    "Cdct cpd",
-    "methyl (1R,2S,3S,5S)-3-(3,4-dichlorophenyl)-8-azabicyclo[3.2.1]octane-2-carboxylate",
-    "SCHEMBL1240408",
-    "UNII-V7SQE82R87",
-    "O-456",
-    "146725-34-0",
-    "Q5272482",
-    "8-AZABICYCLO(3.2.1)OCTANE-2-CARBOXYLIC ACID, 3-(3,4-DICHLOROPHENYL)-, METHYL ESTER, (1R,2S,3S,5S)-",
-    "MFZ 2-13",
+  "inchi": "InChI=1S/C15H17Cl2NO2/c1-20-15(19)14-10(7-9-3-5-13(14)18-9)8-2-4-11(16)12(17)6-8/h2,4,6,9-10,13-14,18H,3,5,7H2,1H3",
+  "psychonaut_names": [
     "Dichloropane"
+  ],
+  "tripsit_names": null,
+  "isomerd_names": null,
+  "isod_ids": null,
+  "synonyms": [
+    "methyl (1R,2S,3S,5S)-3-(3,4-dichlorophenyl)-8-azabicyclo[3.2.1]octane-2-carboxylate",
+    "(1R,5S)-3beta-(3,4-Dichlorophenyl)-8-azabicyclo[3.2.1]octane-2beta-carboxylic acid methyl ester",
+    "146725-34-0",
+    "8-Azabicyclo(3.2.1)octane-2-carboxylic acid, 3-(3,4-dichlorophenyl)-, methyl ester, (1R-(exo,exo))-",
+    "O-456",
+    "8-AZABICYCLO(3.2.1)OCTANE-2-CARBOXYLIC ACID, 3-(3,4-DICHLOROPHENYL)-, METHYL ESTER, (1R,2S,3S,5S)-",
+    "SCHEMBL1240408",
+    "DTXSID20932894",
+    "Q5272482",
+    "Cdct cpd",
+    "2-Carbomethoxy-3-(3,4-dichlorophenyl)tropane",
+    "MFZ 2-13",
+    "UNII-V7SQE82R87",
+    "V7SQE82R87"
   ],
   "distances": [
     15.0197674518,
     19.2949423374,
-    19.2949423374,
-    22.3517208794,
     22.3517208794,
     25.6096204801,
-    25.6096204801,
-    26.287790181,
     26.287790181,
     26.8414977864,
     26.8717180954,
-    26.8717180954,
     27.3761303812,
-    27.3761303812,
-    27.3761303812
+    28.4304764678,
+    28.4645968945,
+    28.9738567505,
+    29.2203709443,
+    29.3152713076,
+    29.3223129147,
+    30.1367671034,
+    30.5616682131,
+    30.8106310047,
+    31.0682763115,
+    31.1988781067
   ],
   "indices": [
-    340,
-    782,
-    313,
-    652,
-    40,
-    824,
-    127,
-    780,
-    75,
-    360,
-    751,
-    74,
-    190,
-    651,
-    302
+    459,
+    153,
+    97,
+    192,
+    98,
+    440,
+    128,
+    243,
+    414,
+    179,
+    101,
+    388,
+    131,
+    207,
+    466,
+    220,
+    520,
+    161,
+    168
   ],
   "name": "psyc_Dichloropane",
   "svg": "psyc_Dichloropane.svg",
   "sim": [
     {
       "name": "trip_rti-111",
-      "psychonaut_name": null,
-      "tripsit_name": "rti-111",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "rti-111"
+      ],
+      "isomerd_names": null,
       "dist": 15.0197674518
     },
     {
-      "name": "trip_troparil",
-      "psychonaut_name": null,
-      "tripsit_name": "troparil",
+      "name": "psyc_Troparil_trip_troparil",
+      "psychonaut_names": [
+        "Troparil"
+      ],
+      "tripsit_names": [
+        "troparil"
+      ],
+      "isomerd_names": null,
       "dist": 19.2949423374
     },
     {
-      "name": "psyc_Troparil",
-      "psychonaut_name": "Troparil",
-      "tripsit_name": null,
-      "dist": 19.2949423374
-    },
-    {
-      "name": "trip_3,4-ctmp",
-      "psychonaut_name": null,
-      "tripsit_name": "3,4-ctmp",
+      "name": "psyc_3,4-CTMP_trip_3,4-ctmp",
+      "psychonaut_names": [
+        "3,4-CTMP"
+      ],
+      "tripsit_names": [
+        "3,4-ctmp"
+      ],
+      "isomerd_names": null,
       "dist": 22.3517208794
     },
     {
-      "name": "psyc_3,4-CTMP",
-      "psychonaut_name": "3,4-CTMP",
-      "tripsit_name": null,
-      "dist": 22.3517208794
-    },
-    {
-      "name": "trip_cocaine",
-      "psychonaut_name": null,
-      "tripsit_name": "cocaine",
+      "name": "psyc_Cocaine_trip_cocaine",
+      "psychonaut_names": [
+        "Cocaine"
+      ],
+      "tripsit_names": [
+        "cocaine"
+      ],
+      "isomerd_names": null,
       "dist": 25.6096204801
     },
     {
-      "name": "psyc_Cocaine",
-      "psychonaut_name": "Cocaine",
-      "tripsit_name": null,
-      "dist": 25.6096204801
-    },
-    {
-      "name": "trip_4-fluoromethylphenidate",
-      "psychonaut_name": null,
-      "tripsit_name": "4-fluoromethylphenidate",
-      "dist": 26.287790181
-    },
-    {
-      "name": "psyc_4F-MPH",
-      "psychonaut_name": "4F-MPH",
-      "tripsit_name": null,
+      "name": "psyc_4F-MPH_trip_4-fluoromethylphenidate",
+      "psychonaut_names": [
+        "4F-MPH"
+      ],
+      "tripsit_names": [
+        "4-fluoromethylphenidate"
+      ],
+      "isomerd_names": null,
       "dist": 26.287790181
     },
     {
       "name": "trip_4-methylmethylphenidate",
-      "psychonaut_name": null,
-      "tripsit_name": "4-methylmethylphenidate",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-methylmethylphenidate"
+      ],
+      "isomerd_names": null,
       "dist": 26.8414977864
     },
     {
-      "name": "trip_4-fluoroethylphenidate",
-      "psychonaut_name": null,
-      "tripsit_name": "4-fluoroethylphenidate",
+      "name": "psyc_4F-EPH_trip_4-fluoroethylphenidate",
+      "psychonaut_names": [
+        "4F-EPH"
+      ],
+      "tripsit_names": [
+        "4-fluoroethylphenidate"
+      ],
+      "isomerd_names": null,
       "dist": 26.8717180954
     },
     {
-      "name": "psyc_4F-EPH",
-      "psychonaut_name": "4F-EPH",
-      "tripsit_name": null,
-      "dist": 26.8717180954
-    },
-    {
-      "name": "psyc_Ibogaine",
-      "psychonaut_name": "Ibogaine",
-      "tripsit_name": null,
+      "name": "psyc_Ibogaine_Tabernanthe_iboga_(botany)_trip_ibogaine",
+      "psychonaut_names": [
+        "Ibogaine",
+        "Tabernanthe iboga (botany)"
+      ],
+      "tripsit_names": [
+        "ibogaine"
+      ],
+      "isomerd_names": null,
       "dist": 27.3761303812
     },
     {
-      "name": "trip_ibogaine",
-      "psychonaut_name": null,
-      "tripsit_name": "ibogaine",
-      "dist": 27.3761303812
+      "name": "trip_focalin",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "focalin"
+      ],
+      "isomerd_names": null,
+      "dist": 28.4304764678
     },
     {
-      "name": "psyc_Tabernanthe iboga (botany)",
-      "psychonaut_name": "Tabernanthe iboga (botany)",
-      "tripsit_name": null,
-      "dist": 27.3761303812
+      "name": "psyc_Sertraline_trip_sertraline",
+      "psychonaut_names": [
+        "Sertraline"
+      ],
+      "tripsit_names": [
+        "sertraline"
+      ],
+      "isomerd_names": null,
+      "dist": 28.4645968945
+    },
+    {
+      "name": "psyc_Methylphenidate_trip_methylphenidate",
+      "psychonaut_names": [
+        "Methylphenidate"
+      ],
+      "tripsit_names": [
+        "methylphenidate"
+      ],
+      "isomerd_names": null,
+      "dist": 28.9738567505
+    },
+    {
+      "name": "trip_methylmorphenate",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "methylmorphenate"
+      ],
+      "isomerd_names": null,
+      "dist": 29.2203709443
+    },
+    {
+      "name": "psyc_Ethylphenidate_trip_ethylphenidate",
+      "psychonaut_names": [
+        "Ethylphenidate"
+      ],
+      "tripsit_names": [
+        "ethylphenidate"
+      ],
+      "isomerd_names": null,
+      "dist": 29.3152713076
+    },
+    {
+      "name": "psyc_Methylnaphthidate_trip_hdmp-28",
+      "psychonaut_names": [
+        "Methylnaphthidate"
+      ],
+      "tripsit_names": [
+        "hdmp-28"
+      ],
+      "isomerd_names": null,
+      "dist": 29.3223129147
+    },
+    {
+      "name": "trip_propylphenidate",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "propylphenidate"
+      ],
+      "isomerd_names": null,
+      "dist": 30.1367671034
+    },
+    {
+      "name": "psyc_Dextromethorphan_trip_dxm",
+      "psychonaut_names": [
+        "Dextromethorphan"
+      ],
+      "tripsit_names": [
+        "dxm"
+      ],
+      "isomerd_names": null,
+      "dist": 30.5616682131
+    },
+    {
+      "name": "trip_hdep-28",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "hdep-28"
+      ],
+      "isomerd_names": null,
+      "dist": 30.8106310047
+    },
+    {
+      "name": "psyc_Isopropylphenidate_trip_isopropylphenidate",
+      "psychonaut_names": [
+        "Isopropylphenidate"
+      ],
+      "tripsit_names": [
+        "isopropylphenidate"
+      ],
+      "isomerd_names": null,
+      "dist": 31.0682763115
+    },
+    {
+      "name": "psyc_Tramadol_trip_tramadol",
+      "psychonaut_names": [
+        "Tramadol"
+      ],
+      "tripsit_names": [
+        "tramadol"
+      ],
+      "isomerd_names": null,
+      "dist": 31.1988781067
     }
   ]
 }

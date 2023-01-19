@@ -1,134 +1,248 @@
 {
   "inchi": "InChI=1S/CHCl3/c2-1(3)4/h1H",
-  "psychonaut_name": null,
-  "tripsit_name": "chloroform",
-  "synonyms": null,
+  "psychonaut_names": null,
+  "tripsit_names": [
+    "chloroform"
+  ],
+  "isomerd_names": null,
+  "isod_ids": null,
+  "synonyms": [],
   "distances": [
     20.797812655,
-    20.797812655,
-    24.792785038,
     24.792785038,
     25.2985602531,
     25.9265790262,
-    25.9265790262,
     26.1159628976,
-    27.9957620956,
     27.9957620956,
     28.1073903204,
     29.8135277273,
-    29.8135277273,
     30.5691934133,
-    30.7730120639
+    30.7730120639,
+    31.4007584207,
+    32.1701656145,
+    32.5657744125,
+    33.0282508838,
+    33.1956480552,
+    34.2542909037,
+    34.7217191153,
+    34.7942350677,
+    34.9432016814
   ],
   "indices": [
-    546,
-    99,
-    338,
-    179,
-    346,
-    766,
-    249,
-    757,
-    474,
-    39,
-    399,
-    579,
-    2,
-    731,
-    334
+    283,
+    288,
+    573,
+    318,
+    576,
+    292,
+    578,
+    287,
+    580,
+    572,
+    289,
+    297,
+    577,
+    304,
+    305,
+    308,
+    300,
+    314,
+    298
   ],
   "name": "trip_chloroform",
   "svg": "trip_chloroform.svg",
   "sim": [
     {
-      "name": "trip_alcohol",
-      "psychonaut_name": null,
-      "tripsit_name": "alcohol",
+      "name": "psyc_Alcohol_trip_alcohol",
+      "psychonaut_names": [
+        "Alcohol"
+      ],
+      "tripsit_names": [
+        "alcohol"
+      ],
+      "isomerd_names": null,
       "dist": 20.797812655
     },
     {
-      "name": "psyc_Alcohol",
-      "psychonaut_name": "Alcohol",
-      "tripsit_name": null,
-      "dist": 20.797812655
-    },
-    {
-      "name": "trip_gbl",
-      "psychonaut_name": null,
-      "tripsit_name": "gbl",
-      "dist": 24.792785038
-    },
-    {
-      "name": "psyc_GBL",
-      "psychonaut_name": "GBL",
-      "tripsit_name": null,
+      "name": "psyc_GBL_trip_gbl",
+      "psychonaut_names": [
+        "GBL"
+      ],
+      "tripsit_names": [
+        "gbl"
+      ],
+      "isomerd_names": null,
       "dist": 24.792785038
     },
     {
       "name": "trip_halothane",
-      "psychonaut_name": null,
-      "tripsit_name": "halothane",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "halothane"
+      ],
+      "isomerd_names": null,
       "dist": 25.2985602531
     },
     {
-      "name": "trip_nitrous",
-      "psychonaut_name": null,
-      "tripsit_name": "nitrous",
-      "dist": 25.9265790262
-    },
-    {
-      "name": "psyc_Nitrous",
-      "psychonaut_name": "Nitrous",
-      "tripsit_name": null,
+      "name": "psyc_Nitrous_trip_nitrous",
+      "psychonaut_names": [
+        "Nitrous"
+      ],
+      "tripsit_names": [
+        "nitrous"
+      ],
+      "isomerd_names": null,
       "dist": 25.9265790262
     },
     {
       "name": "trip_diethyl-ether",
-      "psychonaut_name": null,
-      "tripsit_name": "diethyl-ether",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "diethyl-ether"
+      ],
+      "isomerd_names": null,
       "dist": 26.1159628976
     },
     {
-      "name": "trip_2-methyl-2-butanol",
-      "psychonaut_name": null,
-      "tripsit_name": "2-methyl-2-butanol",
-      "dist": 27.9957620956
-    },
-    {
-      "name": "psyc_2M2B",
-      "psychonaut_name": "2M2B",
-      "tripsit_name": null,
+      "name": "psyc_2M2B_trip_2-methyl-2-butanol",
+      "psychonaut_names": [
+        "2M2B"
+      ],
+      "tripsit_names": [
+        "2-methyl-2-butanol"
+      ],
+      "isomerd_names": null,
       "dist": 27.9957620956
     },
     {
       "name": "trip_clomethiazole",
-      "psychonaut_name": null,
-      "tripsit_name": "clomethiazole",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "clomethiazole"
+      ],
+      "isomerd_names": null,
       "dist": 28.1073903204
     },
     {
-      "name": "trip_1,4-butanediol",
-      "psychonaut_name": null,
-      "tripsit_name": "1,4-butanediol",
-      "dist": 29.8135277273
-    },
-    {
-      "name": "psyc_1,4-Butanediol",
-      "psychonaut_name": "1,4-Butanediol",
-      "tripsit_name": null,
+      "name": "psyc_1,4-Butanediol_trip_1,4-butanediol",
+      "psychonaut_names": [
+        "1,4-Butanediol"
+      ],
+      "tripsit_names": [
+        "1,4-butanediol"
+      ],
+      "isomerd_names": null,
       "dist": 29.8135277273
     },
     {
       "name": "trip_thiopropamine",
-      "psychonaut_name": null,
-      "tripsit_name": "thiopropamine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "thiopropamine"
+      ],
+      "isomerd_names": null,
       "dist": 30.5691934133
     },
     {
       "name": "trip_noctec",
-      "psychonaut_name": null,
-      "tripsit_name": "noctec",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "noctec"
+      ],
+      "isomerd_names": null,
       "dist": 30.7730120639
+    },
+    {
+      "name": "psyc_GHB_trip_ghb",
+      "psychonaut_names": [
+        "GHB"
+      ],
+      "tripsit_names": [
+        "ghb"
+      ],
+      "isomerd_names": null,
+      "dist": 31.4007584207
+    },
+    {
+      "name": "psyc_1,3-dimethylbutylamine",
+      "psychonaut_names": [
+        "1,3-dimethylbutylamine"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 32.1701656145
+    },
+    {
+      "name": "trip_gaba",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "gaba"
+      ],
+      "isomerd_names": null,
+      "dist": 32.5657744125
+    },
+    {
+      "name": "psyc_Phenethylamine_(compound)_trip_phenethylamine",
+      "psychonaut_names": [
+        "Phenethylamine (compound)"
+      ],
+      "tripsit_names": [
+        "phenethylamine"
+      ],
+      "isomerd_names": null,
+      "dist": 33.0282508838
+    },
+    {
+      "name": "psyc_Methiopropamine",
+      "psychonaut_names": [
+        "Methiopropamine"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 33.1956480552
+    },
+    {
+      "name": "psyc_2-Aminoindane_trip_2-ai",
+      "psychonaut_names": [
+        "2-Aminoindane"
+      ],
+      "tripsit_names": [
+        "2-ai"
+      ],
+      "isomerd_names": null,
+      "dist": 34.2542909037
+    },
+    {
+      "name": "psyc_1,3-DMAA_trip_dmaa",
+      "psychonaut_names": [
+        "1,3-DMAA"
+      ],
+      "tripsit_names": [
+        "dmaa"
+      ],
+      "isomerd_names": null,
+      "dist": 34.7217191153
+    },
+    {
+      "name": "psyc_Dexamphetamine_trip_dexedrine_amphetamine",
+      "psychonaut_names": [
+        "Dexamphetamine"
+      ],
+      "tripsit_names": [
+        "dexedrine",
+        "amphetamine"
+      ],
+      "isomerd_names": null,
+      "dist": 34.7942350677
+    },
+    {
+      "name": "psyc_Gaboxadol",
+      "psychonaut_names": [
+        "Gaboxadol"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 34.9432016814
     }
   ]
 }

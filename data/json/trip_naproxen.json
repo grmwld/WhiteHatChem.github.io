@@ -1,134 +1,235 @@
 {
-  "inchi": "InChI=1S/C14H14O3/c1-9(14(15)16)10-3-4-12-8-13(17-2)6-5-11(12)7-10/h3-9H,1-2H3,(H,15,16)/t9-/m0/s1",
-  "psychonaut_name": null,
-  "tripsit_name": "naproxen",
-  "synonyms": null,
+  "inchi": "InChI=1S/C14H14O3/c1-9(14(15)16)10-3-4-12-8-13(17-2)6-5-11(12)7-10/h3-9H,1-2H3,(H,15,16)",
+  "psychonaut_names": null,
+  "tripsit_names": [
+    "naproxen"
+  ],
+  "isomerd_names": null,
+  "isod_ids": null,
+  "synonyms": [],
   "distances": [
     18.6127119043,
     19.594492921,
     19.9870082621,
+    20.1623226983,
     20.4967462702,
+    20.5412747834,
     20.6062037043,
     20.7024616639,
     20.9719916168,
     20.998149972,
-    20.998149972,
-    21.3483920991,
     21.3483920991,
     21.5677968471,
     21.5807292452,
     21.5807292452,
-    21.6935942165
+    21.6935942165,
+    21.7972110189,
+    21.914815885,
+    22.0216630571,
+    22.0497795803
   ],
   "indices": [
-    556,
-    819,
-    554,
-    758,
-    716,
-    831,
-    614,
-    85,
-    764,
-    473,
-    233,
-    447,
-    354,
-    842,
-    525
+    409,
+    417,
+    483,
+    621,
+    394,
+    620,
+    343,
+    344,
+    461,
+    62,
+    66,
+    357,
+    386,
+    385,
+    458,
+    151,
+    627,
+    53,
+    45
   ],
   "name": "trip_naproxen",
   "svg": "trip_naproxen.svg",
   "sim": [
     {
       "name": "trip_methamnetamine",
-      "psychonaut_name": null,
-      "tripsit_name": "methamnetamine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "methamnetamine"
+      ],
+      "isomerd_names": null,
       "dist": 18.6127119043
     },
     {
       "name": "trip_5-meo-nipt",
-      "psychonaut_name": null,
-      "tripsit_name": "5-meo-nipt",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "5-meo-nipt"
+      ],
+      "isomerd_names": null,
       "dist": 19.594492921
     },
     {
       "name": "trip_atomoxetine",
-      "psychonaut_name": null,
-      "tripsit_name": "atomoxetine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "atomoxetine"
+      ],
+      "isomerd_names": null,
       "dist": 19.9870082621
     },
     {
+      "name": "isomer_2,5-DMMA-\u03b2k",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2,5-DMMA-\u03b2k"
+      ],
+      "dist": 20.1623226983
+    },
+    {
       "name": "trip_ibuprofen",
-      "psychonaut_name": null,
-      "tripsit_name": "ibuprofen",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "ibuprofen"
+      ],
+      "isomerd_names": null,
       "dist": 20.4967462702
     },
     {
+      "name": "isomer_2-HO-N-Me-5-EA-\u03b2k",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-HO-N-Me-5-EA-\u03b2k"
+      ],
+      "dist": 20.5412747834
+    },
+    {
       "name": "trip_methedrone",
-      "psychonaut_name": null,
-      "tripsit_name": "methedrone",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "methedrone"
+      ],
+      "isomerd_names": null,
       "dist": 20.6062037043
     },
     {
       "name": "trip_3-meomc",
-      "psychonaut_name": null,
-      "tripsit_name": "3-meomc",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "3-meomc"
+      ],
+      "isomerd_names": null,
       "dist": 20.7024616639
     },
     {
       "name": "trip_propranolol",
-      "psychonaut_name": null,
-      "tripsit_name": "propranolol",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "propranolol"
+      ],
+      "isomerd_names": null,
       "dist": 20.9719916168
     },
     {
-      "name": "psyc_5-MeO-aMT",
-      "psychonaut_name": "5-MeO-aMT",
-      "tripsit_name": null,
+      "name": "psyc_5-MeO-aMT_trip_5-meo-amt",
+      "psychonaut_names": [
+        "5-MeO-aMT"
+      ],
+      "tripsit_names": [
+        "5-meo-amt"
+      ],
+      "isomerd_names": null,
       "dist": 20.998149972
     },
     {
-      "name": "trip_5-meo-amt",
-      "psychonaut_name": null,
-      "tripsit_name": "5-meo-amt",
-      "dist": 20.998149972
-    },
-    {
-      "name": "trip_mexedrone",
-      "psychonaut_name": null,
-      "tripsit_name": "mexedrone",
-      "dist": 21.3483920991
-    },
-    {
-      "name": "psyc_Mexedrone",
-      "psychonaut_name": "Mexedrone",
-      "tripsit_name": null,
+      "name": "psyc_Mexedrone_trip_mexedrone",
+      "psychonaut_names": [
+        "Mexedrone"
+      ],
+      "tripsit_names": [
+        "mexedrone"
+      ],
+      "isomerd_names": null,
       "dist": 21.3483920991
     },
     {
       "name": "trip_4-cic",
-      "psychonaut_name": null,
-      "tripsit_name": "4-cic",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-cic"
+      ],
+      "isomerd_names": null,
       "dist": 21.5677968471
     },
     {
-      "name": "trip_6-eapb",
-      "psychonaut_name": null,
-      "tripsit_name": "6-eapb",
+      "name": "trip_5-eapb",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "5-eapb"
+      ],
+      "isomerd_names": null,
       "dist": 21.5807292452
     },
     {
-      "name": "trip_5-eapb",
-      "psychonaut_name": null,
-      "tripsit_name": "5-eapb",
+      "name": "trip_6-eapb",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "6-eapb"
+      ],
+      "isomerd_names": null,
       "dist": 21.5807292452
     },
     {
       "name": "trip_2-chloro-ephenidine",
-      "psychonaut_name": null,
-      "tripsit_name": "2-chloro-ephenidine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "2-chloro-ephenidine"
+      ],
+      "isomerd_names": null,
       "dist": 21.6935942165
+    },
+    {
+      "name": "psyc_Ephenidine_trip_ephenidine",
+      "psychonaut_names": [
+        "Ephenidine"
+      ],
+      "tripsit_names": [
+        "ephenidine"
+      ],
+      "isomerd_names": null,
+      "dist": 21.7972110189
+    },
+    {
+      "name": "isomer_N-Me-3,5-DMA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "N-Me-3,5-DMA"
+      ],
+      "dist": 21.914815885
+    },
+    {
+      "name": "psyc_Aniracetam_trip_aniracetam",
+      "psychonaut_names": [
+        "Aniracetam"
+      ],
+      "tripsit_names": [
+        "aniracetam"
+      ],
+      "isomerd_names": null,
+      "dist": 22.0216630571
+    },
+    {
+      "name": "psyc_2,5-DMA",
+      "psychonaut_names": [
+        "2,5-DMA"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 22.0497795803
     }
   ]
 }

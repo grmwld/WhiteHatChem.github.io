@@ -1,198 +1,302 @@
 {
   "inchi": "InChI=1S/C7H7ClN4O2/c1-11-4-3(9-6(8)10-4)5(13)12(2)7(11)14/h1-2H3,(H,9,10)",
-  "psychonaut_name": "8-Chlorotheophylline",
-  "tripsit_name": null,
+  "psychonaut_names": [
+    "8-Chlorotheophylline"
+  ],
+  "tripsit_names": null,
+  "isomerd_names": null,
+  "isod_ids": null,
   "synonyms": [
-    "8-Chloro-1,3-dimethyl-3,7-dihydro-1H-purine-2,6-dione",
-    "Theophylline, 8-chloro-",
-    "W-104090",
-    "UNII-GE2UA340FM",
-    "BBL009700",
-    "1H-Purine-2, 8-chloro-3,7-dihydro-1,3-dimethyl-",
-    "AKOS000119705",
-    "NSC 6113",
-    "chlortheophylline",
-    "8-chorotheophylline",
-    "8-CHLORTHEOPHYLLINE",
-    "PAMABROM RELATED COMPOUND A [USP-RS]",
-    "AKOS005521865",
-    "A841253",
-    "H33",
-    "CHEBI:59771",
-    "NSC6113",
-    "8-Chloro-1,3-dimethyl-3,7-dihydro-1H-purine-2,6-dione #",
-    "8-Chloro-1,3-dimethyl-3,7-dihydro-purine-2,6-dione",
     "EINECS 201-590-4",
-    "8-Chlorotheophylline",
-    "8-Chloro-theophylline",
+    "chlorotheophylline",
+    "2uy3",
+    "8-CHLORTHEOPHYLLINE",
+    "STK701164",
+    "NSC 6113",
+    "ZINC100018165",
+    "CHEMBL88611",
+    "MFCD00005581",
+    "1H-Purine-2, 8-chloro-3,7-dihydro-1,3-dimethyl-",
+    "8-CHLOROTHEOPHYLLINE [USP-RS]",
+    "NSC-6113",
+    "8-chloro-1,3-dimethyl-3,9-dihydro-1H-purine-2,6-dione",
+    "AKOS005521865",
+    "8-chloro-1,3-dimethyl-7H-purine-2,6-dione",
+    "DTXSID5043764",
+    "DB14132",
+    "85-18-7",
+    "A841253",
+    "D97697",
+    "NSC6113",
+    "8-Chloro-1,3-dimethyl-3,7-dihydro-purine-2,6-dione",
+    "8-chloro-1,3-dimethyl-3,7-dihydropurine-2,6-dione",
+    "DB-056856",
+    "Oprea1_038673",
+    "8-Chloro-1,3-dimethyl-3,7-dihydro-1H-purine-2,6-dione #",
+    "AS-67718",
+    "SCHEMBL411139",
+    "8-Chloro-1,3-dimethyl-2,6(1H,3H)-purinedione",
+    "8-CHLORTHEOPHYLLINE [WHO-DD]",
+    "8-chorotheophylline",
+    "EC 201-590-4",
+    "PAMABROM RELATED COMPOUND A [USP-RS]",
+    "Oprea1_741931",
+    "GE2UA340FM",
+    "1H-Purine-2,6-dione, 8-chloro-3,7-dihydro-1,3-dimethyl-",
+    "CHEBI:59771",
+    "Theophylline, 8-chloro-",
+    "AB01563382_01",
+    "BDBM50331852",
+    "Q4644272",
+    "BBL009700",
     "1,3-dimethyl 8-chloro xanthine",
     "8-Chlorotheophyline",
-    "MFCD00005581",
-    "BDBM50331852",
-    "ZINC100018165",
-    "8-chloro-1,3-dimethyl-3,9-dihydro-1H-purine-2,6-dione",
-    "8-Chloro-3,7-dihydro-1,3-dimethyl-1H-purine-2,6-dione",
-    "GE2UA340FM",
-    "8-CHLOROTHEOPHYLLINE [USP-RS]",
-    "Q4644272",
     "AMY493",
-    "85-18-7",
-    "Oprea1_038673",
-    "FT-0631394",
-    "8-chlortheophyllin",
-    "chlorotheophylline",
-    "8-CHLORTHEOPHYLLINE [WHO-DD]",
-    "SR-01000479303",
-    "SR-01000479303-1",
-    "EC 201-590-4",
-    "DTXSID5043764",
-    "AS-67718",
-    "8-chloro-1,3-dimethyl-3,7-dihydropurine-2,6-dione",
-    "D97697",
-    "8-Chloro-1,3-dimethyl-2,6(1H,3H)-purinedione",
-    "2uy3",
-    "SCHEMBL411139",
-    "DB14132",
-    "DB-056856",
-    "NSC-6113",
-    "8-chloro-1,3-dimethyl-2,3,6,7-tetrahydro-1H-purine-2,6-dione",
-    "STK701164",
-    "Oprea1_741931",
-    "8-Chloro-1,3-dimethyl-3,9-dihydro-1H-purine-2,6-dione, AldrichCPR",
-    "8-chloro-1,3-dimethyl-7H-purine-2,6-dione",
+    "chlortheophylline",
     "8-Chloro-1,3-Dimethyl-2,6-Purinedione",
-    "AB01563382_01",
-    "CHEMBL88611",
-    "1H-Purine-2,6-dione, 8-chloro-3,7-dihydro-1,3-dimethyl-",
+    "AKOS000119705",
+    "FT-0631394",
+    "8-Chloro-3,7-dihydro-1,3-dimethyl-1H-purine-2,6-dione",
     "8-Chloro-1,3-dimethyl-1H-purine-2,6(3H,7H)-dione",
-    "1,3-Dimethyl-8-chloroxanthine"
+    "8-chloro-1,3-dimethyl-2,3,6,7-tetrahydro-1H-purine-2,6-dione",
+    "8-Chloro-1,3-dimethyl-3,9-dihydro-1H-purine-2,6-dione, AldrichCPR",
+    "H33",
+    "UNII-GE2UA340FM",
+    "8-Chloro-1,3-dimethyl-3,7-dihydro-1H-purine-2,6-dione",
+    "8-chlortheophyllin",
+    "SR-01000479303",
+    "1,3-Dimethyl-8-chloroxanthine",
+    "W-104090",
+    "8-Chloro-theophylline",
+    "SR-01000479303-1"
   ],
   "distances": [
     15.4748217448,
-    15.4748217448,
     18.6005649932,
     22.7597755976,
-    22.7597755976,
     28.7199858191,
-    28.7199858191,
+    30.2111556916,
     30.2582421542,
     30.2988492137,
+    30.4341179381,
+    30.5247472204,
     30.5488040871,
-    30.5488040871,
+    30.7338199381,
     31.1685373761,
     31.2040061922,
-    31.2040061922,
-    31.324387051
+    31.324387051,
+    31.324387051,
+    31.3889440425,
+    31.4738331452,
+    31.4898839783,
+    31.4906011214
   ],
   "indices": [
-    117,
-    685,
-    708,
-    595,
-    306,
-    763,
-    247,
-    328,
-    799,
-    204,
-    812,
-    484,
-    678,
-    106,
-    89
+    303,
+    581,
+    313,
+    17,
+    606,
+    353,
+    392,
+    691,
+    596,
+    6,
+    597,
+    377,
+    53,
+    341,
+    33,
+    364,
+    607,
+    619,
+    592
   ],
   "name": "psyc_8-Chlorotheophylline",
   "svg": "psyc_8-Chlorotheophylline.svg",
   "sim": [
     {
-      "name": "psyc_Caffeine",
-      "psychonaut_name": "Caffeine",
-      "tripsit_name": null,
-      "dist": 15.4748217448
-    },
-    {
-      "name": "trip_caffeine",
-      "psychonaut_name": null,
-      "tripsit_name": "caffeine",
+      "name": "psyc_Caffeine_trip_caffeine",
+      "psychonaut_names": [
+        "Caffeine"
+      ],
+      "tripsit_names": [
+        "caffeine"
+      ],
+      "isomerd_names": null,
       "dist": 15.4748217448
     },
     {
       "name": "trip_theobromine",
-      "psychonaut_name": null,
-      "tripsit_name": "theobromine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "theobromine"
+      ],
+      "isomerd_names": null,
       "dist": 18.6005649932
     },
     {
-      "name": "trip_theacrine",
-      "psychonaut_name": null,
-      "tripsit_name": "theacrine",
+      "name": "psyc_Theacrine_trip_theacrine",
+      "psychonaut_names": [
+        "Theacrine"
+      ],
+      "tripsit_names": [
+        "theacrine"
+      ],
+      "isomerd_names": null,
       "dist": 22.7597755976
     },
     {
-      "name": "psyc_Theacrine",
-      "psychonaut_name": "Theacrine",
-      "tripsit_name": null,
-      "dist": 22.7597755976
-    },
-    {
-      "name": "trip_nicotine",
-      "psychonaut_name": null,
-      "tripsit_name": "nicotine",
+      "name": "psyc_Nicotine_trip_nicotine",
+      "psychonaut_names": [
+        "Nicotine"
+      ],
+      "tripsit_names": [
+        "nicotine"
+      ],
+      "isomerd_names": null,
       "dist": 28.7199858191
     },
     {
-      "name": "psyc_Nicotine",
-      "psychonaut_name": "Nicotine",
-      "tripsit_name": null,
-      "dist": 28.7199858191
+      "name": "isomer_TMePEA-3",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "TMePEA-3"
+      ],
+      "dist": 30.2111556916
     },
     {
       "name": "trip_mephtetramine",
-      "psychonaut_name": null,
-      "tripsit_name": "mephtetramine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "mephtetramine"
+      ],
+      "isomerd_names": null,
       "dist": 30.2582421542
     },
     {
       "name": "trip_2-me-dmt",
-      "psychonaut_name": null,
-      "tripsit_name": "2-me-dmt",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "2-me-dmt"
+      ],
+      "isomerd_names": null,
       "dist": 30.2988492137
     },
     {
-      "name": "psyc_MCPP",
-      "psychonaut_name": "MCPP",
-      "tripsit_name": null,
+      "name": "isomer_2,6-DCA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2,6-DCA"
+      ],
+      "dist": 30.4341179381
+    },
+    {
+      "name": "isomer_2,6-DMePEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2,6-DMePEA"
+      ],
+      "dist": 30.5247472204
+    },
+    {
+      "name": "psyc_MCPP_trip_mcpp",
+      "psychonaut_names": [
+        "MCPP"
+      ],
+      "tripsit_names": [
+        "mcpp"
+      ],
+      "isomerd_names": null,
       "dist": 30.5488040871
     },
     {
-      "name": "trip_mcpp",
-      "psychonaut_name": null,
-      "tripsit_name": "mcpp",
-      "dist": 30.5488040871
+      "name": "isomer_3,5-DMePEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3,5-DMePEA"
+      ],
+      "dist": 30.7338199381
     },
     {
       "name": "trip_mbzp",
-      "psychonaut_name": null,
-      "tripsit_name": "mbzp",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "mbzp"
+      ],
+      "isomerd_names": null,
       "dist": 31.1685373761
     },
     {
-      "name": "trip_aniracetam",
-      "psychonaut_name": null,
-      "tripsit_name": "aniracetam",
+      "name": "psyc_Aniracetam_trip_aniracetam",
+      "psychonaut_names": [
+        "Aniracetam"
+      ],
+      "tripsit_names": [
+        "aniracetam"
+      ],
+      "isomerd_names": null,
       "dist": 31.2040061922
     },
     {
-      "name": "psyc_Aniracetam",
-      "psychonaut_name": "Aniracetam",
-      "tripsit_name": null,
-      "dist": 31.2040061922
-    },
-    {
-      "name": "psyc_6-APDB",
-      "psychonaut_name": "6-APDB",
-      "tripsit_name": null,
+      "name": "trip_5-apdb",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "5-apdb"
+      ],
+      "isomerd_names": null,
       "dist": 31.324387051
+    },
+    {
+      "name": "psyc_6-APDB_trip_6-apdb",
+      "psychonaut_names": [
+        "6-APDB"
+      ],
+      "tripsit_names": [
+        "6-apdb"
+      ],
+      "isomerd_names": null,
+      "dist": 31.324387051
+    },
+    {
+      "name": "trip_mephenmetrazine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "mephenmetrazine"
+      ],
+      "isomerd_names": null,
+      "dist": 31.3889440425
+    },
+    {
+      "name": "isomer_3,5-DMeA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3,5-DMeA"
+      ],
+      "dist": 31.4738331452
+    },
+    {
+      "name": "isomer_EHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "EHAT"
+      ],
+      "dist": 31.4898839783
+    },
+    {
+      "name": "isomer_HHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "HHAT"
+      ],
+      "dist": 31.4906011214
     }
   ]
 }

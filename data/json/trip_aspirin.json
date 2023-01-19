@@ -1,136 +1,239 @@
 {
   "inchi": "InChI=1S/C9H8O4/c1-6(10)13-8-5-3-2-4-7(8)9(11)12/h2-5H,1H3,(H,11,12)",
-  "psychonaut_name": null,
-  "tripsit_name": "aspirin",
+  "psychonaut_names": null,
+  "tripsit_names": [
+    "aspirin"
+  ],
+  "isomerd_names": null,
+  "isod_ids": null,
   "synonyms": [
     "acetylsalicylate"
   ],
   "distances": [
-    18.4461579248,
+    17.4035883569,
+    17.5080504293,
+    17.6163733182,
     18.4461579248,
     18.8774145742,
     18.9766413003,
     19.1598540209,
-    19.1598540209,
     19.2203044976,
-    19.3549977081,
     19.3549977081,
     19.372211871,
     19.3939856261,
     19.4080772338,
-    19.4080772338,
     19.4083351084,
-    19.4083351084
+    19.4406296152,
+    19.4678800092,
+    19.5049737309,
+    19.5292889641,
+    19.657734971,
+    19.9353263411
   ],
   "indices": [
-    808,
-    156,
-    716,
-    831,
-    580,
-    16,
-    339,
-    547,
-    218,
-    760,
-    630,
-    377,
-    48,
-    603,
-    70
+    593,
+    604,
+    591,
+    32,
+    343,
+    344,
+    36,
+    370,
+    34,
+    319,
+    320,
+    35,
+    64,
+    8,
+    369,
+    321,
+    322,
+    340,
+    602
   ],
   "name": "trip_aspirin",
   "svg": "trip_aspirin.svg",
   "sim": [
     {
-      "name": "trip_ethylcathinone",
-      "psychonaut_name": null,
-      "tripsit_name": "ethylcathinone",
-      "dist": 18.4461579248
+      "name": "isomer_2-Amino-1-(5-ethoxy-2-hydroxyphenyl)ethan-1-one",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-Amino-1-(5-ethoxy-2-hydroxyphenyl)ethan-1-one"
+      ],
+      "dist": 17.4035883569
     },
     {
-      "name": "psyc_ETH-CAT",
-      "psychonaut_name": "ETH-CAT",
-      "tripsit_name": null,
+      "name": "isomer_1-(5-Ethoxy-2-hydroxyphenyl)-2-(methylamino)ethan-1-one",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "1-(5-Ethoxy-2-hydroxyphenyl)-2-(methylamino)ethan-1-one"
+      ],
+      "dist": 17.5080504293
+    },
+    {
+      "name": "isomer_4-Methylpropiophenone",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "4-Methylpropiophenone"
+      ],
+      "dist": 17.6163733182
+    },
+    {
+      "name": "psyc_ETH-CAT_trip_ethylcathinone",
+      "psychonaut_names": [
+        "ETH-CAT"
+      ],
+      "tripsit_names": [
+        "ethylcathinone"
+      ],
+      "isomerd_names": null,
       "dist": 18.4461579248
     },
     {
       "name": "trip_methedrone",
-      "psychonaut_name": null,
-      "tripsit_name": "methedrone",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "methedrone"
+      ],
+      "isomerd_names": null,
       "dist": 18.8774145742
     },
     {
       "name": "trip_3-meomc",
-      "psychonaut_name": null,
-      "tripsit_name": "3-meomc",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "3-meomc"
+      ],
+      "isomerd_names": null,
       "dist": 18.9766413003
     },
     {
-      "name": "trip_2-mmc",
-      "psychonaut_name": null,
-      "tripsit_name": "2-mmc",
-      "dist": 19.1598540209
-    },
-    {
-      "name": "psyc_2-MMC",
-      "psychonaut_name": "2-MMC",
-      "tripsit_name": null,
+      "name": "psyc_2-MMC_trip_2-mmc",
+      "psychonaut_names": [
+        "2-MMC"
+      ],
+      "tripsit_names": [
+        "2-mmc"
+      ],
+      "isomerd_names": null,
       "dist": 19.1598540209
     },
     {
       "name": "trip_2-mec",
-      "psychonaut_name": null,
-      "tripsit_name": "2-mec",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "2-mec"
+      ],
+      "isomerd_names": null,
       "dist": 19.2203044976
     },
     {
-      "name": "trip_mephedrone",
-      "psychonaut_name": null,
-      "tripsit_name": "mephedrone",
-      "dist": 19.3549977081
-    },
-    {
-      "name": "psyc_Mephedrone",
-      "psychonaut_name": "Mephedrone",
-      "tripsit_name": null,
+      "name": "psyc_Mephedrone_trip_mephedrone",
+      "psychonaut_names": [
+        "Mephedrone"
+      ],
+      "tripsit_names": [
+        "mephedrone"
+      ],
+      "isomerd_names": null,
       "dist": 19.3549977081
     },
     {
       "name": "trip_4-cmc",
-      "psychonaut_name": null,
-      "tripsit_name": "4-cmc",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-cmc"
+      ],
+      "isomerd_names": null,
       "dist": 19.372211871
     },
     {
       "name": "trip_3-cmc",
-      "psychonaut_name": null,
-      "tripsit_name": "3-cmc",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "3-cmc"
+      ],
+      "isomerd_names": null,
       "dist": 19.3939856261
     },
     {
-      "name": "trip_3-mmc",
-      "psychonaut_name": null,
-      "tripsit_name": "3-mmc",
+      "name": "psyc_3-MMC_trip_3-mmc",
+      "psychonaut_names": [
+        "3-MMC"
+      ],
+      "tripsit_names": [
+        "3-mmc"
+      ],
+      "isomerd_names": null,
       "dist": 19.4080772338
     },
     {
-      "name": "psyc_3-MMC",
-      "psychonaut_name": "3-MMC",
-      "tripsit_name": null,
-      "dist": 19.4080772338
-    },
-    {
-      "name": "trip_4-mec",
-      "psychonaut_name": null,
-      "tripsit_name": "4-mec",
+      "name": "psyc_4-MEC_trip_4-mec",
+      "psychonaut_names": [
+        "4-MEC"
+      ],
+      "tripsit_names": [
+        "4-mec"
+      ],
+      "isomerd_names": null,
       "dist": 19.4083351084
     },
     {
-      "name": "psyc_4-MEC",
-      "psychonaut_name": "4-MEC",
-      "tripsit_name": null,
-      "dist": 19.4083351084
+      "name": "psyc_Methcathinone",
+      "psychonaut_names": [
+        "Methcathinone"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 19.4406296152
+    },
+    {
+      "name": "trip_3-mec",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "3-mec"
+      ],
+      "isomerd_names": null,
+      "dist": 19.4678800092
+    },
+    {
+      "name": "trip_4-fmc",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-fmc"
+      ],
+      "isomerd_names": null,
+      "dist": 19.5049737309
+    },
+    {
+      "name": "trip_3-fmc",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "3-fmc"
+      ],
+      "isomerd_names": null,
+      "dist": 19.5292889641
+    },
+    {
+      "name": "trip_buphedrone",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "buphedrone"
+      ],
+      "isomerd_names": null,
+      "dist": 19.657734971
+    },
+    {
+      "name": "isomer_4-Cl-Buphedrone",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "4-Cl-Buphedrone"
+      ],
+      "dist": 19.9353263411
     }
   ]
 }

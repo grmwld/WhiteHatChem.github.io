@@ -24,12 +24,17 @@ def generate_json_from_normalized(
 
     # create names
     for k, v in output.items():
-        if v['tripsit_name'] is None:
-            name = f'psyc_{v["psychonaut_name"]}'
-        elif v['psychonaut_name'] is None:
-            name = f'trip_{v["tripsit_name"]}'
-        else:
-            name = f'trip_{v["tripsit_name"]}_psyc_{v["psychonaut_name"]}'
+        names = []
+        if v['psychonaut_names'] is not None:
+            names.append(f'psyc_{"_".join(v["psychonaut_names"])}')
+        if v['tripsit_names'] is not None:
+            names.append(f'trip_{"_".join(v["tripsit_names"])}')
+        if v['isomerd_names'] is not None:
+            names.append(f'isomer_{"_".join(v["isomerd_names"])}')
+        if len(names) == 0:
+            names.append('null_{k}')
+            print(f"WARNING: no name for {k}")
+        name = '_'.join(names).replace(' ', '_').replace('/', '_')
         v['name'] = name
 
     # generate and add images
@@ -49,8 +54,9 @@ def generate_json_from_normalized(
             idx = str(idx)
             v['sim'].append({
                 'name': output[idx]['name'],
-                'psychonaut_name': output[idx]['psychonaut_name'],
-                'tripsit_name': output[idx]['tripsit_name'],
+                'psychonaut_names': output[idx]['psychonaut_names'],
+                'tripsit_names': output[idx]['tripsit_names'],
+                'isomerd_names': output[idx]['isomerd_names'],
                 'dist': dist
             })
 

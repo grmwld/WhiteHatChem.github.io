@@ -1,17 +1,18 @@
 {
   "inchi": "InChI=1S/C16H14ClN3O/c1-18-15-10-20(21)16(11-5-3-2-4-6-11)13-9-12(17)7-8-14(13)19-15/h2-9,21H,10H2,1H3",
-  "psychonaut_name": null,
-  "tripsit_name": "librium",
+  "psychonaut_names": null,
+  "tripsit_names": [
+    "librium"
+  ],
+  "isomerd_names": null,
+  "isod_ids": null,
   "synonyms": [
     "chlordiazepoxide"
   ],
   "distances": [
     26.1343375863,
-    26.1343375863,
-    26.975359941,
     26.975359941,
     27.0868850335,
-    27.2250055599,
     27.2250055599,
     27.4865445598,
     27.7672197681,
@@ -20,117 +21,221 @@
     28.700733731,
     28.7039287789,
     28.7316124539,
-    28.7316124539
+    28.7831553472,
+    28.8485784488,
+    28.9934390309,
+    29.4945435731,
+    29.6882154519,
+    29.7244989428,
+    29.8682021064,
+    30.2649574817
   ],
   "indices": [
-    148,
-    600,
-    695,
-    304,
-    653,
-    605,
-    150,
-    594,
-    442,
-    719,
-    725,
-    545,
-    539,
-    439,
-    269
+    146,
+    147,
+    446,
+    143,
+    454,
+    428,
+    429,
+    425,
+    447,
+    426,
+    118,
+    455,
+    449,
+    444,
+    120,
+    450,
+    423,
+    119,
+    430
   ],
   "name": "trip_librium",
   "svg": "trip_librium.svg",
   "sim": [
     {
-      "name": "psyc_Diazepam",
-      "psychonaut_name": "Diazepam",
-      "tripsit_name": null,
+      "name": "psyc_Diazepam_trip_diazepam",
+      "psychonaut_names": [
+        "Diazepam"
+      ],
+      "tripsit_names": [
+        "diazepam"
+      ],
+      "isomerd_names": null,
       "dist": 26.1343375863
     },
     {
-      "name": "trip_diazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "diazepam",
-      "dist": 26.1343375863
-    },
-    {
-      "name": "trip_temazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "temazepam",
-      "dist": 26.975359941
-    },
-    {
-      "name": "psyc_Temazepam",
-      "psychonaut_name": "Temazepam",
-      "tripsit_name": null,
+      "name": "psyc_Temazepam_trip_temazepam",
+      "psychonaut_names": [
+        "Temazepam"
+      ],
+      "tripsit_names": [
+        "temazepam"
+      ],
+      "isomerd_names": null,
       "dist": 26.975359941
     },
     {
       "name": "trip_4-chlorodiazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "4-chlorodiazepam",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-chlorodiazepam"
+      ],
+      "isomerd_names": null,
       "dist": 27.0868850335
     },
     {
-      "name": "trip_diclazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "diclazepam",
-      "dist": 27.2250055599
-    },
-    {
-      "name": "psyc_Diclazepam",
-      "psychonaut_name": "Diclazepam",
-      "tripsit_name": null,
+      "name": "psyc_Diclazepam_trip_diclazepam",
+      "psychonaut_names": [
+        "Diclazepam"
+      ],
+      "tripsit_names": [
+        "diclazepam"
+      ],
+      "isomerd_names": null,
       "dist": 27.2250055599
     },
     {
       "name": "trip_medazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "medazepam",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "medazepam"
+      ],
+      "isomerd_names": null,
       "dist": 27.4865445598
     },
     {
       "name": "trip_nordazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "nordazepam",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "nordazepam"
+      ],
+      "isomerd_names": null,
       "dist": 27.7672197681
     },
     {
       "name": "trip_oxazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "oxazepam",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "oxazepam"
+      ],
+      "isomerd_names": null,
       "dist": 28.3643504589
     },
     {
       "name": "trip_delorazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "delorazepam",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "delorazepam"
+      ],
+      "isomerd_names": null,
       "dist": 28.3732006158
     },
     {
       "name": "trip_lormetazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "lormetazepam",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "lormetazepam"
+      ],
+      "isomerd_names": null,
       "dist": 28.700733731
     },
     {
       "name": "trip_norflurazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "norflurazepam",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "norflurazepam"
+      ],
+      "isomerd_names": null,
       "dist": 28.7039287789
     },
     {
-      "name": "trip_phenazepam",
-      "psychonaut_name": null,
-      "tripsit_name": "phenazepam",
+      "name": "psyc_Phenazepam_trip_phenazepam",
+      "psychonaut_names": [
+        "Phenazepam"
+      ],
+      "tripsit_names": [
+        "phenazepam"
+      ],
+      "isomerd_names": null,
       "dist": 28.7316124539
     },
     {
-      "name": "psyc_Phenazepam",
-      "psychonaut_name": "Phenazepam",
-      "tripsit_name": null,
-      "dist": 28.7316124539
+      "name": "trip_clotiazepam",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "clotiazepam"
+      ],
+      "isomerd_names": null,
+      "dist": 28.7831553472
+    },
+    {
+      "name": "trip_clobazam",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "clobazam"
+      ],
+      "isomerd_names": null,
+      "dist": 28.8485784488
+    },
+    {
+      "name": "trip_clorazepate",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "clorazepate"
+      ],
+      "isomerd_names": null,
+      "dist": 28.9934390309
+    },
+    {
+      "name": "psyc_Lorazepam_trip_lorazepam",
+      "psychonaut_names": [
+        "Lorazepam"
+      ],
+      "tripsit_names": [
+        "lorazepam"
+      ],
+      "isomerd_names": null,
+      "dist": 29.4945435731
+    },
+    {
+      "name": "trip_nimetazepam",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "nimetazepam"
+      ],
+      "isomerd_names": null,
+      "dist": 29.6882154519
+    },
+    {
+      "name": "trip_3-oh-phenazepam",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "3-oh-phenazepam"
+      ],
+      "isomerd_names": null,
+      "dist": 29.7244989428
+    },
+    {
+      "name": "psyc_Flubromazepam_trip_flubromazepam",
+      "psychonaut_names": [
+        "Flubromazepam"
+      ],
+      "tripsit_names": [
+        "flubromazepam"
+      ],
+      "isomerd_names": null,
+      "dist": 29.8682021064
+    },
+    {
+      "name": "trip_nitrazepam",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "nitrazepam"
+      ],
+      "isomerd_names": null,
+      "dist": 30.2649574817
     }
   ]
 }

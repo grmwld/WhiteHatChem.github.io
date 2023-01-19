@@ -1,0 +1,366 @@
+{
+  "inchi": "InChI=1S/C21H30O3/c1-20-9-7-14(23)11-13(20)3-4-15-16-5-6-18(19(24)12-22)21(16,2)10-8-17(15)20/h11,15-18,22H,3-10,12H2,1-2H3",
+  "psychonaut_names": [
+    "DOC"
+  ],
+  "tripsit_names": [
+    "doc"
+  ],
+  "isomerd_names": null,
+  "isod_ids": null,
+  "synonyms": [
+    "NSC 11319",
+    "CHEBI:16973",
+    "Desossicortone [DCIT]",
+    "D4-Pregnene-21-ol-3,20-dione",
+    "NCGC00021304-05",
+    "CHEMBL1498",
+    "Desossicortone",
+    "HY-113414",
+    "003H661",
+    "AS-77189",
+    "Reichstein's substance Q",
+    "21-Hydroxy-Delta4-pregnene-3,20-dione",
+    "NSC-11319",
+    "BSPBio_000954",
+    "64-85-7",
+    "21-Hydroxy-D4-pregnene-3,20-dione",
+    "Desoxycortone [INN:BAN]",
+    "LMST02030087",
+    "4-Pregnen-21-ol-3,20-dione",
+    "hydroxy-4-pregnene-3,20-dione",
+    "11-Dehydroxycorticosterone",
+    "Desoxycortonum [INN-Latin]",
+    "21-Hydroxyprogesterone 100 microg/mL in Methanol/Water",
+    "4-PREGNEN-21-OL-3,20-DIONE; DOC; 21-HYDROXYPROGESTERONE",
+    "11-Dcortic",
+    "MLS001076270",
+    "Prestwick1_000957",
+    "Opera_ID_581",
+    "Q948846",
+    "CAS-64-85-7",
+    "(8S,10R,13S,17S)-17-(2-Hydroxy-acetyl)-10,13-dimethyl-1,2,6,7,8,9,10,11,12,13,14,15,16,17-tetradecahydro-cyclopenta[a]phenanthren-3-one",
+    "Deoxycortone",
+    "Tox21_110356",
+    "Corticosterone, 11-deoxy-",
+    "CMC_13409",
+    "BDBM8582",
+    "UNII-40GP35YQ49",
+    "11-Deoxy Corticosterone",
+    "[4-14C]-11-deoxycorticosterone",
+    "DESOXYCORTONE [WHO-DD]",
+    "DEOXYCORTICOSTERONE [MI]",
+    "NCGC00256184-01",
+    "Tox21_110356_1",
+    "DSSTox_CID_25254",
+    "NCGC00016292-01",
+    "21-HYDROXYPREGN-4-ENE-3,20-DIONE",
+    "Delta4-Pregnene-21-ol-3,20-dione",
+    "1CA",
+    "BRD-K98521173-001-03-8",
+    "CS-0059402",
+    "DSSTox_GSID_45254",
+    "Prestwick0_000957",
+    "NCGC00021304-03",
+    "Cortexone",
+    "21-Hydroxy-4-pregnene-3,20-dione",
+    "GTPL2871",
+    "DESOXYCORTONE [MART.]",
+    "MLS000028537",
+    "Progesterone, 21-hydroxy-",
+    "11-deoxy-Corticosterone",
+    "SPBio_003103",
+    "W-104814",
+    "(14beta)-21-hydroxypregn-4-ene-3,20-dione",
+    "21-HYDROXY-.DELTA.4-PREGNENE-3,20-DIONE",
+    "HMS2235G07",
+    "11-Deoxycorticosterone",
+    "Desoxycorticosteronum",
+    "21-Hydroxyprogesterone, >=97% (HPLC)",
+    "DTXSID0045254",
+    "21-Hydroxyprogesterone",
+    "CCG-220957",
+    "DSSTox_RID_80776",
+    "Kendall's desoxy compound B",
+    "HMS1570P16",
+    "Tox21_302402",
+    "21-Hydroxypregn-4-ene-3,20-dione #",
+    "SR-01000003106",
+    "4-pregnene-3,20-dione-21-ol",
+    "(1S,2R,10S,11S,14S,15S)-14-(2-hydroxyacetyl)-2,15-dimethyltetracyclo[8.7.0.0;{2,7}.0;{11,15}]heptadec-6-en-5-one",
+    "Prestwick3_000957",
+    "Desoxycortone (INN)",
+    "DESOXYCORTONE [INN]",
+    "11-Desoxycorticosterone",
+    "40GP35YQ49",
+    "DESOXYCORTICOSTERONE [VANDF]",
+    "SMR000058340",
+    "C03205",
+    "Desoxycorticosteron",
+    "bmse000535",
+    "21-Hydroxy-Delta4-pregnane-3,20-dione",
+    "EINECS 200-596-4",
+    "Desoxicortona",
+    "SR-01000003106-2",
+    "Deoxycorticosterone",
+    "BD5D7BC9-0CD8-404E-9BA0-F670962012F8",
+    "Desoxicortona [INN-Spanish]",
+    "Desoxycortone",
+    "AB00490029",
+    "AKOS005111365",
+    "Desoxicortonum",
+    "desoxycorticosterone",
+    "21-hydroxy-Progesterone",
+    "21-Hydroxy-D4-pregnane-3,20-dione",
+    "BPBio1_001050",
+    "HMS2097P16",
+    "HMS3714P16",
+    "D07792",
+    "ZINC3833823",
+    "(8S,9S,10R,13S,14S,17S)-17-(2-hydroxyacetyl)-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one",
+    "SCHEMBL4065",
+    "1,2(3H)-Deoxycorticosterone",
+    "Prestwick2_000957",
+    "DOCA (Salt/Mix)",
+    "Pregn-4-ene-3,20-dione, 21-hydroxy-",
+    "21-hydroxy-Pregn-4-ene-3,20-dione",
+    "21-Hydroxy-3,20-dioxopregn-4-ene"
+  ],
+  "distances": [
+    43.6263361073,
+    43.9047402988,
+    44.9892348235,
+    45.0665862073,
+    45.3206027238,
+    45.3591516314,
+    45.409145318,
+    45.5164215301,
+    46.2558642819,
+    47.8611960966,
+    48.2198284471,
+    48.2285234951,
+    48.5122885326,
+    49.1272686539,
+    49.1689505009,
+    49.386504791,
+    50.3923303975,
+    50.4703366624,
+    51.2936718464
+  ],
+  "indices": [
+    218,
+    503,
+    270,
+    208,
+    182,
+    190,
+    267,
+    210,
+    184,
+    220,
+    521,
+    232,
+    228,
+    191,
+    245,
+    209,
+    547,
+    183,
+    271
+  ],
+  "name": "psyc_DOC_trip_doc",
+  "svg": "psyc_DOC_trip_doc.svg",
+  "sim": [
+    {
+      "name": "psyc_Dihydrocodeine_trip_dihydrocodeine",
+      "psychonaut_names": [
+        "Dihydrocodeine"
+      ],
+      "tripsit_names": [
+        "dihydrocodeine"
+      ],
+      "isomerd_names": null,
+      "dist": 43.6263361073
+    },
+    {
+      "name": "trip_6-mddm",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "6-mddm"
+      ],
+      "isomerd_names": null,
+      "dist": 43.9047402988
+    },
+    {
+      "name": "psyc_Salvinorin_B_methoxymethyl_ether",
+      "psychonaut_names": [
+        "Salvinorin B methoxymethyl ether"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 44.9892348235
+    },
+    {
+      "name": "psyc_Hydrocodone_trip_hydrocodone",
+      "psychonaut_names": [
+        "Hydrocodone"
+      ],
+      "tripsit_names": [
+        "hydrocodone"
+      ],
+      "isomerd_names": null,
+      "dist": 45.0665862073
+    },
+    {
+      "name": "psyc_Hydromorphone_trip_hydromorphone",
+      "psychonaut_names": [
+        "Hydromorphone"
+      ],
+      "tripsit_names": [
+        "hydromorphone"
+      ],
+      "isomerd_names": null,
+      "dist": 45.3206027238
+    },
+    {
+      "name": "psyc_Desomorphine",
+      "psychonaut_names": [
+        "Desomorphine"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 45.3591516314
+    },
+    {
+      "name": "psyc_Salvinorin_A",
+      "psychonaut_names": [
+        "Salvinorin A"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 45.409145318
+    },
+    {
+      "name": "psyc_Oxycodone_trip_oxycodone",
+      "psychonaut_names": [
+        "Oxycodone"
+      ],
+      "tripsit_names": [
+        "oxycodone"
+      ],
+      "isomerd_names": null,
+      "dist": 45.5164215301
+    },
+    {
+      "name": "psyc_Oxymorphone_trip_oxymorphone",
+      "psychonaut_names": [
+        "Oxymorphone"
+      ],
+      "tripsit_names": [
+        "oxymorphone"
+      ],
+      "isomerd_names": null,
+      "dist": 46.2558642819
+    },
+    {
+      "name": "psyc_Dextromethorphan_trip_dxm",
+      "psychonaut_names": [
+        "Dextromethorphan"
+      ],
+      "tripsit_names": [
+        "dxm"
+      ],
+      "isomerd_names": null,
+      "dist": 47.8611960966
+    },
+    {
+      "name": "trip_pentazocine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "pentazocine"
+      ],
+      "isomerd_names": null,
+      "dist": 48.2198284471
+    },
+    {
+      "name": "psyc_Ethylmorphine_trip_ethylmorphine",
+      "psychonaut_names": [
+        "Ethylmorphine"
+      ],
+      "tripsit_names": [
+        "ethylmorphine"
+      ],
+      "isomerd_names": null,
+      "dist": 48.2285234951
+    },
+    {
+      "name": "psyc_Naloxone",
+      "psychonaut_names": [
+        "Naloxone"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 48.5122885326
+    },
+    {
+      "name": "psyc_Galantamine",
+      "psychonaut_names": [
+        "Galantamine"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 49.1272686539
+    },
+    {
+      "name": "psyc_Heroin_trip_heroin",
+      "psychonaut_names": [
+        "Heroin"
+      ],
+      "tripsit_names": [
+        "heroin"
+      ],
+      "isomerd_names": null,
+      "dist": 49.1689505009
+    },
+    {
+      "name": "psyc_Codeine_trip_codeine",
+      "psychonaut_names": [
+        "Codeine"
+      ],
+      "tripsit_names": [
+        "codeine"
+      ],
+      "isomerd_names": null,
+      "dist": 49.386504791
+    },
+    {
+      "name": "trip_marinol",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "marinol"
+      ],
+      "isomerd_names": null,
+      "dist": 50.3923303975
+    },
+    {
+      "name": "psyc_Morphine_trip_morphine",
+      "psychonaut_names": [
+        "Morphine"
+      ],
+      "tripsit_names": [
+        "morphine"
+      ],
+      "isomerd_names": null,
+      "dist": 50.4703366624
+    },
+    {
+      "name": "psyc_THC-O",
+      "psychonaut_names": [
+        "THC-O"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 51.2936718464
+    }
+  ]
+}

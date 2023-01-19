@@ -4,8 +4,9 @@ import Main from '../../layouts/Main.astro';
 import CompoundCard from '../../components/CompoundCard.astro';
 
 interface IParams {
-    psychonaut_name: string | null;
-    tripsit_name: string | null;
+    psychonaut_names: string[] | null;
+    tripsit_names: string[] | null;
+    isomerd_names: string[] | null;
     synonyms: string[] | null;
 	name: string;
     svg: string
@@ -14,13 +15,6 @@ interface IParams {
 const molecules = await Astro.glob<IParams>('../../../data/json/*.json');
 
 const search = '';
-
-const selected = molecules.filter(x => (
-    x.psychonaut_name?.toLowerCase().includes(search.toLowerCase()) ||
-    x.tripsit_name?.toLowerCase().includes(search.toLowerCase()) ||
-    x.synonyms?.some(y => y.toLowerCase().includes(search.toLowerCase()))
-));
-
 ---
 <script>
     const urlSearchParams = new URLSearchParams(window.location.search);
@@ -81,8 +75,8 @@ const selected = molecules.filter(x => (
             <!-- NPS grid -->
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 lg:gap-16 gap-8">
                 {
-                    selected.map((x: IParams) => {
-                        const id = `${x.psychonaut_name?.toLowerCase()}_${x.tripsit_name?.toLowerCase()}_${x.synonyms?.join('_')}`;
+                    molecules.map((x: IParams) => {
+                        const id = `${x.name.toLowerCase()}_${x.synonyms?.join('_')}`;
                         return (
                             <span
                                 id={id}

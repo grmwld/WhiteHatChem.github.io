@@ -1,137 +1,249 @@
 {
   "inchi": "InChI=1S/C9H11NO/c1-7-2-4-8(5-3-7)6-9(10)11/h2-5H,6H2,1H3,(H2,10,11)",
-  "psychonaut_name": null,
-  "tripsit_name": "2-pta",
+  "psychonaut_names": null,
+  "tripsit_names": [
+    "2-pta"
+  ],
+  "isomerd_names": null,
+  "isod_ids": null,
   "synonyms": [
-    "4-methyl-2-pa",
-    "2-(p-tolyl)acetamide"
+    "2-(p-tolyl)acetamide",
+    "4-methyl-2-pa"
   ],
   "distances": [
+    14.701731179,
+    17.4498890171,
+    17.4703947054,
     17.5761465901,
     17.7390833852,
-    17.7390833852,
-    17.7390833852,
-    17.7716328067,
     17.7716328067,
     17.8265458259,
     17.9551060632,
-    17.9551060632,
-    18.2573528371,
     18.2573528371,
     18.6107828039,
-    18.6107828039,
+    19.0370836259,
     19.132212756,
-    19.132212756
+    19.2335316948,
+    19.4752862285,
+    19.5074831958,
+    19.6409093431,
+    19.6642332134,
+    19.7569166216,
+    19.8497660971
   ],
   "indices": [
+    591,
+    596,
+    597,
+    332,
+    314,
+    304,
+    583,
+    311,
+    310,
+    312,
+    692,
+    18,
     329,
-    703,
-    741,
-    144,
-    270,
-    575,
-    841,
-    433,
-    61,
-    352,
-    42,
-    752,
-    12,
-    223,
-    684
+    693,
+    690,
+    32,
+    14,
+    346,
+    13
   ],
   "name": "trip_2-pta",
   "svg": "trip_2-pta.svg",
   "sim": [
     {
+      "name": "isomer_4-Methylpropiophenone",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "4-Methylpropiophenone"
+      ],
+      "dist": 14.701731179
+    },
+    {
+      "name": "isomer_2,6-DMePEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2,6-DMePEA"
+      ],
+      "dist": 17.4498890171
+    },
+    {
+      "name": "isomer_3,5-DMePEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3,5-DMePEA"
+      ],
+      "dist": 17.4703947054
+    },
+    {
       "name": "trip_2-methylamphetamine",
-      "psychonaut_name": null,
-      "tripsit_name": "2-methylamphetamine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "2-methylamphetamine"
+      ],
+      "isomerd_names": null,
       "dist": 17.5761465901
     },
     {
-      "name": "trip_dexedrine",
-      "psychonaut_name": null,
-      "tripsit_name": "dexedrine",
+      "name": "psyc_Dexamphetamine_trip_dexedrine_amphetamine",
+      "psychonaut_names": [
+        "Dexamphetamine"
+      ],
+      "tripsit_names": [
+        "dexedrine",
+        "amphetamine"
+      ],
+      "isomerd_names": null,
       "dist": 17.7390833852
     },
     {
-      "name": "trip_amphetamine",
-      "psychonaut_name": null,
-      "tripsit_name": "amphetamine",
-      "dist": 17.7390833852
-    },
-    {
-      "name": "psyc_Dexamphetamine",
-      "psychonaut_name": "Dexamphetamine",
-      "tripsit_name": null,
-      "dist": 17.7390833852
-    },
-    {
-      "name": "psyc_Phenethylamine (compound)",
-      "psychonaut_name": "Phenethylamine (compound)",
-      "tripsit_name": null,
-      "dist": 17.7716328067
-    },
-    {
-      "name": "trip_phenethylamine",
-      "psychonaut_name": null,
-      "tripsit_name": "phenethylamine",
+      "name": "psyc_Phenethylamine_(compound)_trip_phenethylamine",
+      "psychonaut_names": [
+        "Phenethylamine (compound)"
+      ],
+      "tripsit_names": [
+        "phenethylamine"
+      ],
+      "isomerd_names": null,
       "dist": 17.7716328067
     },
     {
       "name": "trip_apap",
-      "psychonaut_name": null,
-      "tripsit_name": "apap",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "apap"
+      ],
+      "isomerd_names": null,
       "dist": 17.8265458259
     },
     {
-      "name": "trip_4-fa",
-      "psychonaut_name": null,
-      "tripsit_name": "4-fa",
+      "name": "psyc_4-FA_trip_4-fa",
+      "psychonaut_names": [
+        "4-FA"
+      ],
+      "tripsit_names": [
+        "4-fa"
+      ],
+      "isomerd_names": null,
       "dist": 17.9551060632
     },
     {
-      "name": "psyc_4-FA",
-      "psychonaut_name": "4-FA",
-      "tripsit_name": null,
-      "dist": 17.9551060632
-    },
-    {
-      "name": "trip_3-fa",
-      "psychonaut_name": null,
-      "tripsit_name": "3-fa",
+      "name": "psyc_3-FA_trip_3-fa",
+      "psychonaut_names": [
+        "3-FA"
+      ],
+      "tripsit_names": [
+        "3-fa"
+      ],
+      "isomerd_names": null,
       "dist": 18.2573528371
     },
     {
-      "name": "psyc_3-FA",
-      "psychonaut_name": "3-FA",
-      "tripsit_name": null,
-      "dist": 18.2573528371
-    },
-    {
-      "name": "trip_2-fa",
-      "psychonaut_name": null,
-      "tripsit_name": "2-fa",
+      "name": "psyc_2-FA_trip_2-fa",
+      "psychonaut_names": [
+        "2-FA"
+      ],
+      "tripsit_names": [
+        "2-fa"
+      ],
+      "isomerd_names": null,
       "dist": 18.6107828039
     },
     {
-      "name": "psyc_2-FA",
-      "psychonaut_name": "2-FA",
-      "tripsit_name": null,
-      "dist": 18.6107828039
+      "name": "isomer_2,6-HMPEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2,6-HMPEA"
+      ],
+      "dist": 19.0370836259
     },
     {
-      "name": "psyc_Methamphetamine",
-      "psychonaut_name": "Methamphetamine",
-      "tripsit_name": null,
+      "name": "psyc_Methamphetamine_trip_methamphetamine",
+      "psychonaut_names": [
+        "Methamphetamine"
+      ],
+      "tripsit_names": [
+        "methamphetamine"
+      ],
+      "isomerd_names": null,
       "dist": 19.132212756
     },
     {
-      "name": "trip_methamphetamine",
-      "psychonaut_name": null,
-      "tripsit_name": "methamphetamine",
-      "dist": 19.132212756
+      "name": "trip_4-cma",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-cma"
+      ],
+      "isomerd_names": null,
+      "dist": 19.2335316948
+    },
+    {
+      "name": "isomer_3,5-HMPEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3,5-HMPEA"
+      ],
+      "dist": 19.4752862285
+    },
+    {
+      "name": "isomer_2,6-HPEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2,6-HPEA"
+      ],
+      "dist": 19.5074831958
+    },
+    {
+      "name": "psyc_ETH-CAT_trip_ethylcathinone",
+      "psychonaut_names": [
+        "ETH-CAT"
+      ],
+      "tripsit_names": [
+        "ethylcathinone"
+      ],
+      "isomerd_names": null,
+      "dist": 19.6409093431
+    },
+    {
+      "name": "psyc_4-FMA_trip_4-fma",
+      "psychonaut_names": [
+        "4-FMA"
+      ],
+      "tripsit_names": [
+        "4-fma"
+      ],
+      "isomerd_names": null,
+      "dist": 19.6642332134
+    },
+    {
+      "name": "trip_4-fea",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "4-fea"
+      ],
+      "isomerd_names": null,
+      "dist": 19.7569166216
+    },
+    {
+      "name": "psyc_3-FMA_trip_3-fma",
+      "psychonaut_names": [
+        "3-FMA"
+      ],
+      "tripsit_names": [
+        "3-fma"
+      ],
+      "isomerd_names": null,
+      "dist": 19.8497660971
     }
   ]
 }
