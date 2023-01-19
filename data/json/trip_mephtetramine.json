@@ -10,50 +10,68 @@
     "mtta"
   ],
   "distances": [
+    15.05764933,
+    15.1687946434,
     16.5449798623,
+    16.8834776882,
     17.9088880583,
     18.0415779564,
+    18.2738358029,
+    18.8325972062,
     19.012712743,
     19.1141174869,
     19.3162494464,
     19.3162494464,
     19.8868910048,
+    19.8961913178,
     20.2170118855,
     20.3639522627,
     20.5384525573,
     20.6498341256,
-    20.8502320787,
-    21.0581992085,
-    21.0872906777,
-    21.0924616215,
-    21.1224385351,
-    21.1917133474,
-    21.2365069466
+    20.7627906444
   ],
   "indices": [
+    619,
+    603,
     7,
+    637,
     371,
     363,
+    638,
+    592,
     362,
     53,
     341,
     33,
     366,
+    653,
     17,
     83,
     100,
     308,
-    347,
-    329,
-    342,
-    15,
-    13,
-    320,
-    14
+    618
   ],
   "name": "trip_mephtetramine",
   "svg": "trip_mephtetramine.svg",
   "sim": [
+    {
+      "name": "isomer_EHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "EHAT"
+      ],
+      "dist": 15.05764933
+    },
+    {
+      "name": "isomer_MHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "MHAT"
+      ],
+      "dist": 15.1687946434
+    },
     {
       "name": "psyc_NM-2-AI_trip_nm-2-ai",
       "psychonaut_names": [
@@ -64,6 +82,15 @@
       ],
       "isomerd_names": null,
       "dist": 16.5449798623
+    },
+    {
+      "name": "isomer_PHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "PHAT"
+      ],
+      "dist": 16.8834776882
     },
     {
       "name": "trip_5-mapdb",
@@ -82,6 +109,24 @@
       ],
       "isomerd_names": null,
       "dist": 18.0415779564
+    },
+    {
+      "name": "isomer_7-[(Propan-2-yl)amino]-5,6,7,8-tetrahydronaphthalen-1-ol",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "7-[(Propan-2-yl)amino]-5,6,7,8-tetrahydronaphthalen-1-ol"
+      ],
+      "dist": 18.2738358029
+    },
+    {
+      "name": "isomer_HHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "HHAT"
+      ],
+      "dist": 18.8325972062
     },
     {
       "name": "trip_4-benzylpiperidine",
@@ -133,6 +178,15 @@
       "dist": 19.8868910048
     },
     {
+      "name": "isomer_BHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "BHAT"
+      ],
+      "dist": 19.8961913178
+    },
+    {
       "name": "psyc_Nicotine_trip_nicotine",
       "psychonaut_names": [
         "Nicotine"
@@ -177,73 +231,13 @@
       "dist": 20.6498341256
     },
     {
-      "name": "trip_bzp",
+      "name": "isomer_MMAT",
       "psychonaut_names": null,
-      "tripsit_names": [
-        "bzp"
+      "tripsit_names": null,
+      "isomerd_names": [
+        "MMAT"
       ],
-      "isomerd_names": null,
-      "dist": 20.8502320787
-    },
-    {
-      "name": "trip_4-cma",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "4-cma"
-      ],
-      "isomerd_names": null,
-      "dist": 21.0581992085
-    },
-    {
-      "name": "trip_isophenmetrazine",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "isophenmetrazine"
-      ],
-      "isomerd_names": null,
-      "dist": 21.0872906777
-    },
-    {
-      "name": "psyc_2-FMA_trip_2-fma",
-      "psychonaut_names": [
-        "2-FMA"
-      ],
-      "tripsit_names": [
-        "2-fma"
-      ],
-      "isomerd_names": null,
-      "dist": 21.0924616215
-    },
-    {
-      "name": "psyc_3-FMA_trip_3-fma",
-      "psychonaut_names": [
-        "3-FMA"
-      ],
-      "tripsit_names": [
-        "3-fma"
-      ],
-      "isomerd_names": null,
-      "dist": 21.1224385351
-    },
-    {
-      "name": "trip_3-cmc",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "3-cmc"
-      ],
-      "isomerd_names": null,
-      "dist": 21.1917133474
-    },
-    {
-      "name": "psyc_4-FMA_trip_4-fma",
-      "psychonaut_names": [
-        "4-FMA"
-      ],
-      "tripsit_names": [
-        "4-fma"
-      ],
-      "isomerd_names": null,
-      "dist": 21.2365069466
+      "dist": 20.7627906444
     }
   ]
 }

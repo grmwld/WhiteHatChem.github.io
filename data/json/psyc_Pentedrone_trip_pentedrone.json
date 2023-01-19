@@ -9,19 +9,19 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
+    "879722-57-3",
+    "DEA No. 1246",
+    "2-(Methylamino)-1-phenyl-1-Pentanone",
     "UNII-2ELU1B757Q",
+    "alpha-methylaminovalerophenone",
+    "1-PENTANONE, 2-(METHYLAMINO)-1-PHENYL-",
     "2ELU1B757Q",
     "J3.114.083H",
     "2-(methylamino)-1-phenylpentan-1-one",
-    ".ALPHA.-METHYLAMINO-VALEROPHENONE",
     "DTXSID101014184",
-    "Q2069408",
-    "2-(Methylamino)-1-phenyl-1-Pentanone",
-    "alpha-methylaminovalerophenone",
-    "DEA No. 1246",
-    "1-PENTANONE, 2-(METHYLAMINO)-1-PHENYL-",
     "SCHEMBL17644177",
-    "879722-57-3"
+    "Q2069408",
+    ".ALPHA.-METHYLAMINO-VALEROPHENONE"
   ],
   "distances": [
     5.8999280246,
@@ -30,6 +30,7 @@
     8.4945180831,
     9.6143244209,
     9.8250485019,
+    9.9008708995,
     9.925252793,
     11.1592500644,
     11.4972139384,
@@ -41,8 +42,7 @@
     13.6863355446,
     13.6960027056,
     13.71270132,
-    13.7317244714,
-    13.9638373763
+    13.7317244714
   ],
   "indices": [
     88,
@@ -51,6 +51,7 @@
     360,
     367,
     368,
+    602,
     89,
     420,
     32,
@@ -62,8 +63,7 @@
     34,
     35,
     64,
-    369,
-    111
+    369
   ],
   "name": "psyc_Pentedrone_trip_pentedrone",
   "svg": "psyc_Pentedrone_trip_pentedrone.svg",
@@ -123,6 +123,15 @@
       ],
       "isomerd_names": null,
       "dist": 9.8250485019
+    },
+    {
+      "name": "isomer_4-Cl-Buphedrone",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "4-Cl-Buphedrone"
+      ],
+      "dist": 9.9008708995
     },
     {
       "name": "psyc_NEP",
@@ -244,17 +253,6 @@
       ],
       "isomerd_names": null,
       "dist": 13.7317244714
-    },
-    {
-      "name": "psyc_N-Ethylhexedrone_trip_hexen",
-      "psychonaut_names": [
-        "N-Ethylhexedrone"
-      ],
-      "tripsit_names": [
-        "hexen"
-      ],
-      "isomerd_names": null,
-      "dist": 13.9638373763
     }
   ]
 }

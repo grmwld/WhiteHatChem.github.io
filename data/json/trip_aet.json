@@ -7,9 +7,9 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
+    "a-et",
     "alpha-ethyl-tryptamine",
-    "a-ethyltryptamine",
-    "a-et"
+    "a-ethyltryptamine"
   ],
   "distances": [
     22.2031758554,
@@ -24,13 +24,13 @@
     30.7655049753,
     30.842564646,
     31.1109455044,
+    31.5701075686,
     31.785649508,
+    32.0080346511,
+    32.0181928418,
     32.2891522879,
     32.3980352866,
-    32.5964014981,
-    32.7994505301,
-    32.977120531,
-    33.1550994587
+    32.4681089777
   ],
   "indices": [
     577,
@@ -45,13 +45,13 @@
     586,
     297,
     300,
+    596,
     314,
+    690,
+    597,
     299,
     578,
-    333,
-    576,
-    305,
-    332
+    689
   ],
   "name": "trip_aet",
   "svg": "trip_aet.svg",
@@ -179,6 +179,15 @@
       "dist": 31.1109455044
     },
     {
+      "name": "isomer_2,6-DMePEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2,6-DMePEA"
+      ],
+      "dist": 31.5701075686
+    },
+    {
       "name": "psyc_Dexamphetamine_trip_dexedrine_amphetamine",
       "psychonaut_names": [
         "Dexamphetamine"
@@ -189,6 +198,24 @@
       ],
       "isomerd_names": null,
       "dist": 31.785649508
+    },
+    {
+      "name": "isomer_2,6-HPEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2,6-HPEA"
+      ],
+      "dist": 32.0080346511
+    },
+    {
+      "name": "isomer_3,5-DMePEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3,5-DMePEA"
+      ],
+      "dist": 32.0181928418
     },
     {
       "name": "psyc_Theanine_trip_l-theanine",
@@ -211,40 +238,13 @@
       "dist": 32.3980352866
     },
     {
-      "name": "trip_4-mta",
+      "name": "isomer_3,5-HPEA",
       "psychonaut_names": null,
-      "tripsit_names": [
-        "4-mta"
-      ],
-      "isomerd_names": null,
-      "dist": 32.5964014981
-    },
-    {
-      "name": "trip_diethyl-ether",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "diethyl-ether"
-      ],
-      "isomerd_names": null,
-      "dist": 32.7994505301
-    },
-    {
-      "name": "psyc_Methiopropamine",
-      "psychonaut_names": [
-        "Methiopropamine"
-      ],
       "tripsit_names": null,
-      "isomerd_names": null,
-      "dist": 32.977120531
-    },
-    {
-      "name": "trip_2-methylamphetamine",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "2-methylamphetamine"
+      "isomerd_names": [
+        "3,5-HPEA"
       ],
-      "isomerd_names": null,
-      "dist": 33.1550994587
+      "dist": 32.4681089777
     }
   ]
 }

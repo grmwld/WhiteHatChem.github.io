@@ -9,27 +9,27 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "2F-Ketamine",
+    "2f-ketamine",
+    "D57WIH0RIT",
     "DTXSID001018395",
     "2-Fluoro-deschloroketamine",
-    "2-fluorodeschloroketamine",
-    "2-FL-2'-OXO-PCM",
-    "D57WIH0RIT",
     "SCHEMBL2615423",
-    "2f-ket",
+    "2-fluorodeschloroketamine",
+    "Cyclohexanone, 2-(2-fluorophenyl)-2-(methylamino)-",
+    "2-FL-2'-OXO-PCM",
+    "2-FDCK",
+    "2-(2-fluorophenyl)-2-(methylamino)cyclohexan-1-one",
     "2f-dck",
     "2-fl-2'-oxo-pcm",
-    "2F-Deschloroketamine",
-    "2fket",
-    "2fdck",
     "2-F-2\u2032-Oxo-PCM",
-    "2f-ketamine",
+    "2fdck",
     "Fluoroketamine",
-    "2-(2-fluorophenyl)-2-(methylamino)cyclohexan-1-one",
+    "2fket",
     "111982-50-4",
-    "Cyclohexanone, 2-(2-fluorophenyl)-2-(methylamino)-",
+    "2f-ket",
     "UNII-D57WIH0RIT",
-    "2-FDCK"
+    "2F-Deschloroketamine",
+    "2F-Ketamine"
   ],
   "distances": [
     6.8041521074,
@@ -49,8 +49,8 @@
     22.5700765553,
     22.8577635817,
     23.0212728559,
-    23.2048781429,
-    23.4352785406
+    23.1521232933,
+    23.2048781429
   ],
   "indices": [
     80,
@@ -70,8 +70,8 @@
     53,
     470,
     441,
-    383,
-    133
+    603,
+    383
   ],
   "name": "psyc_2-Fluorodeschloroketamine_trip_2-fdck",
   "svg": "psyc_2-Fluorodeschloroketamine_trip_2-fdck.svg",
@@ -246,6 +246,15 @@
       "dist": 23.0212728559
     },
     {
+      "name": "isomer_MHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "MHAT"
+      ],
+      "dist": 23.1521232933
+    },
+    {
       "name": "trip_glutethimide",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -253,17 +262,6 @@
       ],
       "isomerd_names": null,
       "dist": 23.2048781429
-    },
-    {
-      "name": "psyc_Pethidine_trip_demerol",
-      "psychonaut_names": [
-        "Pethidine"
-      ],
-      "tripsit_names": [
-        "demerol"
-      ],
-      "isomerd_names": null,
-      "dist": 23.4352785406
     }
   ]
 }

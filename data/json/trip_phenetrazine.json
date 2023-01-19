@@ -20,13 +20,13 @@
     19.2198670598,
     19.8868910048,
     19.8916023056,
+    20.1685070533,
     20.5531121712,
+    21.2381242666,
+    21.4122268686,
+    21.6361337566,
     21.803624487,
-    22.3805749863,
-    22.4398882347,
-    22.4398882347,
-    22.6427343846,
-    22.7339924259
+    22.3805749863
   ],
   "indices": [
     37,
@@ -41,13 +41,13 @@
     365,
     353,
     347,
+    619,
     17,
+    603,
+    592,
+    637,
     328,
-    7,
-    341,
-    33,
-    338,
-    6
+    7
   ],
   "name": "trip_phenetrazine",
   "svg": "trip_phenetrazine.svg",
@@ -165,6 +165,15 @@
       "dist": 19.8916023056
     },
     {
+      "name": "isomer_EHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "EHAT"
+      ],
+      "dist": 20.1685070533
+    },
+    {
       "name": "psyc_Nicotine_trip_nicotine",
       "psychonaut_names": [
         "Nicotine"
@@ -174,6 +183,33 @@
       ],
       "isomerd_names": null,
       "dist": 20.5531121712
+    },
+    {
+      "name": "isomer_MHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "MHAT"
+      ],
+      "dist": 21.2381242666
+    },
+    {
+      "name": "isomer_HHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "HHAT"
+      ],
+      "dist": 21.4122268686
+    },
+    {
+      "name": "isomer_PHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "PHAT"
+      ],
+      "dist": 21.6361337566
     },
     {
       "name": "trip_cyclo-methiodrone",
@@ -194,46 +230,6 @@
       ],
       "isomerd_names": null,
       "dist": 22.3805749863
-    },
-    {
-      "name": "trip_5-apdb",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "5-apdb"
-      ],
-      "isomerd_names": null,
-      "dist": 22.4398882347
-    },
-    {
-      "name": "psyc_6-APDB_trip_6-apdb",
-      "psychonaut_names": [
-        "6-APDB"
-      ],
-      "tripsit_names": [
-        "6-apdb"
-      ],
-      "isomerd_names": null,
-      "dist": 22.4398882347
-    },
-    {
-      "name": "trip_4,4-dmar",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "4,4-dmar"
-      ],
-      "isomerd_names": null,
-      "dist": 22.6427343846
-    },
-    {
-      "name": "psyc_MCPP_trip_mcpp",
-      "psychonaut_names": [
-        "MCPP"
-      ],
-      "tripsit_names": [
-        "mcpp"
-      ],
-      "isomerd_names": null,
-      "dist": 22.7339924259
     }
   ]
 }

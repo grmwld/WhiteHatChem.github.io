@@ -31,7 +31,7 @@
     38.1479631153,
     38.1759457254,
     38.3978581149,
-    38.7301470691
+    38.5893216083
   ],
   "indices": [
     432,
@@ -43,16 +43,16 @@
     458,
     217,
     189,
-    602,
+    672,
     499,
-    604,
+    677,
     453,
     407,
     188,
     215,
     151,
     517,
-    216
+    679
   ],
   "name": "psyc_N-Methylbisfluoromodafinil_trip_dehydroxyfluorafinil",
   "svg": "psyc_N-Methylbisfluoromodafinil_trip_dehydroxyfluorafinil.svg",
@@ -230,13 +230,13 @@
       "dist": 38.3978581149
     },
     {
-      "name": "psyc_PPAP",
-      "psychonaut_names": [
-        "PPAP"
-      ],
+      "name": "isomer_PRL-8-53",
+      "psychonaut_names": null,
       "tripsit_names": null,
-      "isomerd_names": null,
-      "dist": 38.7301470691
+      "isomerd_names": [
+        "PRL-8-53"
+      ],
+      "dist": 38.5893216083
     }
   ]
 }

@@ -7,8 +7,8 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "4-fluorofentanyl",
-    "pff"
+    "pff",
+    "4-fluorofentanyl"
   ],
   "distances": [
     7.9052914728,
@@ -17,6 +17,7 @@
     11.3977627885,
     12.9128797004,
     14.3486043324,
+    16.5939881618,
     17.873737424,
     18.1465128594,
     21.1803330084,
@@ -27,9 +28,8 @@
     23.9167052301,
     24.1075091428,
     25.2652010342,
-    27.0890165812,
-    27.1296483992,
-    27.3117614227
+    26.1937746529,
+    27.0890165812
   ],
   "indices": [
     556,
@@ -38,19 +38,19 @@
     552,
     249,
     563,
+    688,
     560,
     549,
-    609,
+    686,
     565,
     261,
-    608,
+    685,
     244,
-    607,
+    684,
     561,
     542,
-    230,
-    519,
-    518
+    678,
+    230
   ],
   "name": "trip_parafluorofentanyl",
   "svg": "trip_parafluorofentanyl.svg",
@@ -112,6 +112,15 @@
       ],
       "isomerd_names": null,
       "dist": 14.3486043324
+    },
+    {
+      "name": "isomer_3F-Cyclopropylbenzylfentanyl",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3F-Cyclopropylbenzylfentanyl"
+      ],
+      "dist": 16.5939881618
     },
     {
       "name": "trip_furanylfentanyl",
@@ -206,6 +215,15 @@
       "dist": 25.2652010342
     },
     {
+      "name": "isomer_3-Fluoro_4-ANBP",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3-Fluoro 4-ANBP"
+      ],
+      "dist": 26.1937746529
+    },
+    {
       "name": "psyc_Benzydamine_trip_benzydamine",
       "psychonaut_names": [
         "Benzydamine"
@@ -215,24 +233,6 @@
       ],
       "isomerd_names": null,
       "dist": 27.0890165812
-    },
-    {
-      "name": "trip_naphyrone",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "naphyrone"
-      ],
-      "isomerd_names": null,
-      "dist": 27.1296483992
-    },
-    {
-      "name": "trip_trazodone",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "trazodone"
-      ],
-      "isomerd_names": null,
-      "dist": 27.3117614227
     }
   ]
 }

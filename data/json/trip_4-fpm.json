@@ -22,11 +22,11 @@
     20.5750415899,
     21.0754622693,
     21.1999000115,
+    21.8682202105,
+    21.9739350322,
+    22.4022793836,
     22.7079098537,
-    22.8622143977,
-    23.5595157261,
-    23.5764785707,
-    23.7317042502
+    22.8622143977
   ],
   "indices": [
     30,
@@ -43,11 +43,11 @@
     585,
     6,
     347,
+    603,
+    592,
+    619,
     353,
-    328,
-    0,
-    7,
-    338
+    328
   ],
   "name": "trip_4-fpm",
   "svg": "trip_4-fpm.svg",
@@ -187,6 +187,33 @@
       "dist": 21.1999000115
     },
     {
+      "name": "isomer_MHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "MHAT"
+      ],
+      "dist": 21.8682202105
+    },
+    {
+      "name": "isomer_HHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "HHAT"
+      ],
+      "dist": 21.9739350322
+    },
+    {
+      "name": "isomer_EHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "EHAT"
+      ],
+      "dist": 22.4022793836
+    },
+    {
       "name": "trip_mephtetramine",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -203,37 +230,6 @@
       ],
       "isomerd_names": null,
       "dist": 22.8622143977
-    },
-    {
-      "name": "psyc_MDAI_trip_mdai",
-      "psychonaut_names": [
-        "MDAI"
-      ],
-      "tripsit_names": [
-        "mdai"
-      ],
-      "isomerd_names": null,
-      "dist": 23.5595157261
-    },
-    {
-      "name": "psyc_NM-2-AI_trip_nm-2-ai",
-      "psychonaut_names": [
-        "NM-2-AI"
-      ],
-      "tripsit_names": [
-        "nm-2-ai"
-      ],
-      "isomerd_names": null,
-      "dist": 23.5764785707
-    },
-    {
-      "name": "trip_4,4-dmar",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "4,4-dmar"
-      ],
-      "isomerd_names": null,
-      "dist": 23.7317042502
     }
   ]
 }

@@ -26,7 +26,7 @@
     39.7294223712,
     39.8054319423,
     39.8509245991,
-    39.9477716887
+    39.9002907649
   ],
   "indices": [
     536,
@@ -47,7 +47,7 @@
     555,
     243,
     204,
-    498
+    688
   ],
   "name": "trip_cialis",
   "svg": "trip_cialis.svg",
@@ -227,13 +227,13 @@
       "dist": 39.8509245991
     },
     {
-      "name": "trip_metaclazepam",
+      "name": "isomer_3F-Cyclopropylbenzylfentanyl",
       "psychonaut_names": null,
-      "tripsit_names": [
-        "metaclazepam"
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3F-Cyclopropylbenzylfentanyl"
       ],
-      "isomerd_names": null,
-      "dist": 39.9477716887
+      "dist": 39.9002907649
     }
   ]
 }

@@ -7,11 +7,12 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "seroxat",
-    "paxil"
+    "paxil",
+    "seroxat"
   ],
   "distances": [
     28.5577204272,
+    28.8645317621,
     29.137495643,
     29.1469287753,
     29.2762698373,
@@ -19,6 +20,7 @@
     30.1611880672,
     30.1995449007,
     31.2921210272,
+    31.3610049947,
     31.5975236912,
     31.8312832104,
     31.8630731746,
@@ -27,19 +29,19 @@
     32.2436971494,
     32.2704615776,
     32.7295845988,
-    32.8195528135,
-    32.8284894078,
-    33.5151587963
+    32.8195528135
   ],
   "indices": [
-    608,
+    685,
+    678,
     478,
-    609,
+    686,
     509,
-    607,
+    684,
     528,
     511,
     179,
+    688,
     512,
     520,
     498,
@@ -48,9 +50,7 @@
     242,
     181,
     539,
-    244,
-    501,
-    548
+    244
   ],
   "name": "trip_paroxetine",
   "svg": "trip_paroxetine.svg",
@@ -63,6 +63,15 @@
         "Despropionyl 3-FF"
       ],
       "dist": 28.5577204272
+    },
+    {
+      "name": "isomer_3-Fluoro_4-ANBP",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3-Fluoro 4-ANBP"
+      ],
+      "dist": 28.8645317621
     },
     {
       "name": "trip_diclofensine",
@@ -128,6 +137,15 @@
       ],
       "isomerd_names": null,
       "dist": 31.2921210272
+    },
+    {
+      "name": "isomer_3F-Cyclopropylbenzylfentanyl",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3F-Cyclopropylbenzylfentanyl"
+      ],
+      "dist": 31.3610049947
     },
     {
       "name": "trip_flutazolam",
@@ -216,24 +234,6 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 32.8195528135
-    },
-    {
-      "name": "trip_2-pa",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "2-pa"
-      ],
-      "isomerd_names": null,
-      "dist": 32.8284894078
-    },
-    {
-      "name": "trip_cialis",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "cialis"
-      ],
-      "isomerd_names": null,
-      "dist": 33.5151587963
     }
   ]
 }

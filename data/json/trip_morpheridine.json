@@ -19,14 +19,14 @@
     31.4546036351,
     31.8371683044,
     31.9465629723,
+    32.3950529113,
     32.4263758171,
     32.5998410086,
+    32.7897744964,
     32.8947722296,
     32.9220400002,
     32.9790712517,
-    33.1597860538,
-    33.237653003,
-    33.3074244199
+    33.1597860538
   ],
   "indices": [
     524,
@@ -40,14 +40,14 @@
     244,
     490,
     562,
-    605,
+    688,
+    681,
     565,
+    675,
     542,
-    609,
+    686,
     488,
-    239,
-    238,
-    539
+    239
   ],
   "name": "trip_morpheridine",
   "svg": "trip_morpheridine.svg",
@@ -160,6 +160,15 @@
       "dist": 31.9465629723
     },
     {
+      "name": "isomer_3F-Cyclopropylbenzylfentanyl",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3F-Cyclopropylbenzylfentanyl"
+      ],
+      "dist": 32.3950529113
+    },
+    {
       "name": "isomer_MDPEP",
       "psychonaut_names": null,
       "tripsit_names": null,
@@ -176,6 +185,15 @@
       ],
       "isomerd_names": null,
       "dist": 32.5998410086
+    },
+    {
+      "name": "isomer_(4-Fluorophenyl)[1-(5-sulfanylpentyl)piperidin-4-yl]methanone",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "(4-Fluorophenyl)[1-(5-sulfanylpentyl)piperidin-4-yl]methanone"
+      ],
+      "dist": 32.7897744964
     },
     {
       "name": "trip_hydroxyzine",
@@ -212,26 +230,6 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 33.1597860538
-    },
-    {
-      "name": "psyc_LSM-775_trip_lsm-775",
-      "psychonaut_names": [
-        "LSM-775"
-      ],
-      "tripsit_names": [
-        "lsm-775"
-      ],
-      "isomerd_names": null,
-      "dist": 33.237653003
-    },
-    {
-      "name": "trip_indapyrophenidone",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "indapyrophenidone"
-      ],
-      "isomerd_names": null,
-      "dist": 33.3074244199
     }
   ]
 }

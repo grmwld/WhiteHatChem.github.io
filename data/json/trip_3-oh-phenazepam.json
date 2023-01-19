@@ -7,14 +7,14 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "3-oh-p",
-    "3ohphenazepam",
-    "3-ho-p",
-    "3hophenazepam",
-    "3-ho-phenazepam",
     "3ohp",
     "3hop",
-    "3-hydroxyphenazepam"
+    "3-ho-p",
+    "3-oh-p",
+    "3ohphenazepam",
+    "3hophenazepam",
+    "3-hydroxyphenazepam",
+    "3-ho-phenazepam"
   ],
   "distances": [
     8.5584417597,

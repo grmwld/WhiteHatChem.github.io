@@ -7,24 +7,25 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "methyl (2s)-2-{[1-(4-fluorobutyl)-1h-indazole-3-carbonyl]amino}-3,3-dimethylbutanoate",
-    "4-Fluoro-mdmb-binaca",
-    "4F-Mdmb-binaca [NFLIS-DRUG]",
-    "UNII-ZH38UTM145",
-    "Methyl (2S)-2-({[1-(4-fluorobutyl)-1H-indazol-3-yl]carbonyl}amino)-3,3-dimethylbutanoate",
-    "4F-Adb",
-    "L-Valine, N-((1-(4-fluorobutyl)-1H-indazol-3-yl)carbonyl)-3-methyl-, methyl ester",
-    "ZH38UTM145",
-    "Methyl (S)-2-(1-(4-fluorobutyl)-1H-indazole-3-carboxamido)-3,3-dimethylbutanoate",
     "methyl (2S)-2-[[1-(4-fluorobutyl)indazole-3-carbonyl]amino]-3,3-dimethylbutanoate",
+    "N-[[1-(4-fluorobutyl)-1H-indazol-3-yl]carbonyl]-3-methyl-L-valine, methyl ester",
+    "methyl (2s)-2-{[1-(4-fluorobutyl)-1h-indazole-3-carbonyl]amino}-3,3-dimethylbutanoate",
     "2390036-46-9",
     "DTXSID001017266",
-    "N-[[1-(4-fluorobutyl)-1H-indazol-3-yl]carbonyl]-3-methyl-L-valine, methyl ester",
-    "4F-Mdmb-binaca"
+    "L-Valine, N-((1-(4-fluorobutyl)-1H-indazol-3-yl)carbonyl)-3-methyl-, methyl ester",
+    "4-Fluoro-mdmb-binaca",
+    "ZH38UTM145",
+    "4F-Mdmb-binaca",
+    "Methyl (2S)-2-({[1-(4-fluorobutyl)-1H-indazol-3-yl]carbonyl}amino)-3,3-dimethylbutanoate",
+    "Methyl (S)-2-(1-(4-fluorobutyl)-1H-indazole-3-carboxamido)-3,3-dimethylbutanoate",
+    "4F-Adb",
+    "UNII-ZH38UTM145",
+    "4F-Mdmb-binaca [NFLIS-DRUG]"
   ],
   "distances": [
     17.7997384384,
     27.8227860193,
+    30.5998102718,
     30.6984570243,
     31.3317563357,
     34.2138909221,
@@ -39,13 +40,13 @@
     36.6718949723,
     36.7168267448,
     36.9679377024,
-    37.0591271652,
-    37.2806213275,
-    37.4509901092
+    36.9852611982,
+    37.0591271652
   ],
   "indices": [
-    606,
-    599,
+    682,
+    664,
+    687,
     260,
     236,
     534,
@@ -60,9 +61,8 @@
     221,
     555,
     265,
-    439,
-    156,
-    508
+    679,
+    439
   ],
   "name": "psyc_4F-ADB",
   "svg": "psyc_4F-ADB.svg",
@@ -84,6 +84,15 @@
         "MDMB-INACA"
       ],
       "dist": 27.8227860193
+    },
+    {
+      "name": "isomer_Ethylbenzyl-4CN-BINACA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "Ethylbenzyl-4CN-BINACA"
+      ],
+      "dist": 30.5998102718
     },
     {
       "name": "psyc_Dextropropoxyphene_trip_propoxyphene_dextropropoxyphene",
@@ -223,6 +232,15 @@
       "dist": 36.9679377024
     },
     {
+      "name": "isomer_PRL-8-53",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "PRL-8-53"
+      ],
+      "dist": 36.9852611982
+    },
+    {
       "name": "trip_fluvoxamine",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -230,26 +248,6 @@
       ],
       "isomerd_names": null,
       "dist": 37.0591271652
-    },
-    {
-      "name": "psyc_4-AcO-MiPT_trip_4-aco-mipt",
-      "psychonaut_names": [
-        "4-AcO-MiPT"
-      ],
-      "tripsit_names": [
-        "4-aco-mipt"
-      ],
-      "isomerd_names": null,
-      "dist": 37.2806213275
-    },
-    {
-      "name": "trip_pv-9",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "pv-9"
-      ],
-      "isomerd_names": null,
-      "dist": 37.4509901092
     }
   ]
 }

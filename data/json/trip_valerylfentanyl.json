@@ -20,15 +20,15 @@
     22.2238856308,
     22.6536259256,
     24.1189146916,
+    25.9073949913,
     27.4275123301,
     27.5351626228,
     27.7326011757,
+    27.9845298537,
     28.0495178508,
     28.4970915799,
     29.0342814954,
-    29.8284585334,
-    29.85597549,
-    29.9276185741
+    29.8284585334
   ],
   "indices": [
     557,
@@ -41,15 +41,15 @@
     549,
     261,
     565,
+    688,
     542,
     561,
-    609,
+    686,
+    687,
     265,
     272,
     230,
-    262,
-    263,
-    244
+    262
   ],
   "name": "trip_valerylfentanyl",
   "svg": "trip_valerylfentanyl.svg",
@@ -151,6 +151,15 @@
       "dist": 24.1189146916
     },
     {
+      "name": "isomer_3F-Cyclopropylbenzylfentanyl",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3F-Cyclopropylbenzylfentanyl"
+      ],
+      "dist": 25.9073949913
+    },
+    {
       "name": "trip_hydroxyzine",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -176,6 +185,15 @@
         "Despropionyl-4-methoxyfentanyl"
       ],
       "dist": 27.7326011757
+    },
+    {
+      "name": "isomer_Ethylbenzyl-4CN-BINACA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "Ethylbenzyl-4CN-BINACA"
+      ],
+      "dist": 27.9845298537
     },
     {
       "name": "psyc_THJ-018",
@@ -214,26 +232,6 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 29.8284585334
-    },
-    {
-      "name": "psyc_5F-PB-22_trip_5f-pb-22",
-      "psychonaut_names": [
-        "5F-PB-22"
-      ],
-      "tripsit_names": [
-        "5f-pb-22"
-      ],
-      "isomerd_names": null,
-      "dist": 29.85597549
-    },
-    {
-      "name": "psyc_Haloperidol",
-      "psychonaut_names": [
-        "Haloperidol"
-      ],
-      "tripsit_names": null,
-      "isomerd_names": null,
-      "dist": 29.9276185741
     }
   ]
 }

@@ -7,11 +7,13 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "4-methyl-2-pa",
-    "2-(p-tolyl)acetamide"
+    "2-(p-tolyl)acetamide",
+    "4-methyl-2-pa"
   ],
   "distances": [
     14.701731179,
+    17.4498890171,
+    17.4703947054,
     17.5761465901,
     17.7390833852,
     17.7716328067,
@@ -19,20 +21,20 @@
     17.9551060632,
     18.2573528371,
     18.6107828039,
+    19.0370836259,
     19.132212756,
     19.2335316948,
+    19.4752862285,
+    19.5074831958,
     19.6409093431,
     19.6642332134,
     19.7569166216,
-    19.8497660971,
-    19.9451724988,
-    19.9480388853,
-    20.0305293723,
-    20.0587036724,
-    20.0603010927
+    19.8497660971
   ],
   "indices": [
-    590,
+    591,
+    596,
+    597,
     332,
     314,
     304,
@@ -40,17 +42,15 @@
     311,
     310,
     312,
+    692,
     18,
     329,
+    693,
+    690,
     32,
     14,
     346,
-    13,
-    588,
-    41,
-    593,
-    333,
-    8
+    13
   ],
   "name": "trip_2-pta",
   "svg": "trip_2-pta.svg",
@@ -63,6 +63,24 @@
         "4-Methylpropiophenone"
       ],
       "dist": 14.701731179
+    },
+    {
+      "name": "isomer_2,6-DMePEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2,6-DMePEA"
+      ],
+      "dist": 17.4498890171
+    },
+    {
+      "name": "isomer_3,5-DMePEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3,5-DMePEA"
+      ],
+      "dist": 17.4703947054
     },
     {
       "name": "trip_2-methylamphetamine",
@@ -139,6 +157,15 @@
       "dist": 18.6107828039
     },
     {
+      "name": "isomer_2,6-HMPEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2,6-HMPEA"
+      ],
+      "dist": 19.0370836259
+    },
+    {
       "name": "psyc_Methamphetamine_trip_methamphetamine",
       "psychonaut_names": [
         "Methamphetamine"
@@ -157,6 +184,24 @@
       ],
       "isomerd_names": null,
       "dist": 19.2335316948
+    },
+    {
+      "name": "isomer_3,5-HMPEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3,5-HMPEA"
+      ],
+      "dist": 19.4752862285
+    },
+    {
+      "name": "isomer_2,6-HPEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2,6-HPEA"
+      ],
+      "dist": 19.5074831958
     },
     {
       "name": "psyc_ETH-CAT_trip_ethylcathinone",
@@ -199,53 +244,6 @@
       ],
       "isomerd_names": null,
       "dist": 19.8497660971
-    },
-    {
-      "name": "trip_aspirin",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "aspirin"
-      ],
-      "isomerd_names": null,
-      "dist": 19.9451724988
-    },
-    {
-      "name": "psyc_3-FEA_trip_3-fea",
-      "psychonaut_names": [
-        "3-FEA"
-      ],
-      "tripsit_names": [
-        "3-fea"
-      ],
-      "isomerd_names": null,
-      "dist": 19.9480388853
-    },
-    {
-      "name": "isomer_4-APBT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "4-APBT"
-      ],
-      "dist": 20.0305293723
-    },
-    {
-      "name": "trip_4-mta",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "4-mta"
-      ],
-      "isomerd_names": null,
-      "dist": 20.0587036724
-    },
-    {
-      "name": "psyc_Methcathinone",
-      "psychonaut_names": [
-        "Methcathinone"
-      ],
-      "tripsit_names": null,
-      "isomerd_names": null,
-      "dist": 20.0603010927
     }
   ]
 }

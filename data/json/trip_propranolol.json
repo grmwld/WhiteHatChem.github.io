@@ -7,8 +7,8 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "hemangeol",
     "innopran",
+    "hemangeol",
     "inderal"
   ],
   "distances": [
@@ -19,18 +19,18 @@
     20.9719916168,
     21.2922704005,
     22.0309757297,
+    22.5749389512,
     22.6473433463,
+    22.8496994433,
+    23.0716749513,
     23.3575001861,
     23.4240430117,
     23.6284564684,
+    23.6687111128,
+    23.7120366302,
     23.8036323917,
     23.8036323917,
-    24.2094916779,
-    24.3678450036,
-    24.7327006599,
-    25.0295284598,
-    25.051156157,
-    25.1863792303
+    23.9794719642
   ],
   "indices": [
     483,
@@ -39,19 +39,19 @@
     216,
     407,
     151,
-    602,
+    672,
+    657,
     217,
+    646,
+    632,
     409,
     189,
     390,
-    385,
+    645,
+    658,
     386,
-    135,
-    442,
-    394,
-    106,
-    167,
-    163
+    385,
+    614
   ],
   "name": "trip_propranolol",
   "svg": "trip_propranolol.svg",
@@ -122,6 +122,15 @@
       "dist": 22.0309757297
     },
     {
+      "name": "isomer_\u03b2-HO-N-Me-2,5-DEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "\u03b2-HO-N-Me-2,5-DEA"
+      ],
+      "dist": 22.5749389512
+    },
+    {
       "name": "psyc_Orphenadrine",
       "psychonaut_names": [
         "Orphenadrine"
@@ -129,6 +138,24 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 22.6473433463
+    },
+    {
+      "name": "isomer_1-(2,5-Diethoxyphenyl)-2-(methylamino)ethan-1-ol",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "1-(2,5-Diethoxyphenyl)-2-(methylamino)ethan-1-ol"
+      ],
+      "dist": 22.8496994433
+    },
+    {
+      "name": "isomer_\u03b2,2-HO-N-Me-5-EA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "\u03b2,2-HO-N-Me-5-EA"
+      ],
+      "dist": 23.0716749513
     },
     {
       "name": "trip_methamnetamine",
@@ -158,13 +185,22 @@
       "dist": 23.6284564684
     },
     {
-      "name": "trip_6-eapb",
+      "name": "isomer_\u03b2-HO-2,5-DEA",
       "psychonaut_names": null,
-      "tripsit_names": [
-        "6-eapb"
+      "tripsit_names": null,
+      "isomerd_names": [
+        "\u03b2-HO-2,5-DEA"
       ],
-      "isomerd_names": null,
-      "dist": 23.8036323917
+      "dist": 23.6687111128
+    },
+    {
+      "name": "isomer_N-Isopropylmethoxamine",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "N-Isopropylmethoxamine"
+      ],
+      "dist": 23.7120366302
     },
     {
       "name": "trip_5-eapb",
@@ -176,66 +212,22 @@
       "dist": 23.8036323917
     },
     {
-      "name": "psyc_5-MeO-MiPT_trip_5-meo-mipt",
-      "psychonaut_names": [
-        "5-MeO-MiPT"
-      ],
-      "tripsit_names": [
-        "5-meo-mipt"
-      ],
-      "isomerd_names": null,
-      "dist": 24.2094916779
-    },
-    {
-      "name": "trip_4-meo-mipt",
+      "name": "trip_6-eapb",
       "psychonaut_names": null,
       "tripsit_names": [
-        "4-meo-mipt"
+        "6-eapb"
       ],
       "isomerd_names": null,
-      "dist": 24.3678450036
+      "dist": 23.8036323917
     },
     {
-      "name": "trip_ibuprofen",
+      "name": "isomer_\u03b2,2-HO-N-Me-5-EPEA",
       "psychonaut_names": null,
-      "tripsit_names": [
-        "ibuprofen"
+      "tripsit_names": null,
+      "isomerd_names": [
+        "\u03b2,2-HO-N-Me-5-EPEA"
       ],
-      "isomerd_names": null,
-      "dist": 24.7327006599
-    },
-    {
-      "name": "psyc_4-HO-MiPT_trip_4-ho-mipt",
-      "psychonaut_names": [
-        "4-HO-MiPT"
-      ],
-      "tripsit_names": [
-        "4-ho-mipt"
-      ],
-      "isomerd_names": null,
-      "dist": 25.0295284598
-    },
-    {
-      "name": "psyc_5-MeO-EiPT_trip_5-meo-eipt",
-      "psychonaut_names": [
-        "5-MeO-EiPT"
-      ],
-      "tripsit_names": [
-        "5-meo-eipt"
-      ],
-      "isomerd_names": null,
-      "dist": 25.051156157
-    },
-    {
-      "name": "psyc_DiPT_trip_dipt",
-      "psychonaut_names": [
-        "DiPT"
-      ],
-      "tripsit_names": [
-        "dipt"
-      ],
-      "isomerd_names": null,
-      "dist": 25.1863792303
+      "dist": 23.9794719642
     }
   ]
 }

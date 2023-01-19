@@ -7,25 +7,25 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "2NE1",
-    "DTXSID80745427",
-    "UNII-HKU510FH74",
-    "SDB 001",
-    "ZINC95704999",
     "1-PENTYL-N-TRICYCLO(3.3.1.13,7)DEC-1-YL-1H-INDOLE-3-CARBOXAMIDE",
-    "J3.667.555A",
-    "SCHEMBL17291908",
-    "BDBM50257659",
-    "AKOS025149436",
-    "SDB-001",
-    "1345973-50-3",
-    "N-(1-Adamantyl)-1-pentyl-1H-indole-3-carboxamide",
-    "1-pentyl-N-tricyclo[3.3.1.13,7]dec-1-yl-1H-indole-3-carboxamide",
     "HKU510FH74",
-    "N-(1-adamantyl)-1-pentylindole-3-carboxamide",
+    "N-(1-Adamantyl)-1-pentyl-1H-indole-3-carboxamide",
+    "SDB-001",
     "N-(adamtan-1-yl)-1-pentyl-1H-indole-3-carboxamide",
+    "SDB 001",
     "CA175123",
-    "CHEMBL4104511"
+    "BDBM50257659",
+    "SCHEMBL17291908",
+    "1-pentyl-N-tricyclo[3.3.1.13,7]dec-1-yl-1H-indole-3-carboxamide",
+    "DTXSID80745427",
+    "1345973-50-3",
+    "N-(1-adamantyl)-1-pentylindole-3-carboxamide",
+    "CHEMBL4104511",
+    "UNII-HKU510FH74",
+    "AKOS025149436",
+    "J3.667.555A",
+    "2NE1",
+    "ZINC95704999"
   ],
   "distances": [
     11.3210369797,
@@ -40,13 +40,13 @@
     43.9863926047,
     44.0804249333,
     44.3783215636,
+    44.7042322805,
     44.787718152,
     45.0506740507,
     45.3049239356,
     45.3543206795,
     45.4650825411,
-    45.5525457448,
-    45.8586030599
+    45.5525457448
   ],
   "indices": [
     275,
@@ -61,13 +61,13 @@
     524,
     534,
     274,
+    675,
     459,
     556,
     550,
     557,
     552,
-    563,
-    257
+    563
   ],
   "name": "psyc_APICA",
   "svg": "psyc_APICA.svg",
@@ -194,6 +194,15 @@
       "dist": 44.3783215636
     },
     {
+      "name": "isomer_(4-Fluorophenyl)[1-(5-sulfanylpentyl)piperidin-4-yl]methanone",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "(4-Fluorophenyl)[1-(5-sulfanylpentyl)piperidin-4-yl]methanone"
+      ],
+      "dist": 44.7042322805
+    },
+    {
       "name": "trip_rti-111",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -246,17 +255,6 @@
       ],
       "isomerd_names": null,
       "dist": 45.5525457448
-    },
-    {
-      "name": "psyc_Fentanyl_trip_fentanyl",
-      "psychonaut_names": [
-        "Fentanyl"
-      ],
-      "tripsit_names": [
-        "fentanyl"
-      ],
-      "isomerd_names": null,
-      "dist": 45.8586030599
     }
   ]
 }

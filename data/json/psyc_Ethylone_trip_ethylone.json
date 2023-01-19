@@ -9,25 +9,25 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "1-(BENZO(D)(1,3)DIOXOL-5-YL)-2-(ETHYLAMINO)PROPAN-1-ONE",
-    "2-ethylamino-1-(3,4-methylenedioxyphenyl)propan-1-one",
-    "1-(1,3-benzodioxol-5-yl)-2-(ethylamino)propan-1-one",
-    "DTXSID20894842",
-    "bk-mdea",
-    "3,4-Methylenedioxyethcathinone",
-    "2-Ethylammonio-1-(3,4-methylenedioxyphenyl)propane-1-one chloride",
     "bk-MDEA",
-    "L91C78FW96",
-    "J2.528.311B",
-    "1-PROPANONE, 1-(1,3-BENZODIOXOL-5-YL)-2-(ETHYLAMINO)-",
+    "1-(BENZO(D)(1,3)DIOXOL-5-YL)-2-(ETHYLAMINO)PROPAN-1-ONE",
     "1112937-64-0",
     "MDEC",
-    "BK-MDE",
-    "EtONE",
+    "3,4-Methylenedioxy-N-ethylcathinone",
     "Q5404507",
     "SCHEMBL2641160",
+    "2-Ethylammonio-1-(3,4-methylenedioxyphenyl)propane-1-one chloride",
+    "1-(1,3-benzodioxol-5-yl)-2-(ethylamino)propan-1-one",
     "UNII-L91C78FW96",
-    "3,4-Methylenedioxy-N-ethylcathinone"
+    "BK-MDE",
+    "EtONE",
+    "1-PROPANONE, 1-(1,3-BENZODIOXOL-5-YL)-2-(ETHYLAMINO)-",
+    "DTXSID20894842",
+    "J2.528.311B",
+    "L91C78FW96",
+    "2-ethylamino-1-(3,4-methylenedioxyphenyl)propan-1-one",
+    "3,4-Methylenedioxyethcathinone",
+    "bk-mdea"
   ],
   "distances": [
     7.9876272368,
@@ -46,9 +46,9 @@
     18.0370441297,
     18.0503970454,
     18.5071150011,
+    18.7727076039,
     18.8057837173,
-    19.1737595854,
-    19.3036362143
+    19.1737595854
   ],
   "indices": [
     84,
@@ -67,9 +67,9 @@
     39,
     9,
     369,
+    620,
     64,
-    359,
-    370
+    359
   ],
   "name": "psyc_Ethylone_trip_ethylone",
   "svg": "psyc_Ethylone_trip_ethylone.svg",
@@ -231,6 +231,15 @@
       "dist": 18.5071150011
     },
     {
+      "name": "isomer_2-HO-N-Me-5-EA-\u03b2k",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-HO-N-Me-5-EA-\u03b2k"
+      ],
+      "dist": 18.7727076039
+    },
+    {
       "name": "psyc_4-MEC_trip_4-mec",
       "psychonaut_names": [
         "4-MEC"
@@ -249,15 +258,6 @@
       ],
       "isomerd_names": null,
       "dist": 19.1737595854
-    },
-    {
-      "name": "trip_2-mec",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "2-mec"
-      ],
-      "isomerd_names": null,
-      "dist": 19.3036362143
     }
   ]
 }

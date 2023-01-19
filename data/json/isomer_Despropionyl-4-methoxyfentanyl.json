@@ -14,6 +14,7 @@
   "distances": [
     10.8925961608,
     11.5999966062,
+    14.3304096759,
     17.1170368475,
     18.4370572312,
     20.1553082387,
@@ -24,17 +25,17 @@
     22.5340284944,
     22.7602489148,
     23.0882850964,
+    23.478776154,
     23.6478916253,
     23.717917527,
     23.9258102678,
     24.2437610269,
-    24.5289098705,
-    24.9344171516,
-    24.9548383589
+    24.5289098705
   ],
   "indices": [
-    608,
-    607,
+    685,
+    684,
+    678,
     242,
     249,
     552,
@@ -45,13 +46,12 @@
     229,
     539,
     499,
+    688,
     557,
     542,
     549,
     520,
-    511,
-    504,
-    556
+    511
   ],
   "name": "isomer_Despropionyl-4-methoxyfentanyl",
   "svg": "isomer_Despropionyl-4-methoxyfentanyl.svg",
@@ -73,6 +73,15 @@
         "Despropionyl-4-bromofentanyl"
       ],
       "dist": 11.5999966062
+    },
+    {
+      "name": "isomer_3-Fluoro_4-ANBP",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3-Fluoro 4-ANBP"
+      ],
+      "dist": 14.3304096759
     },
     {
       "name": "psyc_Methoxphenidine_trip_methoxphenidine",
@@ -173,6 +182,15 @@
       "dist": 23.0882850964
     },
     {
+      "name": "isomer_3F-Cyclopropylbenzylfentanyl",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3F-Cyclopropylbenzylfentanyl"
+      ],
+      "dist": 23.478776154
+    },
+    {
       "name": "trip_butyrfentanyl",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -216,24 +234,6 @@
       ],
       "isomerd_names": null,
       "dist": 24.5289098705
-    },
-    {
-      "name": "trip_cyclizine",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "cyclizine"
-      ],
-      "isomerd_names": null,
-      "dist": 24.9344171516
-    },
-    {
-      "name": "trip_parafluorobutyrfentanyl",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "parafluorobutyrfentanyl"
-      ],
-      "isomerd_names": null,
-      "dist": 24.9548383589
     }
   ]
 }

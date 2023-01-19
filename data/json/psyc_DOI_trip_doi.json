@@ -9,104 +9,104 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "(+-)-DOI",
-    "(+/-)-1-(2,5-dimethoxy-4-iodophenyl)-2-aminopropane",
-    "3-(4-bromo[1,1-biphenyl]-4-yl)-1,2,3,4-tetrahydro-1-naphthol",
-    "4-Iodo-2,5-dimethoxy-alpha-methylbenzeneethanamine",
-    "BGMZUEKZENQUJY-UHFFFAOYSA-",
-    "CCG-204558",
-    "1-(4-iodo-2,5-dimethoxyphenyl)propan-2-amine",
-    "OOM10GW9UE",
-    "1-(2,5-Dimethoxy-4-iodophenyl)-2-aminopropane",
-    "82830-53-3",
-    "DB-008006",
-    "DTXSID7040520",
-    "Lopac0_000466",
-    "1-(4-Iodo-2,5-dimethoxyphenyl)-2-aminopropane",
-    "SDCCGSBI-0050451.P002",
-    "DOI,(+)",
-    "4-DOI",
-    "2-(4-iodo-2,5-dimethoxyphenyl)-1-methylethylamine",
-    "NCGC00015302-03",
-    "UNII-OOM10GW9UE",
-    "[125I]DOI",
-    "CHEBI:64629",
-    "PDSP1_001383",
-    "GTPL147",
-    "NCGC00162163-01",
-    "AKOS015965128",
-    "DOI-P",
-    "F15177",
-    "CHEMBL6616",
-    "(+/-)-1-(4-iodo-2,5-dimethoxyphenyl)-2-aminopropane",
-    "Racemic DOI",
-    "L000011",
-    "[125I]4-iodo-2,5-dimethoxyphenylisopropylamine",
-    "Q209251",
-    "MFCD05662244",
-    "4-Iodo-2,5-dimethoxyamphetamine",
-    "99665-04-0",
-    "NCGC00015302-04",
-    "DOI,(-)",
-    "2,5-Dimethoxy-4-iodophenylisopropylamine",
     "[125I]2,5-dimethoxy-4-iodoamphetamine",
     "2,5-dimethoxy 4-iodoamphetamine",
-    "4-iodo-3-methoxy-N-(2-methoxy-1-methyl-ethyl)aniline",
-    "BDBM28582",
-    "Benzeneethanamine, 4-iodo-2,5-dimethoxy-alpha-methyl-",
-    "(+/-)-DOI",
+    "PDSP1_001383",
+    "(+/-)-1-(4-iodo-2,5-dimethoxyphenyl)-2-aminopropane",
+    "DB-008006",
+    "4-Iodo-2,5-dimethoxyamphetamine",
+    "NCGC00162163-01",
+    "CHEMBL6616",
+    "AKOS015965128",
+    "Benzeneethanamine,?4-iodo-2,5-dimethoxy-.alpha.-methyl-",
     "64584-34-5",
-    "PDSP2_001367",
     "J246.190K",
-    "BENZENEETHANAMINE, 4-IODO-2,5-DIMETHOXY-.ALPHA.-METHYL-",
-    "4-Iodo-2,5-dimethoxyphenylisopropylamine",
+    "1-(4-iodo-2,5-dimethoxyphenyl)propan-2-amine",
+    "(+-)-DOI",
+    "DOI-P",
     "2,5-Dimethoxy-4-iodoamphetamine",
-    "S(+)-DOI HCL",
+    "NCGC00015302-03",
+    "Q209251",
     "A834816",
+    "99665-04-0",
+    "3-(4-bromo[1,1-biphenyl]-4-yl)-1,2,3,4-tetrahydro-1-naphthol",
+    "NCGC00015302-04",
+    "BENZENEETHANAMINE, 4-IODO-2,5-DIMETHOXY-.ALPHA.-METHYL-",
+    "GTPL147",
+    "4-Iodo-2,5-dimethoxy-alpha-methylbenzeneethanamine",
+    "MFCD05662244",
+    "82830-53-3",
     "SCHEMBL293580",
-    "Benzeneethanamine,?4-iodo-2,5-dimethoxy-.alpha.-methyl-"
+    "(+/-)-1-(2,5-dimethoxy-4-iodophenyl)-2-aminopropane",
+    "BDBM28582",
+    "1-(2,5-Dimethoxy-4-iodophenyl)-2-aminopropane",
+    "2-(4-iodo-2,5-dimethoxyphenyl)-1-methylethylamine",
+    "Benzeneethanamine, 4-iodo-2,5-dimethoxy-alpha-methyl-",
+    "DOI,(+)",
+    "UNII-OOM10GW9UE",
+    "2,5-Dimethoxy-4-iodophenylisopropylamine",
+    "SDCCGSBI-0050451.P002",
+    "4-DOI",
+    "BGMZUEKZENQUJY-UHFFFAOYSA-",
+    "4-Iodo-2,5-dimethoxyphenylisopropylamine",
+    "OOM10GW9UE",
+    "DOI,(-)",
+    "Lopac0_000466",
+    "PDSP2_001367",
+    "CHEBI:64629",
+    "1-(4-Iodo-2,5-dimethoxyphenyl)-2-aminopropane",
+    "(+/-)-DOI",
+    "[125I]DOI",
+    "4-iodo-3-methoxy-N-(2-methoxy-1-methyl-ethyl)aniline",
+    "L000011",
+    "DTXSID7040520",
+    "[125I]4-iodo-2,5-dimethoxyphenylisopropylamine",
+    "Racemic DOI",
+    "F15177",
+    "CCG-204558",
+    "S(+)-DOI HCL"
   ],
   "distances": [
     10.8645154903,
     10.9933111488,
     11.3263279825,
-    11.5006116621,
-    11.7933737302,
+    11.8315476337,
     12.6905321529,
     13.6628357395,
     13.8494825356,
     13.8775242064,
     13.8915548453,
     13.9994653872,
-    14.0743987204,
     14.5786656058,
     15.0164628286,
     16.2675761318,
+    16.4233578957,
     16.7058598819,
     16.769875648,
-    16.9789396992,
-    17.1409997751
+    16.9277649102,
+    16.9545731308,
+    16.9789396992
   ],
   "indices": [
     40,
     70,
     45,
-    594,
-    596,
+    605,
     16,
     399,
     74,
     75,
     323,
     73,
-    597,
     92,
     380,
     46,
+    594,
     95,
     403,
-    401,
-    400
+    627,
+    628,
+    401
   ],
   "name": "psyc_DOI_trip_doi",
   "svg": "psyc_DOI_trip_doi.svg",
@@ -143,22 +143,13 @@
       "dist": 11.3263279825
     },
     {
-      "name": "isomer_3,2,4-DOB",
+      "name": "isomer_4,2,3-DOB",
       "psychonaut_names": null,
       "tripsit_names": null,
       "isomerd_names": [
-        "3,2,4-DOB"
+        "4,2,3-DOB"
       ],
-      "dist": 11.5006116621
-    },
-    {
-      "name": "isomer_4-Me-2,3-DOM",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "4-Me-2,3-DOM"
-      ],
-      "dist": 11.7933737302
+      "dist": 11.8315476337
     },
     {
       "name": "psyc_2C-I_trip_2c-i",
@@ -221,15 +212,6 @@
       "dist": 13.9994653872
     },
     {
-      "name": "isomer_4,2,3-DOET",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "4,2,3-DOET"
-      ],
-      "dist": 14.0743987204
-    },
-    {
       "name": "psyc_4C-D",
       "psychonaut_names": [
         "4C-D"
@@ -259,6 +241,15 @@
       "dist": 16.2675761318
     },
     {
+      "name": "isomer_2-Br-6-MA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-Br-6-MA"
+      ],
+      "dist": 16.4233578957
+    },
+    {
       "name": "psyc_3C-E_trip_3c-e",
       "psychonaut_names": [
         "3C-E"
@@ -279,6 +270,24 @@
       "dist": 16.769875648
     },
     {
+      "name": "isomer_N-Me-3,5-DMA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "N-Me-3,5-DMA"
+      ],
+      "dist": 16.9277649102
+    },
+    {
+      "name": "isomer_N-Me-2,6-DMA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "N-Me-2,6-DMA"
+      ],
+      "dist": 16.9545731308
+    },
+    {
       "name": "trip_aleph-2",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -286,15 +295,6 @@
       ],
       "isomerd_names": null,
       "dist": 16.9789396992
-    },
-    {
-      "name": "trip_2c-ip",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "2c-ip"
-      ],
-      "isomerd_names": null,
-      "dist": 17.1409997751
     }
   ]
 }

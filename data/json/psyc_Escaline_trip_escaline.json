@@ -9,29 +9,29 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "2-(4-ethoxy-3,5-dimethoxyphenyl)ethanamine",
-    "BDBM50059893",
-    "3,5-Dimethoxy-4-ethoxy-phenethylamine",
-    "3,5-Dimethoxy-4-ethoxyphenethylamine",
-    "FT-0775045",
-    "Q3057837",
-    "CHEMBL319415",
-    "BRN 3291768",
-    "3,5-dimethoxy-4-ethoxyphenethylamine",
-    "Benzeneethanamine, 4-ethoxy-3,5-dimethoxy-",
-    "E",
-    "3,5-Methoxy-4-ethoxyphenethylamine",
-    "ZINC2007526",
-    "SCHEMBL1119068",
-    "4-Ethoxy-3,5-dimethoxyphenethylamine",
-    "UNII-Q13F1C1N8I",
-    "3,5-Dimethoxy-4 ethoxyphenylethylamine",
-    "Q13F1C1N8I",
     "39201-82-6",
+    "UNII-Q13F1C1N8I",
     "ETHYLAMINE, 3,5-DIMETHOXY-4-ETHOXYPHENYL-",
     "4-Ethoxy-3,5-dimethoxybenzeneethanamine",
+    "ZINC2007526",
+    "3,5-Dimethoxy-4 ethoxyphenylethylamine",
+    "CHEMBL319415",
+    "3,5-Methoxy-4-ethoxyphenethylamine",
+    "3,5-Dimethoxy-4-ethoxyphenethylamine",
+    "2-(4-ethoxy-3,5-dimethoxyphenyl)ethanamine",
+    "2-(4-Ethoxy-3,5-dimethoxy-phenyl)-ethylamine",
+    "4-Ethoxy-3,5-dimethoxyphenethylamine",
+    "SCHEMBL1119068",
+    "BRN 3291768",
     "DTXSID60192455",
-    "2-(4-Ethoxy-3,5-dimethoxy-phenyl)-ethylamine"
+    "FT-0775045",
+    "E",
+    "3,5-Dimethoxy-4-ethoxy-phenethylamine",
+    "Benzeneethanamine, 4-ethoxy-3,5-dimethoxy-",
+    "Q3057837",
+    "Q13F1C1N8I",
+    "BDBM50059893",
+    "3,5-dimethoxy-4-ethoxyphenethylamine"
   ],
   "distances": [
     7.0943864041,
@@ -43,16 +43,16 @@
     12.9814443942,
     13.0652600161,
     13.1973042134,
+    13.2497973157,
+    13.3417195332,
     13.6054446373,
     13.6771981825,
     13.7564493486,
     14.2743974602,
+    14.4639955952,
     14.6919940972,
     14.697735795,
-    14.7799487196,
-    14.8633012689,
-    15.1450596979,
-    15.3787772648
+    14.7799487196
   ],
   "indices": [
     94,
@@ -64,16 +64,16 @@
     404,
     403,
     71,
+    643,
+    641,
     93,
     379,
     400,
     114,
+    647,
     12,
     422,
-    421,
-    399,
-    11,
-    92
+    421
   ],
   "name": "psyc_Escaline_trip_escaline",
   "svg": "psyc_Escaline_trip_escaline.svg",
@@ -174,6 +174,24 @@
       "dist": 13.1973042134
     },
     {
+      "name": "isomer_2-(2,5-Dimethoxy-4-propylphenyl)ethan-1-ol",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-(2,5-Dimethoxy-4-propylphenyl)ethan-1-ol"
+      ],
+      "dist": 13.2497973157
+    },
+    {
+      "name": "isomer_1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-one",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-one"
+      ],
+      "dist": 13.3417195332
+    },
+    {
       "name": "psyc_2C-T-7_trip_2c-t-7",
       "psychonaut_names": [
         "2C-T-7"
@@ -214,6 +232,15 @@
       "dist": 14.2743974602
     },
     {
+      "name": "isomer_2-Amino-1-(2,5-dimethoxy-4-propylphenyl)ethan-1-ol",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-Amino-1-(2,5-dimethoxy-4-propylphenyl)ethan-1-ol"
+      ],
+      "dist": 14.4639955952
+    },
+    {
       "name": "psyc_2C-C_trip_2c-c",
       "psychonaut_names": [
         "2C-C"
@@ -241,35 +268,6 @@
       ],
       "isomerd_names": null,
       "dist": 14.7799487196
-    },
-    {
-      "name": "trip_doet",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "doet"
-      ],
-      "isomerd_names": null,
-      "dist": 14.8633012689
-    },
-    {
-      "name": "psyc_2C-B_trip_2c-b",
-      "psychonaut_names": [
-        "2C-B"
-      ],
-      "tripsit_names": [
-        "2c-b"
-      ],
-      "isomerd_names": null,
-      "dist": 15.1450596979
-    },
-    {
-      "name": "psyc_4C-D",
-      "psychonaut_names": [
-        "4C-D"
-      ],
-      "tripsit_names": null,
-      "isomerd_names": null,
-      "dist": 15.3787772648
     }
   ]
 }

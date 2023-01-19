@@ -9,26 +9,26 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "2-meo-diphenidine",
-    "Piperidine, 1-(1-(2-methoxyphenyl)-2-phenylethyl)-, (+/-)-",
-    "H2W7A6GZGX",
     "2-mxp",
-    "Piperidine, 1-(1-(2-methoxyphenyl)-2-phenylethyl)-",
-    "127529-46-8",
-    "UNII-H2W7A6GZGX",
-    "2-MXP",
-    "Q15708281",
-    "mxp",
-    "2-Methoyxdiphenidine",
-    "Methoxydiphenidine",
-    "SCHEMBL9365969",
+    "2-meo-diphenidine",
+    "1-[1-(2-methoxyphenyl)-2-phenylethyl]piperidine",
+    "Piperidine, 1-(1-(2-methoxyphenyl)-2-phenylethyl)-, (+/-)-",
     "2-MeO-Diphenidine",
+    "UNII-H2W7A6GZGX",
+    "Q15708281",
+    "2-Methoyxdiphenidine",
+    "DTXSID601045730",
+    "mxp",
+    "MXP",
+    "Piperidine, 1-(1-(2-methoxyphenyl)-2-phenylethyl)-",
     "2-Meo-diphenidine",
     "methoxyphenidine",
-    "1-[1-(2-methoxyphenyl)-2-phenylethyl]piperidine",
-    "DTXSID601045730",
-    "MXP",
-    "1-(2-Methoxyphenyl)-2-phenyl-1-(piperidine-1-yl)ethane"
+    "Methoxydiphenidine",
+    "SCHEMBL9365969",
+    "2-MXP",
+    "H2W7A6GZGX",
+    "1-(2-Methoxyphenyl)-2-phenyl-1-(piperidine-1-yl)ethane",
+    "127529-46-8"
   ],
   "distances": [
     11.9096399322,
@@ -39,6 +39,7 @@
     18.0598894497,
     18.2945689663,
     18.5887672223,
+    18.6633781988,
     19.4036849779,
     21.3828010824,
     22.1067308766,
@@ -48,19 +49,19 @@
     24.6504023088,
     24.9790781596,
     25.3593521353,
-    25.7399444205,
-    25.7571513791
+    25.7399444205
   ],
   "indices": [
     229,
     499,
     517,
     504,
-    609,
+    686,
     539,
     519,
-    608,
-    607,
+    685,
+    678,
+    684,
     207,
     205,
     520,
@@ -69,8 +70,7 @@
     181,
     542,
     257,
-    561,
-    562
+    561
   ],
   "name": "psyc_Methoxphenidine_trip_methoxphenidine",
   "svg": "psyc_Methoxphenidine_trip_methoxphenidine.svg",
@@ -148,6 +148,15 @@
         "Despropionyl 3-FF"
       ],
       "dist": 18.5887672223
+    },
+    {
+      "name": "isomer_3-Fluoro_4-ANBP",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3-Fluoro 4-ANBP"
+      ],
+      "dist": 18.6633781988
     },
     {
       "name": "isomer_Despropionyl-4-bromofentanyl",
@@ -246,15 +255,6 @@
       ],
       "isomerd_names": null,
       "dist": 25.7399444205
-    },
-    {
-      "name": "trip_mt-45",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "mt-45"
-      ],
-      "isomerd_names": null,
-      "dist": 25.7571513791
     }
   ]
 }

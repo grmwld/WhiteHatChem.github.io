@@ -15,6 +15,7 @@
     11.3210383275,
     14.2200468373,
     14.9256759516,
+    27.0364326228,
     28.1344580451,
     28.336187361,
     30.1166089033,
@@ -27,8 +28,7 @@
     32.3285101475,
     32.3686008094,
     32.430206008,
-    32.618198899,
-    32.7454281011
+    32.618198899
   ],
   "indices": [
     262,
@@ -36,6 +36,7 @@
     272,
     264,
     265,
+    687,
     496,
     230,
     556,
@@ -48,8 +49,7 @@
     542,
     259,
     529,
-    244,
-    555
+    244
   ],
   "name": "trip_am-2201",
   "svg": "trip_am-2201.svg",
@@ -100,6 +100,15 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 14.9256759516
+    },
+    {
+      "name": "isomer_Ethylbenzyl-4CN-BINACA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "Ethylbenzyl-4CN-BINACA"
+      ],
+      "dist": 27.0364326228
     },
     {
       "name": "trip_amfonelicacid",
@@ -223,15 +232,6 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 32.618198899
-    },
-    {
-      "name": "trip_pagoclone",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "pagoclone"
-      ],
-      "isomerd_names": null,
-      "dist": 32.7454281011
     }
   ]
 }

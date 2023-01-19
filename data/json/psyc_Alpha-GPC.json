@@ -7,148 +7,148 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "L-a-GPC",
-    "Glycerophosphate de choline",
-    "Opera_ID_471",
-    "AC7982",
-    "HMS2233P21",
-    "L-1-glycero-3-phosphocholine",
-    "hydrogen glycerophosphate Choline",
-    "L-Choline hydroxide 2,3-dihydroxypropyl hydrogen phosphate inner salt",
-    "SMR000058753",
-    "glycerol-3-phosphocholine",
-    "glycero-phosphocholine",
-    "Gliatilin (TN)",
-    "28319-77-9",
-    "L-alpha-Glycerophosphorylcholine",
-    "Choline alfoscerate [INN]",
-    "Colina glicerofosfato",
-    "EINECS 248-962-2",
-    "alpha-Glyceryl phosphoryl choline",
-    "brezal",
-    "Glycerophosphocholine; LC-tDDA; CE10",
-    "60M22SGW66",
-    "Q28529699",
-    "(R)-2,3-Dihydroxypropyl (2-(trimethylammonio)ethyl) phosphate",
-    "L-1-glycero-phosphorylcholine",
-    "Epitope ID:150907",
-    "MFCD00063544",
-    "Choline, hydroxide, 2,3-dihydroxypropyl hydrogen phosphate, inner salt, D-",
-    "Cholini alfosceras",
-    "CHEBI:55397",
-    "MLS000069588",
-    "Cholini glycerophosphas [Latin]",
-    "Glicerofosfato de colina [Spanish]",
-    "(R)-2-[[(2,3-Dihydroxypropoxy)hydroxyphosphinyl]oxy]-N,N,N-trimethylethanaminium Inner Salt",
-    "CCG-267031",
-    "CHOLINE ALFOSCERATE [WHO-DD]",
-    "Choline Alphoscerate",
-    "Ethanaminium, 2-(((2,3-dihydroxypropoxy)hydroxyphosphinyl)oxy)-N,N,N-trimethyl-, hydroxide, inner salt, (R)-",
-    "Gliatilin",
-    "(2R)-2,3-dihydroxypropyl 2-(trimethylazaniumyl)ethyl phosphate",
-    "CHEBI:16870",
-    "HY-17552",
-    "Alfoscerate de choline [INN-French]",
-    "AMY40024",
-    "Glycerol 3-phosphocholine",
-    "UNII-60M22SGW66",
-    "L-.ALPHA.-GLYCERYLPHOSPHORYLCHOLINE",
-    "EX-A979",
-    "AS-13724",
-    "Ethanaminium,2-[[[(2R)-2,3-dihydroxypropoxy]hydroxyphosphinyl]oxy]-N,N,N-trimethyl-, innersalt",
-    "(2R)-2,3-dihydroxypropyl 2-(trimethylammonio)ethyl phosphate",
-    "CHEMBL1567463",
-    "Glycerophosphate de choline [French]",
-    "alpha-Glycerophosphorylcholine",
-    "Calcium (glycerophosphate de) [DCF]",
-    "sn-Glycerophosphorylcholine (egg, free base)",
-    "Choline alfoscerate (INN)",
-    "ACT03312",
-    "L-alpha-Glycerophosphocholine",
-    "CHOLINE ALFOSCERATE [MART.]",
-    "Glycerophosphorylcholine",
-    "BRN 6062450",
-    "(2-{[(2R)-2,3-dihydroxypropyl phosphonato]oxy}ethyl)trimethylazanium",
-    "Alfoscerate de choline",
-    "Choline Alfoscerate",
-    "GLYCEROPHOSPHOCHOLINE [INCI]",
-    "SN-glycero-3-phosphocholine",
-    "sn-glycerol 3-phosphocholine",
-    "Alfoscerato de colina",
-    "DB04660",
-    "2-[[(2,3-dihydroxypropoxy)hydroxyphosphinyl]oxy]-N,N,N-trimethyl-Ethanaminium inner salt",
-    "D07349",
-    "DTXSID70951010",
-    "Glycerol phosphorylcholine",
-    "ETHANAMINIUM, 2-((((2R)-2,3-DIHYDROXYPROPOXXY)HYDROXYPHOSPHINYL)OXY)-N,N,N-TRIMETHYL-, INNER SALT",
-    "H10892",
-    "Cholini glycerophosphas",
-    "563-23-5",
-    "2-{[(2R)-2,3-dihydroxypropoxy](hydroxy)phosphoryloxy}-N,N,N-trimethylethanaminium",
-    "L-alpha-Glycerylphosphorylcholine",
-    "HMS3887O13",
-    "Calcium (glycerophosphate de)",
-    "Glicerofosfato de colina",
-    "SCHEMBL63754",
     "Glycerophosphocholine",
-    "L-ALPHA-GLYCERYLPHOSPHORYLCHOLINE [USP-RS]",
-    "alpha-Glycerylphosphorylcholine",
-    "Cholini alfosceras [INN-Latin]",
-    "a-Glycerylphosphorylcholine",
-    "Sn-3-GPC",
+    "alpha-Glyceryl phosphoryl choline",
+    "Alfoscerato de colina",
     "a-Glycerophosphorylcholine",
-    "Choline hydroxide, (R)-2,3-dihydroxypropyl hydrogen phosphate, inner salt",
-    "L-A-glycerophosphorylcholine",
-    "Glycerophosphatidylcholine",
-    "(R)-2,3-dihydroxypropyl 2-(trimethylammonio)ethyl phosphate",
-    "Alfoscerato de colina [INN-Spanish]",
-    "Choline glycerophosphate",
     "AKOS005762883",
+    "Choline Alphoscerate",
+    "Glycerophosphocholine; LC-tDDA; CE10",
+    "(2R)-2,3-dihydroxypropyl 2-(trimethylazaniumyl)ethyl phosphate",
+    "L-alpha-Glycerophosphocholine",
+    "AC7982",
+    "AMY40024",
+    "sn-glycerol 3-phosphocholine",
+    "Cholini glycerophosphas [Latin]",
+    "HMS2233P21",
+    "Calcium (glycerophosphate de) [DCF]",
+    "(R)-2,3-dihydroxypropyl 2-(trimethylammonio)ethyl phosphate",
     "CHOLINE ALFOSCERATE [MI]",
+    "glycero-phosphocholine",
+    "GPCho",
+    "CHOLINE ALFOSCERATE [WHO-DD]",
+    "L-1-glycero-phosphorylcholine",
+    "SN-glycero-3-phosphocholine",
+    "Alfoscerato de colina [INN-Spanish]",
+    "Gliatilin (TN)",
+    "HY-17552",
+    "Glycerol phosphorylcholine",
+    "CHEBI:16870",
+    "AS-13724",
+    "a-Glycerylphosphorylcholine",
+    "(2R)-2,3-dihydroxypropyl 2-(trimethylammonio)ethyl phosphate",
+    "alpha-Glycerophosphorylcholine",
+    "Glicerofosfato de colina",
+    "(R)-2-[[(2,3-Dihydroxypropoxy)hydroxyphosphinyl]oxy]-N,N,N-trimethylethanaminium Inner Salt",
+    "BRN 6062450",
+    "ETHANAMINIUM, 2-((((2R)-2,3-DIHYDROXYPROPOXXY)HYDROXYPHOSPHINYL)OXY)-N,N,N-TRIMETHYL-, INNER SALT",
+    "Glycerol 3-phosphocholine",
+    "L-alpha-Glycerylphosphorylcholine",
+    "UNII-60M22SGW66",
+    "alpha-Glycerylphosphorylcholine",
+    "L-A-glycerophosphorylcholine",
+    "CCG-267031",
+    "28319-77-9",
+    "D07349",
+    "CHEMBL1567463",
+    "MLS000069588",
+    "CHOLINE ALFOSCERATE [MART.]",
+    "Gliatilin",
+    "CHEBI:55397",
+    "Cholini alfosceras [INN-Latin]",
+    "L-.ALPHA.-GLYCERYLPHOSPHORYLCHOLINE",
+    "SMR000058753",
+    "(R)-2,3-Dihydroxypropyl (2-(trimethylammonio)ethyl) phosphate",
+    "Glycerophosphorylcholine",
+    "glycerol-3-phosphocholine",
+    "Glicerofosfato de colina [Spanish]",
+    "EINECS 248-962-2",
+    "563-23-5",
+    "Ethanaminium,2-[[[(2R)-2,3-dihydroxypropoxy]hydroxyphosphinyl]oxy]-N,N,N-trimethyl-, innersalt",
+    "L-1-glycero-3-phosphocholine",
+    "Sn-3-GPC",
+    "L-alpha-Glycerophosphorylcholine",
+    "Opera_ID_471",
+    "HMS3887O13",
+    "Glycerophosphatidylcholine",
+    "Choline, hydroxide, 2,3-dihydroxypropyl hydrogen phosphate, inner salt, D-",
+    "Choline alfoscerate (INN)",
+    "Alfoscerate de choline [INN-French]",
+    "H10892",
+    "L-a-GPC",
+    "60M22SGW66",
+    "SCHEMBL63754",
+    "(2-{[(2R)-2,3-dihydroxypropyl phosphonato]oxy}ethyl)trimethylazanium",
+    "EX-A979",
     "Glycerol-3-phosphatidylcholine",
-    "GPCho"
+    "Cholini glycerophosphas",
+    "Glycerophosphate de choline",
+    "DB04660",
+    "Epitope ID:150907",
+    "Q28529699",
+    "Choline Alfoscerate",
+    "Glycerophosphate de choline [French]",
+    "L-Choline hydroxide 2,3-dihydroxypropyl hydrogen phosphate inner salt",
+    "DTXSID70951010",
+    "Choline alfoscerate [INN]",
+    "MFCD00063544",
+    "sn-Glycerophosphorylcholine (egg, free base)",
+    "Colina glicerofosfato",
+    "Calcium (glycerophosphate de)",
+    "ACT03312",
+    "Choline hydroxide, (R)-2,3-dihydroxypropyl hydrogen phosphate, inner salt",
+    "2-[[(2,3-dihydroxypropoxy)hydroxyphosphinyl]oxy]-N,N,N-trimethyl-Ethanaminium inner salt",
+    "hydrogen glycerophosphate Choline",
+    "brezal",
+    "Choline glycerophosphate",
+    "GLYCEROPHOSPHOCHOLINE [INCI]",
+    "Ethanaminium, 2-(((2,3-dihydroxypropoxy)hydroxyphosphinyl)oxy)-N,N,N-trimethyl-, hydroxide, inner salt, (R)-",
+    "L-ALPHA-GLYCERYLPHOSPHORYLCHOLINE [USP-RS]",
+    "Alfoscerate de choline",
+    "2-{[(2R)-2,3-dihydroxypropoxy](hydroxy)phosphoryloxy}-N,N,N-trimethylethanaminium",
+    "Cholini alfosceras"
   ],
   "distances": [
     43.5132278851,
+    60.4846656219,
+    60.5971847434,
+    60.9066929339,
+    61.0443694296,
+    61.1893533459,
+    61.4383662833,
+    61.6544958253,
+    61.7832692829,
+    61.8941613323,
     62.229692816,
+    62.2415319604,
+    62.3367301029,
+    62.4155464564,
     62.4835896425,
-    63.091484373,
-    63.3647905361,
-    63.4002892713,
-    63.4249775972,
-    63.4849556951,
-    63.5436477236,
-    63.8828922778,
-    63.9527547021,
-    64.0567718476,
-    64.1777203175,
-    64.2218787255,
-    64.2255965024,
-    64.2763579811,
-    64.2857884579,
-    64.3054957009,
-    64.3313717452
+    62.8200438567,
+    62.9038068484,
+    62.9259159523,
+    62.9732144044
   ],
   "indices": [
     293,
+    631,
+    649,
+    600,
+    613,
+    645,
+    614,
+    646,
+    632,
+    647,
     316,
+    657,
+    630,
+    599,
     113,
-    111,
-    299,
-    89,
-    77,
-    306,
-    88,
-    420,
-    358,
-    66,
-    108,
-    395,
-    102,
-    345,
-    67,
-    405,
-    63
+    622,
+    644,
+    629,
+    648
   ],
   "name": "psyc_Alpha-GPC",
   "svg": "psyc_Alpha-GPC.svg",
@@ -163,6 +163,87 @@
       "dist": 43.5132278851
     },
     {
+      "name": "isomer_2-Amino-1-(2,5-diethoxyphenyl)ethan-1-ol",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-Amino-1-(2,5-diethoxyphenyl)ethan-1-ol"
+      ],
+      "dist": 60.4846656219
+    },
+    {
+      "name": "isomer_3-[4-(2-Amino-1-hydroxyethyl)-2,5-dimethoxyphenyl]propan-1-ol",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3-[4-(2-Amino-1-hydroxyethyl)-2,5-dimethoxyphenyl]propan-1-ol"
+      ],
+      "dist": 60.5971847434
+    },
+    {
+      "name": "isomer_\u03b2,2-HO-5-EPEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "\u03b2,2-HO-5-EPEA"
+      ],
+      "dist": 60.9066929339
+    },
+    {
+      "name": "isomer_\u03b2,2-HO-5-EA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "\u03b2,2-HO-5-EA"
+      ],
+      "dist": 61.0443694296
+    },
+    {
+      "name": "isomer_\u03b2-HO-2,5-DEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "\u03b2-HO-2,5-DEA"
+      ],
+      "dist": 61.1893533459
+    },
+    {
+      "name": "isomer_\u03b2,2-HO-N-Me-5-EPEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "\u03b2,2-HO-N-Me-5-EPEA"
+      ],
+      "dist": 61.4383662833
+    },
+    {
+      "name": "isomer_1-(2,5-Diethoxyphenyl)-2-(methylamino)ethan-1-ol",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "1-(2,5-Diethoxyphenyl)-2-(methylamino)ethan-1-ol"
+      ],
+      "dist": 61.6544958253
+    },
+    {
+      "name": "isomer_\u03b2,2-HO-N-Me-5-EA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "\u03b2,2-HO-N-Me-5-EA"
+      ],
+      "dist": 61.7832692829
+    },
+    {
+      "name": "isomer_2-Amino-1-(2,5-dimethoxy-4-propylphenyl)ethan-1-ol",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-Amino-1-(2,5-dimethoxy-4-propylphenyl)ethan-1-ol"
+      ],
+      "dist": 61.8941613323
+    },
+    {
       "name": "psyc_Meprobamate",
       "psychonaut_names": [
         "Meprobamate"
@@ -170,6 +251,33 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 62.229692816
+    },
+    {
+      "name": "isomer_\u03b2-HO-N-Me-2,5-DEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "\u03b2-HO-N-Me-2,5-DEA"
+      ],
+      "dist": 62.2415319604
+    },
+    {
+      "name": "isomer_2-(2-Aminoethyl)-5-(3-hydroxypropyl)-4-methoxyphenol",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-(2-Aminoethyl)-5-(3-hydroxypropyl)-4-methoxyphenol"
+      ],
+      "dist": 62.3367301029
+    },
+    {
+      "name": "isomer_2-Amino-1-(2,6-dimethoxyphenyl)ethan-1-ol",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-Amino-1-(2,6-dimethoxyphenyl)ethan-1-ol"
+      ],
+      "dist": 62.4155464564
     },
     {
       "name": "psyc_Tapentadol_trip_tapentadol",
@@ -183,167 +291,40 @@
       "dist": 62.4835896425
     },
     {
-      "name": "psyc_N-Ethylhexedrone_trip_hexen",
-      "psychonaut_names": [
-        "N-Ethylhexedrone"
-      ],
-      "tripsit_names": [
-        "hexen"
-      ],
-      "isomerd_names": null,
-      "dist": 63.091484373
-    },
-    {
-      "name": "psyc_Theanine_trip_l-theanine",
-      "psychonaut_names": [
-        "Theanine"
-      ],
-      "tripsit_names": [
-        "l-theanine"
-      ],
-      "isomerd_names": null,
-      "dist": 63.3647905361
-    },
-    {
-      "name": "psyc_NEP",
-      "psychonaut_names": [
-        "NEP"
-      ],
+      "name": "isomer_2-(2-Hydroxyethyl)-4-methoxy-5-propylphenol",
+      "psychonaut_names": null,
       "tripsit_names": null,
-      "isomerd_names": null,
-      "dist": 63.4002892713
+      "isomerd_names": [
+        "2-(2-Hydroxyethyl)-4-methoxy-5-propylphenol"
+      ],
+      "dist": 62.8200438567
     },
     {
-      "name": "psyc_Carisoprodol_trip_carisoprodol",
-      "psychonaut_names": [
-        "Carisoprodol"
-      ],
-      "tripsit_names": [
-        "carisoprodol"
-      ],
-      "isomerd_names": null,
-      "dist": 63.4249775972
-    },
-    {
-      "name": "psyc_Pregabalin_trip_pregabalin",
-      "psychonaut_names": [
-        "Pregabalin"
-      ],
-      "tripsit_names": [
-        "pregabalin"
-      ],
-      "isomerd_names": null,
-      "dist": 63.4849556951
-    },
-    {
-      "name": "psyc_Hexedrone_trip_hexedrone",
-      "psychonaut_names": [
-        "Hexedrone"
-      ],
-      "tripsit_names": [
-        "hexedrone"
-      ],
-      "isomerd_names": null,
-      "dist": 63.5436477236
-    },
-    {
-      "name": "trip_4-epd_ethyl-pentedrone",
+      "name": "isomer_3-[4-(2-Hydroxyethyl)-2,5-dimethoxyphenyl]propan-1-ol",
       "psychonaut_names": null,
-      "tripsit_names": [
-        "4-epd",
-        "ethyl-pentedrone"
-      ],
-      "isomerd_names": null,
-      "dist": 63.8828922778
-    },
-    {
-      "name": "trip_centrophenoxine",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "centrophenoxine"
-      ],
-      "isomerd_names": null,
-      "dist": 63.9527547021
-    },
-    {
-      "name": "psyc_Mexedrone_trip_mexedrone",
-      "psychonaut_names": [
-        "Mexedrone"
-      ],
-      "tripsit_names": [
-        "mexedrone"
-      ],
-      "isomerd_names": null,
-      "dist": 64.0567718476
-    },
-    {
-      "name": "psyc_4-HO-MPT_trip_4-ho-mpt",
-      "psychonaut_names": [
-        "4-HO-MPT"
-      ],
-      "tripsit_names": [
-        "4-ho-mpt"
-      ],
-      "isomerd_names": null,
-      "dist": 64.1777203175
-    },
-    {
-      "name": "trip_4-mpd",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "4-mpd"
-      ],
-      "isomerd_names": null,
-      "dist": 64.2218787255
-    },
-    {
-      "name": "psyc_Ephylone",
-      "psychonaut_names": [
-        "Ephylone"
-      ],
       "tripsit_names": null,
-      "isomerd_names": null,
-      "dist": 64.2255965024
+      "isomerd_names": [
+        "3-[4-(2-Hydroxyethyl)-2,5-dimethoxyphenyl]propan-1-ol"
+      ],
+      "dist": 62.9038068484
     },
     {
-      "name": "trip_tolibut",
+      "name": "isomer_1-(3,5-Dimethoxyphenyl)-2-(dimethylamino)ethan-1-ol",
       "psychonaut_names": null,
-      "tripsit_names": [
-        "tolibut"
+      "tripsit_names": null,
+      "isomerd_names": [
+        "1-(3,5-Dimethoxyphenyl)-2-(dimethylamino)ethan-1-ol"
       ],
-      "isomerd_names": null,
-      "dist": 64.2763579811
+      "dist": 62.9259159523
     },
     {
-      "name": "psyc_2C-T-21_trip_2c-t-21",
-      "psychonaut_names": [
-        "2C-T-21"
-      ],
-      "tripsit_names": [
-        "2c-t-21"
-      ],
-      "isomerd_names": null,
-      "dist": 64.2857884579
-    },
-    {
-      "name": "trip_hot-7",
+      "name": "isomer_1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-ol",
       "psychonaut_names": null,
-      "tripsit_names": [
-        "hot-7"
+      "tripsit_names": null,
+      "isomerd_names": [
+        "1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-ol"
       ],
-      "isomerd_names": null,
-      "dist": 64.3054957009
-    },
-    {
-      "name": "psyc_Pentedrone_trip_pentedrone",
-      "psychonaut_names": [
-        "Pentedrone"
-      ],
-      "tripsit_names": [
-        "pentedrone"
-      ],
-      "isomerd_names": null,
-      "dist": 64.3313717452
+      "dist": 62.9732144044
     }
   ]
 }

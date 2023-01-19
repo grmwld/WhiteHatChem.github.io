@@ -10,8 +10,8 @@
   "isod_ids": null,
   "synonyms": [
     "9000-38-8",
-    "2-[(E)-2-cyclohexa-1,5-dien-1-ylethenyl]-4-methoxy-2,3-dihydropyran-6-one",
     "DB01322",
+    "2-[(E)-2-cyclohexa-1,5-dien-1-ylethenyl]-4-methoxy-2,3-dihydropyran-6-one",
     "Q27092746"
   ],
   "distances": [
@@ -28,12 +28,12 @@
     38.7863252748,
     39.0622999995,
     39.1419847568,
+    39.1752934039,
     39.1860281198,
     39.2907425633,
     39.3372711107,
     39.3583608196,
-    39.4043882143,
-    39.5193210139
+    39.4043882143
   ],
   "indices": [
     361,
@@ -49,12 +49,12 @@
     365,
     100,
     366,
+    619,
     81,
     356,
     373,
     80,
-    364,
-    26
+    364
   ],
   "name": "psyc_Kava_trip_kava",
   "svg": "psyc_Kava_trip_kava.svg",
@@ -183,6 +183,15 @@
       "dist": 39.1419847568
     },
     {
+      "name": "isomer_EHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "EHAT"
+      ],
+      "dist": 39.1752934039
+    },
+    {
       "name": "psyc_2-Fluorodeschloroketamine_trip_2-fdck",
       "psychonaut_names": [
         "2-Fluorodeschloroketamine"
@@ -230,15 +239,6 @@
       ],
       "isomerd_names": null,
       "dist": 39.4043882143
-    },
-    {
-      "name": "psyc_Myristicin",
-      "psychonaut_names": [
-        "Myristicin"
-      ],
-      "tripsit_names": null,
-      "isomerd_names": null,
-      "dist": 39.5193210139
     }
   ]
 }

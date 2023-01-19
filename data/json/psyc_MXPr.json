@@ -7,16 +7,16 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "Methoxpropamine",
-    "2-Oxo-3'-methoxy-pcpr",
+    "2504100-71-2",
     "LTF83AU3X8",
+    "Cyclohexanone, 2-(3-methoxyphenyl)-2-(propylamino)-",
     "2-(3-methoxyphenyl)-2-(propylamino)cyclohexan-1-one",
-    "DTXSID501336500",
-    "UNII-LTF83AU3X8",
+    "Methoxpropamine",
     "MXPR",
     "3-MeO-2\u2032-Oxo-PCPr",
-    "2504100-71-2",
-    "Cyclohexanone, 2-(3-methoxyphenyl)-2-(propylamino)-"
+    "DTXSID501336500",
+    "UNII-LTF83AU3X8",
+    "2-Oxo-3'-methoxy-pcpr"
   ],
   "distances": [
     8.0604836952,
@@ -34,10 +34,10 @@
     21.556228566,
     21.7278455831,
     22.3009211739,
+    22.5556474672,
     22.6330012721,
     22.9349533455,
-    23.1916112006,
-    23.1998800867
+    23.1916112006
   ],
   "indices": [
     132,
@@ -55,10 +55,10 @@
     80,
     81,
     109,
+    653,
     83,
     465,
-    376,
-    601
+    376
   ],
   "name": "psyc_MXPr",
   "svg": "psyc_MXPr.svg",
@@ -217,6 +217,15 @@
       "dist": 22.3009211739
     },
     {
+      "name": "isomer_BHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "BHAT"
+      ],
+      "dist": 22.5556474672
+    },
+    {
       "name": "psyc_Deschloroketamine_trip_deschloroketamine",
       "psychonaut_names": [
         "Deschloroketamine"
@@ -244,15 +253,6 @@
       ],
       "isomerd_names": null,
       "dist": 23.1916112006
-    },
-    {
-      "name": "isomer_Norsufentanil",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "Norsufentanil"
-      ],
-      "dist": 23.1998800867
     }
   ]
 }

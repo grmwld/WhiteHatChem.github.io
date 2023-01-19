@@ -1,0 +1,244 @@
+{
+  "inchi": "InChI=1S/C13H19NO/c1-9(2)14-11-7-6-10-4-3-5-13(15)12(10)8-11/h3-5,9,11,14-15H,6-8H2,1-2H3",
+  "psychonaut_names": null,
+  "tripsit_names": null,
+  "isomerd_names": [
+    "7-[(Propan-2-yl)amino]-5,6,7,8-tetrahydronaphthalen-1-ol"
+  ],
+  "isod_ids": [
+    6962
+  ],
+  "synonyms": [
+    "7-(Propan-2-ylamino)-5,6,7,8-tetrahydronaphthalen-1-ol",
+    "7-[(Propan-2-yl)amino]-5,6,7,8-tetrahydronaphthalen-1-ol"
+  ],
+  "distances": [
+    13.0871629557,
+    14.0252245771,
+    14.8562267671,
+    16.017717089,
+    17.009782557,
+    17.305912238,
+    17.9771278024,
+    18.2738358029,
+    19.1506510731,
+    19.1506510731,
+    19.4584424208,
+    20.2566509863,
+    21.0698801575,
+    21.1668142879,
+    21.3228072583,
+    21.3809071014,
+    21.3809071014,
+    21.4846846569,
+    21.5089851944
+  ],
+  "indices": [
+    619,
+    637,
+    603,
+    371,
+    653,
+    363,
+    618,
+    353,
+    33,
+    341,
+    592,
+    654,
+    413,
+    38,
+    53,
+    354,
+    56,
+    29,
+    7
+  ],
+  "name": "isomer_7-[(Propan-2-yl)amino]-5,6,7,8-tetrahydronaphthalen-1-ol",
+  "svg": "isomer_7-[(Propan-2-yl)amino]-5,6,7,8-tetrahydronaphthalen-1-ol.svg",
+  "sim": [
+    {
+      "name": "isomer_EHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "EHAT"
+      ],
+      "dist": 13.0871629557
+    },
+    {
+      "name": "isomer_PHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "PHAT"
+      ],
+      "dist": 14.0252245771
+    },
+    {
+      "name": "isomer_MHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "MHAT"
+      ],
+      "dist": 14.8562267671
+    },
+    {
+      "name": "trip_5-mapdb",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "5-mapdb"
+      ],
+      "isomerd_names": null,
+      "dist": 16.017717089
+    },
+    {
+      "name": "isomer_BHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "BHAT"
+      ],
+      "dist": 17.009782557
+    },
+    {
+      "name": "trip_5-apdi",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "5-apdi"
+      ],
+      "isomerd_names": null,
+      "dist": 17.305912238
+    },
+    {
+      "name": "isomer_MMAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "MMAT"
+      ],
+      "dist": 17.9771278024
+    },
+    {
+      "name": "trip_mephtetramine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "mephtetramine"
+      ],
+      "isomerd_names": null,
+      "dist": 18.2738358029
+    },
+    {
+      "name": "psyc_6-APDB_trip_6-apdb",
+      "psychonaut_names": [
+        "6-APDB"
+      ],
+      "tripsit_names": [
+        "6-apdb"
+      ],
+      "isomerd_names": null,
+      "dist": 19.1506510731
+    },
+    {
+      "name": "trip_5-apdb",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "5-apdb"
+      ],
+      "isomerd_names": null,
+      "dist": 19.1506510731
+    },
+    {
+      "name": "isomer_HHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "HHAT"
+      ],
+      "dist": 19.4584424208
+    },
+    {
+      "name": "isomer_EEAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "EEAT"
+      ],
+      "dist": 20.2566509863
+    },
+    {
+      "name": "trip_\u03b1-pbp",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "\u03b1-pbp"
+      ],
+      "isomerd_names": null,
+      "dist": 21.0698801575
+    },
+    {
+      "name": "psyc_MDMA_trip_mdma",
+      "psychonaut_names": [
+        "MDMA"
+      ],
+      "tripsit_names": [
+        "mdma"
+      ],
+      "isomerd_names": null,
+      "dist": 21.1668142879
+    },
+    {
+      "name": "psyc_Aniracetam_trip_aniracetam",
+      "psychonaut_names": [
+        "Aniracetam"
+      ],
+      "tripsit_names": [
+        "aniracetam"
+      ],
+      "isomerd_names": null,
+      "dist": 21.3228072583
+    },
+    {
+      "name": "trip_6-mapb",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "6-mapb"
+      ],
+      "isomerd_names": null,
+      "dist": 21.3809071014
+    },
+    {
+      "name": "psyc_5-MAPB_trip_5-mapb",
+      "psychonaut_names": [
+        "5-MAPB"
+      ],
+      "tripsit_names": [
+        "5-mapb"
+      ],
+      "isomerd_names": null,
+      "dist": 21.3809071014
+    },
+    {
+      "name": "psyc_Methylone_trip_methylone",
+      "psychonaut_names": [
+        "Methylone"
+      ],
+      "tripsit_names": [
+        "methylone"
+      ],
+      "isomerd_names": null,
+      "dist": 21.4846846569
+    },
+    {
+      "name": "psyc_NM-2-AI_trip_nm-2-ai",
+      "psychonaut_names": [
+        "NM-2-AI"
+      ],
+      "tripsit_names": [
+        "nm-2-ai"
+      ],
+      "isomerd_names": null,
+      "dist": 21.5089851944
+    }
+  ]
+}

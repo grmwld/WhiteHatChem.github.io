@@ -9,19 +9,19 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "UNII-XW34GUY2OY",
-    "1354631-77-8",
     "XW34GUY2OY",
+    "Q4639615",
     "5-(N-Methyl-2-aminopropyl)benzofuran",
     "5-Benzofuranethanamine, N,alpha-dimethyl-",
     "AKOS028109813",
-    "1-(1-benzofuran-5-yl)-N-methylpropan-2-amine",
-    "Q4639615",
     "5-BENZOFURANETHANAMINE, N,.ALPHA.-DIMETHYL-",
-    "DTXSID801017189",
+    "5mapb",
+    "1354631-77-8",
+    "1-(1-benzofuran-5-yl)-N-methylpropan-2-amine",
+    "UNII-XW34GUY2OY",
     "SCHEMBL22027380",
-    "1-(benzofuran-5-yl)-N-Methylpropan-2-aMine",
-    "5mapb"
+    "DTXSID801017189",
+    "1-(benzofuran-5-yl)-N-Methylpropan-2-aMine"
   ],
   "distances": [
     0.0,

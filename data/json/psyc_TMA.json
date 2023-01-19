@@ -7,9 +7,9 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "EA-1319",
+    "AMM",
     "3,4,5-Trimethoxyamphetamine",
-    "AMM"
+    "EA-1319"
   ],
   "distances": [
     3.275390625,
@@ -17,20 +17,20 @@
     8.7069396831,
     9.375736462,
     9.4214595874,
-    10.6898080219,
     10.715248893,
-    11.5546307153,
     11.875979092,
     12.3147745113,
     12.6905327541,
-    12.7192532676,
     12.9035600348,
+    13.0485251108,
     13.1500383152,
     13.2903823152,
     13.4680730734,
     13.5075605908,
     13.5933818197,
-    13.8494825356
+    13.8494825356,
+    13.8620110277,
+    14.8730631617
   ],
   "indices": [
     75,
@@ -38,20 +38,20 @@
     95,
     403,
     70,
-    596,
     399,
-    597,
     40,
     92,
     48,
-    594,
     45,
+    605,
     404,
     381,
     380,
     422,
     114,
-    43
+    43,
+    400,
+    401
   ],
   "name": "psyc_TMA",
   "svg": "psyc_TMA.svg",
@@ -110,15 +110,6 @@
       "dist": 9.4214595874
     },
     {
-      "name": "isomer_4-Me-2,3-DOM",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "4-Me-2,3-DOM"
-      ],
-      "dist": 10.6898080219
-    },
-    {
       "name": "trip_doet",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -126,15 +117,6 @@
       ],
       "isomerd_names": null,
       "dist": 10.715248893
-    },
-    {
-      "name": "isomer_4,2,3-DOET",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "4,2,3-DOET"
-      ],
-      "dist": 11.5546307153
     },
     {
       "name": "psyc_DOB_trip_dob",
@@ -168,15 +150,6 @@
       "dist": 12.6905327541
     },
     {
-      "name": "isomer_3,2,4-DOB",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3,2,4-DOB"
-      ],
-      "dist": 12.7192532676
-    },
-    {
       "name": "psyc_2,5-DMA",
       "psychonaut_names": [
         "2,5-DMA"
@@ -184,6 +157,15 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 12.9035600348
+    },
+    {
+      "name": "isomer_4,2,3-DOB",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "4,2,3-DOB"
+      ],
+      "dist": 13.0485251108
     },
     {
       "name": "trip_isoproscaline",
@@ -242,6 +224,24 @@
       ],
       "isomerd_names": null,
       "dist": 13.8494825356
+    },
+    {
+      "name": "trip_2c-ip",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "2c-ip"
+      ],
+      "isomerd_names": null,
+      "dist": 13.8620110277
+    },
+    {
+      "name": "trip_aleph-2",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "aleph-2"
+      ],
+      "isomerd_names": null,
+      "dist": 14.8730631617
     }
   ]
 }

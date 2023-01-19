@@ -20,6 +20,7 @@
     18.6577924797,
     18.9078414878,
     21.445173753,
+    22.2359842454,
     22.5141970455,
     23.6478916253,
     25.2571709148,
@@ -28,8 +29,7 @@
     26.70917226,
     27.0029679539,
     27.3088136189,
-    27.7451024588,
-    27.8529375975
+    27.7451024588
   ],
   "indices": [
     563,
@@ -41,16 +41,16 @@
     549,
     560,
     261,
+    688,
     565,
-    609,
+    686,
     561,
     542,
-    608,
+    685,
     230,
-    607,
+    684,
     265,
-    244,
-    519
+    244
   ],
   "name": "trip_butyrfentanyl",
   "svg": "trip_butyrfentanyl.svg",
@@ -143,6 +143,15 @@
       "dist": 21.445173753
     },
     {
+      "name": "isomer_3F-Cyclopropylbenzylfentanyl",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3F-Cyclopropylbenzylfentanyl"
+      ],
+      "dist": 22.2359842454
+    },
+    {
       "name": "trip_cyclopentyl-fentanyl",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -224,15 +233,6 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 27.7451024588
-    },
-    {
-      "name": "trip_naphyrone",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "naphyrone"
-      ],
-      "isomerd_names": null,
-      "dist": 27.8529375975
     }
   ]
 }

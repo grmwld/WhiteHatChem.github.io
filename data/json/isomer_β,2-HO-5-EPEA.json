@@ -1,0 +1,235 @@
+{
+  "inchi": "InChI=1S/C10H15NO3/c1-2-14-7-3-4-9(12)8(5-7)10(13)6-11/h3-5,10,12-13H,2,6,11H2,1H3",
+  "psychonaut_names": null,
+  "tripsit_names": null,
+  "isomerd_names": [
+    "\u03b2,2-HO-5-EPEA"
+  ],
+  "isod_ids": [
+    6905
+  ],
+  "synonyms": [
+    "\u03b2,2-HO-5-EPEA"
+  ],
+  "distances": [
+    11.702555868,
+    12.822133978,
+    14.0329887825,
+    14.247093038,
+    14.2729195437,
+    14.324732721,
+    15.662521355,
+    15.9036980701,
+    16.6336546434,
+    17.4164229137,
+    17.7148347058,
+    17.7182909925,
+    17.8956205498,
+    18.5319663516,
+    18.6390319809,
+    18.6949452142,
+    18.9152822562,
+    19.1492654286,
+    19.2254632901
+  ],
+  "indices": [
+    614,
+    613,
+    599,
+    598,
+    593,
+    631,
+    693,
+    692,
+    610,
+    345,
+    604,
+    632,
+    626,
+    2,
+    689,
+    594,
+    690,
+    20,
+    3
+  ],
+  "name": "isomer_\u03b2,2-HO-5-EPEA",
+  "svg": "isomer_\u03b2,2-HO-5-EPEA.svg",
+  "sim": [
+    {
+      "name": "isomer_\u03b2,2-HO-N-Me-5-EPEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "\u03b2,2-HO-N-Me-5-EPEA"
+      ],
+      "dist": 11.702555868
+    },
+    {
+      "name": "isomer_\u03b2,2-HO-5-EA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "\u03b2,2-HO-5-EA"
+      ],
+      "dist": 12.822133978
+    },
+    {
+      "name": "isomer_2-Amino-1-(2,6-dimethoxyphenyl)ethan-1-ol",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-Amino-1-(2,6-dimethoxyphenyl)ethan-1-ol"
+      ],
+      "dist": 14.0329887825
+    },
+    {
+      "name": "isomer_2-Amino-1-(3,5-dimethoxyphenyl)ethan-1-ol",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-Amino-1-(3,5-dimethoxyphenyl)ethan-1-ol"
+      ],
+      "dist": 14.247093038
+    },
+    {
+      "name": "isomer_2-Amino-1-(5-ethoxy-2-hydroxyphenyl)ethan-1-one",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-Amino-1-(5-ethoxy-2-hydroxyphenyl)ethan-1-one"
+      ],
+      "dist": 14.2729195437
+    },
+    {
+      "name": "isomer_2-Amino-1-(2,5-diethoxyphenyl)ethan-1-ol",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-Amino-1-(2,5-diethoxyphenyl)ethan-1-ol"
+      ],
+      "dist": 14.324732721
+    },
+    {
+      "name": "isomer_3,5-HMPEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3,5-HMPEA"
+      ],
+      "dist": 15.662521355
+    },
+    {
+      "name": "isomer_2,6-HMPEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2,6-HMPEA"
+      ],
+      "dist": 15.9036980701
+    },
+    {
+      "name": "isomer_2-(2-Aminoethyl)-5-propylbenzene-1,4-diol",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-(2-Aminoethyl)-5-propylbenzene-1,4-diol"
+      ],
+      "dist": 16.6336546434
+    },
+    {
+      "name": "trip_tolibut",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "tolibut"
+      ],
+      "isomerd_names": null,
+      "dist": 17.4164229137
+    },
+    {
+      "name": "isomer_1-(5-Ethoxy-2-hydroxyphenyl)-2-(methylamino)ethan-1-one",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "1-(5-Ethoxy-2-hydroxyphenyl)-2-(methylamino)ethan-1-one"
+      ],
+      "dist": 17.7148347058
+    },
+    {
+      "name": "isomer_\u03b2,2-HO-N-Me-5-EA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "\u03b2,2-HO-N-Me-5-EA"
+      ],
+      "dist": 17.7182909925
+    },
+    {
+      "name": "isomer_2-(2-Aminoethyl)-4-methoxy-5-propylphenol",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-(2-Aminoethyl)-4-methoxy-5-propylphenol"
+      ],
+      "dist": 17.8956205498
+    },
+    {
+      "name": "psyc_Baclofen_trip_baclofen",
+      "psychonaut_names": [
+        "Baclofen"
+      ],
+      "tripsit_names": [
+        "baclofen"
+      ],
+      "isomerd_names": null,
+      "dist": 18.5319663516
+    },
+    {
+      "name": "isomer_3,5-HPEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3,5-HPEA"
+      ],
+      "dist": 18.6390319809
+    },
+    {
+      "name": "isomer_2-Br-6-MA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-Br-6-MA"
+      ],
+      "dist": 18.6949452142
+    },
+    {
+      "name": "isomer_2,6-HPEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2,6-HPEA"
+      ],
+      "dist": 18.9152822562
+    },
+    {
+      "name": "psyc_2C-H",
+      "psychonaut_names": [
+        "2C-H"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 19.1492654286
+    },
+    {
+      "name": "psyc_F-Phenibut_trip_fluorophenibut",
+      "psychonaut_names": [
+        "F-Phenibut"
+      ],
+      "tripsit_names": [
+        "fluorophenibut"
+      ],
+      "isomerd_names": null,
+      "dist": 19.2254632901
+    }
+  ]
+}

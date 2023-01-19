@@ -9,48 +9,48 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "Piperidine, 1-phenethyl-4-(N-phenylacetamido)-",
-    "FENTANYL RELATED COMPOUND G [USP IMPURITY]",
-    "Acetyl fentanyl solution",
+    "DEA No. 9821",
+    "DTXSID80186275",
     "MFCD07369982",
     "Fentanyl specified impurity C [EP]",
+    "Acetyl fentanyl solution, 50 mug/mL in methanol, certified reference material, ampule of 1 mL",
+    "acetyl-fentanyl",
+    "Fentanyl related compound G",
+    "6DZ28538KS",
+    "Fentanyl related compound G [USP]",
+    "Acetyl fentanyl",
+    "Acetamide, N-phenyl-N-(1-(2-phenylethyl)-4-piperidinyl)-",
+    "FENTANYL IMPURITY C [EP IMPURITY]",
+    "Acetyl fentanyl-13C6 solution, 50 mug/mL in methanol, certified reference material, ampule of 1 mL",
+    "a-f",
+    "ZINC12650422",
+    "AS-38221",
+    "FENTANYL RELATED COMPOUND G CI",
+    "3258-84-2",
+    "FENTANYL RELATED COMPOUND G CI [USP-RS]",
+    "Acetamide, N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl]-",
+    "Fentanyl acetyl analog",
+    "Acetanilide, N-(1-phenethyl-4-piperidyl)-",
+    "1-(2-phenylethyl)-4-(N-acetylphenylamino)piperidine",
+    "N-(1-phenethylpiperidin-4-yl)-N-phenylacetamide",
+    "(N-(1-Phenethylpiperidin-4-yl)-N-phenylacetamide)",
+    "UNII-6DZ28538KS",
+    "FENTANYL CITRATE IMPURITY C [EP IMPURITY]",
+    "J125.906G",
+    "SCHEMBL684578",
     "N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]acetamide",
+    "Acetyl fentanyl-13C6 solution, 100 mug/mL in methanol, ampule of 1 mL, certified reference material",
+    "Fentanyl impurity C [EP]",
+    "N-(1-Phenethyl-piperidin-4-yl)-N-phenyl-acetamide",
+    "AKOS025149437",
     "Acetyl fentanyl solution, 1.0 mg/mL in methanol, ampule of 1 mL, certified reference material",
     "AM806987",
-    "UNII-6DZ28538KS",
-    "DTXSID80186275",
-    "AKOS025149437",
-    "6DZ28538KS",
-    "ZINC12650422",
-    "N-Phenyl-N-[1-(2-phenylethyl)-4-piperidinyl]acetamide #",
-    "FENTANYL IMPURITY C [EP IMPURITY]",
-    "1-(2-phenylethyl)-4-(N-acetylphenylamino)piperidine",
-    "Acetamide, N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl]-",
-    "FENTANYL RELATED COMPOUND G CI [USP-RS]",
-    "Fentanyl acetyl analog",
-    "DEA No. 9821",
-    "SCHEMBL684578",
-    "Fentanyl related compound G",
-    "3258-84-2",
-    "FENTANYL RELATED COMPOUND G CI",
-    "Acetyl fentanyl solution, 50 mug/mL in methanol, certified reference material, ampule of 1 mL",
-    "Acetyl fentanyl-13C6 solution, 50 mug/mL in methanol, certified reference material, ampule of 1 mL",
-    "J125.906G",
-    "Q15408427",
-    "N-(1-Phenethyl-piperidin-4-yl)-N-phenyl-acetamide",
     "N-Phenyl-N-(1-(2-phenylethyl)piperidin-4-yl)acetamide",
-    "Fentanyl impurity C [EP]",
-    "Acetamide, N-phenyl-N-(1-(2-phenylethyl)-4-piperidinyl)-",
-    "(N-(1-Phenethylpiperidin-4-yl)-N-phenylacetamide)",
-    "a-f",
-    "Acetanilide, N-(1-phenethyl-4-piperidyl)-",
-    "N-(1-phenethylpiperidin-4-yl)-N-phenylacetamide",
-    "Acetyl fentanyl",
-    "acetyl-fentanyl",
-    "FENTANYL CITRATE IMPURITY C [EP IMPURITY]",
-    "Acetyl fentanyl-13C6 solution, 100 mug/mL in methanol, ampule of 1 mL, certified reference material",
-    "AS-38221",
-    "Fentanyl related compound G [USP]"
+    "N-Phenyl-N-[1-(2-phenylethyl)-4-piperidinyl]acetamide #",
+    "Piperidine, 1-phenethyl-4-(N-phenylacetamido)-",
+    "FENTANYL RELATED COMPOUND G [USP IMPURITY]",
+    "Q15408427",
+    "Acetyl fentanyl solution"
   ],
   "distances": [
     8.8763873668,
@@ -60,18 +60,18 @@
     15.1944082114,
     17.7365499768,
     18.4370572312,
+    18.6471577378,
     19.4153302214,
     19.7852152486,
     19.9450034249,
     20.4039123972,
+    22.5487014972,
     22.5650623166,
     22.9963853732,
     23.6919830026,
     23.9344630294,
     24.4603798144,
-    25.0357556806,
-    25.1271072946,
-    25.3819179782
+    25.0357556806
   ],
   "indices": [
     257,
@@ -80,19 +80,19 @@
     557,
     549,
     556,
-    609,
+    686,
+    688,
     563,
     560,
-    608,
-    607,
+    685,
+    684,
+    678,
     242,
     519,
     517,
     565,
     261,
-    229,
-    561,
-    539
+    229
   ],
   "name": "psyc_Acetylfentanyl_trip_acetylfentanyl",
   "svg": "psyc_Acetylfentanyl_trip_acetylfentanyl.svg",
@@ -163,6 +163,15 @@
       "dist": 18.4370572312
     },
     {
+      "name": "isomer_3F-Cyclopropylbenzylfentanyl",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3F-Cyclopropylbenzylfentanyl"
+      ],
+      "dist": 18.6471577378
+    },
+    {
       "name": "trip_valerylfentanyl",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -197,6 +206,15 @@
         "Despropionyl-4-bromofentanyl"
       ],
       "dist": 20.4039123972
+    },
+    {
+      "name": "isomer_3-Fluoro_4-ANBP",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3-Fluoro 4-ANBP"
+      ],
+      "dist": 22.5487014972
     },
     {
       "name": "psyc_Methoxphenidine_trip_methoxphenidine",
@@ -257,24 +275,6 @@
       ],
       "isomerd_names": null,
       "dist": 25.0357556806
-    },
-    {
-      "name": "trip_dipipanone",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "dipipanone"
-      ],
-      "isomerd_names": null,
-      "dist": 25.1271072946
-    },
-    {
-      "name": "trip_indapyrophenidone",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "indapyrophenidone"
-      ],
-      "isomerd_names": null,
-      "dist": 25.3819179782
     }
   ]
 }

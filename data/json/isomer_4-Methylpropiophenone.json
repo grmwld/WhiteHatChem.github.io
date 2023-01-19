@@ -13,6 +13,8 @@
   ],
   "distances": [
     14.701731179,
+    14.7083322383,
+    14.8784278318,
     16.5329648951,
     16.8005900688,
     17.502200615,
@@ -24,16 +26,16 @@
     17.9570112811,
     17.9593249738,
     18.0014444407,
+    18.0089631547,
     18.0518585854,
     18.0594822036,
     18.0993361209,
-    18.1190672537,
-    18.3518086137,
-    18.3722004737,
-    18.4702503092
+    18.1190672537
   ],
   "indices": [
     586,
+    597,
+    596,
     332,
     32,
     304,
@@ -45,13 +47,11 @@
     346,
     369,
     329,
+    606,
     8,
     35,
     41,
-    311,
-    310,
-    370,
-    36
+    311
   ],
   "name": "isomer_4-Methylpropiophenone",
   "svg": "isomer_4-Methylpropiophenone.svg",
@@ -64,6 +64,24 @@
       ],
       "isomerd_names": null,
       "dist": 14.701731179
+    },
+    {
+      "name": "isomer_3,5-DMePEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3,5-DMePEA"
+      ],
+      "dist": 14.7083322383
+    },
+    {
+      "name": "isomer_2,6-DMePEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2,6-DMePEA"
+      ],
+      "dist": 14.8784278318
     },
     {
       "name": "trip_2-methylamphetamine",
@@ -178,6 +196,15 @@
       "dist": 18.0014444407
     },
     {
+      "name": "isomer_TMePEA-3",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "TMePEA-3"
+      ],
+      "dist": 18.0089631547
+    },
+    {
       "name": "psyc_Methcathinone",
       "psychonaut_names": [
         "Methcathinone"
@@ -218,37 +245,6 @@
       ],
       "isomerd_names": null,
       "dist": 18.1190672537
-    },
-    {
-      "name": "psyc_3-FA_trip_3-fa",
-      "psychonaut_names": [
-        "3-FA"
-      ],
-      "tripsit_names": [
-        "3-fa"
-      ],
-      "isomerd_names": null,
-      "dist": 18.3518086137
-    },
-    {
-      "name": "trip_2-mec",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "2-mec"
-      ],
-      "isomerd_names": null,
-      "dist": 18.3722004737
-    },
-    {
-      "name": "psyc_2-MMC_trip_2-mmc",
-      "psychonaut_names": [
-        "2-MMC"
-      ],
-      "tripsit_names": [
-        "2-mmc"
-      ],
-      "isomerd_names": null,
-      "dist": 18.4702503092
     }
   ]
 }

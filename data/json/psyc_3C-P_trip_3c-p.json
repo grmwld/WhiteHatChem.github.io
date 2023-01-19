@@ -9,19 +9,19 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
+    "BENZENEETHANAMINE, 3,5-DIMETHOXY-.ALPHA.-METHYL-4-PROPOXY-",
+    "501700-11-4",
     "3,5-Dimethoxy-alpha-methyl-4-propoxybenzeneethanamine",
     "UNII-4KRX4MHV7L",
-    "SCHEMBL5473413",
     "1-(3,5-dimethoxy-4-propoxyphenyl)propan-2-amine",
-    "alpha-Methyl-4-propoxy-3,5-dimethoxyphenethylamine",
-    "501700-11-4",
-    "BENZENEETHANAMINE, 3,5-DIMETHOXY-.ALPHA.-METHYL-4-PROPOXY-",
-    "4KRX4MHV7L",
-    "AKOS005929056",
-    "DTXSID201234925",
-    "3cp",
     "Benzeneethanamine, 3,5-dimethoxy-alpha-methyl-4-propoxy-",
-    "3,5-Dimethoxy-4-n-propoxyamphetamine"
+    "DTXSID201234925",
+    "3,5-Dimethoxy-4-n-propoxyamphetamine",
+    "SCHEMBL5473413",
+    "alpha-Methyl-4-propoxy-3,5-dimethoxyphenethylamine",
+    "3cp",
+    "4KRX4MHV7L",
+    "AKOS005929056"
   ],
   "distances": [
     7.094386673,
@@ -32,17 +32,17 @@
     13.549780159,
     13.5933818197,
     13.9827714906,
-    14.0391157571,
     14.0526441156,
     14.2743974602,
     14.8723942374,
+    15.1184698463,
     15.3047807193,
+    15.695401941,
     16.1178918593,
     16.5194014722,
     17.6465370131,
-    18.161185088,
-    18.3721464887,
-    18.414760209
+    17.780940209,
+    18.161185088
   ],
   "indices": [
     95,
@@ -53,17 +53,17 @@
     404,
     74,
     75,
-    597,
     73,
     72,
     92,
+    647,
     401,
+    648,
     400,
     91,
     70,
-    93,
-    48,
-    402
+    641,
+    93
   ],
   "name": "psyc_3C-P_trip_3c-p",
   "svg": "psyc_3C-P_trip_3c-p.svg",
@@ -147,15 +147,6 @@
       "dist": 13.9827714906
     },
     {
-      "name": "isomer_4,2,3-DOET",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "4,2,3-DOET"
-      ],
-      "dist": 14.0391157571
-    },
-    {
       "name": "psyc_TMA-6_trip_tma-6",
       "psychonaut_names": [
         "TMA-6"
@@ -187,6 +178,15 @@
       "dist": 14.8723942374
     },
     {
+      "name": "isomer_2-Amino-1-(2,5-dimethoxy-4-propylphenyl)ethan-1-ol",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-Amino-1-(2,5-dimethoxy-4-propylphenyl)ethan-1-ol"
+      ],
+      "dist": 15.1184698463
+    },
+    {
       "name": "trip_aleph-2",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -194,6 +194,15 @@
       ],
       "isomerd_names": null,
       "dist": 15.3047807193
+    },
+    {
+      "name": "isomer_1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-ol",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-ol"
+      ],
+      "dist": 15.695401941
     },
     {
       "name": "trip_2c-ip",
@@ -227,6 +236,15 @@
       "dist": 17.6465370131
     },
     {
+      "name": "isomer_1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-one",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-one"
+      ],
+      "dist": 17.780940209
+    },
+    {
       "name": "psyc_2C-T-7_trip_2c-t-7",
       "psychonaut_names": [
         "2C-T-7"
@@ -236,26 +254,6 @@
       ],
       "isomerd_names": null,
       "dist": 18.161185088
-    },
-    {
-      "name": "psyc_Mescaline_trip_mescaline",
-      "psychonaut_names": [
-        "Mescaline"
-      ],
-      "tripsit_names": [
-        "mescaline"
-      ],
-      "isomerd_names": null,
-      "dist": 18.3721464887
-    },
-    {
-      "name": "trip_2c-t-4",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "2c-t-4"
-      ],
-      "isomerd_names": null,
-      "dist": 18.414760209
     }
   ]
 }

@@ -10,8 +10,8 @@
   "isod_ids": null,
   "synonyms": [
     "EA-1298",
-    "Amphedoxamine",
-    "3,4-Methylenedioxyamphetamine"
+    "3,4-Methylenedioxyamphetamine",
+    "Amphedoxamine"
   ],
   "distances": [
     8.9216761792,
@@ -26,13 +26,13 @@
     16.2444345187,
     16.6930201398,
     16.8046466396,
+    17.4413786919,
+    17.9290789998,
     18.0011053806,
     18.0503970454,
     18.3339285089,
     18.3382774391,
-    18.3510744201,
-    18.7220437745,
-    18.9611877752
+    18.3510744201
   ],
   "indices": [
     341,
@@ -43,17 +43,17 @@
     65,
     374,
     371,
-    27,
     28,
+    27,
     29,
     363,
+    590,
+    594,
     310,
     57,
     396,
     311,
-    58,
-    375,
-    312
+    58
   ],
   "name": "psyc_MDA_trip_mda",
   "svg": "psyc_MDA_trip_mda.svg",
@@ -137,23 +137,23 @@
       "dist": 15.3598245301
     },
     {
-      "name": "psyc_6-APB_trip_6-apb",
-      "psychonaut_names": [
-        "6-APB"
-      ],
-      "tripsit_names": [
-        "6-apb"
-      ],
-      "isomerd_names": null,
-      "dist": 16.2444345187
-    },
-    {
       "name": "psyc_5-APB_trip_5-apb",
       "psychonaut_names": [
         "5-APB"
       ],
       "tripsit_names": [
         "5-apb"
+      ],
+      "isomerd_names": null,
+      "dist": 16.2444345187
+    },
+    {
+      "name": "psyc_6-APB_trip_6-apb",
+      "psychonaut_names": [
+        "6-APB"
+      ],
+      "tripsit_names": [
+        "6-apb"
       ],
       "isomerd_names": null,
       "dist": 16.2444345187
@@ -177,6 +177,24 @@
       ],
       "isomerd_names": null,
       "dist": 16.8046466396
+    },
+    {
+      "name": "isomer_3-Bromosafrole",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3-Bromosafrole"
+      ],
+      "dist": 17.4413786919
+    },
+    {
+      "name": "isomer_2-Br-6-MA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-Br-6-MA"
+      ],
+      "dist": 17.9290789998
     },
     {
       "name": "psyc_3-FA_trip_3-fa",
@@ -230,26 +248,6 @@
       ],
       "isomerd_names": null,
       "dist": 18.3510744201
-    },
-    {
-      "name": "trip_eflea",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "eflea"
-      ],
-      "isomerd_names": null,
-      "dist": 18.7220437745
-    },
-    {
-      "name": "psyc_2-FA_trip_2-fa",
-      "psychonaut_names": [
-        "2-FA"
-      ],
-      "tripsit_names": [
-        "2-fa"
-      ],
-      "isomerd_names": null,
-      "dist": 18.9611877752
     }
   ]
 }

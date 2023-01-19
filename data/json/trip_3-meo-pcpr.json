@@ -22,11 +22,11 @@
     19.4381437042,
     20.923028756,
     22.3833946805,
+    22.4489811927,
     22.5568705375,
     22.8577635817,
     23.0254495219,
-    23.191954645,
-    23.2106245772
+    23.191954645
   ],
   "indices": [
     139,
@@ -43,11 +43,11 @@
     441,
     168,
     437,
+    653,
     436,
     81,
     376,
-    83,
-    80
+    83
   ],
   "name": "trip_3-meo-pcpr",
   "svg": "trip_3-meo-pcpr.svg",
@@ -193,6 +193,15 @@
       "dist": 22.3833946805
     },
     {
+      "name": "isomer_BHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "BHAT"
+      ],
+      "dist": 22.4489811927
+    },
+    {
       "name": "trip_4f-pvp",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -231,17 +240,6 @@
       ],
       "isomerd_names": null,
       "dist": 23.191954645
-    },
-    {
-      "name": "psyc_Ketamine_trip_ketamine",
-      "psychonaut_names": [
-        "Ketamine"
-      ],
-      "tripsit_names": [
-        "ketamine"
-      ],
-      "isomerd_names": null,
-      "dist": 23.2106245772
     }
   ]
 }

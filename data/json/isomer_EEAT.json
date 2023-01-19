@@ -1,0 +1,243 @@
+{
+  "inchi": "InChI=1S/C14H21NO/c1-3-15(4-2)12-9-8-11-6-5-7-14(16)13(11)10-12/h5-7,12,16H,3-4,8-10H2,1-2H3",
+  "psychonaut_names": null,
+  "tripsit_names": null,
+  "isomerd_names": [
+    "EEAT"
+  ],
+  "isod_ids": [
+    6958
+  ],
+  "synonyms": [
+    "EEAT"
+  ],
+  "distances": [
+    6.8037708598,
+    14.8282037216,
+    15.3087950915,
+    17.2827077185,
+    17.4931862782,
+    20.2566509863,
+    21.2266926121,
+    22.7776261157,
+    22.8458873829,
+    23.0100075884,
+    23.3404801822,
+    23.3727726003,
+    23.3923497402,
+    23.4166547927,
+    23.5018348789,
+    23.5224930274,
+    23.5559260661,
+    23.6365957716,
+    23.7209526316
+  ],
+  "indices": [
+    665,
+    637,
+    653,
+    618,
+    619,
+    638,
+    87,
+    107,
+    603,
+    61,
+    387,
+    375,
+    60,
+    392,
+    138,
+    465,
+    353,
+    108,
+    104
+  ],
+  "name": "isomer_EEAT",
+  "svg": "isomer_EEAT.svg",
+  "sim": [
+    {
+      "name": "isomer_PEAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "PEAT"
+      ],
+      "dist": 6.8037708598
+    },
+    {
+      "name": "isomer_PHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "PHAT"
+      ],
+      "dist": 14.8282037216
+    },
+    {
+      "name": "isomer_BHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "BHAT"
+      ],
+      "dist": 15.3087950915
+    },
+    {
+      "name": "isomer_MMAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "MMAT"
+      ],
+      "dist": 17.2827077185
+    },
+    {
+      "name": "isomer_EHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "EHAT"
+      ],
+      "dist": 17.4931862782
+    },
+    {
+      "name": "isomer_7-[(Propan-2-yl)amino]-5,6,7,8-tetrahydronaphthalen-1-ol",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "7-[(Propan-2-yl)amino]-5,6,7,8-tetrahydronaphthalen-1-ol"
+      ],
+      "dist": 20.2566509863
+    },
+    {
+      "name": "psyc_4-HO-MET_trip_4-ho-met",
+      "psychonaut_names": [
+        "4-HO-MET"
+      ],
+      "tripsit_names": [
+        "4-ho-met"
+      ],
+      "isomerd_names": null,
+      "dist": 21.2266926121
+    },
+    {
+      "name": "psyc_4-HO-DET_trip_4-ho-det",
+      "psychonaut_names": [
+        "4-HO-DET"
+      ],
+      "tripsit_names": [
+        "4-ho-det"
+      ],
+      "isomerd_names": null,
+      "dist": 22.7776261157
+    },
+    {
+      "name": "isomer_MHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "MHAT"
+      ],
+      "dist": 22.8458873829
+    },
+    {
+      "name": "psyc_Psilocin_trip_psilocin",
+      "psychonaut_names": [
+        "Psilocin"
+      ],
+      "tripsit_names": [
+        "psilocin"
+      ],
+      "isomerd_names": null,
+      "dist": 23.0100075884
+    },
+    {
+      "name": "trip_dimemebfe",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "dimemebfe"
+      ],
+      "isomerd_names": null,
+      "dist": 23.3404801822
+    },
+    {
+      "name": "trip_eflea",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "eflea"
+      ],
+      "isomerd_names": null,
+      "dist": 23.3727726003
+    },
+    {
+      "name": "psyc_Bufotenin",
+      "psychonaut_names": [
+        "Bufotenin"
+      ],
+      "tripsit_names": null,
+      "isomerd_names": null,
+      "dist": 23.3923497402
+    },
+    {
+      "name": "trip_2-me-dmt",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "2-me-dmt"
+      ],
+      "isomerd_names": null,
+      "dist": 23.4166547927
+    },
+    {
+      "name": "psyc_Prolintane_trip_prolintane",
+      "psychonaut_names": [
+        "Prolintane"
+      ],
+      "tripsit_names": [
+        "prolintane"
+      ],
+      "isomerd_names": null,
+      "dist": 23.5018348789
+    },
+    {
+      "name": "trip_bk-ivp",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "bk-ivp"
+      ],
+      "isomerd_names": null,
+      "dist": 23.5224930274
+    },
+    {
+      "name": "trip_mephtetramine",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "mephtetramine"
+      ],
+      "isomerd_names": null,
+      "dist": 23.5559260661
+    },
+    {
+      "name": "psyc_4-HO-MPT_trip_4-ho-mpt",
+      "psychonaut_names": [
+        "4-HO-MPT"
+      ],
+      "tripsit_names": [
+        "4-ho-mpt"
+      ],
+      "isomerd_names": null,
+      "dist": 23.6365957716
+    },
+    {
+      "name": "psyc_DET_trip_det",
+      "psychonaut_names": [
+        "DET"
+      ],
+      "tripsit_names": [
+        "det"
+      ],
+      "isomerd_names": null,
+      "dist": 23.7209526316
+    }
+  ]
+}

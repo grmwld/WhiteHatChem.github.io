@@ -13,6 +13,7 @@
     24.3253939841,
     25.5188756158,
     26.8836729737,
+    28.3139885181,
     31.2359079554,
     31.5050054539,
     31.6732846489,
@@ -27,13 +28,13 @@
     34.3010390411,
     34.565931043,
     34.7916879132,
-    35.2402745892,
-    35.2595911708
+    35.2402745892
   ],
   "indices": [
     562,
     561,
     565,
+    688,
     560,
     542,
     550,
@@ -47,9 +48,8 @@
     557,
     568,
     249,
-    609,
-    608,
-    239
+    686,
+    685
   ],
   "name": "trip_palfium",
   "svg": "trip_palfium.svg",
@@ -80,6 +80,15 @@
       ],
       "isomerd_names": null,
       "dist": 26.8836729737
+    },
+    {
+      "name": "isomer_3F-Cyclopropylbenzylfentanyl",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3F-Cyclopropylbenzylfentanyl"
+      ],
+      "dist": 28.3139885181
     },
     {
       "name": "trip_furanylfentanyl",
@@ -219,15 +228,6 @@
         "Despropionyl 3-FF"
       ],
       "dist": 35.2402745892
-    },
-    {
-      "name": "psyc_Prochlorperazine",
-      "psychonaut_names": [
-        "Prochlorperazine"
-      ],
-      "tripsit_names": null,
-      "isomerd_names": null,
-      "dist": 35.2595911708
     }
   ]
 }

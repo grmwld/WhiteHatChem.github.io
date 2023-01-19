@@ -9,63 +9,63 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "AB01566859_01",
-    "AKOS005066359",
-    "SW219170-1",
-    "Z221101674",
-    "NCGC00346668-04",
-    "N-(2-(bis(1-methylethyl)amino)ethyl)-2-oxo-1-pyrrolidineacetamide",
-    "pramiracetam",
-    "P2061",
-    "N-{2-[bis(propan-2-yl)amino]ethyl}-2-(2-oxopyrrolidin-1-yl)acetamide",
-    "68497-62-1",
-    "AC-8798",
-    "A836161",
-    "DB-055157",
-    "HMS3656M20",
-    "1-Pyrrolidineacetamide, N-(2-(bis(1-methylethyl)amino)ethyl)-2-oxo-",
-    "1-Pyrrolidineacetamide, N-[2-[bis(1-methylethyl)amino]ethyl]-2-oxo-",
-    "N-(2-(diisopropylamino)ethyl)-2-(2-oxopyrrolidin-1-yl)acetamide",
-    "DTXSID60218604",
-    "CHEMBL159776",
-    "ZINC1856108",
-    "BCP27900",
-    "CHEBI:135110",
-    "N-[2-[di(propan-2-yl)amino]ethyl]-2-(2-oxo-1-pyrrolidinyl)acetamide",
-    "N-(2-(DIISOPROPYLAMINO)ETHYL)-2-OXO-1-PYRROLIDINEACETAMIDE",
-    "SCHEMBL195465",
-    "Q415746",
     "CI-879 FREE BASE",
-    "N-[2-[Bis(1-methylethyl)amino]ethyl]-2-oxo-1-pyrrolidineacetamide, Vinpotropil",
-    "SMR004701212",
-    "Benzoic acid, o-(p-toluyl)-",
-    "N-[2-[di(propan-2-yl)amino]ethyl]-2-(2-oxopyrrolidin-1-yl)acetamide",
-    "Pramiracetam/CI-879",
-    "Pramiracetamum [INN-Latin]",
-    "PRAMIRACETAM [WHO-DD]",
-    "HMS3884N10",
-    "497P621",
-    "MLS006010035",
-    "C76170",
-    "Q-201610",
-    "Pramiracetam (INN)",
-    "N-[2-[di(propan-2-yl)amino]ethyl]-2-(2-oxidanylidenepyrrolidin-1-yl)ethanamide",
-    "4449F8I3LE",
     "FT-0630777",
-    "HS-0092",
-    "Amacetam, N-[2-(Diisopropylamino)ethyl]-2-(2-oxopyrrolidin-1-yl)acetamide",
+    "MLS006010035",
+    "68497-62-1",
+    "Pramiracetam [INN]",
+    "N-[2-[di(propan-2-yl)amino]ethyl]-2-(2-oxo-1-pyrrolidinyl)acetamide",
+    "C76170",
+    "CHEMBL159776",
+    "SMR004701212",
+    "SCHEMBL195465",
+    "AKOS005066359",
+    "A836161",
     "CCG-267142",
+    "1-Pyrrolidineacetamide, N-(2-(bis(1-methylethyl)amino)ethyl)-2-oxo-",
+    "AB01566859_01",
+    "N-[2-[di(propan-2-yl)amino]ethyl]-2-(2-oxopyrrolidin-1-yl)acetamide",
+    "4449F8I3LE",
+    "P2061",
     "N-[2-[bis(1-methylethyl)amino]ethyl]-2-oxo-1-pyrrolidineacetamide",
-    "Pramiracetamum",
-    "D08405",
-    "CS-1573",
-    "s2594",
+    "HMS3884N10",
+    "HMS3656M20",
+    "N-[2-[di(propan-2-yl)amino]ethyl]-2-(2-oxidanylidenepyrrolidin-1-yl)ethanamide",
+    "N-(2-(diisopropylamino)ethyl)-2-(2-oxopyrrolidin-1-yl)acetamide",
+    "N-(2-(bis(1-methylethyl)amino)ethyl)-2-oxo-1-pyrrolidineacetamide",
     "HY-17455",
+    "N-[2-[Bis(1-methylethyl)amino]ethyl]-2-oxo-1-pyrrolidineacetamide, Vinpotropil",
+    "HS-0092",
+    "s2594",
+    "AC-8798",
+    "Pramiracetamum",
+    "ZINC1856108",
+    "Amacetam, N-[2-(Diisopropylamino)ethyl]-2-(2-oxopyrrolidin-1-yl)acetamide",
+    "CS-1573",
+    "DTXSID60218604",
+    "Pramiracetamum [INN-Latin]",
+    "1-Pyrrolidineacetamide, N-[2-[bis(1-methylethyl)amino]ethyl]-2-oxo-",
+    "N-{2-[bis(propan-2-yl)amino]ethyl}-2-(2-oxopyrrolidin-1-yl)acetamide",
+    "SW219170-1",
+    "Q-201610",
+    "DB-055157",
+    "PRAMIRACETAM [WHO-DD]",
     "PRAMIRACETAM [MI]",
+    "Z221101674",
+    "D08405",
+    "497P621",
+    "Pramiracetam/CI-879",
+    "NCGC00346668-04",
     "UNII-4449F8I3LE",
-    "NCGC00346668-01",
+    "BCP27900",
+    "pramiracetam",
+    "Pramiracetam (INN)",
+    "CHEBI:135110",
+    "Q415746",
     "DB13247",
-    "Pramiracetam [INN]"
+    "NCGC00346668-01",
+    "N-(2-(DIISOPROPYLAMINO)ETHYL)-2-OXO-1-PYRROLIDINEACETAMIDE",
+    "Benzoic acid, o-(p-toluyl)-"
   ],
   "distances": [
     30.0074087531,
@@ -80,13 +80,13 @@
     33.9598546598,
     34.0280699702,
     34.3010034531,
+    34.3443897802,
+    34.3881508935,
     34.430243252,
     34.4597552435,
     34.6438703656,
     34.6473673383,
-    34.6783190975,
-    34.8572808649,
-    35.0424947803
+    34.6783190975
   ],
   "indices": [
     165,
@@ -97,17 +97,17 @@
     465,
     113,
     221,
-    603,
+    676,
     156,
     394,
     468,
+    665,
+    667,
     106,
     491,
     159,
     442,
-    412,
-    77,
-    463
+    412
   ],
   "name": "psyc_Pramiracetam_trip_pramiracetam",
   "svg": "psyc_Pramiracetam_trip_pramiracetam.svg",
@@ -235,6 +235,24 @@
       "dist": 34.3010034531
     },
     {
+      "name": "isomer_PEAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "PEAT"
+      ],
+      "dist": 34.3443897802
+    },
+    {
+      "name": "isomer_N-{2-[4-(2-Hydroxypropyl)-2,5-dimethoxyphenyl]ethyl}acetamide",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "N-{2-[4-(2-Hydroxypropyl)-2,5-dimethoxyphenyl]ethyl}acetamide"
+      ],
+      "dist": 34.3881508935
+    },
+    {
       "name": "psyc_4-HO-MiPT_trip_4-ho-mipt",
       "psychonaut_names": [
         "4-HO-MiPT"
@@ -282,26 +300,6 @@
       ],
       "isomerd_names": null,
       "dist": 34.6783190975
-    },
-    {
-      "name": "psyc_Carisoprodol_trip_carisoprodol",
-      "psychonaut_names": [
-        "Carisoprodol"
-      ],
-      "tripsit_names": [
-        "carisoprodol"
-      ],
-      "isomerd_names": null,
-      "dist": 34.8572808649
-    },
-    {
-      "name": "trip_4f-php",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "4f-php"
-      ],
-      "isomerd_names": null,
-      "dist": 35.0424947803
     }
   ]
 }

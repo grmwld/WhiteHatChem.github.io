@@ -8,12 +8,12 @@
   "isod_ids": null,
   "synonyms": [
     "delta9-thc",
-    "syndros",
-    "delta9-tetrahydrocannabinol",
-    "\u03b49--tetrahydrocannabinol",
     "dronabinol",
     "\u03b49-thc",
-    "cesamet"
+    "syndros",
+    "cesamet",
+    "delta9-tetrahydrocannabinol",
+    "\u03b49--tetrahydrocannabinol"
   ],
   "distances": [
     17.3390319455,
@@ -21,6 +21,7 @@
     29.2084436201,
     30.3031074366,
     31.5075713247,
+    32.2384665514,
     32.4652420807,
     32.4741013847,
     32.4782097174,
@@ -33,8 +34,7 @@
     34.8671901258,
     34.883411774,
     34.9082118126,
-    34.9453500517,
-    35.0221714095
+    34.9453500517
   ],
   "indices": [
     271,
@@ -42,6 +42,7 @@
     521,
     232,
     208,
+    683,
     162,
     191,
     182,
@@ -49,13 +50,12 @@
     218,
     209,
     241,
-    605,
+    681,
     250,
     487,
     160,
     488,
-    190,
-    210
+    190
   ],
   "name": "trip_marinol",
   "svg": "trip_marinol.svg",
@@ -108,6 +108,15 @@
       ],
       "isomerd_names": null,
       "dist": 31.5075713247
+    },
+    {
+      "name": "isomer_BBAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "BBAT"
+      ],
+      "dist": 32.2384665514
     },
     {
       "name": "psyc_MXPr",
@@ -236,17 +245,6 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 34.9453500517
-    },
-    {
-      "name": "psyc_Oxycodone_trip_oxycodone",
-      "psychonaut_names": [
-        "Oxycodone"
-      ],
-      "tripsit_names": [
-        "oxycodone"
-      ],
-      "isomerd_names": null,
-      "dist": 35.0221714095
     }
   ]
 }

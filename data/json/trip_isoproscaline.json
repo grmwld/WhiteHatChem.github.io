@@ -18,17 +18,17 @@
     13.549780159,
     13.7183673779,
     13.7248049085,
+    13.7469834227,
     13.8518544192,
     14.2668951165,
     14.3992073901,
     14.4873507343,
     14.9233234122,
-    15.4509263437,
+    15.4961341221,
     15.7132400957,
     16.0584859026,
     16.0873460787,
-    16.1538197444,
-    16.40491345
+    16.1180035694
   ],
   "indices": [
     400,
@@ -39,17 +39,17 @@
     114,
     75,
     48,
+    648,
     73,
     402,
     94,
     422,
     399,
-    597,
+    647,
     381,
     70,
     91,
-    92,
-    69
+    641
   ],
   "name": "trip_isoproscaline",
   "svg": "trip_isoproscaline.svg",
@@ -137,6 +137,15 @@
       "dist": 13.7248049085
     },
     {
+      "name": "isomer_1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-ol",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-ol"
+      ],
+      "dist": 13.7469834227
+    },
+    {
       "name": "psyc_TMA-6_trip_tma-6",
       "psychonaut_names": [
         "TMA-6"
@@ -186,13 +195,13 @@
       "dist": 14.9233234122
     },
     {
-      "name": "isomer_4,2,3-DOET",
+      "name": "isomer_2-Amino-1-(2,5-dimethoxy-4-propylphenyl)ethan-1-ol",
       "psychonaut_names": null,
       "tripsit_names": null,
       "isomerd_names": [
-        "4,2,3-DOET"
+        "2-Amino-1-(2,5-dimethoxy-4-propylphenyl)ethan-1-ol"
       ],
-      "dist": 15.4509263437
+      "dist": 15.4961341221
     },
     {
       "name": "trip_bod",
@@ -226,24 +235,13 @@
       "dist": 16.0873460787
     },
     {
-      "name": "psyc_4C-D",
-      "psychonaut_names": [
-        "4C-D"
-      ],
+      "name": "isomer_1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-one",
+      "psychonaut_names": null,
       "tripsit_names": null,
-      "isomerd_names": null,
-      "dist": 16.1538197444
-    },
-    {
-      "name": "psyc_2C-E_trip_2c-e",
-      "psychonaut_names": [
-        "2C-E"
+      "isomerd_names": [
+        "1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-one"
       ],
-      "tripsit_names": [
-        "2c-e"
-      ],
-      "isomerd_names": null,
-      "dist": 16.40491345
+      "dist": 16.1180035694
     }
   ]
 }

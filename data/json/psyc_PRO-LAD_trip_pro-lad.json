@@ -9,26 +9,26 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "DTXSID50215824",
-    "6-Propylnorlysergamide, N,N-diethyl",
-    "1-PROLAD",
-    "SCHEMBL20970929",
-    "(8beta)-N,N-diethyl-6-propyl-9,10-didehydroergoline-8-carboxamide",
-    "N-PROPYLNORLSD",
-    "ERGOLINE-8-CARBOXAMIDE, 9,10-DIDEHYDRO-N,N-DIETHYL-6-PROPYL-, (8.BETA.)-",
-    "UNII-RVR83W9XMC",
-    "N-PROPYLNORLYSERGIC ACID N,N-DIETHYLAMIDE",
-    "6-Propyl-6-nor-Lysergic acid diethylamide",
-    "N,N-Diethylnorlysergamide, 6-propyl",
-    "6-Norlysergamide, N,N-diethyl-6-propyl",
-    "9,10-Didehydro-6-propyl-N,N-diethylergoline-8\u03b2-carboxamide",
-    "CHEMBL22258",
-    "N,N-Diethyl-6-propyl-6-norlysergamide",
-    "65527-63-1",
     "RVR83W9XMC",
+    "N-PROPYLNORLSD",
+    "UNII-RVR83W9XMC",
+    "DTXSID50215824",
+    "N,N-Diethylnorlysergamide, 6-propyl",
+    "(8beta)-N,N-diethyl-6-propyl-9,10-didehydroergoline-8-carboxamide",
+    "6-Propyl-nor-LSD",
+    "6-Propyl-6-nor-Lysergic acid diethylamide",
+    "SCHEMBL20970929",
     "Q7120374",
+    "6-Norlysergamide, N,N-diethyl-6-propyl",
     "(6aR,9R)-N,N-diethyl-7-propyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide",
-    "6-Propyl-nor-LSD"
+    "65527-63-1",
+    "9,10-Didehydro-6-propyl-N,N-diethylergoline-8\u03b2-carboxamide",
+    "1-PROLAD",
+    "N,N-Diethyl-6-propyl-6-norlysergamide",
+    "6-Propylnorlysergamide, N,N-diethyl",
+    "CHEMBL22258",
+    "ERGOLINE-8-CARBOXAMIDE, 9,10-DIDEHYDRO-N,N-DIETHYL-6-PROPYL-, (8.BETA.)-",
+    "N-PROPYLNORLYSERGIC ACID N,N-DIETHYLAMIDE"
   ],
   "distances": [
     7.3617253205,
@@ -46,10 +46,10 @@
     29.2623661343,
     30.145877426,
     30.6755681042,
+    31.4604427885,
     32.7422387631,
     32.7732075007,
-    32.8435585895,
-    33.2099974505
+    32.8435585895
   ],
   "indices": [
     250,
@@ -67,10 +67,10 @@
     280,
     157,
     206,
+    683,
     492,
     273,
-    557,
-    129
+    557
   ],
   "name": "psyc_PRO-LAD_trip_pro-lad",
   "svg": "psyc_PRO-LAD_trip_pro-lad.svg",
@@ -230,6 +230,15 @@
       "dist": 30.6755681042
     },
     {
+      "name": "isomer_BBAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "BBAT"
+      ],
+      "dist": 31.4604427885
+    },
+    {
       "name": "trip_5-meo-dpt",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -255,17 +264,6 @@
       ],
       "isomerd_names": null,
       "dist": 32.8435585895
-    },
-    {
-      "name": "psyc_4-AcO-MET_trip_4-aco-met",
-      "psychonaut_names": [
-        "4-AcO-MET"
-      ],
-      "tripsit_names": [
-        "4-aco-met"
-      ],
-      "isomerd_names": null,
-      "dist": 33.2099974505
     }
   ]
 }

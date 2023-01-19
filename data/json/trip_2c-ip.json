@@ -9,16 +9,16 @@
   "synonyms": [],
   "distances": [
     9.840903994,
+    11.2929809106,
     11.7225879132,
     12.0736298283,
     12.5871219279,
-    12.70185048,
     12.7204900578,
+    12.8687912869,
     12.9764349172,
     13.6172793851,
     13.6227129495,
     13.6639418948,
-    13.753862428,
     13.7564493486,
     13.7699152207,
     13.776247254,
@@ -30,16 +30,16 @@
   ],
   "indices": [
     404,
+    648,
     399,
     402,
     70,
-    597,
     69,
+    647,
     422,
     75,
     48,
     92,
-    596,
     72,
     46,
     403,
@@ -60,6 +60,15 @@
       ],
       "isomerd_names": null,
       "dist": 9.840903994
+    },
+    {
+      "name": "isomer_1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-ol",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-ol"
+      ],
+      "dist": 11.2929809106
     },
     {
       "name": "trip_doet",
@@ -91,15 +100,6 @@
       "dist": 12.5871219279
     },
     {
-      "name": "isomer_4,2,3-DOET",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "4,2,3-DOET"
-      ],
-      "dist": 12.70185048
-    },
-    {
       "name": "psyc_2C-E_trip_2c-e",
       "psychonaut_names": [
         "2C-E"
@@ -109,6 +109,15 @@
       ],
       "isomerd_names": null,
       "dist": 12.7204900578
+    },
+    {
+      "name": "isomer_2-Amino-1-(2,5-dimethoxy-4-propylphenyl)ethan-1-ol",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-Amino-1-(2,5-dimethoxy-4-propylphenyl)ethan-1-ol"
+      ],
+      "dist": 12.8687912869
     },
     {
       "name": "trip_dopr",
@@ -149,15 +158,6 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 13.6639418948
-    },
-    {
-      "name": "isomer_4-Me-2,3-DOM",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "4-Me-2,3-DOM"
-      ],
-      "dist": 13.753862428
     },
     {
       "name": "psyc_Escaline_trip_escaline",

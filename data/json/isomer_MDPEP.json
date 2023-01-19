@@ -9,8 +9,8 @@
     6996
   ],
   "synonyms": [
-    "MD-PV8",
-    "MDPEP"
+    "MDPEP",
+    "MD-PV8"
   ],
   "distances": [
     5.8999270548,
@@ -27,11 +27,11 @@
     23.399122225,
     23.7595568251,
     24.2952961203,
+    24.4099734076,
     24.5226099434,
     25.7269017591,
     26.3217339702,
-    27.1599020308,
-    27.2222748148
+    27.1599020308
   ],
   "indices": [
     488,
@@ -45,14 +45,14 @@
     525,
     519,
     159,
-    603,
+    676,
     436,
     102,
+    675,
     485,
     465,
     130,
-    466,
-    85
+    466
   ],
   "name": "isomer_MDPEP",
   "svg": "isomer_MDPEP.svg",
@@ -188,6 +188,15 @@
       "dist": 24.2952961203
     },
     {
+      "name": "isomer_(4-Fluorophenyl)[1-(5-sulfanylpentyl)piperidin-4-yl]methanone",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "(4-Fluorophenyl)[1-(5-sulfanylpentyl)piperidin-4-yl]methanone"
+      ],
+      "dist": 24.4099734076
+    },
+    {
       "name": "trip_5-ppdi",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -224,17 +233,6 @@
       ],
       "isomerd_names": null,
       "dist": 27.1599020308
-    },
-    {
-      "name": "psyc_Pentylone_trip_pentylone",
-      "psychonaut_names": [
-        "Pentylone"
-      ],
-      "tripsit_names": [
-        "pentylone"
-      ],
-      "isomerd_names": null,
-      "dist": 27.2222748148
     }
   ]
 }

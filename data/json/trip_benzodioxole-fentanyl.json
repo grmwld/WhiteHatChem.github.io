@@ -12,6 +12,7 @@
     29.017595938,
     29.3134338621,
     30.4779653532,
+    30.9899049134,
     31.2611103297,
     32.1356131393,
     32.1639420009,
@@ -25,14 +26,14 @@
     38.5337669621,
     38.6984756998,
     38.799072695,
-    38.8685434751,
-    39.0320115393
+    38.8685434751
   ],
   "indices": [
     560,
     556,
     565,
     550,
+    688,
     552,
     563,
     557,
@@ -46,8 +47,7 @@
     562,
     262,
     559,
-    548,
-    272
+    548
   ],
   "name": "trip_benzodioxole-fentanyl",
   "svg": "trip_benzodioxole-fentanyl.svg",
@@ -87,6 +87,15 @@
       ],
       "isomerd_names": null,
       "dist": 30.4779653532
+    },
+    {
+      "name": "isomer_3F-Cyclopropylbenzylfentanyl",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3F-Cyclopropylbenzylfentanyl"
+      ],
+      "dist": 30.9899049134
     },
     {
       "name": "trip_methoxyacetyl-fentanyl",
@@ -219,15 +228,6 @@
       ],
       "isomerd_names": null,
       "dist": 38.8685434751
-    },
-    {
-      "name": "psyc_JWH-018",
-      "psychonaut_names": [
-        "JWH-018"
-      ],
-      "tripsit_names": null,
-      "isomerd_names": null,
-      "dist": 39.0320115393
     }
   ]
 }

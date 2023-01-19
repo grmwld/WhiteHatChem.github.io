@@ -13,6 +13,7 @@
     30.7950209123,
     31.85078354,
     32.0334298039,
+    32.309101686,
     32.6185469402,
     32.7220628695,
     32.7230066775,
@@ -25,8 +26,7 @@
     33.7794937679,
     33.8121985459,
     33.8440746176,
-    33.8523350867,
-    33.9739405677
+    33.8485774633
   ],
   "indices": [
     157,
@@ -34,6 +34,7 @@
     507,
     358,
     492,
+    679,
     502,
     156,
     167,
@@ -46,8 +47,7 @@
     193,
     164,
     134,
-    107,
-    606
+    640
   ],
   "name": "trip_nitracaine",
   "svg": "trip_nitracaine.svg",
@@ -100,6 +100,15 @@
       ],
       "isomerd_names": null,
       "dist": 32.0334298039
+    },
+    {
+      "name": "isomer_PRL-8-53",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "PRL-8-53"
+      ],
+      "dist": 32.309101686
     },
     {
       "name": "trip_prl-8-53",
@@ -231,24 +240,13 @@
       "dist": 33.8440746176
     },
     {
-      "name": "psyc_4-HO-DET_trip_4-ho-det",
-      "psychonaut_names": [
-        "4-HO-DET"
-      ],
-      "tripsit_names": [
-        "4-ho-det"
-      ],
-      "isomerd_names": null,
-      "dist": 33.8523350867
-    },
-    {
-      "name": "isomer_ADB-BINACA",
+      "name": "isomer_1-(2,5-Diethoxyphenyl)-2-(methylamino)ethan-1-one",
       "psychonaut_names": null,
       "tripsit_names": null,
       "isomerd_names": [
-        "ADB-BINACA"
+        "1-(2,5-Diethoxyphenyl)-2-(methylamino)ethan-1-one"
       ],
-      "dist": 33.9739405677
+      "dist": 33.8485774633
     }
   ]
 }

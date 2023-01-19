@@ -10,6 +10,7 @@
   "distances": [
     26.7740507298,
     28.8393926997,
+    29.8179934257,
     30.2688555,
     30.6856432817,
     31.0388481619,
@@ -25,12 +26,12 @@
     34.2028876619,
     34.3672310113,
     34.7179061554,
-    35.0276066487,
-    35.0516011916
+    35.0276066487
   ],
   "indices": [
     236,
     265,
+    687,
     272,
     263,
     262,
@@ -46,8 +47,7 @@
     563,
     246,
     552,
-    260,
-    561
+    260
   ],
   "name": "trip_pagoclone",
   "svg": "trip_pagoclone.svg",
@@ -71,6 +71,15 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 28.8393926997
+    },
+    {
+      "name": "isomer_Ethylbenzyl-4CN-BINACA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "Ethylbenzyl-4CN-BINACA"
+      ],
+      "dist": 29.8179934257
     },
     {
       "name": "psyc_JWH-018",
@@ -222,15 +231,6 @@
       ],
       "isomerd_names": null,
       "dist": 35.0276066487
-    },
-    {
-      "name": "trip_dipipanone",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "dipipanone"
-      ],
-      "isomerd_names": null,
-      "dist": 35.0516011916
     }
   ]
 }

@@ -25,10 +25,10 @@
     21.3349140694,
     21.647964544,
     23.0549217944,
+    23.3094640806,
     23.5015258294,
     23.9432439461,
-    24.0455348067,
-    24.7760957262
+    24.0455348067
   ],
   "indices": [
     166,
@@ -46,10 +46,10 @@
     105,
     104,
     135,
+    683,
     442,
     156,
-    99,
-    405
+    99
   ],
   "name": "trip_5-meo-dpt",
   "svg": "trip_5-meo-dpt.svg",
@@ -212,6 +212,15 @@
       "dist": 23.0549217944
     },
     {
+      "name": "isomer_BBAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "BBAT"
+      ],
+      "dist": 23.3094640806
+    },
+    {
       "name": "trip_4-meo-mipt",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -241,15 +250,6 @@
       ],
       "isomerd_names": null,
       "dist": 24.0455348067
-    },
-    {
-      "name": "trip_hot-7",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "hot-7"
-      ],
-      "isomerd_names": null,
-      "dist": 24.7760957262
     }
   ]
 }

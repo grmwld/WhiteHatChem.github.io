@@ -11,7 +11,9 @@
     18.6127119043,
     19.594492921,
     19.9870082621,
+    20.1623226983,
     20.4967462702,
+    20.5412747834,
     20.6062037043,
     20.7024616639,
     20.9719916168,
@@ -22,17 +24,17 @@
     21.5807292452,
     21.6935942165,
     21.7972110189,
+    21.914815885,
     22.0216630571,
-    22.0497795803,
-    22.1854470606,
-    22.2060586171,
-    22.5031627551
+    22.0497795803
   ],
   "indices": [
     409,
     417,
     483,
+    621,
     394,
+    620,
     343,
     344,
     461,
@@ -43,11 +45,9 @@
     385,
     458,
     151,
+    627,
     53,
-    45,
-    602,
-    434,
-    56
+    45
   ],
   "name": "trip_naproxen",
   "svg": "trip_naproxen.svg",
@@ -80,6 +80,15 @@
       "dist": 19.9870082621
     },
     {
+      "name": "isomer_2,5-DMMA-\u03b2k",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2,5-DMMA-\u03b2k"
+      ],
+      "dist": 20.1623226983
+    },
+    {
       "name": "trip_ibuprofen",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -87,6 +96,15 @@
       ],
       "isomerd_names": null,
       "dist": 20.4967462702
+    },
+    {
+      "name": "isomer_2-HO-N-Me-5-EA-\u03b2k",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-HO-N-Me-5-EA-\u03b2k"
+      ],
+      "dist": 20.5412747834
     },
     {
       "name": "trip_methedrone",
@@ -185,6 +203,15 @@
       "dist": 21.7972110189
     },
     {
+      "name": "isomer_N-Me-3,5-DMA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "N-Me-3,5-DMA"
+      ],
+      "dist": 21.914815885
+    },
+    {
       "name": "psyc_Aniracetam_trip_aniracetam",
       "psychonaut_names": [
         "Aniracetam"
@@ -203,35 +230,6 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 22.0497795803
-    },
-    {
-      "name": "isomer_4-Methylthio-N-benzylcathinone",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "4-Methylthio-N-benzylcathinone"
-      ],
-      "dist": 22.1854470606
-    },
-    {
-      "name": "trip_2-mppp",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "2-mppp"
-      ],
-      "isomerd_names": null,
-      "dist": 22.2060586171
-    },
-    {
-      "name": "psyc_5-MAPB_trip_5-mapb",
-      "psychonaut_names": [
-        "5-MAPB"
-      ],
-      "tripsit_names": [
-        "5-mapb"
-      ],
-      "isomerd_names": null,
-      "dist": 22.5031627551
     }
   ]
 }

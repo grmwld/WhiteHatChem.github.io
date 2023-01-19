@@ -9,13 +9,13 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "DTXSID301016300",
-    "HA76076A0R",
-    "Q27279820",
     "N-PROPIONYL-6-ETHYL-6-NOR-LYSERGIC ACID DIETHYLAMIDE",
+    "1-propionyl-eth-lad",
+    "DTXSID301016300",
     "1-Propionyl-6-ethyl-6-nor-lysergic acid diethyamide",
     "1pethlad",
-    "1-propionyl-eth-lad"
+    "Q27279820",
+    "HA76076A0R"
   ],
   "distances": [
     8.5277821406,

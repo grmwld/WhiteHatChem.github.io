@@ -7,8 +7,8 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "vistaril",
-    "atarax"
+    "atarax",
+    "vistaril"
   ],
   "distances": [
     23.4808817262,
@@ -33,7 +33,7 @@
   ],
   "indices": [
     518,
-    609,
+    686,
     552,
     248,
     242,
@@ -42,9 +42,9 @@
     556,
     257,
     557,
-    608,
+    685,
     239,
-    607,
+    684,
     249,
     563,
     561,

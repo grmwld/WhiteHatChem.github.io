@@ -24,9 +24,9 @@
     30.5309901153,
     30.5983082821,
     30.6354046021,
+    30.7079274234,
     30.8103457427,
-    31.0124585128,
-    31.0952830181
+    31.0124585128
   ],
   "indices": [
     474,
@@ -39,15 +39,15 @@
     511,
     510,
     518,
-    608,
+    685,
     204,
     449,
-    607,
+    684,
     527,
     475,
+    678,
     248,
-    542,
-    472
+    542
   ],
   "name": "trip_flutazolam",
   "svg": "trip_flutazolam.svg",
@@ -200,6 +200,15 @@
       "dist": 30.6354046021
     },
     {
+      "name": "isomer_3-Fluoro_4-ANBP",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3-Fluoro 4-ANBP"
+      ],
+      "dist": 30.7079274234
+    },
+    {
       "name": "psyc_Quetiapine_trip_quetiapine",
       "psychonaut_names": [
         "Quetiapine"
@@ -218,15 +227,6 @@
       ],
       "isomerd_names": null,
       "dist": 31.0124585128
-    },
-    {
-      "name": "trip_halazepam",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "halazepam"
-      ],
-      "isomerd_names": null,
-      "dist": 31.0952830181
     }
   ]
 }

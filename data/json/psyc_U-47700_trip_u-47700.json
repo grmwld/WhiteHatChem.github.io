@@ -9,33 +9,33 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "ZINC27617652",
-    "U-47,700",
-    "SCHEMBL11054573",
-    "rel-3,4-Dichloro-N-[(1R,2R)-2-(dimethylamino)cyclohexyl]-N-methylbenzamide",
-    "compound 1 [PMID: 2999404]",
+    "GTPL9282",
     "6IY4WX208T",
-    "AKOS030530121",
-    "J3.624.992G",
-    "u47700",
-    "CHEMBL277572",
-    "Benzamide, 3,4-dichloro-N-(2-(dimethylamino)cyclohexyl)-N-methyl-, trans-",
+    "U-47,700",
     "HSDB 8388",
-    "U4 [Street Name]",
-    "DEA No. 9547",
-    "DTXSID601342914",
-    "U 47700",
+    "compound 1 [PMID: 2999404]",
     "UNII-6IY4WX208T",
     "Fake morphine",
-    "U47700",
-    "Pinky [Street Name]",
-    "U4",
-    "3,4-dichloro-N-[(1R,2R)-2-(dimethylamino)cyclohexyl]-N-methylbenzamide",
-    "Pinky",
-    "82657-23-6",
+    "ZINC27617652",
+    "SCHEMBL11054573",
+    "u47700",
     "U-47700 solution, 1.0 mg/mL in methanol, ampule of 1 mL, certified reference material",
-    "GTPL9282",
-    "N-Methyl-N-((1R,2R)-2alpha-(dimethylamino)cyclohexyl)-3,4-dichlorobenzamide"
+    "Pinky",
+    "U4 [Street Name]",
+    "U4",
+    "DTXSID601342914",
+    "U47700",
+    "CHEMBL277572",
+    "3,4-dichloro-N-[(1R,2R)-2-(dimethylamino)cyclohexyl]-N-methylbenzamide",
+    "N-Methyl-N-((1R,2R)-2alpha-(dimethylamino)cyclohexyl)-3,4-dichlorobenzamide",
+    "U 47700",
+    "Benzamide, 3,4-dichloro-N-(2-(dimethylamino)cyclohexyl)-N-methyl-, trans-",
+    "AKOS030530121",
+    "J3.624.992G",
+    "Pinky [Street Name]",
+    "82657-23-6",
+    "rel-3,4-Dichloro-N-[(1R,2R)-2-(dimethylamino)cyclohexyl]-N-methylbenzamide",
+    "DEA No. 9547"
   ],
   "distances": [
     7.7551405071,
@@ -47,16 +47,16 @@
     32.0101130718,
     32.3600577849,
     33.4220503151,
+    33.5857694009,
     33.606872437,
+    33.7957137601,
     34.449385072,
+    34.6846458567,
     35.0551602166,
     35.0953343782,
     35.1619769641,
     35.1638932664,
-    35.1712329184,
-    35.205500225,
-    35.3637125184,
-    35.455301002
+    35.1712329184
   ],
   "indices": [
     489,
@@ -67,17 +67,17 @@
     487,
     459,
     501,
-    601,
+    671,
+    665,
     97,
+    618,
     486,
+    654,
     127,
     153,
     179,
-    603,
-    384,
-    249,
-    441,
-    79
+    676,
+    384
   ],
   "name": "psyc_U-47700_trip_u-47700",
   "svg": "psyc_U-47700_trip_u-47700.svg",
@@ -168,6 +168,15 @@
       "dist": 33.4220503151
     },
     {
+      "name": "isomer_PEAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "PEAT"
+      ],
+      "dist": 33.5857694009
+    },
+    {
       "name": "psyc_3,4-CTMP_trip_3,4-ctmp",
       "psychonaut_names": [
         "3,4-CTMP"
@@ -179,6 +188,15 @@
       "dist": 33.606872437
     },
     {
+      "name": "isomer_MMAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "MMAT"
+      ],
+      "dist": 33.7957137601
+    },
+    {
       "name": "trip_5-dbfpv",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -186,6 +204,15 @@
       ],
       "isomerd_names": null,
       "dist": 34.449385072
+    },
+    {
+      "name": "isomer_EEAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "EEAT"
+      ],
+      "dist": 34.6846458567
     },
     {
       "name": "psyc_Dichloropane",
@@ -235,35 +262,6 @@
       ],
       "isomerd_names": null,
       "dist": 35.1712329184
-    },
-    {
-      "name": "psyc_Acetylfentanyl_trip_acetylfentanyl",
-      "psychonaut_names": [
-        "Acetylfentanyl"
-      ],
-      "tripsit_names": [
-        "acetylfentanyl"
-      ],
-      "isomerd_names": null,
-      "dist": 35.205500225
-    },
-    {
-      "name": "trip_ketobemidone",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "ketobemidone"
-      ],
-      "isomerd_names": null,
-      "dist": 35.3637125184
-    },
-    {
-      "name": "psyc_N-Methyl-Cyclazodone",
-      "psychonaut_names": [
-        "N-Methyl-Cyclazodone"
-      ],
-      "tripsit_names": null,
-      "isomerd_names": null,
-      "dist": 35.455301002
     }
   ]
 }

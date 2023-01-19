@@ -27,8 +27,8 @@
     27.8358432148,
     27.8841072566,
     27.8967594357,
-    28.3769670384,
-    28.3791092237
+    28.2154264637,
+    28.3769670384
   ],
   "indices": [
     257,
@@ -43,13 +43,13 @@
     251,
     543,
     539,
-    609,
+    686,
     563,
     549,
     542,
     517,
-    608,
-    244
+    688,
+    685
   ],
   "name": "trip_dipipanone",
   "svg": "trip_dipipanone.svg",
@@ -216,6 +216,15 @@
       "dist": 27.8967594357
     },
     {
+      "name": "isomer_3F-Cyclopropylbenzylfentanyl",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3F-Cyclopropylbenzylfentanyl"
+      ],
+      "dist": 28.2154264637
+    },
+    {
       "name": "isomer_Despropionyl_3-FF",
       "psychonaut_names": null,
       "tripsit_names": null,
@@ -223,15 +232,6 @@
         "Despropionyl 3-FF"
       ],
       "dist": 28.3769670384
-    },
-    {
-      "name": "psyc_Haloperidol",
-      "psychonaut_names": [
-        "Haloperidol"
-      ],
-      "tripsit_names": null,
-      "isomerd_names": null,
-      "dist": 28.3791092237
     }
   ]
 }

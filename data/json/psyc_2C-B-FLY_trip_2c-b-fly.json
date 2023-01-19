@@ -9,83 +9,83 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "AKOS015950994",
-    "DTXSID301342541",
-    "8-Bromo-2,3,6,7-tetrahydrobenzo(1,2-b:4,5-b')difuran-4-ethanamine",
-    "2-(8-bromo-2,3,6,7-tetrahydrobenzo[1,2-b:4,5-b']difuran-4-yl)ethanamine",
-    "733720-95-1",
-    "2-(8-Bromo-2,3,6,7-tetrahydro-benzo[1,2-b;4,5-b'']difuran-4-yl)-ethylamine",
     "A812382",
-    "BDBM50052339",
-    "2C-B-FLY [NFLIS-DRUG]",
-    "SCHEMBL2761511",
+    "2-(8-Bromo-2,3,6,7-tetrahydrobenzo-[1,2-b:4,5-b']difuran-4-yl)ethanamine",
+    "Q4633042",
+    "A936752",
+    "DTXSID301342541",
+    "178557-21-6",
+    "2-(8-bromo-2,3,6,7-tetrahydrofuro [2,3-f][1]benzofuran-4-yl)ethanamine",
+    "FT-0666089",
+    "F11197",
+    "2cbfly",
+    "8-Bromo-2,3,6,7-tetrahydrobenzo(1,2-b:4,5-b')difuran-4-ethanamine",
+    "Z1T18Z40OT",
+    "8-Bromo-2,3,6,7-benzo-dihydro-difuran-ethylamine",
+    "2-(8-Bromo-2,3,6,7-tetrahydrobenzo[1,2-b:4,5-b']difuran-4-yl)ethan-1-amine hydrochloride",
+    "2-(4-bromo-2,3,6,7-tetrahydrofuro[2,3-f]benzofuran-8-yl)ethanamine",
+    "8-Bromo-2,3,6,7-benzo-dihydro-difuranethylamine",
+    "CHEMBL101189",
+    "Desmethyl-8-bromo Dragonfly Hydrochloride",
+    "733720-95-1",
+    "2-(8-bromo-2,3,6,7-tetrahydrobenzo[1,2-b:4,5-b']difuran-4-yl)ethanamine",
     "2-(4-bromanyl-2,3,6,7-tetrahydrofuro[2,3-f][1]benzofuran-8-yl)ethanamine",
     "ZINC13757088",
+    "8-Bromo-2,3,6,7-tetrahydrobenzo[1,2-b:4,5-b']difuran-4-(ethanamine)",
+    "SCHEMBL2761511",
+    "2C-B-FLY [NFLIS-DRUG]",
+    "2cb-fly",
+    "BDBM50052339",
+    "UNII-Z1T18Z40OT",
     "2-(4-Bromo-2,3,6,7-tetrahydrofuro(2,3-f)(1)benzofuran-8-yl)ethanamine",
+    "AKOS015950994",
+    "2-(8-Bromo-2,3,6,7-tetrahydro-benzo[1,2-b;4,5-b'']difuran-4-yl)-ethylamine",
     "Benzo(1,2-b:4,5-b')difuran-4-ethanamine, 8-bromo-2,3,6,7-tetrahydro-",
     "2-(4-bromo-2,3,6,7-tetrahydrofuro[2,3-f][1]benzofuran-8-yl)ethanamine",
-    "UNII-Z1T18Z40OT",
-    "CHEMBL101189",
-    "2-(8-Bromo-2,3,6,7-tetrahydrobenzo[1,2-b:4,5-b']difuran-4-yl)ethan-1-amine hydrochloride",
-    "2-(8-bromo-2,3,6,7-tetrahydrofuro [2,3-f][1]benzofuran-4-yl)ethanamine",
     "Benzo[1,2-b:4,5-b']difuran-4-ethanamine, 8-bromo-2,3,6,7-tetrahydro-",
-    "FT-0666089",
-    "2cb-fly",
-    "8-Bromo-2,3,6,7-benzo-dihydro-difuranethylamine",
-    "Desmethyl-8-bromo Dragonfly Hydrochloride",
-    "2CB-FLY",
-    "8-Bromo-2,3,6,7-tetrahydrobenzo[1,2-b:4,5-b']difuran-4-(ethanamine)",
-    "178557-21-6",
-    "A936752",
-    "Z1T18Z40OT",
-    "F11197",
-    "8-Bromo-2,3,6,7-benzo-dihydro-difuran-ethylamine",
-    "Q4633042",
-    "2-(8-Bromo-2,3,6,7-tetrahydrobenzo-[1,2-b:4,5-b']difuran-4-yl)ethanamine",
-    "2cbfly",
-    "2-(4-bromo-2,3,6,7-tetrahydrofuro[2,3-f]benzofuran-8-yl)ethanamine"
+    "2CB-FLY"
   ],
   "distances": [
     23.6070107085,
+    24.7729533716,
+    25.3375322309,
     25.3387209869,
     25.3387209869,
+    25.6098349753,
+    25.6888804564,
     25.8091657577,
     26.8147614777,
     27.1450087763,
+    27.5772828749,
+    27.6955857709,
     27.7106522663,
+    27.7371147414,
     27.7532077344,
+    27.8537867275,
+    28.2127829291,
     28.3027628814,
-    28.654319174,
-    28.9358378977,
-    29.2013400672,
-    29.2474030214,
-    29.2918922846,
-    29.4236486288,
-    29.570095772,
-    29.6018728128,
-    29.6833662829,
-    29.9290971212
+    28.654319174
   ],
   "indices": [
     0,
-    341,
+    637,
+    590,
     33,
+    341,
+    653,
+    619,
     39,
     9,
     375,
+    618,
+    603,
     363,
+    592,
     371,
+    654,
+    638,
     65,
-    327,
-    38,
-    396,
-    353,
-    374,
-    57,
-    26,
-    30,
-    366,
-    411
+    327
   ],
   "name": "psyc_2C-B-FLY_trip_2c-b-fly",
   "svg": "psyc_2C-B-FLY_trip_2c-b-fly.svg",
@@ -102,13 +102,22 @@
       "dist": 23.6070107085
     },
     {
-      "name": "trip_5-apdb",
+      "name": "isomer_PHAT",
       "psychonaut_names": null,
-      "tripsit_names": [
-        "5-apdb"
+      "tripsit_names": null,
+      "isomerd_names": [
+        "PHAT"
       ],
-      "isomerd_names": null,
-      "dist": 25.3387209869
+      "dist": 24.7729533716
+    },
+    {
+      "name": "isomer_3-Bromosafrole",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3-Bromosafrole"
+      ],
+      "dist": 25.3375322309
     },
     {
       "name": "psyc_6-APDB_trip_6-apdb",
@@ -120,6 +129,33 @@
       ],
       "isomerd_names": null,
       "dist": 25.3387209869
+    },
+    {
+      "name": "trip_5-apdb",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "5-apdb"
+      ],
+      "isomerd_names": null,
+      "dist": 25.3387209869
+    },
+    {
+      "name": "isomer_BHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "BHAT"
+      ],
+      "dist": 25.6098349753
+    },
+    {
+      "name": "isomer_EHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "EHAT"
+      ],
+      "dist": 25.6888804564
     },
     {
       "name": "psyc_MMDA",
@@ -151,6 +187,24 @@
       "dist": 27.1450087763
     },
     {
+      "name": "isomer_MMAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "MMAT"
+      ],
+      "dist": 27.5772828749
+    },
+    {
+      "name": "isomer_MHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "MHAT"
+      ],
+      "dist": 27.6955857709
+    },
+    {
       "name": "trip_5-apdi",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -160,6 +214,15 @@
       "dist": 27.7106522663
     },
     {
+      "name": "isomer_HHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "HHAT"
+      ],
+      "dist": 27.7371147414
+    },
+    {
       "name": "trip_5-mapdb",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -167,6 +230,24 @@
       ],
       "isomerd_names": null,
       "dist": 27.7532077344
+    },
+    {
+      "name": "isomer_EEAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "EEAT"
+      ],
+      "dist": 27.8537867275
+    },
+    {
+      "name": "isomer_7-[(Propan-2-yl)amino]-5,6,7,8-tetrahydronaphthalen-1-ol",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "7-[(Propan-2-yl)amino]-5,6,7,8-tetrahydronaphthalen-1-ol"
+      ],
+      "dist": 28.2127829291
     },
     {
       "name": "psyc_MDEA_trip_mdea",
@@ -187,93 +268,6 @@
       ],
       "isomerd_names": null,
       "dist": 28.654319174
-    },
-    {
-      "name": "psyc_MDMA_trip_mdma",
-      "psychonaut_names": [
-        "MDMA"
-      ],
-      "tripsit_names": [
-        "mdma"
-      ],
-      "isomerd_names": null,
-      "dist": 28.9358378977
-    },
-    {
-      "name": "trip_mdpa",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "mdpa"
-      ],
-      "isomerd_names": null,
-      "dist": 29.2013400672
-    },
-    {
-      "name": "trip_mephtetramine",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "mephtetramine"
-      ],
-      "isomerd_names": null,
-      "dist": 29.2474030214
-    },
-    {
-      "name": "trip_mbdb",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "mbdb"
-      ],
-      "isomerd_names": null,
-      "dist": 29.2918922846
-    },
-    {
-      "name": "psyc_Ethylone_trip_ethylone",
-      "psychonaut_names": [
-        "Ethylone"
-      ],
-      "tripsit_names": [
-        "ethylone"
-      ],
-      "isomerd_names": null,
-      "dist": 29.4236486288
-    },
-    {
-      "name": "psyc_Myristicin",
-      "psychonaut_names": [
-        "Myristicin"
-      ],
-      "tripsit_names": null,
-      "isomerd_names": null,
-      "dist": 29.570095772
-    },
-    {
-      "name": "psyc_3-FPM_trip_3-fpm",
-      "psychonaut_names": [
-        "3-FPM"
-      ],
-      "tripsit_names": [
-        "3-fpm"
-      ],
-      "isomerd_names": null,
-      "dist": 29.6018728128
-    },
-    {
-      "name": "trip_phenetrazine",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "phenetrazine"
-      ],
-      "isomerd_names": null,
-      "dist": 29.6833662829
-    },
-    {
-      "name": "trip_4-ho-mpmi",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "4-ho-mpmi"
-      ],
-      "isomerd_names": null,
-      "dist": 29.9290971212
     }
   ]
 }

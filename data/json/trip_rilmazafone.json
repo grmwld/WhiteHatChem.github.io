@@ -15,6 +15,7 @@
     37.3832802674,
     37.7368933554,
     37.8860467595,
+    38.6734374684,
     38.7207219912,
     38.8117027017,
     39.3641912248,
@@ -27,8 +28,7 @@
     41.6056358041,
     41.8425072164,
     41.9681348266,
-    42.3848350612,
-    42.6080241925
+    42.3848350612
   ],
   "indices": [
     236,
@@ -36,6 +36,7 @@
     265,
     263,
     262,
+    687,
     272,
     482,
     529,
@@ -48,8 +49,7 @@
     560,
     496,
     244,
-    563,
-    557
+    563
   ],
   "name": "trip_rilmazafone",
   "svg": "trip_rilmazafone.svg",
@@ -102,6 +102,15 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 37.8860467595
+    },
+    {
+      "name": "isomer_Ethylbenzyl-4CN-BINACA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "Ethylbenzyl-4CN-BINACA"
+      ],
+      "dist": 38.6734374684
     },
     {
       "name": "psyc_JWH-018",
@@ -219,15 +228,6 @@
       ],
       "isomerd_names": null,
       "dist": 42.3848350612
-    },
-    {
-      "name": "trip_butyrfentanyl",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "butyrfentanyl"
-      ],
-      "isomerd_names": null,
-      "dist": 42.6080241925
     }
   ]
 }

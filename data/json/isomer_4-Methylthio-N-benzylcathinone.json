@@ -18,6 +18,7 @@
     19.2008292655,
     22.0309757297,
     22.1854470606,
+    22.5123358924,
     23.1714206273,
     24.4708127922,
     24.6211430196,
@@ -29,8 +30,7 @@
     25.4198701768,
     25.546530961,
     26.8190733493,
-    26.831641987,
-    27.064288426
+    26.831641987
   ],
   "indices": [
     483,
@@ -39,19 +39,19 @@
     151,
     461,
     407,
+    679,
     502,
     409,
     189,
     390,
     417,
     217,
-    604,
+    677,
     434,
     519,
     517,
     357,
-    359,
-    496
+    359
   ],
   "name": "isomer_4-Methylthio-N-benzylcathinone",
   "svg": "isomer_4-Methylthio-N-benzylcathinone.svg",
@@ -111,6 +111,15 @@
       ],
       "isomerd_names": null,
       "dist": 22.1854470606
+    },
+    {
+      "name": "isomer_PRL-8-53",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "PRL-8-53"
+      ],
+      "dist": 22.5123358924
     },
     {
       "name": "trip_prl-8-53",
@@ -219,15 +228,6 @@
       ],
       "isomerd_names": null,
       "dist": 26.831641987
-    },
-    {
-      "name": "trip_amfonelicacid",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "amfonelicacid"
-      ],
-      "isomerd_names": null,
-      "dist": 27.064288426
     }
   ]
 }

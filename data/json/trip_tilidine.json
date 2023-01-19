@@ -27,16 +27,16 @@
     27.4138109136,
     27.7384493046,
     27.7754449433,
+    27.8030674402,
     27.8169073492,
     28.1509494005,
     28.1783240157,
-    28.6454450731,
-    28.7268939504
+    28.6454450731
   ],
   "indices": [
     133,
     168,
-    601,
+    671,
     441,
     162,
     140,
@@ -48,11 +48,11 @@
     415,
     466,
     100,
+    665,
     131,
     410,
     128,
-    440,
-    153
+    440
   ],
   "name": "trip_tilidine",
   "svg": "trip_tilidine.svg",
@@ -196,6 +196,15 @@
       "dist": 27.7754449433
     },
     {
+      "name": "isomer_PEAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "PEAT"
+      ],
+      "dist": 27.8030674402
+    },
+    {
       "name": "psyc_Ethylphenidate_trip_ethylphenidate",
       "psychonaut_names": [
         "Ethylphenidate"
@@ -234,17 +243,6 @@
       ],
       "isomerd_names": null,
       "dist": 28.6454450731
-    },
-    {
-      "name": "psyc_Troparil_trip_troparil",
-      "psychonaut_names": [
-        "Troparil"
-      ],
-      "tripsit_names": [
-        "troparil"
-      ],
-      "isomerd_names": null,
-      "dist": 28.7268939504
     }
   ]
 }

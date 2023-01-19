@@ -8,8 +8,8 @@
   "isod_ids": null,
   "synonyms": [
     "tpa",
-    "normethiopropamine",
-    "a-methyl-2-thipheneethanamine"
+    "a-methyl-2-thipheneethanamine",
+    "normethiopropamine"
   ],
   "distances": [
     11.7519120629,
@@ -22,15 +22,15 @@
     17.7058071115,
     17.8174926186,
     18.376485544,
+    19.2249045341,
     19.4417511931,
+    19.4842457832,
+    19.6546748611,
+    19.9298023443,
     20.0147696319,
     20.1802432596,
     20.2466427881,
-    20.2761257852,
-    20.5151973311,
-    20.5961312522,
-    20.7392726883,
-    20.7392726883
+    20.2761257852
   ],
   "indices": [
     314,
@@ -41,17 +41,17 @@
     311,
     304,
     18,
-    593,
+    601,
     333,
+    596,
     578,
+    607,
+    691,
+    597,
     15,
     329,
     13,
-    297,
-    14,
-    586,
-    28,
-    27
+    297
   ],
   "name": "trip_thiopropamine",
   "svg": "trip_thiopropamine.svg",
@@ -160,6 +160,15 @@
       "dist": 18.376485544
     },
     {
+      "name": "isomer_2,6-DMePEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2,6-DMePEA"
+      ],
+      "dist": 19.2249045341
+    },
+    {
       "name": "trip_clomethiazole",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -167,6 +176,33 @@
       ],
       "isomerd_names": null,
       "dist": 19.4417511931
+    },
+    {
+      "name": "isomer_3,5-DMeA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3,5-DMeA"
+      ],
+      "dist": 19.4842457832
+    },
+    {
+      "name": "isomer_2,6-DCA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2,6-DCA"
+      ],
+      "dist": 19.6546748611
+    },
+    {
+      "name": "isomer_3,5-DMePEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3,5-DMePEA"
+      ],
+      "dist": 19.9298023443
     },
     {
       "name": "psyc_2-FMA_trip_2-fma",
@@ -207,48 +243,6 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 20.2761257852
-    },
-    {
-      "name": "psyc_4-FMA_trip_4-fma",
-      "psychonaut_names": [
-        "4-FMA"
-      ],
-      "tripsit_names": [
-        "4-fma"
-      ],
-      "isomerd_names": null,
-      "dist": 20.5151973311
-    },
-    {
-      "name": "trip_2-pta",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "2-pta"
-      ],
-      "isomerd_names": null,
-      "dist": 20.5961312522
-    },
-    {
-      "name": "psyc_5-APB_trip_5-apb",
-      "psychonaut_names": [
-        "5-APB"
-      ],
-      "tripsit_names": [
-        "5-apb"
-      ],
-      "isomerd_names": null,
-      "dist": 20.7392726883
-    },
-    {
-      "name": "psyc_6-APB_trip_6-apb",
-      "psychonaut_names": [
-        "6-APB"
-      ],
-      "tripsit_names": [
-        "6-apb"
-      ],
-      "isomerd_names": null,
-      "dist": 20.7392726883
     }
   ]
 }

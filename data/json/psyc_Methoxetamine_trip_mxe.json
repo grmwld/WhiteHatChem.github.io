@@ -9,30 +9,30 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "Mexxy",
-    "MXE",
-    "methoxetamine",
-    "3-MeO-2\u2032-Oxo-PCE",
     "3-MeO-2-Oxo-PCE",
-    "2-(3-methoxyphenyl)-2-(ethylamino)cyclohexanone",
-    "cyclohexanone, 2-(ethylamino)-2-(3-methoxyphenyl)-",
-    "(+/-)-2-(3-METHOXYPHENYL)-2-(ETHYLAMINO)CYCLOHEXANONE",
-    "DTXSID301009327",
-    "BCP22776",
-    "2-(ethylaMino)-2-(3-Methoxyphenyl)-1-cyclohexanone",
-    "2-(3-methoxyphenyl)-2-(N-ethylamino)cyclohexanone",
-    "(RS)-2-(3-METHOXYPHENYL)-2-(ETHYLAMINO)CYCLOHEXANONE",
-    "2-(Ethylamino)-2-(3-methoxyphenyl)cyclohexanone",
-    "ZO5ZCE6E12",
-    "3-meo-2'oxo-pce",
+    "3-MeO-2\u2032-Oxo-PCE",
+    "UNII-ZO5ZCE6E12",
     "1239943-76-0",
-    "2-(ethylamino)-2-(3-methoxyphenyl)cyclohexan-1-one",
-    "SCHEMBL18360342",
-    "(RS)2-(3-Methoxyphenyl)-2-(ethylamino)cyclohexanone",
+    "(RS)-2-(3-METHOXYPHENYL)-2-(ETHYLAMINO)CYCLOHEXANONE",
+    "2-(ethylaMino)-2-(3-Methoxyphenyl)-1-cyclohexanone",
+    "2-(Ethylamino)-2-(3-methoxyphenyl)cyclohexanone",
+    "methoxetamine",
     "Q903303",
+    "3-meo-2'oxo-pce",
+    "(+/-)-2-(3-METHOXYPHENYL)-2-(ETHYLAMINO)CYCLOHEXANONE",
+    "2-(3-methoxyphenyl)-2-(N-ethylamino)cyclohexanone",
+    "ZO5ZCE6E12",
+    "2-(3-methoxyphenyl)-2-(ethylamino)cyclohexanone",
+    "BCP22776",
+    "SCHEMBL18360342",
+    "MXE",
+    "2-(ethylamino)-2-(3-methoxyphenyl)cyclohexan-1-one",
     "BCP9000081",
+    "(RS)2-(3-Methoxyphenyl)-2-(ethylamino)cyclohexanone",
     "AKOS026673958",
-    "UNII-ZO5ZCE6E12"
+    "cyclohexanone, 2-(ethylamino)-2-(3-methoxyphenyl)-",
+    "DTXSID301009327",
+    "Mexxy"
   ],
   "distances": [
     8.0604836952,
@@ -53,7 +53,7 @@
     18.6027395877,
     20.4587665002,
     21.4786284928,
-    22.6912270419
+    22.5224341554
   ],
   "indices": [
     162,
@@ -74,7 +74,7 @@
     376,
     53,
     168,
-    383
+    637
   ],
   "name": "psyc_Methoxetamine_trip_mxe",
   "svg": "psyc_Methoxetamine_trip_mxe.svg",
@@ -262,13 +262,13 @@
       "dist": 21.4786284928
     },
     {
-      "name": "trip_glutethimide",
+      "name": "isomer_PHAT",
       "psychonaut_names": null,
-      "tripsit_names": [
-        "glutethimide"
+      "tripsit_names": null,
+      "isomerd_names": [
+        "PHAT"
       ],
-      "isomerd_names": null,
-      "dist": 22.6912270419
+      "dist": 22.5224341554
     }
   ]
 }

@@ -16,17 +16,17 @@
     20.8813678828,
     22.0777497148,
     22.2238856308,
+    22.406249319,
     23.9258102678,
     25.0252289692,
     25.1351437565,
     26.2897508732,
     27.2246580665,
+    27.5436786911,
     27.5669329273,
     27.8358432148,
     28.1692815466,
-    28.8667540563,
-    29.2227322236,
-    29.3448742213
+    28.8667540563
   ],
   "indices": [
     249,
@@ -37,17 +37,17 @@
     556,
     560,
     563,
-    609,
-    608,
-    607,
+    688,
+    686,
+    685,
+    684,
     565,
     261,
+    678,
     242,
     561,
     519,
-    244,
-    517,
-    542
+    244
   ],
   "name": "trip_acryl-fentanyl",
   "svg": "trip_acryl-fentanyl.svg",
@@ -129,6 +129,15 @@
       "dist": 22.2238856308
     },
     {
+      "name": "isomer_3F-Cyclopropylbenzylfentanyl",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3F-Cyclopropylbenzylfentanyl"
+      ],
+      "dist": 22.406249319
+    },
+    {
       "name": "isomer_Despropionyl-4-methoxyfentanyl",
       "psychonaut_names": null,
       "tripsit_names": null,
@@ -176,6 +185,15 @@
       "dist": 27.2246580665
     },
     {
+      "name": "isomer_3-Fluoro_4-ANBP",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3-Fluoro 4-ANBP"
+      ],
+      "dist": 27.5436786911
+    },
+    {
       "name": "psyc_Methoxphenidine_trip_methoxphenidine",
       "psychonaut_names": [
         "Methoxphenidine"
@@ -212,24 +230,6 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 28.8667540563
-    },
-    {
-      "name": "trip_pyrophenidone",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "pyrophenidone"
-      ],
-      "isomerd_names": null,
-      "dist": 29.2227322236
-    },
-    {
-      "name": "trip_hydroxyzine",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "hydroxyzine"
-      ],
-      "isomerd_names": null,
-      "dist": 29.3448742213
     }
   ]
 }

@@ -16,6 +16,7 @@
     27.1754912415,
     27.2286618183,
     27.3117614227,
+    28.2156665761,
     28.2623728436,
     28.6108256732,
     28.904707518,
@@ -24,19 +25,19 @@
     29.0538556112,
     29.3845666769,
     29.5326347228,
-    29.5475783645,
-    29.9180562185,
-    30.6604774974
+    29.5334624254,
+    29.5475783645
   ],
   "indices": [
     239,
     542,
-    609,
-    608,
-    607,
+    686,
+    685,
+    684,
     244,
     248,
     550,
+    678,
     257,
     552,
     249,
@@ -45,9 +46,8 @@
     180,
     511,
     557,
-    509,
-    242,
-    562
+    688,
+    509
   ],
   "name": "trip_trazodone",
   "svg": "trip_trazodone.svg",
@@ -125,6 +125,15 @@
       ],
       "isomerd_names": null,
       "dist": 27.3117614227
+    },
+    {
+      "name": "isomer_3-Fluoro_4-ANBP",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3-Fluoro 4-ANBP"
+      ],
+      "dist": 28.2156665761
     },
     {
       "name": "psyc_Fentanyl_trip_fentanyl",
@@ -206,6 +215,15 @@
       "dist": 29.5326347228
     },
     {
+      "name": "isomer_3F-Cyclopropylbenzylfentanyl",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3F-Cyclopropylbenzylfentanyl"
+      ],
+      "dist": 29.5334624254
+    },
+    {
       "name": "trip_flutoprazepam",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -213,26 +231,6 @@
       ],
       "isomerd_names": null,
       "dist": 29.5475783645
-    },
-    {
-      "name": "psyc_Methoxphenidine_trip_methoxphenidine",
-      "psychonaut_names": [
-        "Methoxphenidine"
-      ],
-      "tripsit_names": [
-        "methoxphenidine"
-      ],
-      "isomerd_names": null,
-      "dist": 29.9180562185
-    },
-    {
-      "name": "trip_mt-45",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "mt-45"
-      ],
-      "isomerd_names": null,
-      "dist": 30.6604774974
     }
   ]
 }

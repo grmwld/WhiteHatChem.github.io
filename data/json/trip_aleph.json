@@ -15,42 +15,42 @@
     11.9409513427,
     12.5371293048,
     12.6905321529,
-    13.1154203787,
     13.1605093035,
     13.1672763603,
     13.3030164009,
-    13.4086672864,
     13.4680730734,
     13.6420981539,
     13.759754397,
     14.4330598683,
-    14.5270512247,
+    14.8071531794,
     15.0164628286,
     15.356873783,
     15.4259914481,
     15.4949598424,
-    15.5721974014
+    15.5721974014,
+    15.577486842,
+    17.1604314548
   ],
   "indices": [
     401,
     70,
     399,
     47,
-    596,
     75,
     402,
     73,
-    597,
     74,
     40,
     45,
     92,
-    594,
+    605,
     43,
     403,
     71,
     400,
-    422
+    422,
+    95,
+    628
   ],
   "name": "trip_aleph",
   "svg": "trip_aleph.svg",
@@ -96,15 +96,6 @@
       "dist": 12.6905321529
     },
     {
-      "name": "isomer_4-Me-2,3-DOM",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "4-Me-2,3-DOM"
-      ],
-      "dist": 13.1154203787
-    },
-    {
       "name": "psyc_TMA-2_trip_tma-2",
       "psychonaut_names": [
         "TMA-2"
@@ -134,15 +125,6 @@
       ],
       "isomerd_names": null,
       "dist": 13.3030164009
-    },
-    {
-      "name": "isomer_4,2,3-DOET",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "4,2,3-DOET"
-      ],
-      "dist": 13.4086672864
     },
     {
       "name": "psyc_TMA",
@@ -183,13 +165,13 @@
       "dist": 14.4330598683
     },
     {
-      "name": "isomer_3,2,4-DOB",
+      "name": "isomer_4,2,3-DOB",
       "psychonaut_names": null,
       "tripsit_names": null,
       "isomerd_names": [
-        "3,2,4-DOB"
+        "4,2,3-DOB"
       ],
-      "dist": 14.5270512247
+      "dist": 14.8071531794
     },
     {
       "name": "psyc_DOI_trip_doi",
@@ -239,6 +221,26 @@
       ],
       "isomerd_names": null,
       "dist": 15.5721974014
+    },
+    {
+      "name": "psyc_3C-E_trip_3c-e",
+      "psychonaut_names": [
+        "3C-E"
+      ],
+      "tripsit_names": [
+        "3c-e"
+      ],
+      "isomerd_names": null,
+      "dist": 15.577486842
+    },
+    {
+      "name": "isomer_N-Me-2,6-DMA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "N-Me-2,6-DMA"
+      ],
+      "dist": 17.1604314548
     }
   ]
 }

@@ -7,98 +7,98 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "BDBM50005251",
-    "UNII-OIM1536TQQ",
-    "Q27092772",
-    "(+/-) -1-(2,5-Dimethoxyphenyl)-2-aminopropane",
-    "Amphetamine, 2,5-dimethoxy",
-    "OIM1536TQQ",
-    "NCGC00168269-02",
-    "DOH",
-    "BENZENEETHANAMINE, 2,5-DIMETHOXY-.ALPHA.-METHYL-, (+/-)",
-    "DMA",
-    "EINECS 220-540-2",
-    "1-(2,5-dimethoxyphenyl)propan-2-amine",
-    "Benzeneethanamine,2,5-dimethoxy-.alpha.-methyl-(.+/-.)-",
-    "(+/-)2-(2,5-Dimethoxy-phenyl)-1-methyl-ethylamine",
-    "DEA No. 7396",
-    "Benzeneethanamine, 2,5-dimethoxy-alpha-methyl-",
-    "2,5-dimethoxy-amphetamine",
-    "C-1739",
-    "NCI60_003383",
-    "NCGC00168269-01",
-    "Benzeneethanamine, 2,5-dimethoxy-.alpha.-methyl-",
-    "A819285",
-    "13641-74-2",
-    "Phenethylamine, 2,5-dimethoxy-alpha-methyl-",
-    "U-10,648",
-    "DTXSID2091540",
-    "2,5-Dimethoxy-.alpha.-methylphenethylamine",
-    "2,5-DIMETHOXYAMPHETAMINE, (+/-)",
-    "DB-002342",
-    "2801-68-5",
-    "Dimethoxyamphetamine, 2,5-",
-    "1-(2,5-Dimethoxyphenyl)-2-propanamine",
-    "2,5-Dimethoxy-alpha-methylbenzeneethanamine",
-    "L000883",
-    "SCHEMBL1740902",
-    "Benzeneethanamine, 2,5-dimethoxy-.alpha.,-methyl",
-    "Phenethylamine, 2,5-dimethoxy-.alpha.-methyl-",
-    "CHEMBL8642",
-    "2-(2-Aminopropyl)hydroquinone dimethyl ether",
-    "2-(2,5-Dimethoxy-phenyl)-1-methyl-ethylamine(2,5-DMA)",
-    "2,5-Dimethoxy-alpha-methylphenethylamine",
-    "2,5-Dimethoxyamphetamine",
-    "(+/-)-2,5-DIMETHOXYAMPHETAMINE",
-    "1-(2,5-Dimethoxyphenyl)-2-aminopropane",
-    "DB01465",
-    "2,5-DIMETHOXY-ALPHA-METHYL-BENZENEETHANAMINE",
-    "1-(2,5-Dimethoxyphenyl)isopropylamine",
-    "J46.485F",
     "Benzeneethanamine,2,5-Dimethoxy-a-Methyl-(.+/-.)-",
-    "2-(2,5-Dimethoxy-phenyl)-1-methyl-ethylamine"
+    "DB-002342",
+    "2,5-Dimethoxyamphetamine",
+    "Dimethoxyamphetamine, 2,5-",
+    "Benzeneethanamine, 2,5-dimethoxy-.alpha.,-methyl",
+    "13641-74-2",
+    "NCGC00168269-02",
+    "Amphetamine, 2,5-dimethoxy",
+    "2,5-Dimethoxy-alpha-methylbenzeneethanamine",
+    "1-(2,5-Dimethoxyphenyl)-2-propanamine",
+    "DEA No. 7396",
+    "Phenethylamine, 2,5-dimethoxy-alpha-methyl-",
+    "2-(2,5-Dimethoxy-phenyl)-1-methyl-ethylamine(2,5-DMA)",
+    "(+/-)-2,5-DIMETHOXYAMPHETAMINE",
+    "U-10,648",
+    "NCGC00168269-01",
+    "DB01465",
+    "DTXSID2091540",
+    "2801-68-5",
+    "2,5-dimethoxy-amphetamine",
+    "Benzeneethanamine, 2,5-dimethoxy-.alpha.-methyl-",
+    "(+/-)2-(2,5-Dimethoxy-phenyl)-1-methyl-ethylamine",
+    "2-(2-Aminopropyl)hydroquinone dimethyl ether",
+    "DMA",
+    "DOH",
+    "CHEMBL8642",
+    "C-1739",
+    "Phenethylamine, 2,5-dimethoxy-.alpha.-methyl-",
+    "1-(2,5-dimethoxyphenyl)propan-2-amine",
+    "2,5-Dimethoxy-alpha-methylphenethylamine",
+    "J46.485F",
+    "(+/-) -1-(2,5-Dimethoxyphenyl)-2-aminopropane",
+    "2-(2,5-Dimethoxy-phenyl)-1-methyl-ethylamine",
+    "BDBM50005251",
+    "Q27092772",
+    "2,5-DIMETHOXY-ALPHA-METHYL-BENZENEETHANAMINE",
+    "BENZENEETHANAMINE, 2,5-DIMETHOXY-.ALPHA.-METHYL-, (+/-)",
+    "Benzeneethanamine,2,5-dimethoxy-.alpha.-methyl-(.+/-.)-",
+    "1-(2,5-Dimethoxyphenyl)isopropylamine",
+    "NCI60_003383",
+    "L000883",
+    "2,5-DIMETHOXYAMPHETAMINE, (+/-)",
+    "UNII-OIM1536TQQ",
+    "OIM1536TQQ",
+    "SCHEMBL1740902",
+    "Benzeneethanamine, 2,5-dimethoxy-alpha-methyl-",
+    "A819285",
+    "1-(2,5-Dimethoxyphenyl)-2-aminopropane",
+    "EINECS 220-540-2",
+    "2,5-Dimethoxy-.alpha.-methylphenethylamine"
   ],
   "distances": [
     7.9793264773,
-    8.9631500306,
     9.3922785923,
-    9.5386685877,
+    10.4211484092,
     11.3263279825,
     11.649132404,
-    12.0646401518,
+    12.3716339774,
     12.4331255557,
+    12.4936275261,
+    12.5373800224,
     12.6539012095,
     12.6905327541,
+    12.7147813459,
     12.9020084681,
     12.9035600348,
     13.090704006,
+    13.1840410804,
     13.759754397,
-    14.2267115845,
-    14.6497530659,
-    14.9449684275,
-    15.0704188128,
-    15.1101475452
+    13.9891991505,
+    14.2267115845
   ],
   "indices": [
     70,
-    596,
     40,
-    594,
+    605,
     43,
     399,
-    597,
+    594,
     73,
+    627,
+    598,
     75,
     20,
+    628,
     46,
     74,
     92,
+    599,
     380,
-    12,
-    62,
-    11,
-    591,
-    400
+    608,
+    12
   ],
   "name": "psyc_2,5-DMA",
   "svg": "psyc_2,5-DMA.svg",
@@ -115,15 +115,6 @@
       "dist": 7.9793264773
     },
     {
-      "name": "isomer_4-Me-2,3-DOM",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "4-Me-2,3-DOM"
-      ],
-      "dist": 8.9631500306
-    },
-    {
       "name": "psyc_DOB_trip_dob",
       "psychonaut_names": [
         "DOB"
@@ -135,13 +126,13 @@
       "dist": 9.3922785923
     },
     {
-      "name": "isomer_3,2,4-DOB",
+      "name": "isomer_4,2,3-DOB",
       "psychonaut_names": null,
       "tripsit_names": null,
       "isomerd_names": [
-        "3,2,4-DOB"
+        "4,2,3-DOB"
       ],
-      "dist": 9.5386685877
+      "dist": 10.4211484092
     },
     {
       "name": "psyc_DOI_trip_doi",
@@ -164,13 +155,13 @@
       "dist": 11.649132404
     },
     {
-      "name": "isomer_4,2,3-DOET",
+      "name": "isomer_2-Br-6-MA",
       "psychonaut_names": null,
       "tripsit_names": null,
       "isomerd_names": [
-        "4,2,3-DOET"
+        "2-Br-6-MA"
       ],
-      "dist": 12.0646401518
+      "dist": 12.3716339774
     },
     {
       "name": "psyc_TMA-6_trip_tma-6",
@@ -182,6 +173,24 @@
       ],
       "isomerd_names": null,
       "dist": 12.4331255557
+    },
+    {
+      "name": "isomer_N-Me-3,5-DMA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "N-Me-3,5-DMA"
+      ],
+      "dist": 12.4936275261
+    },
+    {
+      "name": "isomer_2-Amino-1-(3,5-dimethoxyphenyl)ethan-1-ol",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-Amino-1-(3,5-dimethoxyphenyl)ethan-1-ol"
+      ],
+      "dist": 12.5373800224
     },
     {
       "name": "psyc_TMA-2_trip_tma-2",
@@ -202,6 +211,15 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 12.6905327541
+    },
+    {
+      "name": "isomer_N-Me-2,6-DMA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "N-Me-2,6-DMA"
+      ],
+      "dist": 12.7147813459
     },
     {
       "name": "psyc_2C-D_trip_2c-d",
@@ -233,6 +251,15 @@
       "dist": 13.090704006
     },
     {
+      "name": "isomer_2-Amino-1-(2,6-dimethoxyphenyl)ethan-1-ol",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-Amino-1-(2,6-dimethoxyphenyl)ethan-1-ol"
+      ],
+      "dist": 13.1840410804
+    },
+    {
       "name": "trip_aleph",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -240,6 +267,15 @@
       ],
       "isomerd_names": null,
       "dist": 13.759754397
+    },
+    {
+      "name": "isomer_N-Me-3,5-DMPEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "N-Me-3,5-DMPEA"
+      ],
+      "dist": 13.9891991505
     },
     {
       "name": "psyc_2C-C_trip_2c-c",
@@ -251,46 +287,6 @@
       ],
       "isomerd_names": null,
       "dist": 14.2267115845
-    },
-    {
-      "name": "psyc_5-MeO-aMT_trip_5-meo-amt",
-      "psychonaut_names": [
-        "5-MeO-aMT"
-      ],
-      "tripsit_names": [
-        "5-meo-amt"
-      ],
-      "isomerd_names": null,
-      "dist": 14.6497530659
-    },
-    {
-      "name": "psyc_2C-B_trip_2c-b",
-      "psychonaut_names": [
-        "2C-B"
-      ],
-      "tripsit_names": [
-        "2c-b"
-      ],
-      "isomerd_names": null,
-      "dist": 14.9449684275
-    },
-    {
-      "name": "isomer_2,3,4-MBM",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "2,3,4-MBM"
-      ],
-      "dist": 15.0704188128
-    },
-    {
-      "name": "trip_2c-ip",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "2c-ip"
-      ],
-      "isomerd_names": null,
-      "dist": 15.1101475452
     }
   ]
 }

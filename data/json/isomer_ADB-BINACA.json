@@ -10,8 +10,8 @@
   ],
   "synonyms": [
     "ADB-BINACA",
-    "ADMB-BINACA",
-    "ADB-BUTINACA"
+    "ADB-BUTINACA",
+    "ADMB-BINACA"
   ],
   "distances": [
     17.7997384384,
@@ -19,6 +19,7 @@
     28.7586625027,
     29.8286304141,
     31.3046494806,
+    31.3159898957,
     31.4681884958,
     31.7648304823,
     32.2109119194,
@@ -31,15 +32,15 @@
     34.2848889933,
     34.5213751435,
     34.5920138453,
-    34.8320958649,
-    34.8661398075
+    34.8320958649
   ],
   "indices": [
     235,
-    599,
+    664,
     236,
     534,
     260,
+    687,
     195,
     543,
     251,
@@ -52,8 +53,7 @@
     221,
     491,
     465,
-    157,
-    496
+    157
   ],
   "name": "isomer_ADB-BINACA",
   "svg": "isomer_ADB-BINACA.svg",
@@ -107,6 +107,15 @@
       ],
       "isomerd_names": null,
       "dist": 31.3046494806
+    },
+    {
+      "name": "isomer_Ethylbenzyl-4CN-BINACA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "Ethylbenzyl-4CN-BINACA"
+      ],
+      "dist": 31.3159898957
     },
     {
       "name": "psyc_Omberacetam_trip_noopept",
@@ -234,15 +243,6 @@
       ],
       "isomerd_names": null,
       "dist": 34.8320958649
-    },
-    {
-      "name": "trip_amfonelicacid",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "amfonelicacid"
-      ],
-      "isomerd_names": null,
-      "dist": 34.8661398075
     }
   ]
 }

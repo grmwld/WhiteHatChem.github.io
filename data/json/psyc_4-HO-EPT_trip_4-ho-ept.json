@@ -9,15 +9,15 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "1H-Indol-4-ol, 3-(2-(ethylpropylamino)ethyl)-",
     "DTXSID801336292",
-    "2595431-59-5",
-    "SCHEMBL22027186",
     "EN-0011",
-    "3-(2-(Ethyl(propyl)amino)ethyl)-1H-indol-4-ol",
     "UNII-Y3J8M5UX6G",
+    "SCHEMBL22027186",
+    "2595431-59-5",
+    "Y3J8M5UX6G",
+    "3-(2-(Ethyl(propyl)amino)ethyl)-1H-indol-4-ol",
     "4-hydroxy-N-ethyl-N-propyltryptamine",
-    "Y3J8M5UX6G"
+    "1H-Indol-4-ol, 3-(2-(ethylpropylamino)ethyl)-"
   ],
   "distances": [
     6.8037697384,

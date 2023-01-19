@@ -9,33 +9,33 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "b1",
-    "BUTYROPHENONE, 2-(METHYLAMINO)-3',4'-(METHYLENEDIOXY)-",
-    "butylone bk-MBDB",
-    "1-(1,3-benzodioxol-5-yl)-2-(methylamino)butan-1-one)",
-    "DTXSID001024651",
-    "UNII-X72T4EQ4FQ",
-    "1-(3,4-Methylenedioxyphenyl)-2-methylamino-1-butanone",
-    "DEA No. 7541",
-    "Butylone hydrochloride",
-    ".BETA.-KETO-N-METHYLBENZODIOXOLYLBUTANAMINE",
-    "1-(1,3-benzodioxol-5-yl)-2-(methylamino)butan-1-one",
-    "bk-mbdb",
-    "1-BUTANONE, 1-(1,3-BENZODIOXOL-5-YL)-2-(METHYLAMINO)-",
-    "J2.528.306F",
-    "X72T4EQ4FQ",
-    "Q4100204",
-    "SCHEMBL1838487",
-    "Butylone [Designer Drug]",
-    "2-methylamino-1-(3,4-methylenedioxyphenyl)butan-1-one",
     "beta-keto-N-methylbenzodioxolylbutanamine",
-    "1-Butanone, 1-(1,3-benzodioxol-5-yl)-2-(methylamino)-, hydrochloride (1:1)",
-    "bk-methyl-j",
-    "bk-MBDB",
-    "802575-11-7",
-    "beta-Keto-N-methylbenzodioxolylpropylamine, hydrochloride",
     "MDMBP",
-    "CHEBI:189244"
+    "X72T4EQ4FQ",
+    "UNII-X72T4EQ4FQ",
+    "Q4100204",
+    "bk-MBDB",
+    "1-(1,3-benzodioxol-5-yl)-2-(methylamino)butan-1-one)",
+    "DEA No. 7541",
+    "1-Butanone, 1-(1,3-benzodioxol-5-yl)-2-(methylamino)-, hydrochloride (1:1)",
+    "J2.528.306F",
+    "802575-11-7",
+    "CHEBI:189244",
+    "bk-methyl-j",
+    "Butylone hydrochloride",
+    "DTXSID001024651",
+    "beta-Keto-N-methylbenzodioxolylpropylamine, hydrochloride",
+    "BUTYROPHENONE, 2-(METHYLAMINO)-3',4'-(METHYLENEDIOXY)-",
+    "Butylone [Designer Drug]",
+    "butylone bk-MBDB",
+    "1-(1,3-benzodioxol-5-yl)-2-(methylamino)butan-1-one",
+    "1-(3,4-Methylenedioxyphenyl)-2-methylamino-1-butanone",
+    "1-BUTANONE, 1-(1,3-BENZODIOXOL-5-YL)-2-(METHYLAMINO)-",
+    "bk-mbdb",
+    "2-methylamino-1-(3,4-methylenedioxyphenyl)butan-1-one",
+    "b1",
+    ".BETA.-KETO-N-METHYLBENZODIOXOLYLBUTANAMINE",
+    "SCHEMBL1838487"
   ],
   "distances": [
     7.365153577,
@@ -51,12 +51,12 @@
     15.9023658192,
     16.2129253299,
     17.2563712475,
+    18.2746415673,
     18.3510744201,
     18.3952201606,
+    18.4774651273,
     18.5540616671,
-    18.8268193596,
-    19.1570313934,
-    19.1815060874
+    18.8268193596
   ],
   "indices": [
     85,
@@ -72,12 +72,12 @@
     389,
     327,
     355,
+    620,
     9,
     39,
+    602,
     360,
-    368,
-    395,
-    344
+    368
   ],
   "name": "psyc_Butylone_trip_butylone",
   "svg": "psyc_Butylone_trip_butylone.svg",
@@ -210,6 +210,15 @@
       "dist": 17.2563712475
     },
     {
+      "name": "isomer_2-HO-N-Me-5-EA-\u03b2k",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-HO-N-Me-5-EA-\u03b2k"
+      ],
+      "dist": 18.2746415673
+    },
+    {
       "name": "psyc_MDA_trip_mda",
       "psychonaut_names": [
         "MDA"
@@ -230,6 +239,15 @@
       "dist": 18.3952201606
     },
     {
+      "name": "isomer_4-Cl-Buphedrone",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "4-Cl-Buphedrone"
+      ],
+      "dist": 18.4774651273
+    },
+    {
       "name": "trip_4-fluoropentedrone",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -246,24 +264,6 @@
       ],
       "isomerd_names": null,
       "dist": 18.8268193596
-    },
-    {
-      "name": "trip_4-mpd",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "4-mpd"
-      ],
-      "isomerd_names": null,
-      "dist": 19.1570313934
-    },
-    {
-      "name": "trip_3-meomc",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "3-meomc"
-      ],
-      "isomerd_names": null,
-      "dist": 19.1815060874
     }
   ]
 }

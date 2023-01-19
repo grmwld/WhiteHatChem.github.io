@@ -8,12 +8,12 @@
   "isod_ids": null,
   "synonyms": [
     "DOONE",
-    "4-Methoxymethamphetamine",
     "METHYL-MA",
-    "4-MMA",
+    "4-Methoxymethamphetamine",
     "N-Methyl-4-methoxyamphetamine",
-    "4-MeO-MA",
-    "4-Methoxy-N-methylamphetamine"
+    "4-MMA",
+    "4-Methoxy-N-methylamphetamine",
+    "4-MeO-MA"
   ],
   "distances": [
     4.3265501387,
@@ -26,15 +26,15 @@
     11.8484650338,
     12.3784439997,
     12.3784439997,
+    12.7644332273,
     12.8221863395,
     12.9006838122,
     12.9279354695,
     13.1091538457,
     13.129388566,
+    13.1361060248,
     13.1799503067,
-    13.384286669,
-    13.8101600287,
-    14.1122632962
+    13.384286669
   ],
   "indices": [
     349,
@@ -47,15 +47,15 @@
     18,
     56,
     354,
+    628,
     34,
     368,
     35,
     66,
     346,
+    627,
     41,
-    36,
-    42,
-    409
+    36
   ],
   "name": "psyc_PMMA",
   "svg": "psyc_PMMA.svg",
@@ -161,6 +161,15 @@
       "dist": 12.3784439997
     },
     {
+      "name": "isomer_N-Me-2,6-DMA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "N-Me-2,6-DMA"
+      ],
+      "dist": 12.7644332273
+    },
+    {
       "name": "psyc_Mephedrone_trip_mephedrone",
       "psychonaut_names": [
         "Mephedrone"
@@ -212,6 +221,15 @@
       "dist": 13.129388566
     },
     {
+      "name": "isomer_N-Me-3,5-DMA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "N-Me-3,5-DMA"
+      ],
+      "dist": 13.1361060248
+    },
+    {
       "name": "psyc_3-FEA_trip_3-fea",
       "psychonaut_names": [
         "3-FEA"
@@ -232,26 +250,6 @@
       ],
       "isomerd_names": null,
       "dist": 13.384286669
-    },
-    {
-      "name": "psyc_2-FEA_trip_2-fea",
-      "psychonaut_names": [
-        "2-FEA"
-      ],
-      "tripsit_names": [
-        "2-fea"
-      ],
-      "isomerd_names": null,
-      "dist": 13.8101600287
-    },
-    {
-      "name": "trip_methamnetamine",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "methamnetamine"
-      ],
-      "isomerd_names": null,
-      "dist": 14.1122632962
     }
   ]
 }

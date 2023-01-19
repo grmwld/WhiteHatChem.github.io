@@ -8,9 +8,9 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "lexapro",
     "cipramil",
     "cipralex",
+    "lexapro",
     "celexa"
   ],
   "distances": [
@@ -27,12 +27,12 @@
     33.4912116067,
     33.6473173934,
     33.8068712101,
+    33.832721974,
     33.868078672,
     33.9159692291,
     33.9265078452,
     34.0342844722,
-    34.111044465,
-    34.1287146702
+    34.111044465
   ],
   "indices": [
     551,
@@ -42,18 +42,18 @@
     204,
     230,
     538,
-    608,
+    685,
     550,
     502,
     514,
     497,
-    609,
+    686,
+    679,
     217,
     237,
     193,
-    607,
-    498,
-    215
+    684,
+    498
   ],
   "name": "trip_citalopram_escitalopram",
   "svg": "trip_citalopram_escitalopram.svg",
@@ -182,6 +182,15 @@
       "dist": 33.8068712101
     },
     {
+      "name": "isomer_PRL-8-53",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "PRL-8-53"
+      ],
+      "dist": 33.832721974
+    },
+    {
       "name": "psyc_Orphenadrine",
       "psychonaut_names": [
         "Orphenadrine"
@@ -229,15 +238,6 @@
       ],
       "isomerd_names": null,
       "dist": 34.111044465
-    },
-    {
-      "name": "psyc_Alimemazine",
-      "psychonaut_names": [
-        "Alimemazine"
-      ],
-      "tripsit_names": null,
-      "isomerd_names": null,
-      "dist": 34.1287146702
     }
   ]
 }

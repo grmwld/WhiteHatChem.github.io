@@ -9,15 +9,15 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "KLF7T8YQP5",
-    "UNII-KLF7T8YQP5",
     "2-(Methylamino)-1-phenyl-1-hexanone",
     "DTXSID601336034",
-    "2-methylamino-1-(phenyl)hexan-1-one",
     ".ALPHA.-METHYLAMINO-CAPROPHENONE",
-    "alpha-Methylamino-caprophenone",
+    "KLF7T8YQP5",
+    "UNII-KLF7T8YQP5",
+    "2169446-41-5",
+    "2-methylamino-1-(phenyl)hexan-1-one",
     "1-Hexanone, 2-(methylamino)-1-phenyl-",
-    "2169446-41-5"
+    "alpha-Methylamino-caprophenone"
   ],
   "distances": [
     5.8999280246,
@@ -30,15 +30,15 @@
     12.61138847,
     13.0985521055,
     13.1310887337,
+    13.7769284209,
     13.8461713546,
     15.2241281645,
     15.331428133,
     16.1559081051,
     16.3949077237,
     16.4131458722,
-    17.5868485298,
-    17.6447400952,
-    17.9362026902
+    16.9236134264,
+    17.5868485298
   ],
   "indices": [
     63,
@@ -51,15 +51,15 @@
     340,
     390,
     368,
+    602,
     359,
     66,
     32,
     370,
     64,
     369,
-    343,
-    344,
-    36
+    620,
+    343
   ],
   "name": "psyc_Hexedrone_trip_hexedrone",
   "svg": "psyc_Hexedrone_trip_hexedrone.svg",
@@ -160,6 +160,15 @@
       "dist": 13.1310887337
     },
     {
+      "name": "isomer_4-Cl-Buphedrone",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "4-Cl-Buphedrone"
+      ],
+      "dist": 13.7769284209
+    },
+    {
       "name": "trip_4f-neb",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -220,6 +229,15 @@
       "dist": 16.4131458722
     },
     {
+      "name": "isomer_2-HO-N-Me-5-EA-\u03b2k",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-HO-N-Me-5-EA-\u03b2k"
+      ],
+      "dist": 16.9236134264
+    },
+    {
       "name": "trip_methedrone",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -227,26 +245,6 @@
       ],
       "isomerd_names": null,
       "dist": 17.5868485298
-    },
-    {
-      "name": "trip_3-meomc",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "3-meomc"
-      ],
-      "isomerd_names": null,
-      "dist": 17.6447400952
-    },
-    {
-      "name": "psyc_2-MMC_trip_2-mmc",
-      "psychonaut_names": [
-        "2-MMC"
-      ],
-      "tripsit_names": [
-        "2-mmc"
-      ],
-      "isomerd_names": null,
-      "dist": 17.9362026902
     }
   ]
 }

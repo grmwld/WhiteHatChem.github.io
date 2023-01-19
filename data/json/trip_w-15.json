@@ -11,6 +11,7 @@
     27.4699809522,
     27.5730375531,
     27.6678901616,
+    28.9745519069,
     29.3973132508,
     29.4295361026,
     29.9545890438,
@@ -25,13 +26,13 @@
     31.652153571,
     31.7895175379,
     32.0163151158,
-    32.0341747902,
-    32.3110322896
+    32.0341747902
   ],
   "indices": [
-    608,
-    609,
-    607,
+    685,
+    686,
+    684,
+    678,
     511,
     239,
     242,
@@ -46,8 +47,7 @@
     257,
     542,
     229,
-    499,
-    449
+    499
   ],
   "name": "trip_w-15",
   "svg": "trip_w-15.svg",
@@ -78,6 +78,15 @@
         "Despropionyl-4-bromofentanyl"
       ],
       "dist": 27.6678901616
+    },
+    {
+      "name": "isomer_3-Fluoro_4-ANBP",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3-Fluoro 4-ANBP"
+      ],
+      "dist": 28.9745519069
     },
     {
       "name": "trip_prazepam",
@@ -221,15 +230,6 @@
       ],
       "isomerd_names": null,
       "dist": 32.0341747902
-    },
-    {
-      "name": "trip_clobazam",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "clobazam"
-      ],
-      "isomerd_names": null,
-      "dist": 32.3110322896
     }
   ]
 }

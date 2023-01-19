@@ -7,19 +7,19 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "2-[[2-(4-ethyl-2,5-dimethoxyphenyl)ethylamino]methyl]phenol",
-    "25E-Nboh",
+    "UNII-EB0KU6R3BE",
+    "DTXSID001017254",
+    "4-Ethyl-2,5-dimethoxy-(N-(2-hydroxybenzyl))phenethylamine",
+    "2-(((4-ethyl-2,5-dimethoxyphenethyl)-amino)methyl)phenol",
     "Phenol, 2-(((2-(4-ethyl-2,5-dimethoxyphenyl)ethyl)amino)methyl)-",
-    "25E-Nboh [NFLIS-DRUG]",
+    "2-(((2-(4-Ethyl-2,5-dimethoxyphenyl)ethyl)amino)methyl)phenol",
     "2C-E-NBOH",
     "2-({[2-(4-Ethyl-2,5-dimethoxyphenyl)ethyl]amino}methyl)phenol",
     "EB0KU6R3BE",
-    "UNII-EB0KU6R3BE",
-    "DTXSID001017254",
     "1391489-79-4",
-    "4-Ethyl-2,5-dimethoxy-(N-(2-hydroxybenzyl))phenethylamine",
-    "2-(((4-ethyl-2,5-dimethoxyphenethyl)-amino)methyl)phenol",
-    "2-(((2-(4-Ethyl-2,5-dimethoxyphenyl)ethyl)amino)methyl)phenol"
+    "25E-Nboh",
+    "25E-Nboh [NFLIS-DRUG]",
+    "2-[[2-(4-ethyl-2,5-dimethoxyphenyl)ethylamino]methyl]phenol"
   ],
   "distances": [
     10.7443232962,
@@ -40,7 +40,7 @@
     20.9085088174,
     20.9397437872,
     24.7979493801,
-    26.7874949417
+    25.1903059464
   ],
   "indices": [
     532,
@@ -61,7 +61,7 @@
     500,
     546,
     502,
-    230
+    679
   ],
   "name": "psyc_25E-NBOH",
   "svg": "psyc_25E-NBOH.svg",
@@ -247,15 +247,13 @@
       "dist": 24.7979493801
     },
     {
-      "name": "psyc_Benzydamine_trip_benzydamine",
-      "psychonaut_names": [
-        "Benzydamine"
+      "name": "isomer_PRL-8-53",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "PRL-8-53"
       ],
-      "tripsit_names": [
-        "benzydamine"
-      ],
-      "isomerd_names": null,
-      "dist": 26.7874949417
+      "dist": 25.1903059464
     }
   ]
 }

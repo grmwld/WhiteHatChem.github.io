@@ -9,15 +9,15 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
+    "BCP18912",
+    "Win-32065-2",
+    "(?)-2(c)micro-Carbomethoxy-3(c)micro-phenyltropane; WIN 35,065-2; (c)micro-CPT",
     "FT-0778142",
     "BDBM50052015",
-    "BCP18912",
     "Methyl 8-methyl-3-phenyl-8-azabicyclo[3.2.1]octane-2-carboxylate",
-    "EX-A1712",
     "CHEMBL178011",
-    "(?)-2(c)micro-Carbomethoxy-3(c)micro-phenyltropane; WIN 35,065-2; (c)micro-CPT",
-    "tri carbonyl methyl (3S,5R)-8-methyl-3-phenyl-8-azabicyclo[3.2.1]octane-2-carboxylate chromiumIII",
-    "Win-32065-2"
+    "EX-A1712",
+    "tri carbonyl methyl (3S,5R)-8-methyl-3-phenyl-8-azabicyclo[3.2.1]octane-2-carboxylate chromiumIII"
   ],
   "distances": [
     16.7074573062,

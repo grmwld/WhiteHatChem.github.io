@@ -28,9 +28,9 @@
     19.7437038768,
     19.7531395843,
     19.7906893947,
+    20.0565895572,
     20.1563166181,
-    20.2896167678,
-    20.3565920189
+    20.2896167678
   ],
   "indices": [
     391,
@@ -49,9 +49,9 @@
     343,
     357,
     344,
+    602,
     390,
-    88,
-    36
+    88
   ],
   "name": "isomer_\u03b1-Ethylamino-3,3-dimethylbutyrophenone",
   "svg": "isomer_\u03b1-Ethylamino-3,3-dimethylbutyrophenone.svg",
@@ -209,6 +209,15 @@
       "dist": 19.7906893947
     },
     {
+      "name": "isomer_4-Cl-Buphedrone",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "4-Cl-Buphedrone"
+      ],
+      "dist": 20.0565895572
+    },
+    {
       "name": "trip_4-cbc",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -227,17 +236,6 @@
       ],
       "isomerd_names": null,
       "dist": 20.2896167678
-    },
-    {
-      "name": "psyc_2-MMC_trip_2-mmc",
-      "psychonaut_names": [
-        "2-MMC"
-      ],
-      "tripsit_names": [
-        "2-mmc"
-      ],
-      "isomerd_names": null,
-      "dist": 20.3565920189
     }
   ]
 }

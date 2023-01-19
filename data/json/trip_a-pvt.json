@@ -22,13 +22,13 @@
     20.6063021899,
     21.0011262138,
     21.3693547518,
+    22.1422617327,
+    22.2200060354,
     22.6686900115,
     22.8173568781,
     22.9310796,
     23.0641169614,
-    23.1962321412,
-    23.3192537972,
-    23.5991146633
+    23.1962321412
   ],
   "indices": [
     130,
@@ -39,17 +39,17 @@
     463,
     158,
     491,
-    603,
+    676,
     485,
     465,
     486,
+    653,
+    637,
     131,
     328,
     53,
     377,
-    363,
-    508,
-    101
+    363
   ],
   "name": "trip_a-pvt",
   "svg": "trip_a-pvt.svg",
@@ -169,6 +169,24 @@
       "dist": 21.3693547518
     },
     {
+      "name": "isomer_BHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "BHAT"
+      ],
+      "dist": 22.1422617327
+    },
+    {
+      "name": "isomer_PHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "PHAT"
+      ],
+      "dist": 22.2200060354
+    },
+    {
       "name": "psyc_Ethylphenidate_trip_ethylphenidate",
       "psychonaut_names": [
         "Ethylphenidate"
@@ -216,26 +234,6 @@
       ],
       "isomerd_names": null,
       "dist": 23.1962321412
-    },
-    {
-      "name": "trip_pv-9",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "pv-9"
-      ],
-      "isomerd_names": null,
-      "dist": 23.3192537972
-    },
-    {
-      "name": "psyc_Methylphenidate_trip_methylphenidate",
-      "psychonaut_names": [
-        "Methylphenidate"
-      ],
-      "tripsit_names": [
-        "methylphenidate"
-      ],
-      "isomerd_names": null,
-      "dist": 23.5991146633
     }
   ]
 }

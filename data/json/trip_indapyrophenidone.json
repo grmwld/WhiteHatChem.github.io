@@ -12,6 +12,7 @@
     18.0598894497,
     19.4016921731,
     20.8026983418,
+    21.4113061433,
     21.5309913299,
     21.6019947968,
     21.8219508817,
@@ -24,30 +25,29 @@
     24.037851367,
     24.1418714282,
     24.438745023,
-    24.6737971267,
-    25.2134370372,
-    25.3819179782
+    24.4687026061,
+    24.6737971267
   ],
   "indices": [
     517,
     242,
     229,
     519,
-    608,
+    678,
+    685,
     499,
     562,
     523,
     504,
-    607,
-    609,
+    684,
+    686,
     485,
     207,
     522,
     520,
     486,
-    181,
-    205,
-    249
+    688,
+    181
   ],
   "name": "trip_indapyrophenidone",
   "svg": "trip_indapyrophenidone.svg",
@@ -91,6 +91,15 @@
       ],
       "isomerd_names": null,
       "dist": 20.8026983418
+    },
+    {
+      "name": "isomer_3-Fluoro_4-ANBP",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3-Fluoro 4-ANBP"
+      ],
+      "dist": 21.4113061433
     },
     {
       "name": "isomer_Despropionyl_3-FF",
@@ -203,6 +212,15 @@
       "dist": 24.438745023
     },
     {
+      "name": "isomer_3F-Cyclopropylbenzylfentanyl",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3F-Cyclopropylbenzylfentanyl"
+      ],
+      "dist": 24.4687026061
+    },
+    {
       "name": "psyc_Mirtazapine",
       "psychonaut_names": [
         "Mirtazapine"
@@ -210,28 +228,6 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 24.6737971267
-    },
-    {
-      "name": "psyc_Desoxypipradrol_trip_2-dpmp",
-      "psychonaut_names": [
-        "Desoxypipradrol"
-      ],
-      "tripsit_names": [
-        "2-dpmp"
-      ],
-      "isomerd_names": null,
-      "dist": 25.2134370372
-    },
-    {
-      "name": "psyc_Acetylfentanyl_trip_acetylfentanyl",
-      "psychonaut_names": [
-        "Acetylfentanyl"
-      ],
-      "tripsit_names": [
-        "acetylfentanyl"
-      ],
-      "isomerd_names": null,
-      "dist": 25.3819179782
     }
   ]
 }

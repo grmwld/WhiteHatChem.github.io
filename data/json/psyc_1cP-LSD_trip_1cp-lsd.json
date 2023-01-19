@@ -9,15 +9,15 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "curie",
+    "1-CPA-LSD",
     "1-CYCLOPROPIONYL LSD",
+    "7UU7S6TN3J",
     "1cp",
     "1cplsd",
+    "curie",
+    "N1-(CYCLOPROPYLMETHANOYL)-LYSERGIC ACID DIETHYLAMIDE",
     "(6AR,9R)-4-(CYCLOPROPANECARBONYL)-N,N-DIETHYL-7-METHYL-4,6,6A,7,8,9-HEXAHYDROINDOLO(4,3-FG)QUINOLINE-9-CARBOXAMIDE",
-    "1-CPA-LSD",
-    "7UU7S6TN3J",
-    "1CP-LSD",
-    "N1-(CYCLOPROPYLMETHANOYL)-LYSERGIC ACID DIETHYLAMIDE"
+    "1CP-LSD"
   ],
   "distances": [
     14.420546052,
@@ -36,9 +36,9 @@
     31.9244695011,
     32.2723472114,
     35.0532623471,
+    35.6891520798,
     35.831816412,
-    35.8905365693,
-    36.1248614563
+    35.8905365693
   ],
   "indices": [
     268,
@@ -57,9 +57,9 @@
     238,
     254,
     534,
+    688,
     550,
-    556,
-    541
+    556
   ],
   "name": "psyc_1cP-LSD_trip_1cp-lsd",
   "svg": "psyc_1cP-LSD_trip_1cp-lsd.svg",
@@ -230,6 +230,15 @@
       "dist": 35.0532623471
     },
     {
+      "name": "isomer_3F-Cyclopropylbenzylfentanyl",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3F-Cyclopropylbenzylfentanyl"
+      ],
+      "dist": 35.6891520798
+    },
+    {
       "name": "trip_parafluorofentanyl",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -246,15 +255,6 @@
       ],
       "isomerd_names": null,
       "dist": 35.8905365693
-    },
-    {
-      "name": "trip_coronaridine",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "coronaridine"
-      ],
-      "isomerd_names": null,
-      "dist": 36.1248614563
     }
   ]
 }

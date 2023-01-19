@@ -22,14 +22,14 @@
     40.0865488223,
     40.1147721705,
     40.1601940549,
+    40.339919212,
     40.5601375227,
     40.6329679686,
     40.6586549298,
     40.9749619861,
     41.0121367564,
     41.5585465695,
-    41.7091646877,
-    42.4433230196
+    41.7091646877
   ],
   "indices": [
     555,
@@ -43,14 +43,14 @@
     559,
     558,
     538,
+    687,
     568,
     264,
     513,
     236,
     556,
     259,
-    560,
-    542
+    560
   ],
   "name": "trip_dramamine",
   "svg": "trip_dramamine.svg",
@@ -157,6 +157,15 @@
       "dist": 40.1601940549
     },
     {
+      "name": "isomer_Ethylbenzyl-4CN-BINACA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "Ethylbenzyl-4CN-BINACA"
+      ],
+      "dist": 40.339919212
+    },
+    {
       "name": "trip_benzodioxole-fentanyl",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -222,15 +231,6 @@
       ],
       "isomerd_names": null,
       "dist": 41.7091646877
-    },
-    {
-      "name": "trip_hydroxyzine",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "hydroxyzine"
-      ],
-      "isomerd_names": null,
-      "dist": 42.4433230196
     }
   ]
 }

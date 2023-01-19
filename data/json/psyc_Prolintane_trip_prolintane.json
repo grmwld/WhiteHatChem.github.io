@@ -9,58 +9,58 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "1-(alpha-Propylphenethyl)pyrrolidine",
-    "DTXSID70862031",
-    "1-Phenyl-2-pyrrolidinylpentane",
-    "1-[1-(Phenylmethyl)butyl]-Pyrrolidine",
-    "CHEMBL2111047",
-    "DB13438",
-    "1-(1-Benzylbutyl)pyrrolidine #",
-    "1-Phenyl-2-N-pyrrolidinopentane-",
-    "Pyrrolidine, 1-(1-(phenylmethyl)butyl)-",
     "1-(1-Benzylbutyl)-Pyrrolidine",
-    "Pyrrolidine, 1-(1-benzylbutyl)-",
-    "1-(1-Phenyl-2-pentanyl)pyrrolidine",
-    "1-(1-phenylpentan-2-yl)pyrrolidine",
-    "Prolintanum",
-    "Pyrrolidine, {1-[1-(phenylmethyl)butyl]-,} hydrochloride",
-    "Prolintan",
-    "SCHEMBL54523",
-    "Pyrrolidine, 1-[1-(phenylmethyl)butyl]-",
-    "promotil",
-    "Q1653730",
-    "Prolintane hydrochloride (Salt/Mix)",
-    "Prolintano",
-    "BRN 0144260",
-    "SP-732 (Salt/Mix)",
-    "villescon",
-    "PROLINTANE [MI]",
     "1-(.alpha.-Propylphenethyl)pyrrolidine",
-    "1-(1-Benzylbutyl)pyrrolidine",
-    "1-[1-(Phenylmethyl)butyl] pyrrolidine",
-    "Prolintano [INN-Spanish]",
-    "EINECS 207-784-5",
-    "UNII-EM4YZW677H",
-    "Pyrrolidine, 1-(.alpha.-propylphenethyl)-, hydrochloride",
-    "catovit",
-    "PROLINTANE [INN]",
-    "Prolintane [INN:BAN]",
-    "EM4YZW677H",
-    "Phenylpyrrolidinopentane",
-    "Vilescon (Salt/Mix)",
-    "Pyrrolidine, 1-(.alpha.-propylphenethyl)-",
-    "PROLINTANE [WHO-DD]",
-    "CHEBI:134898",
-    "493-92-5",
+    "BRN 0144260",
     "Catovit (Salt/Mix)",
-    "Prolintane(*hydrochloride*)",
-    "1-(alpha-Propylphenethyl)-Pyrrolidine",
+    "PROLINTANE [MI]",
     "Catovit",
-    "5-20-01-00188 (Beilstein Handbook Reference)",
-    "1-(1-Benzylbutyl)pyrrolidine-",
-    "Prolintanum [INN-Latin]",
     "NSC169914",
-    "Pyrrolidine, 1-(alpha-propylphenethyl)-"
+    "villescon",
+    "Pyrrolidine, 1-(.alpha.-propylphenethyl)-",
+    "493-92-5",
+    "Prolintano",
+    "Pyrrolidine, 1-(alpha-propylphenethyl)-",
+    "Pyrrolidine, {1-[1-(phenylmethyl)butyl]-,} hydrochloride",
+    "1-(1-Benzylbutyl)pyrrolidine",
+    "Prolintanum",
+    "PROLINTANE [INN]",
+    "Q1653730",
+    "promotil",
+    "1-Phenyl-2-N-pyrrolidinopentane-",
+    "1-(1-Benzylbutyl)pyrrolidine #",
+    "1-(1-Phenyl-2-pentanyl)pyrrolidine",
+    "SP-732 (Salt/Mix)",
+    "Prolintane [INN:BAN]",
+    "SCHEMBL54523",
+    "1-Phenyl-2-pyrrolidinylpentane",
+    "DB13438",
+    "Prolintane hydrochloride (Salt/Mix)",
+    "UNII-EM4YZW677H",
+    "Prolintan",
+    "Vilescon (Salt/Mix)",
+    "Pyrrolidine, 1-(1-(phenylmethyl)butyl)-",
+    "PROLINTANE [WHO-DD]",
+    "Phenylpyrrolidinopentane",
+    "catovit",
+    "1-[1-(Phenylmethyl)butyl]-Pyrrolidine",
+    "1-(1-Benzylbutyl)pyrrolidine-",
+    "1-(1-phenylpentan-2-yl)pyrrolidine",
+    "5-20-01-00188 (Beilstein Handbook Reference)",
+    "CHEBI:134898",
+    "Pyrrolidine, 1-(1-benzylbutyl)-",
+    "Prolintane(*hydrochloride*)",
+    "Prolintanum [INN-Latin]",
+    "CHEMBL2111047",
+    "1-(alpha-Propylphenethyl)-Pyrrolidine",
+    "Pyrrolidine, 1-[1-(phenylmethyl)butyl]-",
+    "EM4YZW677H",
+    "1-[1-(Phenylmethyl)butyl] pyrrolidine",
+    "Pyrrolidine, 1-(.alpha.-propylphenethyl)-, hydrochloride",
+    "EINECS 207-784-5",
+    "Prolintano [INN-Spanish]",
+    "DTXSID70862031",
+    "1-(alpha-Propylphenethyl)pyrrolidine"
   ],
   "distances": [
     10.8272977791,
@@ -73,15 +73,15 @@
     17.9787073294,
     19.4027837585,
     19.5731916857,
+    19.5994302161,
+    20.2029316503,
     21.1422063514,
     21.2392098352,
     21.6194983744,
     21.6944537269,
     21.8742424534,
     21.9162146615,
-    21.9492197928,
-    21.9755987613,
-    22.0363413886
+    21.9492197928
   ],
   "indices": [
     130,
@@ -92,17 +92,17 @@
     463,
     491,
     158,
-    603,
+    676,
     377,
+    653,
+    637,
     465,
     363,
     131,
     508,
     437,
     384,
-    466,
-    53,
-    485
+    466
   ],
   "name": "psyc_Prolintane_trip_prolintane",
   "svg": "psyc_Prolintane_trip_prolintane.svg",
@@ -202,6 +202,24 @@
       "dist": 19.5731916857
     },
     {
+      "name": "isomer_BHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "BHAT"
+      ],
+      "dist": 19.5994302161
+    },
+    {
+      "name": "isomer_PHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "PHAT"
+      ],
+      "dist": 20.2029316503
+    },
+    {
       "name": "trip_bk-ivp",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -265,26 +283,6 @@
       ],
       "isomerd_names": null,
       "dist": 21.9492197928
-    },
-    {
-      "name": "psyc_Aniracetam_trip_aniracetam",
-      "psychonaut_names": [
-        "Aniracetam"
-      ],
-      "tripsit_names": [
-        "aniracetam"
-      ],
-      "isomerd_names": null,
-      "dist": 21.9755987613
-    },
-    {
-      "name": "trip_5-ppdi",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "5-ppdi"
-      ],
-      "isomerd_names": null,
-      "dist": 22.0363413886
     }
   ]
 }

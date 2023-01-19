@@ -22,17 +22,17 @@
     14.0530550965,
     15.1863847488,
     15.3395353849,
+    15.9883824133,
     16.0726063324,
+    16.7270067593,
+    17.0066201279,
     17.0799913564,
     17.1762276601,
-    17.2152607839,
-    17.2152607839,
-    17.3340872576,
-    17.363151627
+    17.2152607839
   ],
   "indices": [
     31,
-    593,
+    601,
     27,
     28,
     62,
@@ -43,13 +43,13 @@
     4,
     339,
     314,
+    594,
     333,
+    691,
+    607,
     15,
     13,
-    354,
-    56,
-    14,
-    42
+    56
   ],
   "name": "trip_5-it",
   "svg": "trip_5-it.svg",
@@ -180,6 +180,15 @@
       "dist": 15.3395353849
     },
     {
+      "name": "isomer_2-Br-6-MA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-Br-6-MA"
+      ],
+      "dist": 15.9883824133
+    },
+    {
       "name": "trip_4-mta",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -187,6 +196,24 @@
       ],
       "isomerd_names": null,
       "dist": 16.0726063324
+    },
+    {
+      "name": "isomer_2,6-DCA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2,6-DCA"
+      ],
+      "dist": 16.7270067593
+    },
+    {
+      "name": "isomer_3,5-DMeA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3,5-DMeA"
+      ],
+      "dist": 17.0066201279
     },
     {
       "name": "psyc_2-FMA_trip_2-fma",
@@ -211,15 +238,6 @@
       "dist": 17.1762276601
     },
     {
-      "name": "trip_6-mapb",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "6-mapb"
-      ],
-      "isomerd_names": null,
-      "dist": 17.2152607839
-    },
-    {
       "name": "psyc_5-MAPB_trip_5-mapb",
       "psychonaut_names": [
         "5-MAPB"
@@ -229,28 +247,6 @@
       ],
       "isomerd_names": null,
       "dist": 17.2152607839
-    },
-    {
-      "name": "psyc_4-FMA_trip_4-fma",
-      "psychonaut_names": [
-        "4-FMA"
-      ],
-      "tripsit_names": [
-        "4-fma"
-      ],
-      "isomerd_names": null,
-      "dist": 17.3340872576
-    },
-    {
-      "name": "psyc_2-FEA_trip_2-fea",
-      "psychonaut_names": [
-        "2-FEA"
-      ],
-      "tripsit_names": [
-        "2-fea"
-      ],
-      "isomerd_names": null,
-      "dist": 17.363151627
     }
   ]
 }

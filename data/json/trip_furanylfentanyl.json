@@ -7,8 +7,8 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "furanyl-fentanyl",
-    "fu-f"
+    "fu-f",
+    "furanyl-fentanyl"
   ],
   "distances": [
     17.4877119246,
@@ -17,6 +17,7 @@
     18.9078414878,
     18.9300236312,
     19.7852152486,
+    21.0311970363,
     21.1853350318,
     22.0777497148,
     22.2484459495,
@@ -28,8 +29,7 @@
     29.037277992,
     29.1564928313,
     29.3339120056,
-    29.3515968109,
-    29.3858368059
+    29.3515968109
   ],
   "indices": [
     552,
@@ -38,19 +38,19 @@
     557,
     556,
     249,
+    688,
     563,
     549,
     565,
     568,
-    609,
+    686,
     542,
-    608,
+    685,
     244,
     561,
     264,
     261,
-    265,
-    607
+    265
   ],
   "name": "trip_furanylfentanyl",
   "svg": "trip_furanylfentanyl.svg",
@@ -112,6 +112,15 @@
       ],
       "isomerd_names": null,
       "dist": 19.7852152486
+    },
+    {
+      "name": "isomer_3F-Cyclopropylbenzylfentanyl",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3F-Cyclopropylbenzylfentanyl"
+      ],
+      "dist": 21.0311970363
     },
     {
       "name": "trip_valerylfentanyl",
@@ -222,15 +231,6 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 29.3515968109
-    },
-    {
-      "name": "isomer_Despropionyl-4-bromofentanyl",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "Despropionyl-4-bromofentanyl"
-      ],
-      "dist": 29.3858368059
     }
   ]
 }

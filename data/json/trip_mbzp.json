@@ -21,14 +21,14 @@
     19.5731916857,
     19.8714650207,
     21.5924893355,
+    21.7700082236,
     22.0491186956,
     22.1642525106,
+    22.7561818202,
     22.8013109332,
+    23.0407605766,
     23.0641169614,
-    23.0645019986,
-    23.2710469463,
-    23.3094483697,
-    23.4429668103
+    23.0645019986
   ],
   "indices": [
     347,
@@ -42,14 +42,14 @@
     138,
     364,
     353,
+    619,
     109,
     130,
+    637,
     384,
+    603,
     398,
-    363,
-    55,
-    437,
-    411
+    363
   ],
   "name": "trip_mbzp",
   "svg": "trip_mbzp.svg",
@@ -162,6 +162,15 @@
       "dist": 21.5924893355
     },
     {
+      "name": "isomer_EHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "EHAT"
+      ],
+      "dist": 21.7700082236
+    },
+    {
       "name": "psyc_PCE_trip_pce",
       "psychonaut_names": [
         "PCE"
@@ -184,6 +193,15 @@
       "dist": 22.1642525106
     },
     {
+      "name": "isomer_PHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "PHAT"
+      ],
+      "dist": 22.7561818202
+    },
+    {
       "name": "trip_moclobemide",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -191,6 +209,15 @@
       ],
       "isomerd_names": null,
       "dist": 22.8013109332
+    },
+    {
+      "name": "isomer_MHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "MHAT"
+      ],
+      "dist": 23.0407605766
     },
     {
       "name": "trip_a-pvt",
@@ -209,35 +236,6 @@
       ],
       "isomerd_names": null,
       "dist": 23.0645019986
-    },
-    {
-      "name": "psyc_Phenylpiracetam_trip_carphedon",
-      "psychonaut_names": [
-        "Phenylpiracetam"
-      ],
-      "tripsit_names": [
-        "carphedon"
-      ],
-      "isomerd_names": null,
-      "dist": 23.2710469463
-    },
-    {
-      "name": "trip_5-meo-pyr-t",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "5-meo-pyr-t"
-      ],
-      "isomerd_names": null,
-      "dist": 23.3094483697
-    },
-    {
-      "name": "trip_4-ho-mpmi",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "4-ho-mpmi"
-      ],
-      "isomerd_names": null,
-      "dist": 23.4429668103
     }
   ]
 }

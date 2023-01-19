@@ -11,7 +11,11 @@
   ],
   "distances": [
     17.3513136309,
+    21.5760649983,
     22.2549858079,
+    22.5118275391,
+    22.5257597225,
+    22.6367831238,
     23.1194487636,
     23.1500827335,
     23.2100276454,
@@ -24,15 +28,15 @@
     23.793580236,
     24.0327141642,
     24.0835338263,
-    24.3302360898,
-    24.343990692,
-    24.3737892828,
-    24.4431489235,
-    24.5541878727
+    24.3302360898
   ],
   "indices": [
     437,
+    637,
     53,
+    653,
+    638,
+    619,
     61,
     362,
     60,
@@ -45,11 +49,7 @@
     413,
     441,
     364,
-    388,
-    366,
-    101,
-    414,
-    440
+    388
   ],
   "name": "trip_4-ho-mpmi",
   "svg": "trip_4-ho-mpmi.svg",
@@ -64,6 +64,15 @@
       "dist": 17.3513136309
     },
     {
+      "name": "isomer_PHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "PHAT"
+      ],
+      "dist": 21.5760649983
+    },
+    {
       "name": "psyc_Aniracetam_trip_aniracetam",
       "psychonaut_names": [
         "Aniracetam"
@@ -73,6 +82,33 @@
       ],
       "isomerd_names": null,
       "dist": 22.2549858079
+    },
+    {
+      "name": "isomer_BHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "BHAT"
+      ],
+      "dist": 22.5118275391
+    },
+    {
+      "name": "isomer_7-[(Propan-2-yl)amino]-5,6,7,8-tetrahydronaphthalen-1-ol",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "7-[(Propan-2-yl)amino]-5,6,7,8-tetrahydronaphthalen-1-ol"
+      ],
+      "dist": 22.5257597225
+    },
+    {
+      "name": "isomer_EHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "EHAT"
+      ],
+      "dist": 22.6367831238
     },
     {
       "name": "psyc_Psilocin_trip_psilocin",
@@ -196,44 +232,6 @@
       ],
       "isomerd_names": null,
       "dist": 24.3302360898
-    },
-    {
-      "name": "trip_phenetrazine",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "phenetrazine"
-      ],
-      "isomerd_names": null,
-      "dist": 24.343990692
-    },
-    {
-      "name": "psyc_Methylphenidate_trip_methylphenidate",
-      "psychonaut_names": [
-        "Methylphenidate"
-      ],
-      "tripsit_names": [
-        "methylphenidate"
-      ],
-      "isomerd_names": null,
-      "dist": 24.3737892828
-    },
-    {
-      "name": "trip_focalin",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "focalin"
-      ],
-      "isomerd_names": null,
-      "dist": 24.4431489235
-    },
-    {
-      "name": "trip_4-methylmethylphenidate",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "4-methylmethylphenidate"
-      ],
-      "isomerd_names": null,
-      "dist": 24.5541878727
     }
   ]
 }

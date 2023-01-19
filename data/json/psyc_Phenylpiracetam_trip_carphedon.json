@@ -9,79 +9,83 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "2-(2-oxo-4-phenyl-pyrrolidin-1-yl)acetamide",
-    "F11808",
-    "DTXSID30868438",
-    "HMS2183I11",
-    "Carphedo",
-    "SMR000109123",
-    "Karfedon",
-    "STL511045",
-    "PHENOTROPYL",
-    "BRN 5030440",
-    "Oprea1_429090",
-    "BCP22034",
-    "99QW5JU66Y",
-    "AKOS000519394",
-    "J-500892",
-    "CCG-266708",
-    "4-Phenylpiracetam; Carphedon",
-    "4-Phenyl-2-oxopyrrolidine-1-acetamide",
-    "phenotropil",
-    "2-(2-oxo-4-phenyl-1-pyrrolidinyl)acetamide",
-    "472P709",
-    "(R,S)-2-(2-OXO-4-PHENYLPYRROLIDIN-1-YL)ACETAMIDE",
-    "F2147-9813",
-    "P2604",
     "HMS3886K15",
-    "CS-1574",
-    "1-Pyrrolidineacetamide, 2-oxo-4-phenyl-",
-    "Oprea1_208829",
-    "CHEMBL348639",
-    "2-(2-oxidanylidene-4-phenyl-pyrrolidin-1-yl)ethanamide",
-    "FONTURACETAM [MART.]",
-    "phenylpiracetam",
-    "DS-1993",
-    "s5223",
-    "Fonturacetam [INN]",
-    "EX-A735",
-    "2-Oxo-4-phenyl-1-pyrrolidineacetamide",
-    "HY-14840",
-    "4-Phenyl-2-pyrrolidone-1-acetamide",
-    "4-Phenylpiracetam",
     "AKOS016038810",
-    "MFCD01456750",
-    "DB-075328",
-    "BBL100068",
-    "2-(2-keto-4-phenyl-pyrrolidin-1-yl)acetamide",
-    "SB17150",
-    "UNII-99QW5JU66Y",
-    "2-(2-Oxo-4-phenyl-pyrrolidin-1-yl)-acetamide",
-    "SDCCGMLS-0035015.P002",
-    "(2-Oxo-4-phenylpyrrolidin-1-yl)acetamide",
-    "2-(2-oxo-4-phenylpyrrolidin-1-yl)acetamide;Phenylpiracetam",
-    "4-PHENYLPIRACETAM [WHO-DD]",
-    "A839108",
-    "2-(2-oxo-4-phenylpyrrolidin-1-yl)acetamide",
-    "77472-70-9",
     "Fonturacetam",
-    "Q420882",
-    "SCHEMBL563022",
+    "BBL100068",
+    "SDCCGMLS-0035015.P002",
+    "phenylpiracetam",
+    "F11808",
+    "Carphedo",
+    "EX-A735",
+    "2-(2-Oxo-4-phenyl-pyrrolidin-1-yl)-acetamide",
+    "2-(2-oxo-4-phenylpyrrolidin-1-yl)acetamide",
+    "s5223",
+    "2-(2-oxo-4-phenyl-1-pyrrolidinyl)acetamide",
+    "4-Phenylpiracetam",
+    "Oprea1_208829",
+    "MFCD01456750",
     "RAC-2-((4R)-2-OXO-4-PHENYLPYROLIDIN-1-YL)ACETAMIDE",
+    "77472-70-9",
     "MLS000113218",
-    "AMY38209",
-    "Carphedon",
+    "A839108",
+    "2-(2-keto-4-phenyl-pyrrolidin-1-yl)acetamide",
+    "Karfedon",
     "Carphedone",
-    "Phenotropil",
+    "Carphedon",
+    "STL511045",
+    "SMR000109123",
+    "472P709",
+    "F2147-9813",
+    "4-Phenylpiracetam; Carphedon",
+    "P2604",
     "1-Pyrrolidineacetamide, 2-oxo-4-phenyl-, (4S)-",
-    "phenypiracetam"
+    "(2-Oxo-4-phenylpyrrolidin-1-yl)acetamide",
+    "4-Phenyl-2-oxopyrrolidine-1-acetamide",
+    "SB17150",
+    "AKOS000519394",
+    "2-Oxo-4-phenyl-1-pyrrolidineacetamide",
+    "J-500892",
+    "DS-1993",
+    "Fonturacetam [INN]",
+    "1-Pyrrolidineacetamide, 2-oxo-4-phenyl-",
+    "phenypiracetam",
+    "PHENOTROPYL",
+    "2-(2-oxo-4-phenylpyrrolidin-1-yl)acetamide;Phenylpiracetam",
+    "HY-14840",
+    "CHEMBL348639",
+    "CS-1574",
+    "4-Phenyl-2-pyrrolidone-1-acetamide",
+    "BRN 5030440",
+    "2-(2-oxidanylidene-4-phenyl-pyrrolidin-1-yl)ethanamide",
+    "AMY38209",
+    "Phenotropil",
+    "CCG-266708",
+    "99QW5JU66Y",
+    "phenotropil",
+    "Oprea1_429090",
+    "UNII-99QW5JU66Y",
+    "FONTURACETAM [MART.]",
+    "(R,S)-2-(2-OXO-4-PHENYLPYRROLIDIN-1-YL)ACETAMIDE",
+    "DB-075328",
+    "4-PHENYLPIRACETAM [WHO-DD]",
+    "BCP22034",
+    "2-(2-oxo-4-phenyl-pyrrolidin-1-yl)acetamide",
+    "SCHEMBL563022",
+    "Q420882",
+    "DTXSID30868438",
+    "HMS2183I11"
   ],
   "distances": [
     19.2996534563,
+    21.2670241434,
     21.4739925197,
     21.4769411855,
     22.1755717276,
+    22.2641700457,
+    22.2642591412,
     22.6330322845,
+    22.663348834,
     22.8256557207,
     23.2710469463,
     23.3305698757,
@@ -91,18 +95,18 @@
     23.9733344398,
     24.0452200535,
     24.0698129614,
-    24.1049177162,
-    24.2498565355,
-    24.3236036662,
-    24.3553205814,
-    24.6155758557
+    24.1049177162
   ],
   "indices": [
     53,
+    637,
     413,
     353,
     412,
+    653,
+    619,
     130,
+    638,
     138,
     377,
     411,
@@ -112,11 +116,7 @@
     347,
     363,
     398,
-    366,
-    100,
-    388,
-    585,
-    101
+    366
   ],
   "name": "psyc_Phenylpiracetam_trip_carphedon",
   "svg": "psyc_Phenylpiracetam_trip_carphedon.svg",
@@ -131,6 +131,15 @@
       ],
       "isomerd_names": null,
       "dist": 19.2996534563
+    },
+    {
+      "name": "isomer_PHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "PHAT"
+      ],
+      "dist": 21.2670241434
     },
     {
       "name": "trip_\u03b1-pbp",
@@ -160,6 +169,24 @@
       "dist": 22.1755717276
     },
     {
+      "name": "isomer_BHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "BHAT"
+      ],
+      "dist": 22.2641700457
+    },
+    {
+      "name": "isomer_EHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "EHAT"
+      ],
+      "dist": 22.2642591412
+    },
+    {
       "name": "psyc_A-PVP_trip_a-pvp",
       "psychonaut_names": [
         "A-PVP"
@@ -169,6 +196,15 @@
       ],
       "isomerd_names": null,
       "dist": 22.6330322845
+    },
+    {
+      "name": "isomer_7-[(Propan-2-yl)amino]-5,6,7,8-tetrahydronaphthalen-1-ol",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "7-[(Propan-2-yl)amino]-5,6,7,8-tetrahydronaphthalen-1-ol"
+      ],
+      "dist": 22.663348834
     },
     {
       "name": "psyc_Prolintane_trip_prolintane",
@@ -261,46 +297,6 @@
       ],
       "isomerd_names": null,
       "dist": 24.1049177162
-    },
-    {
-      "name": "psyc_O-PCE_trip_o-pce",
-      "psychonaut_names": [
-        "O-PCE"
-      ],
-      "tripsit_names": [
-        "o-pce"
-      ],
-      "isomerd_names": null,
-      "dist": 24.2498565355
-    },
-    {
-      "name": "trip_methylmorphenate",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "methylmorphenate"
-      ],
-      "isomerd_names": null,
-      "dist": 24.3236036662
-    },
-    {
-      "name": "trip_aminorex",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "aminorex"
-      ],
-      "isomerd_names": null,
-      "dist": 24.3553205814
-    },
-    {
-      "name": "psyc_Methylphenidate_trip_methylphenidate",
-      "psychonaut_names": [
-        "Methylphenidate"
-      ],
-      "tripsit_names": [
-        "methylphenidate"
-      ],
-      "isomerd_names": null,
-      "dist": 24.6155758557
     }
   ]
 }

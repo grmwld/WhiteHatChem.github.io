@@ -17,6 +17,7 @@
     36.0539197846,
     36.2282582294,
     36.4848133004,
+    36.5653911784,
     37.0116954568,
     37.1394861389,
     37.4703577506,
@@ -27,8 +28,7 @@
     38.2841197904,
     38.3269529478,
     38.3925152796,
-    38.6587919789,
-    39.0863692698
+    38.6446068637
   ],
   "indices": [
     312,
@@ -38,6 +38,7 @@
     326,
     13,
     14,
+    691,
     573,
     584,
     317,
@@ -48,8 +49,7 @@
     30,
     321,
     336,
-    308,
-    6
+    592
   ],
   "name": "trip_pfbt",
   "svg": "trip_pfbt.svg",
@@ -128,6 +128,15 @@
       ],
       "isomerd_names": null,
       "dist": 36.4848133004
+    },
+    {
+      "name": "isomer_2,6-DCA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2,6-DCA"
+      ],
+      "dist": 36.5653911784
     },
     {
       "name": "trip_halothane",
@@ -228,26 +237,13 @@
       "dist": 38.3925152796
     },
     {
-      "name": "psyc_2-Aminoindane_trip_2-ai",
-      "psychonaut_names": [
-        "2-Aminoindane"
+      "name": "isomer_HHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "HHAT"
       ],
-      "tripsit_names": [
-        "2-ai"
-      ],
-      "isomerd_names": null,
-      "dist": 38.6587919789
-    },
-    {
-      "name": "psyc_MCPP_trip_mcpp",
-      "psychonaut_names": [
-        "MCPP"
-      ],
-      "tripsit_names": [
-        "mcpp"
-      ],
-      "isomerd_names": null,
-      "dist": 39.0863692698
+      "dist": 38.6446068637
     }
   ]
 }

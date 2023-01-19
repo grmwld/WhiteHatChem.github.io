@@ -7,14 +7,14 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "R(-)-N-(3-Phenyl-n-propyl)-1-phenyl-2-aminopropane hydrochloride",
-    "R(-)PPAP",
-    "(2R)-1-phenyl-N-(3-phenylpropyl)propan-2-amine;hydrochloride",
-    "131903-56-5",
-    "SCHEMBL8093047",
     "DTXSID20157247",
+    "Benzenepropanamine, N-(1-methyl-2-phenylethyl)-, hydrochloride, (R)-",
+    "R(-)PPAP",
+    "SCHEMBL8093047",
+    "131903-56-5",
+    "R(-)-N-(3-Phenyl-n-propyl)-1-phenyl-2-aminopropane hydrochloride",
     "N-(3-Phenyl-n-propyl)-1-phenyl-2-aminopropane",
-    "Benzenepropanamine, N-(1-methyl-2-phenylethyl)-, hydrochloride, (R)-"
+    "(2R)-1-phenyl-N-(3-phenylpropyl)propan-2-amine;hydrochloride"
   ],
   "distances": [
     15.9834461408,
@@ -22,6 +22,7 @@
     17.1907480951,
     18.774133232,
     20.8269681845,
+    21.0409937786,
     21.2940877097,
     21.9866396477,
     23.3091839025,
@@ -34,15 +35,15 @@
     26.5965326559,
     26.9790330645,
     27.29493634,
-    27.4738645338,
-    27.5269299516
+    27.4738645338
   ],
   "indices": [
     151,
     458,
     483,
-    602,
+    672,
     461,
+    679,
     502,
     189,
     217,
@@ -55,8 +56,7 @@
     111,
     499,
     407,
-    105,
-    229
+    105
   ],
   "name": "psyc_PPAP",
   "svg": "psyc_PPAP.svg",
@@ -107,6 +107,15 @@
       ],
       "isomerd_names": null,
       "dist": 20.8269681845
+    },
+    {
+      "name": "isomer_PRL-8-53",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "PRL-8-53"
+      ],
+      "dist": 21.0409937786
     },
     {
       "name": "trip_prl-8-53",
@@ -228,17 +237,6 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 27.4738645338
-    },
-    {
-      "name": "psyc_Diphenidine_trip_diphenidine",
-      "psychonaut_names": [
-        "Diphenidine"
-      ],
-      "tripsit_names": [
-        "diphenidine"
-      ],
-      "isomerd_names": null,
-      "dist": 27.5269299516
     }
   ]
 }

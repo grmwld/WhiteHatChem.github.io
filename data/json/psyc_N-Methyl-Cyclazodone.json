@@ -9,6 +9,7 @@
   "synonyms": [],
   "distances": [
     21.8494158424,
+    23.1327689653,
     23.8439240656,
     24.0201623784,
     24.2744935601,
@@ -17,19 +18,19 @@
     25.1195736619,
     25.3942160922,
     25.4364490339,
+    25.4984645007,
     25.6227335602,
     25.6759033757,
     25.7112745914,
     25.9434563473,
     26.0301983862,
-    26.4817015612,
-    26.8167086768,
-    26.9110597926,
-    27.078127254,
-    27.0852366869
+    26.1717957088,
+    26.2378308381,
+    26.4817015612
   ],
   "indices": [
     51,
+    618,
     364,
     366,
     336,
@@ -38,16 +39,15 @@
     37,
     353,
     587,
+    654,
     373,
     383,
     342,
     338,
     324,
-    53,
-    55,
-    365,
-    375,
-    411
+    637,
+    619,
+    53
   ],
   "name": "psyc_N-Methyl-Cyclazodone",
   "svg": "psyc_N-Methyl-Cyclazodone.svg",
@@ -60,6 +60,15 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 21.8494158424
+    },
+    {
+      "name": "isomer_MMAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "MMAT"
+      ],
+      "dist": 23.1327689653
     },
     {
       "name": "trip_mephenmetrazine",
@@ -138,6 +147,15 @@
       "dist": 25.4364490339
     },
     {
+      "name": "isomer_EEAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "EEAT"
+      ],
+      "dist": 25.4984645007
+    },
+    {
       "name": "trip_3,6-dmpm",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -183,6 +201,24 @@
       "dist": 26.0301983862
     },
     {
+      "name": "isomer_PHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "PHAT"
+      ],
+      "dist": 26.1717957088
+    },
+    {
+      "name": "isomer_EHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "EHAT"
+      ],
+      "dist": 26.2378308381
+    },
+    {
       "name": "psyc_Aniracetam_trip_aniracetam",
       "psychonaut_names": [
         "Aniracetam"
@@ -192,44 +228,6 @@
       ],
       "isomerd_names": null,
       "dist": 26.4817015612
-    },
-    {
-      "name": "psyc_Phenylpiracetam_trip_carphedon",
-      "psychonaut_names": [
-        "Phenylpiracetam"
-      ],
-      "tripsit_names": [
-        "carphedon"
-      ],
-      "isomerd_names": null,
-      "dist": 26.8167086768
-    },
-    {
-      "name": "trip_g-130",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "g-130"
-      ],
-      "isomerd_names": null,
-      "dist": 26.9110597926
-    },
-    {
-      "name": "trip_eflea",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "eflea"
-      ],
-      "isomerd_names": null,
-      "dist": 27.078127254
-    },
-    {
-      "name": "trip_4-ho-mpmi",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "4-ho-mpmi"
-      ],
-      "isomerd_names": null,
-      "dist": 27.0852366869
     }
   ]
 }

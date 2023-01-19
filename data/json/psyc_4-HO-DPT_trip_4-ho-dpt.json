@@ -9,29 +9,29 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "4-Hydroxy-N,N-dipropyltryptamine",
     "3-[2-(Dipropylamino)ethyl]-1H-indol-4-ol",
-    "4-Indolol, 3-[2-(dipropylamino)ethyl]",
-    "4-Hydroxydipropyltryptamine",
-    "63065-88-3",
     "3-[2-(Dipropylamino)ethyl]-4-indolol",
-    "Dipropyl-4-hydroxytryptamine",
-    "N,N-Dipropyl-4-hydroxytryptamine",
-    "UNII-KS597YAU98",
-    "3-(2-(Dipropylamino)ethyl)-1H-indol-4-ol",
-    "EN-0009",
-    "Q4637138",
-    "4hodpt",
     "KS597YAU98",
-    "DTXSID90618835",
+    "1H-Indol-4-ol, 3-(2-(dipropylamino)ethyl)-",
+    "4-Hydroxydipropyltryptamine",
+    "n-dipropyltryptamine",
+    "4-Indolol, 3-[2-(dipropylamino)ethyl]",
+    "Dipropyl-4-hydroxytryptamine",
     "1H-Indol-4-ol, 3-[2-(dipropylamino)ethyl]-",
     "Deprocin",
-    "SCHEMBL20970980",
-    "1H-Indol-4-ol, 3-(2-(dipropylamino)ethyl)-",
-    "n-dipropyltryptamine",
-    "4-hydroxy-n",
+    "3-(2-(Dipropylamino)ethyl)-1H-indol-4-ol",
     "DB13990",
-    "Tryptamine, N,N-dipropyl-4-hydroxy"
+    "63065-88-3",
+    "EN-0009",
+    "UNII-KS597YAU98",
+    "4-hydroxy-n",
+    "Tryptamine, N,N-dipropyl-4-hydroxy",
+    "SCHEMBL20970980",
+    "4hodpt",
+    "4-Hydroxy-N,N-dipropyltryptamine",
+    "Q4637138",
+    "DTXSID90618835",
+    "N,N-Dipropyl-4-hydroxytryptamine"
   ],
   "distances": [
     6.8037700188,
@@ -49,10 +49,10 @@
     19.2618633227,
     19.4948919404,
     20.2595802533,
+    21.0861459095,
     23.0549217944,
     23.1456266223,
-    23.9617997379,
-    24.2042660823
+    23.9617997379
   ],
   "indices": [
     136,
@@ -70,10 +70,10 @@
     87,
     419,
     167,
+    683,
     106,
     99,
-    442,
-    135
+    442
   ],
   "name": "psyc_4-HO-DPT_trip_4-ho-dpt",
   "svg": "psyc_4-HO-DPT_trip_4-ho-dpt.svg",
@@ -234,6 +234,15 @@
       "dist": 20.2595802533
     },
     {
+      "name": "isomer_BBAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "BBAT"
+      ],
+      "dist": 21.0861459095
+    },
+    {
       "name": "psyc_4-HO-MiPT_trip_4-ho-mipt",
       "psychonaut_names": [
         "4-HO-MiPT"
@@ -263,17 +272,6 @@
       ],
       "isomerd_names": null,
       "dist": 23.9617997379
-    },
-    {
-      "name": "psyc_5-MeO-MiPT_trip_5-meo-mipt",
-      "psychonaut_names": [
-        "5-MeO-MiPT"
-      ],
-      "tripsit_names": [
-        "5-meo-mipt"
-      ],
-      "isomerd_names": null,
-      "dist": 24.2042660823
     }
   ]
 }

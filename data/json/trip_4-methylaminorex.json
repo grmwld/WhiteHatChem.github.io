@@ -23,10 +23,10 @@
     24.1440986579,
     24.3461806292,
     24.4587303879,
+    24.5441944351,
     24.8538955797,
-    25.0912288098,
-    25.1172518953,
-    25.5488089386
+    25.0208872705,
+    25.0912288098
   ],
   "indices": [
     585,
@@ -44,10 +44,10 @@
     308,
     586,
     365,
+    592,
     17,
-    55,
-    51,
-    584
+    603,
+    55
   ],
   "name": "trip_4-methylaminorex",
   "svg": "trip_4-methylaminorex.svg",
@@ -196,6 +196,15 @@
       "dist": 24.4587303879
     },
     {
+      "name": "isomer_HHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "HHAT"
+      ],
+      "dist": 24.5441944351
+    },
+    {
       "name": "psyc_Nicotine_trip_nicotine",
       "psychonaut_names": [
         "Nicotine"
@@ -207,6 +216,15 @@
       "dist": 24.8538955797
     },
     {
+      "name": "isomer_MHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "MHAT"
+      ],
+      "dist": 25.0208872705
+    },
+    {
       "name": "psyc_Phenylpiracetam_trip_carphedon",
       "psychonaut_names": [
         "Phenylpiracetam"
@@ -216,24 +234,6 @@
       ],
       "isomerd_names": null,
       "dist": 25.0912288098
-    },
-    {
-      "name": "psyc_Cyclazodone",
-      "psychonaut_names": [
-        "Cyclazodone"
-      ],
-      "tripsit_names": null,
-      "isomerd_names": null,
-      "dist": 25.1172518953
-    },
-    {
-      "name": "trip_5-iai",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "5-iai"
-      ],
-      "isomerd_names": null,
-      "dist": 25.5488089386
     }
   ]
 }

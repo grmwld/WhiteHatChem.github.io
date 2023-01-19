@@ -9,10 +9,10 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "CI-400",
     "eticyclidine",
+    "Eticyclidine",
     "Cyclohexamine",
-    "Eticyclidine"
+    "CI-400"
   ],
   "distances": [
     8.709614004,
@@ -29,11 +29,11 @@
     20.0677152611,
     20.2969140925,
     20.870256993,
+    21.1257352983,
     21.7793934714,
     21.7843013689,
-    22.0491186956,
-    22.1295844032,
-    22.1721626677
+    22.028860409,
+    22.0491186956
   ],
   "indices": [
     110,
@@ -50,11 +50,11 @@
     415,
     133,
     441,
+    619,
     413,
     362,
-    377,
-    347,
-    353
+    637,
+    377
   ],
   "name": "psyc_PCE_trip_pce",
   "svg": "psyc_PCE_trip_pce.svg",
@@ -202,6 +202,15 @@
       "dist": 20.870256993
     },
     {
+      "name": "isomer_EHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "EHAT"
+      ],
+      "dist": 21.1257352983
+    },
+    {
       "name": "trip_\u03b1-pbp",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -220,6 +229,15 @@
       "dist": 21.7843013689
     },
     {
+      "name": "isomer_PHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "PHAT"
+      ],
+      "dist": 22.028860409
+    },
+    {
       "name": "trip_mbzp",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -227,24 +245,6 @@
       ],
       "isomerd_names": null,
       "dist": 22.0491186956
-    },
-    {
-      "name": "trip_bzp",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "bzp"
-      ],
-      "isomerd_names": null,
-      "dist": 22.1295844032
-    },
-    {
-      "name": "trip_mephtetramine",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "mephtetramine"
-      ],
-      "isomerd_names": null,
-      "dist": 22.1721626677
     }
   ]
 }

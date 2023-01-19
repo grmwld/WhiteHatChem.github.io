@@ -7,8 +7,8 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "desfluoroocfentanil",
-    "maf"
+    "maf",
+    "desfluoroocfentanil"
   ],
   "distances": [
     9.2383192388,
@@ -19,6 +19,7 @@
     13.5905628897,
     17.4877119246,
     17.5389833308,
+    19.8946413119,
     20.1553082387,
     20.2825094105,
     21.7584983622,
@@ -28,8 +29,7 @@
     25.0025853155,
     25.5625561105,
     25.921081494,
-    26.8931749499,
-    27.1132753408
+    26.8931749499
   ],
   "indices": [
     257,
@@ -40,17 +40,17 @@
     563,
     560,
     549,
-    609,
+    688,
+    686,
     261,
     565,
     542,
-    608,
+    685,
     561,
-    607,
+    684,
     230,
     242,
-    244,
-    502
+    244
   ],
   "name": "trip_methoxyacetyl-fentanyl",
   "svg": "trip_methoxyacetyl-fentanyl.svg",
@@ -130,6 +130,15 @@
       ],
       "isomerd_names": null,
       "dist": 17.5389833308
+    },
+    {
+      "name": "isomer_3F-Cyclopropylbenzylfentanyl",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3F-Cyclopropylbenzylfentanyl"
+      ],
+      "dist": 19.8946413119
     },
     {
       "name": "isomer_Despropionyl-4-methoxyfentanyl",
@@ -226,15 +235,6 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 26.8931749499
-    },
-    {
-      "name": "trip_prl-8-53",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "prl-8-53"
-      ],
-      "isomerd_names": null,
-      "dist": 27.1132753408
     }
   ]
 }

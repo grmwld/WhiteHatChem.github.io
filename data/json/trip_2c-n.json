@@ -14,7 +14,7 @@
     17.2301928927,
     17.2880669336,
     18.0927750979,
-    18.2701279936,
+    18.3441268128,
     18.4174687598,
     18.8500633987,
     19.0082516069,
@@ -26,16 +26,16 @@
     20.4989660979,
     20.8595776266,
     20.8745811557,
+    20.8891721575,
     21.3314071421,
-    21.4697599437,
-    21.6719700509
+    21.4697599437
   ],
   "indices": [
     348,
     12,
     11,
     1,
-    591,
+    595,
     46,
     16,
     48,
@@ -47,9 +47,9 @@
     72,
     379,
     40,
+    641,
     91,
-    67,
-    594
+    67
   ],
   "name": "trip_2c-n",
   "svg": "trip_2c-n.svg",
@@ -97,13 +97,13 @@
       "dist": 18.0927750979
     },
     {
-      "name": "isomer_2,3,4-MBM",
+      "name": "isomer_2,3,4-MMB",
       "psychonaut_names": null,
       "tripsit_names": null,
       "isomerd_names": [
-        "2,3,4-MBM"
+        "2,3,4-MMB"
       ],
-      "dist": 18.2701279936
+      "dist": 18.3441268128
     },
     {
       "name": "psyc_2C-D_trip_2c-d",
@@ -221,6 +221,15 @@
       "dist": 20.8745811557
     },
     {
+      "name": "isomer_1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-one",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]propan-2-one"
+      ],
+      "dist": 20.8891721575
+    },
+    {
       "name": "psyc_2C-P_trip_2c-p",
       "psychonaut_names": [
         "2C-P"
@@ -241,15 +250,6 @@
       ],
       "isomerd_names": null,
       "dist": 21.4697599437
-    },
-    {
-      "name": "isomer_3,2,4-DOB",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "3,2,4-DOB"
-      ],
-      "dist": 21.6719700509
     }
   ]
 }

@@ -9,30 +9,30 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "J3.293.464A",
-    "DEA No. 7542",
-    "DTXSID401014183",
     "698963-77-8",
-    "MDMVP",
-    "1-(benzo[d][1,3]dioxol-5-yl)-2-(MethylaMino)pentan-1-one",
-    "Methylbenzodioxolylpentanamine",
+    "UNII-IGN39WGH0Q",
     "4-meppp",
-    "\u03b2-Keto-methylbenzodioxolylpentanamine",
-    "(+/-)-1-(1,3-benzodioxol-5-yl)-2-(methylamino)pentan-1-one",
-    "MFCD28015752",
     "Q7165334",
-    "SCHEMBL17644174",
-    "bk-MBDP",
-    "bk-methyl-k",
-    "1-PENTANONE, 1-(1,3-BENZODIOXOL-5-YL)-2-(METHYLAMINO)-",
-    "bk-Methyl-K",
-    "1-(1,3-benzodioxol-5-yl)-2-(methylamino)pentan-1-one",
-    "beta-Keto-methylbenzodioxolylpentanamine",
     "IGN39WGH0Q",
+    "MFCD28015752",
     "bk-mbdp",
-    "BCP21171",
+    "beta-Keto-methylbenzodioxolylpentanamine",
+    "DTXSID401014183",
+    "1-PENTANONE, 1-(1,3-BENZODIOXOL-5-YL)-2-(METHYLAMINO)-",
+    "\u03b2-Keto-methylbenzodioxolylpentanamine",
+    "DEA No. 7542",
+    "1-(1,3-benzodioxol-5-yl)-2-(methylamino)pentan-1-one",
+    "bk-MBDP",
+    "Methylbenzodioxolylpentanamine",
     "2-(Methylamino)-1-(3,4-methylenedioxyphenyl)pentane-1-one",
-    "UNII-IGN39WGH0Q"
+    "SCHEMBL17644174",
+    "bk-methyl-k",
+    "(+/-)-1-(1,3-benzodioxol-5-yl)-2-(methylamino)pentan-1-one",
+    "BCP21171",
+    "bk-Methyl-K",
+    "J3.293.464A",
+    "MDMVP",
+    "1-(benzo[d][1,3]dioxol-5-yl)-2-(MethylaMino)pentan-1-one"
   ],
   "distances": [
     7.365153577,
@@ -46,14 +46,14 @@
     16.513630179,
     17.0632574451,
     18.3382774391,
+    18.7793422752,
     18.8057845287,
     18.8907760475,
     19.0764413352,
     19.1667646765,
     19.5797740975,
     19.6194562918,
-    20.2473979267,
-    20.6354924187
+    20.2473979267
   ],
   "indices": [
     58,
@@ -67,14 +67,14 @@
     389,
     38,
     360,
+    620,
     395,
     420,
     371,
     355,
     465,
     327,
-    88,
-    39
+    88
   ],
   "name": "psyc_Pentylone_trip_pentylone",
   "svg": "psyc_Pentylone_trip_pentylone.svg",
@@ -189,6 +189,15 @@
       "dist": 18.3382774391
     },
     {
+      "name": "isomer_2-HO-N-Me-5-EA-\u03b2k",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-HO-N-Me-5-EA-\u03b2k"
+      ],
+      "dist": 18.7793422752
+    },
+    {
       "name": "trip_4-mpd",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -253,15 +262,6 @@
       ],
       "isomerd_names": null,
       "dist": 20.2473979267
-    },
-    {
-      "name": "psyc_MMDA",
-      "psychonaut_names": [
-        "MMDA"
-      ],
-      "tripsit_names": null,
-      "isomerd_names": null,
-      "dist": 20.6354924187
     }
   ]
 }

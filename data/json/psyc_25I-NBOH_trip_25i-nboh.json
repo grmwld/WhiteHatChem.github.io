@@ -9,24 +9,24 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "nboh-2ci",
-    "2-((2-(4-Iodo-2,5-dimethoxyphenyl)ethylamino)methyl)phenol",
-    "Phenol, 2-[[[2-(4-iodo-2,5-dimethoxyphenyl)ethyl]amino]methyl]-",
-    "UNII-W9G4BGW8K4",
-    "N-(2-Hydroxybenzyl)-4-iodo-2,5-dimethoxyphenethylamine",
-    "SCHEMBL20970942",
-    "cimbi-27",
     "Cimbi-27",
     "NBOH-2CI",
-    "919797-20-9",
-    "Q4632139",
-    "ZINC90527422",
     "J3.667.566G",
-    "W9G4BGW8K4",
     "DTXSID80433993",
-    "2-({[2-(4-iodo-2,5-dimethoxyphenyl)ethyl]amino}methyl)phenol",
+    "UNII-W9G4BGW8K4",
+    "SCHEMBL20970942",
+    "Phenol, 2-[[[2-(4-iodo-2,5-dimethoxyphenyl)ethyl]amino]methyl]-",
+    "Q4632139",
+    "2-((2-(4-Iodo-2,5-dimethoxyphenyl)ethylamino)methyl)phenol",
     "2C-I-NBOH",
-    "2-[[2-(4-iodo-2,5-dimethoxyphenyl)ethylamino]methyl]phenol"
+    "2-[[2-(4-iodo-2,5-dimethoxyphenyl)ethylamino]methyl]phenol",
+    "2-({[2-(4-iodo-2,5-dimethoxyphenyl)ethyl]amino}methyl)phenol",
+    "919797-20-9",
+    "W9G4BGW8K4",
+    "N-(2-Hydroxybenzyl)-4-iodo-2,5-dimethoxyphenethylamine",
+    "cimbi-27",
+    "nboh-2ci",
+    "ZINC90527422"
   ],
   "distances": [
     9.3357139912,
@@ -46,8 +46,8 @@
     23.8559225666,
     24.4087556732,
     25.0373853768,
-    26.018650115,
-    27.0859465136
+    25.1220725712,
+    25.3002972612
   ],
   "indices": [
     480,
@@ -67,8 +67,8 @@
     545,
     544,
     502,
-    145,
-    546
+    636,
+    679
   ],
   "name": "psyc_25I-NBOH_trip_25i-nboh",
   "svg": "psyc_25I-NBOH_trip_25i-nboh.svg",
@@ -243,22 +243,22 @@
       "dist": 25.0373853768
     },
     {
-      "name": "psyc_Oroxylin_A",
-      "psychonaut_names": [
-        "Oroxylin A"
-      ],
+      "name": "isomer_[4-(3-Hydroxypropyl)-2,5-dimethoxyphenyl]acetic_acid",
+      "psychonaut_names": null,
       "tripsit_names": null,
-      "isomerd_names": null,
-      "dist": 26.018650115
+      "isomerd_names": [
+        "[4-(3-Hydroxypropyl)-2,5-dimethoxyphenyl]acetic acid"
+      ],
+      "dist": 25.1220725712
     },
     {
-      "name": "trip_25t-4-nbome",
+      "name": "isomer_PRL-8-53",
       "psychonaut_names": null,
-      "tripsit_names": [
-        "25t-4-nbome"
+      "tripsit_names": null,
+      "isomerd_names": [
+        "PRL-8-53"
       ],
-      "isomerd_names": null,
-      "dist": 27.0859465136
+      "dist": 25.3002972612
     }
   ]
 }

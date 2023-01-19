@@ -9,18 +9,18 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "1391488-16-6",
-    "25c-Nboh [NFLIS-DRUG]",
-    "2-({[2-(4-Chloro-2,5-dimethoxyphenyl)ethyl]amino}methyl)phenol",
-    "2-[[2-(4-chloro-2,5-dimethoxyphenyl)ethylamino]methyl]phenol",
-    "UNII-P8BP3X5EBR",
-    "P8BP3X5EBR",
     "2C-C-NBOH",
     "ZINC299817326",
-    "2-(((2-(4-Chloro-2,5-dimethoxyphenyl)ethyl)amino)methyl)phenol",
-    "4-Chloro-2,5-dimethoxy-(N-(2-hydroxybenzyl))phenethylamine",
     "2-(((4-chloro-2,5-dimethoxyphenethyl)amino)methyl)phenol",
-    "DTXSID601017252"
+    "DTXSID601017252",
+    "25c-Nboh [NFLIS-DRUG]",
+    "P8BP3X5EBR",
+    "2-[[2-(4-chloro-2,5-dimethoxyphenyl)ethylamino]methyl]phenol",
+    "2-(((2-(4-Chloro-2,5-dimethoxyphenyl)ethyl)amino)methyl)phenol",
+    "UNII-P8BP3X5EBR",
+    "1391488-16-6",
+    "2-({[2-(4-Chloro-2,5-dimethoxyphenyl)ethyl]amino}methyl)phenol",
+    "4-Chloro-2,5-dimethoxy-(N-(2-hydroxybenzyl))phenethylamine"
   ],
   "distances": [
     8.6730032522,
@@ -40,8 +40,8 @@
     21.4880138964,
     22.123246118,
     23.7066280062,
-    25.0937645937,
-    25.871439076
+    24.0173061281,
+    25.0937645937
   ],
   "indices": [
     185,
@@ -61,8 +61,8 @@
     545,
     544,
     502,
-    546,
-    145
+    679,
+    546
   ],
   "name": "psyc_25C-NBOH_trip_25c-nboh",
   "svg": "psyc_25C-NBOH_trip_25c-nboh.svg",
@@ -237,6 +237,15 @@
       "dist": 23.7066280062
     },
     {
+      "name": "isomer_PRL-8-53",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "PRL-8-53"
+      ],
+      "dist": 24.0173061281
+    },
+    {
       "name": "trip_25t-4-nbome",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -244,15 +253,6 @@
       ],
       "isomerd_names": null,
       "dist": 25.0937645937
-    },
-    {
-      "name": "psyc_Oroxylin_A",
-      "psychonaut_names": [
-        "Oroxylin A"
-      ],
-      "tripsit_names": null,
-      "isomerd_names": null,
-      "dist": 25.871439076
     }
   ]
 }

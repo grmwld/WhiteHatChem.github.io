@@ -22,11 +22,11 @@
     21.5658257173,
     22.3226503851,
     22.5082056977,
+    22.8310097211,
     23.1642785614,
     23.1974911616,
     23.3398107348,
-    23.38800764,
-    23.5055626312
+    23.38800764
   ],
   "indices": [
     101,
@@ -43,11 +43,11 @@
     53,
     130,
     397,
+    638,
     366,
     436,
     205,
-    520,
-    158
+    520
   ],
   "name": "trip_methylmorphenate",
   "svg": "trip_methylmorphenate.svg",
@@ -197,6 +197,15 @@
       "dist": 22.5082056977
     },
     {
+      "name": "isomer_7-[(Propan-2-yl)amino]-5,6,7,8-tetrahydronaphthalen-1-ol",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "7-[(Propan-2-yl)amino]-5,6,7,8-tetrahydronaphthalen-1-ol"
+      ],
+      "dist": 22.8310097211
+    },
+    {
       "name": "trip_phenetrazine",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -233,15 +242,6 @@
       ],
       "isomerd_names": null,
       "dist": 23.38800764
-    },
-    {
-      "name": "psyc_\u0391-PiHP",
-      "psychonaut_names": [
-        "\u0391-PiHP"
-      ],
-      "tripsit_names": null,
-      "isomerd_names": null,
-      "dist": 23.5055626312
     }
   ]
 }

@@ -9,56 +9,56 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "J456.895H",
-    "DEA No. 7392",
-    "4-Bromo-2,5-dimethoxyphenethylamine",
-    "66142-81-2",
-    "Eros [Street Name]",
-    "CHEMBL292821",
-    "4-Bromo-2,5-dimethoxyphenylethylamine",
-    "Toonies [Street Name]dd",
-    "bees",
-    "Venus [Street Name]",
-    "4-BROMO-2,5-DIMETHOXYBENZENEETHANAMINE",
-    "2-(4-bromanyl-2,5-dimethoxy-phenyl)ethanamine",
-    "PDSP1_001367",
-    "SCHEMBL23478",
-    "Q229942",
-    "4-Bromo-2,5dimethoxyphenethylamine",
-    "DB01537",
-    "BDBM50005267",
-    "2-CB",
-    "2-cb",
-    "ZINC2564752",
     "Nexus",
-    "DTXSID10216332",
-    "Nexus [Street Name]",
-    "NCGC00168259-02",
-    "Benzeneethanamine, 4-bromo-2,5-dimethoxy-",
-    "2cb",
     "A835347",
+    "PDSP1_001367",
+    "UNII-V77772N32H",
+    "V77772N32H",
+    "SCHEMBL23478",
+    "4-Bromo-2,5-dimethoxyphenylethylamine",
+    "4-BROMO-2,5-DIMETHOXYBENZENEETHANAMINE",
+    "NCGC00168259-01",
     "2C-B [MI]",
+    "Toonies [Street Name]dd",
+    "PDSP2_001351",
+    "J456.895H",
+    "Venus [Street Name]",
     "BDMPEA",
     ".ALPHA.-DESMETHYL DOB",
-    "UNII-V77772N32H",
-    "nexus",
-    "2-(4-Bromo-2,5-dimethoxy-phenyl)-ethylamine",
-    "Nexus (pharmaceutical)",
-    "Bromo-2,5-dimethoxyphenylethylamine",
-    "2,5-Dimethoxy-4-bromophenethylamine",
-    "2-(4-Bromo-2,5-dimethoxyphenyl)ethanamine",
-    "Spectrum [Street Name]",
-    "2-(4-bromo-2,5-dimethoxy-phenyl)-ethyl-amine",
-    "CHEBI:189669",
-    "2-(4-Bromo-2,5-dimethoxyphenyl)ethanamine #",
     "4-BROMO-2,5-DIMETHOXYPHENYLETHYLAMINE [MART.]",
-    "PDSP2_001351",
+    "2-(4-bromo-2,5-dimethoxy-phenyl)-ethyl-amine",
+    "66142-81-2",
     "2-(4-Bromo-2,5-dimethoxyphenyl)ethylamine",
-    "NCGC00168259-01",
-    "V77772N32H"
+    "CHEBI:189669",
+    "2,5-Dimethoxy-4-bromophenethylamine",
+    "Bromo-2,5-dimethoxyphenylethylamine",
+    "Spectrum [Street Name]",
+    "2-cb",
+    "Q229942",
+    "Benzeneethanamine, 4-bromo-2,5-dimethoxy-",
+    "2-(4-bromanyl-2,5-dimethoxy-phenyl)ethanamine",
+    "ZINC2564752",
+    "Nexus [Street Name]",
+    "BDBM50005267",
+    "2cb",
+    "2-CB",
+    "nexus",
+    "Nexus (pharmaceutical)",
+    "2-(4-Bromo-2,5-dimethoxy-phenyl)-ethylamine",
+    "DTXSID10216332",
+    "2-(4-Bromo-2,5-dimethoxyphenyl)ethanamine",
+    "Eros [Street Name]",
+    "CHEMBL292821",
+    "bees",
+    "DEA No. 7392",
+    "4-Bromo-2,5dimethoxyphenethylamine",
+    "NCGC00168259-02",
+    "4-Bromo-2,5-dimethoxyphenethylamine",
+    "DB01537",
+    "2-(4-Bromo-2,5-dimethoxyphenyl)ethanamine #"
   ],
   "distances": [
-    5.5563054257,
+    5.5435555855,
     8.6730023725,
     8.824297428,
     9.3922789985,
@@ -68,18 +68,18 @@
     11.8759784496,
     12.6905315517,
     13.6420987132,
-    13.8176696217,
+    13.7153711003,
     13.9929475732,
+    14.4322960132,
+    14.6576648021,
     14.9449684275,
+    15.1283792551,
     15.1450596979,
     15.2260188421,
-    15.5552765655,
-    16.3098572677,
-    16.4700591347,
-    16.8498918026
+    15.3064565761
   ],
   "indices": [
-    591,
+    595,
     12,
     46,
     20,
@@ -89,27 +89,27 @@
     48,
     40,
     47,
-    594,
+    605,
     379,
+    608,
+    609,
     45,
+    693,
     72,
     323,
-    71,
-    91,
-    70,
-    400
+    598
   ],
   "name": "psyc_2C-B_trip_2c-b",
   "svg": "psyc_2C-B_trip_2c-b.svg",
   "sim": [
     {
-      "name": "isomer_2,3,4-MBM",
+      "name": "isomer_2,3,4-MMB",
       "psychonaut_names": null,
       "tripsit_names": null,
       "isomerd_names": [
-        "2,3,4-MBM"
+        "2,3,4-MMB"
       ],
-      "dist": 5.5563054257
+      "dist": 5.5435555855
     },
     {
       "name": "psyc_2C-C_trip_2c-c",
@@ -209,13 +209,13 @@
       "dist": 13.6420987132
     },
     {
-      "name": "isomer_3,2,4-DOB",
+      "name": "isomer_4,2,3-DOB",
       "psychonaut_names": null,
       "tripsit_names": null,
       "isomerd_names": [
-        "3,2,4-DOB"
+        "4,2,3-DOB"
       ],
-      "dist": 13.8176696217
+      "dist": 13.7153711003
     },
     {
       "name": "trip_2c-g",
@@ -227,6 +227,24 @@
       "dist": 13.9929475732
     },
     {
+      "name": "isomer_N-Me-3,5-DMPEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "N-Me-3,5-DMPEA"
+      ],
+      "dist": 14.4322960132
+    },
+    {
+      "name": "isomer_N-Me-2,6-DMPEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "N-Me-2,6-DMPEA"
+      ],
+      "dist": 14.6576648021
+    },
+    {
       "name": "psyc_2,5-DMA",
       "psychonaut_names": [
         "2,5-DMA"
@@ -234,6 +252,15 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 14.9449684275
+    },
+    {
+      "name": "isomer_3,5-HMPEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3,5-HMPEA"
+      ],
+      "dist": 15.1283792551
     },
     {
       "name": "psyc_Escaline_trip_escaline",
@@ -256,46 +283,13 @@
       "dist": 15.2260188421
     },
     {
-      "name": "psyc_2C-T-2_trip_2c-t-2",
-      "psychonaut_names": [
-        "2C-T-2"
-      ],
-      "tripsit_names": [
-        "2c-t-2"
-      ],
-      "isomerd_names": null,
-      "dist": 15.5552765655
-    },
-    {
-      "name": "psyc_2C-P_trip_2c-p",
-      "psychonaut_names": [
-        "2C-P"
-      ],
-      "tripsit_names": [
-        "2c-p"
-      ],
-      "isomerd_names": null,
-      "dist": 16.3098572677
-    },
-    {
-      "name": "psyc_DOM_trip_dom",
-      "psychonaut_names": [
-        "DOM"
-      ],
-      "tripsit_names": [
-        "dom"
-      ],
-      "isomerd_names": null,
-      "dist": 16.4700591347
-    },
-    {
-      "name": "trip_2c-ip",
+      "name": "isomer_2-Amino-1-(3,5-dimethoxyphenyl)ethan-1-ol",
       "psychonaut_names": null,
-      "tripsit_names": [
-        "2c-ip"
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-Amino-1-(3,5-dimethoxyphenyl)ethan-1-ol"
       ],
-      "isomerd_names": null,
-      "dist": 16.8498918026
+      "dist": 15.3064565761
     }
   ]
 }

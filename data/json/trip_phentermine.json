@@ -16,6 +16,8 @@
     19.5319601433,
     20.5648143822,
     20.9625207599,
+    21.0342853957,
+    21.079605356,
     21.2034977744,
     21.278645674,
     21.4001844737,
@@ -23,10 +25,8 @@
     22.1548973714,
     22.1548973714,
     22.3821934906,
-    22.4480975528,
-    22.5378472647,
-    22.548806386,
-    22.6028681463
+    22.4221934864,
+    22.4480975528
   ],
   "indices": [
     314,
@@ -36,7 +36,9 @@
     332,
     304,
     18,
-    590,
+    591,
+    596,
+    597,
     13,
     14,
     15,
@@ -44,10 +46,8 @@
     27,
     28,
     333,
-    586,
-    41,
-    593,
-    346
+    692,
+    586
   ],
   "name": "trip_phentermine",
   "svg": "trip_phentermine.svg",
@@ -138,6 +138,24 @@
       "dist": 20.9625207599
     },
     {
+      "name": "isomer_2,6-DMePEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2,6-DMePEA"
+      ],
+      "dist": 21.0342853957
+    },
+    {
+      "name": "isomer_3,5-DMePEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3,5-DMePEA"
+      ],
+      "dist": 21.079605356
+    },
+    {
       "name": "psyc_3-FMA_trip_3-fma",
       "psychonaut_names": [
         "3-FMA"
@@ -211,6 +229,15 @@
       "dist": 22.3821934906
     },
     {
+      "name": "isomer_2,6-HMPEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2,6-HMPEA"
+      ],
+      "dist": 22.4221934864
+    },
+    {
       "name": "trip_2-pta",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -218,35 +245,6 @@
       ],
       "isomerd_names": null,
       "dist": 22.4480975528
-    },
-    {
-      "name": "psyc_3-FEA_trip_3-fea",
-      "psychonaut_names": [
-        "3-FEA"
-      ],
-      "tripsit_names": [
-        "3-fea"
-      ],
-      "isomerd_names": null,
-      "dist": 22.5378472647
-    },
-    {
-      "name": "isomer_4-APBT",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "4-APBT"
-      ],
-      "dist": 22.548806386
-    },
-    {
-      "name": "trip_4-fea",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "4-fea"
-      ],
-      "isomerd_names": null,
-      "dist": 22.6028681463
     }
   ]
 }

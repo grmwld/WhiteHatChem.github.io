@@ -7,9 +7,9 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
+    "methylnaphetamine",
     "mnt",
-    "n-methyl-pal-287",
-    "methylnaphetamine"
+    "n-methyl-pal-287"
   ],
   "distances": [
     11.3927554217,
@@ -26,11 +26,11 @@
     16.0351329362,
     16.0746387969,
     16.0969533751,
+    16.2619969612,
     16.5643489166,
     16.5809145494,
     16.6842975187,
-    16.772089271,
-    16.7947618584
+    16.772089271
   ],
   "indices": [
     354,
@@ -47,11 +47,11 @@
     41,
     42,
     151,
+    602,
     368,
     321,
     343,
-    322,
-    319
+    322
   ],
   "name": "trip_methamnetamine",
   "svg": "trip_methamnetamine.svg",
@@ -197,6 +197,15 @@
       "dist": 16.0969533751
     },
     {
+      "name": "isomer_4-Cl-Buphedrone",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "4-Cl-Buphedrone"
+      ],
+      "dist": 16.2619969612
+    },
+    {
       "name": "trip_4-emc",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -231,15 +240,6 @@
       ],
       "isomerd_names": null,
       "dist": 16.772089271
-    },
-    {
-      "name": "trip_4-cmc",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "4-cmc"
-      ],
-      "isomerd_names": null,
-      "dist": 16.7947618584
     }
   ]
 }

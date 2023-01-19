@@ -12,10 +12,12 @@
   ],
   "distances": [
     20.6905600137,
+    20.9275760646,
     21.149692167,
     21.1509301669,
+    21.2083072725,
     21.2346085402,
-    21.3014635613,
+    21.3730389326,
     21.5833741805,
     21.7152326851,
     21.7248691638,
@@ -24,19 +26,19 @@
     22.0599975896,
     22.0739273865,
     22.1303897478,
+    22.1774955438,
     22.4743641934,
     22.5476722074,
-    22.8328021282,
-    22.8415148851,
-    22.8427466969,
-    22.9208657966
+    22.7361790521
   ],
   "indices": [
     394,
+    613,
     357,
     349,
+    607,
     372,
-    595,
+    632,
     44,
     35,
     36,
@@ -45,12 +47,10 @@
     34,
     19,
     64,
+    594,
     332,
     344,
-    368,
-    41,
-    343,
-    42
+    614
   ],
   "name": "trip_propofol",
   "svg": "trip_propofol.svg",
@@ -63,6 +63,15 @@
       ],
       "isomerd_names": null,
       "dist": 20.6905600137
+    },
+    {
+      "name": "isomer_\u03b2,2-HO-5-EA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "\u03b2,2-HO-5-EA"
+      ],
+      "dist": 20.9275760646
     },
     {
       "name": "trip_4-cic",
@@ -83,6 +92,15 @@
       "dist": 21.1509301669
     },
     {
+      "name": "isomer_3,5-DMeA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3,5-DMeA"
+      ],
+      "dist": 21.2083072725
+    },
+    {
       "name": "trip_2-nmc",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -92,13 +110,13 @@
       "dist": 21.2346085402
     },
     {
-      "name": "isomer_TMeA-3",
+      "name": "isomer_\u03b2,2-HO-N-Me-5-EA",
       "psychonaut_names": null,
       "tripsit_names": null,
       "isomerd_names": [
-        "TMeA-3"
+        "\u03b2,2-HO-N-Me-5-EA"
       ],
-      "dist": 21.3014635613
+      "dist": 21.3730389326
     },
     {
       "name": "psyc_PMMA",
@@ -185,6 +203,15 @@
       "dist": 22.1303897478
     },
     {
+      "name": "isomer_2-Br-6-MA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-Br-6-MA"
+      ],
+      "dist": 22.1774955438
+    },
+    {
       "name": "trip_2-methylamphetamine",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -203,44 +230,13 @@
       "dist": 22.5476722074
     },
     {
-      "name": "trip_4-emc",
+      "name": "isomer_\u03b2,2-HO-N-Me-5-EPEA",
       "psychonaut_names": null,
-      "tripsit_names": [
-        "4-emc"
+      "tripsit_names": null,
+      "isomerd_names": [
+        "\u03b2,2-HO-N-Me-5-EPEA"
       ],
-      "isomerd_names": null,
-      "dist": 22.8328021282
-    },
-    {
-      "name": "psyc_3-FEA_trip_3-fea",
-      "psychonaut_names": [
-        "3-FEA"
-      ],
-      "tripsit_names": [
-        "3-fea"
-      ],
-      "isomerd_names": null,
-      "dist": 22.8415148851
-    },
-    {
-      "name": "trip_methedrone",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "methedrone"
-      ],
-      "isomerd_names": null,
-      "dist": 22.8427466969
-    },
-    {
-      "name": "psyc_2-FEA_trip_2-fea",
-      "psychonaut_names": [
-        "2-FEA"
-      ],
-      "tripsit_names": [
-        "2-fea"
-      ],
-      "isomerd_names": null,
-      "dist": 22.9208657966
+      "dist": 22.7361790521
     }
   ]
 }

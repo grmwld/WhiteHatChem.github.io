@@ -8,9 +8,9 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "n-ethylpentedrone",
+    "4-ethylpentedrone",
     "nep",
-    "4-ethylpentedrone"
+    "n-ethylpentedrone"
   ],
   "distances": [
     8.1998198327,
@@ -23,15 +23,15 @@
     13.0846623679,
     13.5560484277,
     13.720450537,
+    14.6931074111,
+    15.5548483794,
     15.7857009503,
     16.3974139152,
     16.667887732,
     16.7704288537,
     16.8074330916,
     17.7978884012,
-    18.3604545893,
-    18.577651086,
-    18.7082649122
+    18.3604545893
   ],
   "indices": [
     395,
@@ -44,15 +44,15 @@
     368,
     359,
     367,
+    620,
+    602,
     66,
     340,
     64,
     369,
     370,
     465,
-    32,
-    343,
-    344
+    32
   ],
   "name": "trip_4-epd_ethyl-pentedrone",
   "svg": "trip_4-epd_ethyl-pentedrone.svg",
@@ -154,6 +154,24 @@
       "dist": 13.720450537
     },
     {
+      "name": "isomer_2-HO-N-Me-5-EA-\u03b2k",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-HO-N-Me-5-EA-\u03b2k"
+      ],
+      "dist": 14.6931074111
+    },
+    {
+      "name": "isomer_4-Cl-Buphedrone",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "4-Cl-Buphedrone"
+      ],
+      "dist": 15.5548483794
+    },
+    {
       "name": "psyc_Mexedrone_trip_mexedrone",
       "psychonaut_names": [
         "Mexedrone"
@@ -221,24 +239,6 @@
       ],
       "isomerd_names": null,
       "dist": 18.3604545893
-    },
-    {
-      "name": "trip_methedrone",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "methedrone"
-      ],
-      "isomerd_names": null,
-      "dist": 18.577651086
-    },
-    {
-      "name": "trip_3-meomc",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "3-meomc"
-      ],
-      "isomerd_names": null,
-      "dist": 18.7082649122
     }
   ]
 }

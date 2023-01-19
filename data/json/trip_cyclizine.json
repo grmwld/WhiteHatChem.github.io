@@ -12,6 +12,7 @@
     14.3590902107,
     15.0357215242,
     16.9174415649,
+    20.3263354324,
     20.6658575248,
     21.46654658,
     21.9513726781,
@@ -25,29 +26,28 @@
     26.4638552052,
     26.5146823731,
     26.5457725363,
-    26.9350913403,
-    27.03120597
+    26.9350913403
   ],
   "indices": [
     229,
     499,
     517,
     242,
+    678,
     205,
     181,
     519,
     539,
-    608,
-    607,
+    685,
+    684,
     393,
-    609,
+    686,
     454,
     436,
     207,
     437,
     481,
-    413,
-    130
+    413
   ],
   "name": "trip_cyclizine",
   "svg": "trip_cyclizine.svg",
@@ -91,6 +91,15 @@
       ],
       "isomerd_names": null,
       "dist": 16.9174415649
+    },
+    {
+      "name": "isomer_3-Fluoro_4-ANBP",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3-Fluoro 4-ANBP"
+      ],
+      "dist": 20.3263354324
     },
     {
       "name": "psyc_Desoxypipradrol_trip_2-dpmp",
@@ -221,17 +230,6 @@
       ],
       "isomerd_names": null,
       "dist": 26.9350913403
-    },
-    {
-      "name": "psyc_A-PVP_trip_a-pvp",
-      "psychonaut_names": [
-        "A-PVP"
-      ],
-      "tripsit_names": [
-        "a-pvp"
-      ],
-      "isomerd_names": null,
-      "dist": 27.03120597
     }
   ]
 }

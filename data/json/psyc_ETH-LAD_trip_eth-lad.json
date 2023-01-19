@@ -9,31 +9,31 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "ERGOLINE-8-CARBOXAMIDE, 9,10-DIDEHYDRO-N,N,6-TRIETHYL-, (8.BETA.)-",
-    "N,N,6-Triethyl-9,10-didehydroergoline-8beta-carboxamide",
     "(6aR,9R)-N,N,7-triethyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide",
-    "9,10-Didehydro-N,N,6-triethylergoline-8\u03b2-carboxamide",
-    "UNII-21Z2736X9Q",
-    "6,N,N-Triethyl-6-norlysergamide",
-    "ZINC28252243",
-    "21Z2736X9Q",
-    "Ergoline-8-carboxamide, 9,10-didehydro-N,N,6-triethyl-, (8b)-",
+    "6-Norlysergic acid, 6,N,N-triethylamide",
     "N-Ethyl Norlysergic Acid N,N-Diethylamide",
-    "N-(6)-Ethylnorlysergic acid, N,N-diethylamide",
-    "6-Ethyl-6-nor-lysergic acid diethylamide",
-    "6-Norlysergamide, 6,N,N-triethyl",
+    "6,N,N-Triethyl-6-norlysergamide",
     "N-Ethyl-nor-LSD",
-    "6-ETHYL-6-NOR-LSD",
+    "65527-62-0",
+    "Ergoline-8-carboxamide, 9,10-didehydro-N,N,6-triethyl-, (8b)-",
+    "ETHLAD",
+    "6-Norlysergamide, 6,N,N-triethyl",
     "DTXSID90215823",
+    "6-ETHYL-6-NOR-LSD",
+    "N-EthylnorLSD",
+    "N-(6)-Ethylnorlysergic acid, N,N-diethylamide",
+    "21Z2736X9Q",
+    "9,10-Didehydro-N,N,6-triethylergoline-8\u03b2-carboxamide",
+    "CHEMBL22694",
+    "ERGOLINE-8-CARBOXAMIDE, 9,10-DIDEHYDRO-N,N,6-TRIETHYL-, (8.BETA.)-",
+    "ethlad",
+    "UNII-21Z2736X9Q",
+    "SCHEMBL20970885",
+    "N,N,6-Triethyl-9,10-didehydroergoline-8beta-carboxamide",
+    "ZINC28252243",
     "Q5324462",
     "N-Ethylnorlysergic acid N,N-diethylamide",
-    "N-EthylnorLSD",
-    "6-Norlysergic acid, 6,N,N-triethylamide",
-    "65527-62-0",
-    "CHEMBL22694",
-    "SCHEMBL20970885",
-    "ETHLAD",
-    "ethlad"
+    "6-Ethyl-6-nor-lysergic acid diethylamide"
   ],
   "distances": [
     7.3617253205,
@@ -52,9 +52,9 @@
     30.7673747281,
     31.0007383197,
     31.2684828154,
+    31.6606254303,
     31.8060845462,
-    31.9634734541,
-    32.3849940836
+    31.9634734541
   ],
   "indices": [
     258,
@@ -73,9 +73,9 @@
     507,
     129,
     280,
+    683,
     247,
-    156,
-    506
+    156
   ],
   "name": "psyc_ETH-LAD_trip_eth-lad",
   "svg": "psyc_ETH-LAD_trip_eth-lad.svg",
@@ -246,6 +246,15 @@
       "dist": 31.2684828154
     },
     {
+      "name": "isomer_BBAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "BBAT"
+      ],
+      "dist": 31.6606254303
+    },
+    {
       "name": "psyc_LSZ_trip_lsz",
       "psychonaut_names": [
         "LSZ"
@@ -266,15 +275,6 @@
       ],
       "isomerd_names": null,
       "dist": 31.9634734541
-    },
-    {
-      "name": "trip_u-49900",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "u-49900"
-      ],
-      "isomerd_names": null,
-      "dist": 32.3849940836
     }
   ]
 }

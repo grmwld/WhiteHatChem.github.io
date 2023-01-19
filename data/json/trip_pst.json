@@ -12,6 +12,8 @@
   ],
   "distances": [
     58.5308036889,
+    77.1491934298,
+    77.1491934298,
     77.2555747382,
     77.8531802548,
     79.4351150311,
@@ -27,12 +29,12 @@
     87.0552732778,
     87.6376595705,
     87.6806644921,
-    87.8721939008,
-    89.150855296,
-    90.0459979026
+    87.7359680955
   ],
   "indices": [
     564,
+    673,
+    674,
     281,
     279,
     443,
@@ -45,12 +47,10 @@
     271,
     567,
     525,
-    606,
+    682,
     280,
     258,
-    268,
-    563,
-    555
+    687
   ],
   "name": "trip_pst",
   "svg": "trip_pst.svg",
@@ -63,6 +63,24 @@
       ],
       "isomerd_names": null,
       "dist": 58.5308036889
+    },
+    {
+      "name": "isomer_Re_1",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "Re 1"
+      ],
+      "dist": 77.1491934298
+    },
+    {
+      "name": "isomer_Tc_1",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "Tc 1"
+      ],
+      "dist": 77.1491934298
     },
     {
       "name": "psyc_Cabergoline",
@@ -210,33 +228,13 @@
       "dist": 87.6806644921
     },
     {
-      "name": "psyc_1P-LSD_trip_1p-lsd",
-      "psychonaut_names": [
-        "1P-LSD"
-      ],
-      "tripsit_names": [
-        "1p-lsd"
-      ],
-      "isomerd_names": null,
-      "dist": 87.8721939008
-    },
-    {
-      "name": "trip_valerylfentanyl",
+      "name": "isomer_Ethylbenzyl-4CN-BINACA",
       "psychonaut_names": null,
-      "tripsit_names": [
-        "valerylfentanyl"
+      "tripsit_names": null,
+      "isomerd_names": [
+        "Ethylbenzyl-4CN-BINACA"
       ],
-      "isomerd_names": null,
-      "dist": 89.150855296
-    },
-    {
-      "name": "trip_pagoclone",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "pagoclone"
-      ],
-      "isomerd_names": null,
-      "dist": 90.0459979026
+      "dist": 87.7359680955
     }
   ]
 }

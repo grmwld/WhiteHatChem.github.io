@@ -12,6 +12,7 @@
     13.410596023,
     22.1913660254,
     22.8745704152,
+    23.0110964337,
     24.999866943,
     25.6554637421,
     25.8776193666,
@@ -25,29 +26,28 @@
     29.3272072146,
     29.6098996078,
     29.7237032544,
-    30.1432179176,
-    30.2364219268
+    30.1432179176
   ],
   "indices": [
     251,
     260,
     193,
     502,
+    679,
     217,
     230,
     215,
     189,
     561,
     483,
-    602,
+    672,
     216,
     479,
     226,
     188,
     156,
     519,
-    461,
-    257
+    461
   ],
   "name": "trip_isomethadone",
   "svg": "trip_isomethadone.svg",
@@ -94,6 +94,15 @@
       ],
       "isomerd_names": null,
       "dist": 22.8745704152
+    },
+    {
+      "name": "isomer_PRL-8-53",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "PRL-8-53"
+      ],
+      "dist": 23.0110964337
     },
     {
       "name": "psyc_Orphenadrine",
@@ -228,17 +237,6 @@
       ],
       "isomerd_names": null,
       "dist": 30.1432179176
-    },
-    {
-      "name": "psyc_Fentanyl_trip_fentanyl",
-      "psychonaut_names": [
-        "Fentanyl"
-      ],
-      "tripsit_names": [
-        "fentanyl"
-      ],
-      "isomerd_names": null,
-      "dist": 30.2364219268
     }
   ]
 }

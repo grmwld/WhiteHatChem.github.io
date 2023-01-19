@@ -9,32 +9,32 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "2'-oxo-pcm",
-    "7063-30-1",
-    "Q21098985",
-    "dxe",
-    "DTXSID701342024",
     "2-(Methylamino)-2-phenylcyclohexanone",
-    "S-DCK",
-    "J3.570.876F",
-    "(2S)-2-(methylamino)-2-phenylcyclohexan-1-one",
-    "o-pcm",
-    "opcm",
-    "S-deschloroketamine",
-    "2-(methylamino)-2-phenylcyclohexan-1-one",
-    "DXE",
-    "UNII-B0J1D1S3EI",
-    "GTPL11720",
-    "Cyclohexanone, 2-(methylamino)-2-phenyl-",
-    "2-oxo-pcm",
-    "2\u2032-Oxo-PCM",
+    "7063-30-1",
+    "dxe",
     "SCHEMBL8154269",
-    "B0J1D1S3EI",
-    "CHEMBL2068808",
+    "Cyclohexanone, 2-(methylamino)-2-phenyl-",
+    "o-pcm",
+    "2\u2032-Oxo-PCM",
+    "Q21098985",
+    "UNII-B0J1D1S3EI",
+    "DCK",
+    "2-oxo-pcm",
+    "2-(methylamino)-2-phenylcyclohexan-1-one",
     "O-PCM",
+    "GTPL11720",
+    "S-DCK",
+    "opcm",
     "2'-Oxo-pcm",
-    "dck",
-    "DCK"
+    "J3.570.876F",
+    "B0J1D1S3EI",
+    "DXE",
+    "(2S)-2-(methylamino)-2-phenylcyclohexan-1-one",
+    "DTXSID701342024",
+    "CHEMBL2068808",
+    "S-deschloroketamine",
+    "2'-oxo-pcm",
+    "dck"
   ],
   "distances": [
     8.0729401881,
@@ -49,13 +49,13 @@
     17.3534434131,
     18.921311311,
     20.3639522627,
+    21.3419469292,
     22.1083908239,
     22.1199648888,
+    22.2593816631,
     22.4861889307,
     22.6330012721,
-    22.6815107022,
-    22.735166975,
-    23.191954645
+    22.6815107022
   ],
   "indices": [
     80,
@@ -70,13 +70,13 @@
     132,
     139,
     353,
+    603,
     365,
     383,
+    619,
     53,
     162,
-    160,
-    362,
-    470
+    160
   ],
   "name": "psyc_Deschloroketamine_trip_deschloroketamine",
   "svg": "psyc_Deschloroketamine_trip_deschloroketamine.svg",
@@ -204,6 +204,15 @@
       "dist": 20.3639522627
     },
     {
+      "name": "isomer_MHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "MHAT"
+      ],
+      "dist": 21.3419469292
+    },
+    {
       "name": "trip_g-130",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -220,6 +229,15 @@
       ],
       "isomerd_names": null,
       "dist": 22.1199648888
+    },
+    {
+      "name": "isomer_EHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "EHAT"
+      ],
+      "dist": 22.2593816631
     },
     {
       "name": "psyc_Aniracetam_trip_aniracetam",
@@ -249,24 +267,6 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 22.6815107022
-    },
-    {
-      "name": "trip_4-benzylpiperidine",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "4-benzylpiperidine"
-      ],
-      "isomerd_names": null,
-      "dist": 22.735166975
-    },
-    {
-      "name": "trip_3-meo-pcpr",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "3-meo-pcpr"
-      ],
-      "isomerd_names": null,
-      "dist": 23.191954645
     }
   ]
 }

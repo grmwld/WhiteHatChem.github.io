@@ -9,28 +9,28 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "O72F3CP4O8",
-    "AC-8814",
-    "EMA-3",
-    "DTXSID60934559",
-    "BF6AP",
-    "Q4641530",
-    "6-BENZOFURANETHANAMINE, 2,3-DIHYDRO-.ALPHA.-METHYL-, (+/-)-",
-    "6-(2-Aminopropyl)-2,3-dihydrobenzofuran",
-    "6-(2-aminopropyl)2,3-dihydrobenzofuran",
-    "152623-93-3",
     "1-(2,3-dihydro-1-benzofuran-6-yl)propan-2-amine",
-    "AKOS025294580",
-    "J3.334.443K",
-    "6-Nprop-dbf",
-    "6-Benzofuranethanamine,2,3-dihydro-a-methyl-",
-    "UNII-O72F3CP4O8",
+    "AC-8814",
+    "6-(2-Aminopropyl)-2,3-dihydrobenzofuran",
+    "152623-93-3",
     "CHEMBL124055",
-    "2,3-Dihydro-6-(2-aminopropyl)benzofuran",
-    "SCHEMBL2562965",
-    "4-desoxy-mda",
     "4-Desoxy-MDA",
-    "6-(2-aminopropyl)-2,3-dihydrobenzo[b]furan"
+    "AKOS025294580",
+    "6-(2-aminopropyl)2,3-dihydrobenzofuran",
+    "UNII-O72F3CP4O8",
+    "Q4641530",
+    "DTXSID60934559",
+    "O72F3CP4O8",
+    "EMA-3",
+    "J3.334.443K",
+    "SCHEMBL2562965",
+    "6-Nprop-dbf",
+    "4-desoxy-mda",
+    "6-BENZOFURANETHANAMINE, 2,3-DIHYDRO-.ALPHA.-METHYL-, (+/-)-",
+    "2,3-Dihydro-6-(2-aminopropyl)benzofuran",
+    "6-Benzofuranethanamine,2,3-dihydro-a-methyl-",
+    "6-(2-aminopropyl)-2,3-dihydrobenzo[b]furan",
+    "BF6AP"
   ],
   "distances": [
     1.6518e-06,
@@ -47,11 +47,11 @@
     15.8722685619,
     16.1598177426,
     16.2958525266,
+    16.3646403149,
     16.4704843726,
-    17.0413629307,
-    17.501411599,
-    18.0628286154,
-    18.4968456982
+    16.6589367043,
+    16.9957314911,
+    17.0413629307
   ],
   "indices": [
     341,
@@ -68,11 +68,11 @@
     39,
     65,
     332,
-    593,
-    374,
-    337,
-    314,
-    13
+    594,
+    601,
+    607,
+    691,
+    374
   ],
   "name": "psyc_6-APDB_trip_6-apdb",
   "svg": "psyc_6-APDB_trip_6-apdb.svg",
@@ -220,6 +220,15 @@
       "dist": 16.2958525266
     },
     {
+      "name": "isomer_2-Br-6-MA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-Br-6-MA"
+      ],
+      "dist": 16.3646403149
+    },
+    {
       "name": "isomer_4-APBT",
       "psychonaut_names": null,
       "tripsit_names": null,
@@ -229,6 +238,24 @@
       "dist": 16.4704843726
     },
     {
+      "name": "isomer_3,5-DMeA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3,5-DMeA"
+      ],
+      "dist": 16.6589367043
+    },
+    {
+      "name": "isomer_2,6-DCA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2,6-DCA"
+      ],
+      "dist": 16.9957314911
+    },
+    {
       "name": "trip_mbdb",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -236,38 +263,6 @@
       ],
       "isomerd_names": null,
       "dist": 17.0413629307
-    },
-    {
-      "name": "trip_5-it",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "5-it"
-      ],
-      "isomerd_names": null,
-      "dist": 17.501411599
-    },
-    {
-      "name": "psyc_Dexamphetamine_trip_dexedrine_amphetamine",
-      "psychonaut_names": [
-        "Dexamphetamine"
-      ],
-      "tripsit_names": [
-        "dexedrine",
-        "amphetamine"
-      ],
-      "isomerd_names": null,
-      "dist": 18.0628286154
-    },
-    {
-      "name": "psyc_3-FMA_trip_3-fma",
-      "psychonaut_names": [
-        "3-FMA"
-      ],
-      "tripsit_names": [
-        "3-fma"
-      ],
-      "isomerd_names": null,
-      "dist": 18.4968456982
     }
   ]
 }

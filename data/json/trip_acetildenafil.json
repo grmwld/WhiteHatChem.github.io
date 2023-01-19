@@ -25,8 +25,8 @@
     45.1475188899,
     45.2980769071,
     45.6614820967,
-    45.9349621961,
-    45.9387728353
+    45.824361101,
+    45.9349621961
   ],
   "indices": [
     558,
@@ -46,8 +46,8 @@
     280,
     557,
     258,
-    261,
-    550
+    687,
+    261
   ],
   "name": "trip_acetildenafil",
   "svg": "trip_acetildenafil.svg",
@@ -220,6 +220,15 @@
       "dist": 45.6614820967
     },
     {
+      "name": "isomer_Ethylbenzyl-4CN-BINACA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "Ethylbenzyl-4CN-BINACA"
+      ],
+      "dist": 45.824361101
+    },
+    {
       "name": "psyc_Sufentanil_trip_sufentanil",
       "psychonaut_names": [
         "Sufentanil"
@@ -229,15 +238,6 @@
       ],
       "isomerd_names": null,
       "dist": 45.9349621961
-    },
-    {
-      "name": "trip_parafluorofentanyl",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "parafluorofentanyl"
-      ],
-      "isomerd_names": null,
-      "dist": 45.9387728353
     }
   ]
 }

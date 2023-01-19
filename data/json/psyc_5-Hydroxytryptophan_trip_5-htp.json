@@ -9,13 +9,13 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "oxitriptan",
-    "5-HTP",
-    "tryptophan",
-    "5htp",
-    "\u03b1-Carboxy-5-hydroxytryptamine",
     "5-hydroxytryptophan",
-    "l-tryptophan"
+    "5htp",
+    "oxitriptan",
+    "\u03b1-Carboxy-5-hydroxytryptamine",
+    "tryptophan",
+    "l-tryptophan",
+    "5-HTP"
   ],
   "distances": [
     16.3444119205,
@@ -33,10 +33,10 @@
     24.3681054953,
     24.4391121491,
     24.4808997613,
+    24.5772595505,
     24.6392143005,
     24.8084913422,
-    24.8128788148,
-    24.8324106886
+    24.8128788148
   ],
   "indices": [
     309,
@@ -51,13 +51,13 @@
     106,
     60,
     82,
-    593,
+    601,
     61,
     394,
+    593,
     360,
     417,
-    407,
-    4
+    407
   ],
   "name": "psyc_5-Hydroxytryptophan_trip_5-htp",
   "svg": "psyc_5-Hydroxytryptophan_trip_5-htp.svg",
@@ -214,6 +214,15 @@
       "dist": 24.4808997613
     },
     {
+      "name": "isomer_2-Amino-1-(5-ethoxy-2-hydroxyphenyl)ethan-1-one",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-Amino-1-(5-ethoxy-2-hydroxyphenyl)ethan-1-one"
+      ],
+      "dist": 24.5772595505
+    },
+    {
       "name": "trip_4-fluoropentedrone",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -239,15 +248,6 @@
       ],
       "isomerd_names": null,
       "dist": 24.8128788148
-    },
-    {
-      "name": "psyc_Tryptamine_(compound)",
-      "psychonaut_names": [
-        "Tryptamine (compound)"
-      ],
-      "tripsit_names": null,
-      "isomerd_names": null,
-      "dist": 24.8324106886
     }
   ]
 }

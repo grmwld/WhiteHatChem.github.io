@@ -10,7 +10,7 @@
   "distances": [
     12.6905321529,
     17.2880678162,
-    18.2701271585,
+    18.3441268128,
     18.4174687598,
     18.7097191018,
     18.8500625893,
@@ -18,20 +18,20 @@
     19.1873401548,
     19.1888566423,
     19.2090319371,
-    19.3162059993,
     19.6077073805,
-    19.9018695509,
     20.2048424082,
     20.2561839516,
     20.2676864434,
     20.4989653536,
     20.9982589727,
-    21.1668618661
+    21.1668618661,
+    21.3314071421,
+    21.8276195864
   ],
   "indices": [
     330,
     40,
-    594,
+    605,
     70,
     75,
     43,
@@ -39,15 +39,15 @@
     73,
     45,
     399,
-    596,
     380,
-    597,
     92,
     403,
     401,
     95,
     1,
-    400
+    400,
+    422,
+    48
   ],
   "name": "trip_don",
   "svg": "trip_don.svg",
@@ -73,13 +73,13 @@
       "dist": 17.2880678162
     },
     {
-      "name": "isomer_3,2,4-DOB",
+      "name": "isomer_4,2,3-DOB",
       "psychonaut_names": null,
       "tripsit_names": null,
       "isomerd_names": [
-        "3,2,4-DOB"
+        "4,2,3-DOB"
       ],
-      "dist": 18.2701271585
+      "dist": 18.3441268128
     },
     {
       "name": "psyc_DOM_trip_dom",
@@ -153,15 +153,6 @@
       "dist": 19.2090319371
     },
     {
-      "name": "isomer_4-Me-2,3-DOM",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "4-Me-2,3-DOM"
-      ],
-      "dist": 19.3162059993
-    },
-    {
       "name": "trip_aleph",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -169,15 +160,6 @@
       ],
       "isomerd_names": null,
       "dist": 19.6077073805
-    },
-    {
-      "name": "isomer_4,2,3-DOET",
-      "psychonaut_names": null,
-      "tripsit_names": null,
-      "isomerd_names": [
-        "4,2,3-DOET"
-      ],
-      "dist": 19.9018695509
     },
     {
       "name": "psyc_4C-D",
@@ -236,6 +218,26 @@
       ],
       "isomerd_names": null,
       "dist": 21.1668618661
+    },
+    {
+      "name": "trip_dopr",
+      "psychonaut_names": null,
+      "tripsit_names": [
+        "dopr"
+      ],
+      "isomerd_names": null,
+      "dist": 21.3314071421
+    },
+    {
+      "name": "psyc_Mescaline_trip_mescaline",
+      "psychonaut_names": [
+        "Mescaline"
+      ],
+      "tripsit_names": [
+        "mescaline"
+      ],
+      "isomerd_names": null,
+      "dist": 21.8276195864
     }
   ]
 }

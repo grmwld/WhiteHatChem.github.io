@@ -11,43 +11,43 @@
     15.3470104972,
     18.6005649932,
     24.4162973977,
+    26.642502454,
+    26.8852791934,
+    26.9292976654,
+    27.1302288307,
+    27.3980799538,
+    27.6442881087,
+    27.9359815897,
     27.9704913913,
+    27.9780710725,
+    27.9952486639,
     28.3152603252,
     28.3152603252,
     28.407168534,
     28.436578153,
     28.5005246834,
-    28.5746894719,
-    28.5793850529,
-    28.7886236398,
-    28.9275375585,
-    28.9305366723,
-    28.9815067651,
-    28.9984235664,
-    28.9984235664,
-    29.0023045117,
-    29.0332692802
+    28.5746894719
   ],
   "indices": [
     303,
     302,
     17,
-    590,
+    597,
+    592,
+    596,
+    606,
+    603,
+    619,
+    692,
+    591,
+    607,
+    693,
     33,
     341,
     364,
     353,
     332,
-    7,
-    308,
-    584,
-    586,
-    310,
-    356,
-    28,
-    27,
-    312,
-    377
+    7
   ],
   "name": "trip_theobromine",
   "svg": "trip_theobromine.svg",
@@ -84,6 +84,69 @@
       "dist": 24.4162973977
     },
     {
+      "name": "isomer_3,5-DMePEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3,5-DMePEA"
+      ],
+      "dist": 26.642502454
+    },
+    {
+      "name": "isomer_HHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "HHAT"
+      ],
+      "dist": 26.8852791934
+    },
+    {
+      "name": "isomer_2,6-DMePEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2,6-DMePEA"
+      ],
+      "dist": 26.9292976654
+    },
+    {
+      "name": "isomer_TMePEA-3",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "TMePEA-3"
+      ],
+      "dist": 27.1302288307
+    },
+    {
+      "name": "isomer_MHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "MHAT"
+      ],
+      "dist": 27.3980799538
+    },
+    {
+      "name": "isomer_EHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "EHAT"
+      ],
+      "dist": 27.6442881087
+    },
+    {
+      "name": "isomer_2,6-HMPEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2,6-HMPEA"
+      ],
+      "dist": 27.9359815897
+    },
+    {
       "name": "isomer_4-Methylpropiophenone",
       "psychonaut_names": null,
       "tripsit_names": null,
@@ -91,6 +154,24 @@
         "4-Methylpropiophenone"
       ],
       "dist": 27.9704913913
+    },
+    {
+      "name": "isomer_3,5-DMeA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3,5-DMeA"
+      ],
+      "dist": 27.9780710725
+    },
+    {
+      "name": "isomer_3,5-HMPEA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3,5-HMPEA"
+      ],
+      "dist": 27.9952486639
     },
     {
       "name": "psyc_6-APDB_trip_6-apdb",
@@ -149,97 +230,6 @@
       ],
       "isomerd_names": null,
       "dist": 28.5746894719
-    },
-    {
-      "name": "psyc_2-Aminoindane_trip_2-ai",
-      "psychonaut_names": [
-        "2-Aminoindane"
-      ],
-      "tripsit_names": [
-        "2-ai"
-      ],
-      "isomerd_names": null,
-      "dist": 28.5793850529
-    },
-    {
-      "name": "trip_5-iai",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "5-iai"
-      ],
-      "isomerd_names": null,
-      "dist": 28.7886236398
-    },
-    {
-      "name": "trip_2-pta",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "2-pta"
-      ],
-      "isomerd_names": null,
-      "dist": 28.9275375585
-    },
-    {
-      "name": "psyc_3-FA_trip_3-fa",
-      "psychonaut_names": [
-        "3-FA"
-      ],
-      "tripsit_names": [
-        "3-fa"
-      ],
-      "isomerd_names": null,
-      "dist": 28.9305366723
-    },
-    {
-      "name": "trip_metaxalone",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "metaxalone"
-      ],
-      "isomerd_names": null,
-      "dist": 28.9815067651
-    },
-    {
-      "name": "psyc_5-APB_trip_5-apb",
-      "psychonaut_names": [
-        "5-APB"
-      ],
-      "tripsit_names": [
-        "5-apb"
-      ],
-      "isomerd_names": null,
-      "dist": 28.9984235664
-    },
-    {
-      "name": "psyc_6-APB_trip_6-apb",
-      "psychonaut_names": [
-        "6-APB"
-      ],
-      "tripsit_names": [
-        "6-apb"
-      ],
-      "isomerd_names": null,
-      "dist": 28.9984235664
-    },
-    {
-      "name": "psyc_2-FA_trip_2-fa",
-      "psychonaut_names": [
-        "2-FA"
-      ],
-      "tripsit_names": [
-        "2-fa"
-      ],
-      "isomerd_names": null,
-      "dist": 29.0023045117
-    },
-    {
-      "name": "trip_mbzp",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "mbzp"
-      ],
-      "isomerd_names": null,
-      "dist": 29.0332692802
     }
   ]
 }

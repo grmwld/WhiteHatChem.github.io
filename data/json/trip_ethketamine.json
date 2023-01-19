@@ -7,9 +7,9 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "n-ethyl-norketamine",
+    "nek",
     "n-ethylnorketamine",
-    "nek"
+    "n-ethyl-norketamine"
   ],
   "distances": [
     8.0729411332,
@@ -30,7 +30,7 @@
     20.2773155311,
     21.7858009783,
     21.9869845644,
-    22.9914030511
+    21.991050287
   ],
   "indices": [
     100,
@@ -51,7 +51,7 @@
     133,
     383,
     53,
-    353
+    637
   ],
   "name": "trip_ethketamine",
   "svg": "trip_ethketamine.svg",
@@ -239,13 +239,13 @@
       "dist": 21.9869845644
     },
     {
-      "name": "trip_mephtetramine",
+      "name": "isomer_PHAT",
       "psychonaut_names": null,
-      "tripsit_names": [
-        "mephtetramine"
+      "tripsit_names": null,
+      "isomerd_names": [
+        "PHAT"
       ],
-      "isomerd_names": null,
-      "dist": 22.9914030511
+      "dist": 21.991050287
     }
   ]
 }

@@ -9,17 +9,17 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "3-HO-Pce [NFLIS-DRUG]",
-    "3-HO-Pce",
-    "UNII-BB7HFF5XW2",
+    "3-[1-(ethylamino)cyclohexyl]phenol",
+    "2243815-20-3",
     "3hopce",
     "3-Hydroxyeticyclidine",
-    "3-(1-(Ethylamino)cyclohexyl)phenol",
-    "BB7HFF5XW2",
-    "3-[1-(ethylamino)cyclohexyl]phenol",
     "DTXSID301343068",
-    "2243815-20-3",
-    "Phenol, 3-(1-(ethylamino)cyclohexyl)-"
+    "UNII-BB7HFF5XW2",
+    "3-HO-Pce",
+    "3-(1-(Ethylamino)cyclohexyl)phenol",
+    "3-HO-Pce [NFLIS-DRUG]",
+    "Phenol, 3-(1-(ethylamino)cyclohexyl)-",
+    "BB7HFF5XW2"
   ],
   "distances": [
     8.709614004,
@@ -37,10 +37,10 @@
     19.5543480606,
     20.1879058892,
     20.2087517239,
+    20.2844954188,
+    20.5359576212,
     21.7340759213,
-    22.2209447536,
-    22.9437417001,
-    23.0287468429
+    22.0259599977
   ],
   "indices": [
     109,
@@ -58,10 +58,10 @@
     415,
     162,
     133,
+    619,
+    637,
     140,
-    383,
-    160,
-    413
+    653
   ],
   "name": "psyc_3-HO-PCE_trip_3-ho-pce",
   "svg": "psyc_3-HO-PCE_trip_3-ho-pce.svg",
@@ -218,6 +218,24 @@
       "dist": 20.2087517239
     },
     {
+      "name": "isomer_EHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "EHAT"
+      ],
+      "dist": 20.2844954188
+    },
+    {
+      "name": "isomer_PHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "PHAT"
+      ],
+      "dist": 20.5359576212
+    },
+    {
       "name": "psyc_O-Desmethyltramadol_trip_o-desmethyltramadol",
       "psychonaut_names": [
         "O-Desmethyltramadol"
@@ -229,31 +247,13 @@
       "dist": 21.7340759213
     },
     {
-      "name": "trip_glutethimide",
+      "name": "isomer_BHAT",
       "psychonaut_names": null,
-      "tripsit_names": [
-        "glutethimide"
-      ],
-      "isomerd_names": null,
-      "dist": 22.2209447536
-    },
-    {
-      "name": "psyc_MXiPr",
-      "psychonaut_names": [
-        "MXiPr"
-      ],
       "tripsit_names": null,
-      "isomerd_names": null,
-      "dist": 22.9437417001
-    },
-    {
-      "name": "trip_\u03b1-pbp",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "\u03b1-pbp"
+      "isomerd_names": [
+        "BHAT"
       ],
-      "isomerd_names": null,
-      "dist": 23.0287468429
+      "dist": 22.0259599977
     }
   ]
 }

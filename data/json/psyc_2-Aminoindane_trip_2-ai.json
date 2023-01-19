@@ -9,63 +9,66 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "CHEMBL1188176",
-    "2-Aminoindan",
-    "Q4596856",
-    "MFCD00082597",
-    "PS-4613",
-    "2-aminoindan",
-    "A820043",
-    "Indan-2-amine",
-    "EINECS 221-021-3",
-    "2975-41-9",
-    "AKOS000321317",
-    "2-amino indane",
-    "2,3-Dihydro-1H-inden-2-ylamine",
-    "2-Amineindane",
-    "ALBB-008925",
-    "F0001-0920",
-    "rac Fenfluramine-d5 Hydrochloride",
-    "STK501404",
-    "1H-Inden-2-amine, 2,3-dihydro-",
-    "UNII-1P810SQ3EY",
-    "AC-19107",
-    "2-ammo-indane",
-    "INDAN-2-YLAMINE",
-    "2-AI",
-    "indan-2-yl-amine",
+    "2ai",
+    "(2,3-DIHYDRO-1H-INDEN-2-YL)AMINE",
+    "2-amino-indane",
+    "XM0",
     "2-Aminoindan, 97%",
+    "1216927-29-5",
     "Su 8629 hydrochloride",
+    "indane-2-ylamine",
+    "rac Fenfluramine-d5 Hydrochloride",
+    "PS-4613",
+    "2-Amineindane",
+    "DTXSID40183902",
+    "UNII-1P810SQ3EY",
+    "SCHEMBL6941",
+    "2-Aminoindan",
+    "1H-Inden-2-amine, 2,3-dihydro-",
+    "SB36446",
+    "indan-2-yl-amine",
     "J80.606D",
+    "AKOS000321317",
+    "CHEMBL1188176",
+    "ZINC1680937",
+    "AC-19107",
+    "A820043",
+    "SDCCGMLS-0066231.P001",
+    "2975-41-9",
+    "AB03106",
+    "STK501404",
+    "2,3-dihydro-1H-inden-2-amine",
+    "MFCD00082597",
+    "EINECS 221-021-3",
+    "Indan-2-amine",
+    "2-ammo-indane",
+    "Q4596856",
+    "2-amino indane",
+    "2-aminoindan",
+    "ALBB-008925",
+    "2,3-Dihydro-1H-inden-2-ylamine",
+    "2-AMINO-2,3-DIHYDRO-1H-INDENE",
+    "1P810SQ3EY",
+    "DB-020525",
+    "INDAN-2-YLAMINE",
+    "2-Indanamine",
+    "F0001-0920",
     "STR09579",
     "BB 0253376",
-    "W-106974",
-    "SB36446",
-    "DB-020525",
-    "SDCCGMLS-0066231.P001",
-    "ZINC1680937",
-    "2-AMINO-2,3-DIHYDRO-1H-INDENE",
-    "indane-2-ylamine",
-    "AB03106",
-    "SCHEMBL6941",
-    "2ai",
-    "2-Indanamine",
-    "2,3-dihydro-1H-inden-2-amine",
-    "(2,3-DIHYDRO-1H-INDEN-2-YL)AMINE",
-    "DTXSID40183902",
     "2-indanylamine",
-    "XM0",
-    "1P810SQ3EY",
-    "2-amino-indane",
-    "1216927-29-5"
+    "W-106974",
+    "2-AI"
   ],
   "distances": [
     10.9856070944,
+    11.2831887563,
     11.4516973712,
+    16.9279821476,
     18.3558997708,
     18.5281421957,
     19.256942488,
     20.0530607175,
+    20.126498907,
     20.6498341256,
     20.9611391448,
     20.9731833579,
@@ -75,18 +78,18 @@
     21.5019892282,
     21.630962983,
     21.6627488727,
-    22.0221189799,
-    22.0221189799,
-    22.1006297578,
-    22.104629018
+    22.0221189799
   ],
   "indices": [
     584,
+    592,
     7,
+    603,
     17,
     585,
     304,
     342,
+    619,
     353,
     362,
     363,
@@ -96,10 +99,7 @@
     310,
     311,
     312,
-    341,
-    33,
-    580,
-    347
+    33
   ],
   "name": "psyc_2-Aminoindane_trip_2-ai",
   "svg": "psyc_2-Aminoindane_trip_2-ai.svg",
@@ -114,6 +114,15 @@
       "dist": 10.9856070944
     },
     {
+      "name": "isomer_HHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "HHAT"
+      ],
+      "dist": 11.2831887563
+    },
+    {
       "name": "psyc_NM-2-AI_trip_nm-2-ai",
       "psychonaut_names": [
         "NM-2-AI"
@@ -123,6 +132,15 @@
       ],
       "isomerd_names": null,
       "dist": 11.4516973712
+    },
+    {
+      "name": "isomer_MHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "MHAT"
+      ],
+      "dist": 16.9279821476
     },
     {
       "name": "psyc_Nicotine_trip_nicotine",
@@ -163,6 +181,15 @@
       ],
       "isomerd_names": null,
       "dist": 20.0530607175
+    },
+    {
+      "name": "isomer_EHAT",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "EHAT"
+      ],
+      "dist": 20.126498907
     },
     {
       "name": "trip_mephtetramine",
@@ -259,15 +286,6 @@
       "dist": 21.6627488727
     },
     {
-      "name": "trip_5-apdb",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "5-apdb"
-      ],
-      "isomerd_names": null,
-      "dist": 22.0221189799
-    },
-    {
       "name": "psyc_6-APDB_trip_6-apdb",
       "psychonaut_names": [
         "6-APDB"
@@ -277,24 +295,6 @@
       ],
       "isomerd_names": null,
       "dist": 22.0221189799
-    },
-    {
-      "name": "trip_thiopropamine",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "thiopropamine"
-      ],
-      "isomerd_names": null,
-      "dist": 22.1006297578
-    },
-    {
-      "name": "trip_bzp",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "bzp"
-      ],
-      "isomerd_names": null,
-      "dist": 22.104629018
     }
   ]
 }

@@ -9,26 +9,26 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "2-(Ethylamino)-1-(4-methylphenyl)-1-propanone",
+    "4mec",
+    "SCHEMBL20472234",
+    "DTXSID001016901",
+    "J2.929.922F",
+    "9665W17SH3",
+    "DEA No. 1249",
+    "4 Methyl N-ethylcathinone",
+    "1225617-18-4",
+    "Q4637173",
+    "1-Propanone, 2-(ethylamino)-1-(4-methylphenyl)-",
+    "4-methyl-N-ethyl-cathinone",
+    "4'-methyl-N-ethylmethcathinone",
+    "4-methylethcathinone",
+    "(+/-)-4'-METHYL-N-ETHYLCATHINONE",
+    "2-(ethylamino)-1-(4-methylphenyl)propan-1-one",
+    "NRG-2",
     "UNII-9665W17SH3",
     "CHEBI:168695",
-    "J2.929.922F",
-    "(+/-)-4'-METHYL-N-ETHYLCATHINONE",
-    "9665W17SH3",
-    "4-methylethcathinone",
-    "Q4637173",
-    "4'-methyl-N-ethylmethcathinone",
-    "4 Methyl N-ethylcathinone",
-    "4-methyl-N-ethyl-cathinone",
-    "NRG-2",
-    "1-Propanone, 2-(ethylamino)-1-(4-methylphenyl)-",
-    "2-(ethylamino)-1-(4-methylphenyl)propan-1-one",
-    "DEA No. 1249",
-    "4-Methylethcathinone",
-    "4mec",
-    "1225617-18-4",
-    "DTXSID001016901",
-    "SCHEMBL20472234"
+    "2-(Ethylamino)-1-(4-methylphenyl)-1-propanone",
+    "4-Methylethcathinone"
   ],
   "distances": [
     1.9697516179,
@@ -44,12 +44,12 @@
     12.2835563843,
     12.4982774692,
     12.5851385241,
+    12.6474271186,
     12.8866583622,
     13.2796477664,
     13.3700478201,
     13.5837584509,
-    13.6318689233,
-    13.6673759338
+    13.6318689233
   ],
   "indices": [
     369,
@@ -65,12 +65,12 @@
     343,
     344,
     66,
+    602,
     340,
     319,
     320,
     357,
-    321,
-    346
+    321
   ],
   "name": "psyc_4-MEC_trip_4-mec",
   "svg": "psyc_4-MEC_trip_4-mec.svg",
@@ -203,6 +203,15 @@
       "dist": 12.5851385241
     },
     {
+      "name": "isomer_4-Cl-Buphedrone",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "4-Cl-Buphedrone"
+      ],
+      "dist": 12.6474271186
+    },
+    {
       "name": "trip_buphedrone",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -246,15 +255,6 @@
       ],
       "isomerd_names": null,
       "dist": 13.6318689233
-    },
-    {
-      "name": "trip_4-fea",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "4-fea"
-      ],
-      "isomerd_names": null,
-      "dist": 13.6673759338
     }
   ]
 }

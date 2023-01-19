@@ -9,21 +9,21 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "AMT",
-    "Tryptamine, \u03b1-methyl",
-    "3-API",
-    "3-IT",
-    "\u03b1MT",
-    "indopan",
-    "monase",
     "\u03b1-Methyltryptamine",
-    "alphamethyltryptamine",
-    "\u03b1-MT",
     "alpha-methyltryptamine",
+    "IT-290",
+    "AMT",
+    "3-API",
+    "indopan",
+    "alphamethyltryptamine",
     "Indole, 3-(2-aminopropyl)",
     "Alpha-methyltryptamine",
+    "monase",
     "3-(2-Aminopropyl)indole",
-    "IT-290"
+    "3-IT",
+    "Tryptamine, \u03b1-methyl",
+    "\u03b1-MT",
+    "\u03b1MT"
   ],
   "distances": [
     6.55253382,
@@ -38,19 +38,19 @@
     15.4277490871,
     15.5183788979,
     16.1337658617,
+    17.078348366,
     17.3195742259,
+    17.7761982746,
     17.9499273017,
     18.0612378587,
     18.2991115334,
-    18.8577632389,
-    18.8927880146,
-    18.9115001104
+    18.8577632389
   ],
   "indices": [
     337,
     62,
     4,
-    593,
+    601,
     312,
     332,
     339,
@@ -59,13 +59,13 @@
     310,
     311,
     314,
+    594,
     333,
+    691,
     42,
     15,
     59,
-    41,
-    13,
-    409
+    41
   ],
   "name": "psyc_\u0391MT_trip_amt",
   "svg": "psyc_\u0391MT_trip_amt.svg",
@@ -194,6 +194,15 @@
       "dist": 16.1337658617
     },
     {
+      "name": "isomer_2-Br-6-MA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2-Br-6-MA"
+      ],
+      "dist": 17.078348366
+    },
+    {
       "name": "trip_4-mta",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -201,6 +210,15 @@
       ],
       "isomerd_names": null,
       "dist": 17.3195742259
+    },
+    {
+      "name": "isomer_2,6-DCA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2,6-DCA"
+      ],
+      "dist": 17.7761982746
     },
     {
       "name": "psyc_2-FEA_trip_2-fea",
@@ -245,26 +263,6 @@
       ],
       "isomerd_names": null,
       "dist": 18.8577632389
-    },
-    {
-      "name": "psyc_3-FMA_trip_3-fma",
-      "psychonaut_names": [
-        "3-FMA"
-      ],
-      "tripsit_names": [
-        "3-fma"
-      ],
-      "isomerd_names": null,
-      "dist": 18.8927880146
-    },
-    {
-      "name": "trip_methamnetamine",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "methamnetamine"
-      ],
-      "isomerd_names": null,
-      "dist": 18.9115001104
     }
   ]
 }

@@ -25,8 +25,8 @@
     21.387544576,
     22.1973597151,
     22.3796150094,
-    23.2699794448,
-    24.037851367
+    22.6068413296,
+    23.2699794448
   ],
   "indices": [
     523,
@@ -35,19 +35,19 @@
     463,
     488,
     491,
-    605,
+    681,
     154,
     159,
     508,
     436,
-    603,
+    676,
     519,
     130,
     525,
     465,
     158,
-    466,
-    539
+    675,
+    466
   ],
   "name": "trip_5-bpdi",
   "svg": "trip_5-bpdi.svg",
@@ -212,6 +212,15 @@
       "dist": 22.3796150094
     },
     {
+      "name": "isomer_(4-Fluorophenyl)[1-(5-sulfanylpentyl)piperidin-4-yl]methanone",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "(4-Fluorophenyl)[1-(5-sulfanylpentyl)piperidin-4-yl]methanone"
+      ],
+      "dist": 22.6068413296
+    },
+    {
       "name": "trip_propylphenidate",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -219,15 +228,6 @@
       ],
       "isomerd_names": null,
       "dist": 23.2699794448
-    },
-    {
-      "name": "trip_indapyrophenidone",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "indapyrophenidone"
-      ],
-      "isomerd_names": null,
-      "dist": 24.037851367
     }
   ]
 }

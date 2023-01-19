@@ -17,6 +17,7 @@
     7.7750030321,
     7.9025911452,
     7.9492209095,
+    8.1432281257,
     10.5818802044,
     10.7000009697,
     10.7451331189,
@@ -27,8 +28,7 @@
     13.0260728391,
     13.1177830791,
     13.2796483409,
-    13.3700478201,
-    13.4540323445
+    13.3700478201
   ],
   "indices": [
     319,
@@ -38,6 +38,7 @@
     34,
     36,
     8,
+    602,
     340,
     344,
     343,
@@ -48,8 +49,7 @@
     15,
     14,
     369,
-    64,
-    370
+    64
   ],
   "name": "trip_3-cmc",
   "svg": "trip_3-cmc.svg",
@@ -122,6 +122,15 @@
       "tripsit_names": null,
       "isomerd_names": null,
       "dist": 7.9492209095
+    },
+    {
+      "name": "isomer_4-Cl-Buphedrone",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "4-Cl-Buphedrone"
+      ],
+      "dist": 8.1432281257
     },
     {
       "name": "trip_buphedrone",
@@ -231,15 +240,6 @@
       ],
       "isomerd_names": null,
       "dist": 13.3700478201
-    },
-    {
-      "name": "trip_2-mec",
-      "psychonaut_names": null,
-      "tripsit_names": [
-        "2-mec"
-      ],
-      "isomerd_names": null,
-      "dist": 13.4540323445
     }
   ]
 }

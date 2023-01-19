@@ -9,56 +9,56 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
-    "4-Fluoro-alpha-methylphenethylamine",
-    "(RS)-1-(4-FLUOROPHENYL)PROPAN-2-AMINE",
-    "PFA",
-    "AB76425",
-    "Benzeneethanamine, 4-fluoro-.alpha.-methyl-",
-    "(+/-)-2-(4-fluoro-phenyl)-1-methyl-ethyl-amine",
-    "4-Fluoroamphetamine",
-    "p-Fluoro-alpha-methylphenethylamine",
-    "4fa",
-    "4-Fluoro-.alpha.-methylphenethylamine",
-    "4F-AMP",
-    "788123-23-9",
-    "CHEMBL2009392",
-    "DB-070693",
-    "NCIOpen2_001428",
-    "Q229962",
-    "p-Fluoro-.alpha.-methylphenethylamine",
-    "1-(4-Fluorophenyl)propane-2-amine",
-    "J50.057G",
-    "(1R)-2-(4-FLUOROPHENYL)-1-METHYLETHYLAMINE",
-    "(+-)-p-Fluoroamphetamine",
-    "4-FMP",
-    "1-(4-FLUOROPHENYL)-2-PROPYLAMINE",
-    "NCI60_042091",
-    "1-(4-Fluorophenyl)-2-propanamine #",
-    "459F029",
-    "A826922",
-    "2-(4-Fluoro-phenyl)-1-methyl-ethylamine",
-    "Benzeneethanamine, p-fluoro-alpha-methyl-",
-    "EN300-43954",
-    "p-Fluoroamphetamine",
-    "PHENETHYLAMINE, p-FLUORO-alpha-METHYL-",
-    "1-(4-fluorophenyl)propan-2-amine",
-    "UNII-S5744XYR1Z",
-    "4-fmp",
-    "1-(4-FLUOROPHENYL)-2-PROPANEAMINE",
-    "72522-20-4",
-    "AKOS000148841",
     "Phenethylamine, p-fluoro-.alpha.-methyl-",
-    "SCHEMBL712487",
-    "(+/-)-P-FLUOROAMPHETAMINE",
-    "4-fluoroamphetamine",
+    "PFA",
+    "(RS)-1-(4-FLUOROPHENYL)PROPAN-2-AMINE",
+    "1-(4-Fluorophenyl)-2-propanamine #",
     "AC-26261",
-    "AKOS022196416",
     "PAL-303",
-    "459-02-9",
-    "AB76433",
-    "(1S)-2-(4-FLUOROPHENYL)-1-METHYLETHYLAMINE",
+    "2-(4-Fluoro-phenyl)-1-methyl-ethylamine",
+    "UNII-S5744XYR1Z",
+    "Benzeneethanamine, p-fluoro-alpha-methyl-",
+    "p-Fluoro-.alpha.-methylphenethylamine",
     "S5744XYR1Z",
-    "DTXSID90894758"
+    "NCIOpen2_001428",
+    "4-FMP",
+    "DB-070693",
+    "459F029",
+    "(+-)-p-Fluoroamphetamine",
+    "1-(4-fluorophenyl)propan-2-amine",
+    "1-(4-FLUOROPHENYL)-2-PROPYLAMINE",
+    "AKOS000148841",
+    "4fa",
+    "(1R)-2-(4-FLUOROPHENYL)-1-METHYLETHYLAMINE",
+    "(+/-)-2-(4-fluoro-phenyl)-1-methyl-ethyl-amine",
+    "J50.057G",
+    "788123-23-9",
+    "NCI60_042091",
+    "1-(4-Fluorophenyl)propane-2-amine",
+    "(1S)-2-(4-FLUOROPHENYL)-1-METHYLETHYLAMINE",
+    "4-Fluoro-.alpha.-methylphenethylamine",
+    "PHENETHYLAMINE, p-FLUORO-alpha-METHYL-",
+    "4-fluoroamphetamine",
+    "4-Fluoroamphetamine",
+    "SCHEMBL712487",
+    "4-Fluoro-alpha-methylphenethylamine",
+    "1-(4-FLUOROPHENYL)-2-PROPANEAMINE",
+    "Q229962",
+    "4-fmp",
+    "72522-20-4",
+    "CHEMBL2009392",
+    "Benzeneethanamine, 4-fluoro-.alpha.-methyl-",
+    "4F-AMP",
+    "AB76433",
+    "(+/-)-P-FLUOROAMPHETAMINE",
+    "p-Fluoroamphetamine",
+    "A826922",
+    "AB76425",
+    "EN300-43954",
+    "DTXSID90894758",
+    "459-02-9",
+    "p-Fluoro-alpha-methylphenethylamine",
+    "AKOS022196416"
   ],
   "distances": [
     1.9697516179,
@@ -71,6 +71,7 @@
     12.485321582,
     12.6240439478,
     12.6249437992,
+    13.0391654804,
     13.2994337836,
     13.6789178289,
     13.9689963232,
@@ -78,8 +79,7 @@
     14.1565922239,
     14.3393345771,
     14.3415844847,
-    15.2497668639,
-    15.3456085385
+    14.3710151788
   ],
   "indices": [
     310,
@@ -91,7 +91,8 @@
     27,
     28,
     15,
-    593,
+    601,
+    691,
     333,
     337,
     346,
@@ -99,8 +100,7 @@
     329,
     18,
     42,
-    580,
-    33
+    607
   ],
   "name": "psyc_4-FA_trip_4-fa",
   "svg": "psyc_4-FA_trip_4-fa.svg",
@@ -213,6 +213,15 @@
       "dist": 12.6249437992
     },
     {
+      "name": "isomer_2,6-DCA",
+      "psychonaut_names": null,
+      "tripsit_names": null,
+      "isomerd_names": [
+        "2,6-DCA"
+      ],
+      "dist": 13.0391654804
+    },
+    {
       "name": "trip_4-mta",
       "psychonaut_names": null,
       "tripsit_names": [
@@ -282,24 +291,13 @@
       "dist": 14.3415844847
     },
     {
-      "name": "trip_thiopropamine",
+      "name": "isomer_3,5-DMeA",
       "psychonaut_names": null,
-      "tripsit_names": [
-        "thiopropamine"
+      "tripsit_names": null,
+      "isomerd_names": [
+        "3,5-DMeA"
       ],
-      "isomerd_names": null,
-      "dist": 15.2497668639
-    },
-    {
-      "name": "psyc_6-APDB_trip_6-apdb",
-      "psychonaut_names": [
-        "6-APDB"
-      ],
-      "tripsit_names": [
-        "6-apdb"
-      ],
-      "isomerd_names": null,
-      "dist": 15.3456085385
+      "dist": 14.3710151788
     }
   ]
 }

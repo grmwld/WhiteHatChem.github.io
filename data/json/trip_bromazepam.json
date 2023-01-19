@@ -7,11 +7,11 @@
   "isomerd_names": null,
   "isod_ids": null,
   "synonyms": [
+    "brazepam",
+    "lectopam",
     "lexilium",
     "lexotan",
-    "lexotanil",
-    "brazepam",
-    "lectopam"
+    "lexotanil"
   ],
   "distances": [
     9.4961363314,
@@ -47,7 +47,7 @@
     454,
     174,
     142,
-    600,
+    669,
     427,
     445,
     122,
